@@ -501,3 +501,68 @@ clean:
         llm-status llm-summary llm-progress llm-positions llm-stakeholders llm-proposals llm-evidence \
         llm-report llm-reports-all llm-reset \
         overnight db-stats db-shell logs clean
+# Makefile snippet - Add to Reports section
+# Supports both: make report-all  AND  make report DOMAIN=all
+
+# List of all domains (update if you add more)
+ALL_DOMAINS = taxation procurement sovereignty vendor-lock security
+
+# Generate reports for all domains
+.PHONY: report-all
+report-all:
+	@echo "Generating reports for all domains..."
+	@for domain in $(ALL_DOMAINS); do \
+		echo ""; \
+		echo "============================================================="; \
+		echo "Processing: $$domain"; \
+		echo "============================================================="; \
+		docker exec documented-insights-perl perl /app/scripts/09_generate_domain_report.pl $$domain || echo "⚠ Pattern report failed for $$domain"; \
+		docker exec documented-insights-perl perl /app/scripts/10_generate_llm_report.pl $$domain || echo "⚠ LLM report failed for $$domain"; \
+	done
+	@echo ""
+	@echo "============================================================="; 
+	@echo "Report generation complete"
+	@echo "============================================================="; 
+	@ls -lh output/domain_*_analysis_*.md 2>/dev/null || echo "No reports found in output/"
+
+# Update your existing 'report' target to handle DOMAIN=all
+# Find the 'report:' target and replace with this:
+.PHONY: report
+report:
+ifeq ($(DOMAIN),all)
+	@$(MAKE) report-all
+else ifndef DOMAIN
+	@echo "Error: DOMAIN not specified"
+	@echo ""
+	@echo "Usage: make report DOMAIN=<domain-name>"
+	@echo "   or: make report DOMAIN=all"
+	@echo ""
+	@echo "Available domains:"
+	@ls domains/*.conf | sed 's/domains\//  - /' | sed 's/\.conf//'
+else
+	@echo "Generating reports for domain: $(DOMAIN)"
+	docker exec documented-insights-perl perl /app/scripts/09_generate_domain_report.pl $(DOMAIN)
+	docker exec documented-insights-perl perl /app/scripts/10_generate_llm_report.pl $(DOMAIN)
+	@echo "✓ Reports generated for $(DOMAIN)"
+	@ls -lh output/domain_$(DOMAIN)_analysis_*.md 2>/dev/null
+endif
+
+# Bonus: Pattern reports only (fast - no LLM required)
+.PHONY: report-all-pattern
+report-all-pattern:
+	@echo "Generating pattern reports only (fast)..."
+	@for domain in $(ALL_DOMAINS); do \
+		echo "Pattern report: $$domain"; \
+		docker exec documented-insights-perl perl /app/scripts/09_generate_domain_report.pl $$domain; \
+	done
+	@ls -lh output/domain_*_analysis_pattern.md
+
+# Bonus: LLM reports only (requires LLM extraction complete)
+.PHONY: report-all-llm
+report-all-llm:
+	@echo "Generating LLM reports only..."
+	@for domain in $(ALL_DOMAINS); do \
+		echo "LLM report: $$domain"; \
+		docker exec documented-insights-perl perl /app/scripts/10_generate_llm_report.pl $$domain; \
+	done
+	@ls -lh output/domain_*_analysis_llm.md
