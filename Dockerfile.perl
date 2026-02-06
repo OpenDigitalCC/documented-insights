@@ -1,7 +1,7 @@
 # Dockerfile.perl
 FROM debian:bookworm-slim
 
-# Install Perl and required tools
+# Install Perl, Pandoc, LaTeX and required tools
 RUN apt-get update && \
     apt-get install -y \
     perl \
@@ -15,9 +15,12 @@ RUN apt-get update && \
     pandoc \
     make \
     curl \
-    && rm -rf /var/lib/apt/lists/*
+    texlive-xetex \
+    texlive-fonts-recommended \
+    texlive-latex-extra && \
+    rm -rf /var/lib/apt/lists/*
 
 WORKDIR /app
 
-# Keep container running
 CMD ["tail", "-f", "/dev/null"]
+
