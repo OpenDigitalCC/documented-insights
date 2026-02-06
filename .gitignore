@@ -7,7 +7,7 @@
 
 # Attachments (PDFs, DOCX) - downloaded from EC website
 data/attachments/
-data/extracted_text/
+output/extracted_text/
 
 # Database volumes (managed by Docker)
 postgres-data/
@@ -230,3 +230,7 @@ init_git.sh
 # ✗ .env (credentials)
 # ✗ Development phase directories
 # ✗ Build artifacts
+
+# Source CSV (using JSON instead)
+data/european-open-digital-ecosystems-all-responses.csv
+output/extracted_text/
