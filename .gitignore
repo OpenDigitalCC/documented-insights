@@ -233,4 +233,6 @@ init_git.sh
 
 # Source CSV (using JSON instead)
 data/european-open-digital-ecosystems-all-responses.csv
-output/extracted_text/
+
+mermaid-filter.err
+
