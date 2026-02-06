@@ -1,0 +1,45 @@
+---
+title: "EU Open Digital Ecosystems Consultation Analysis"
+subtitle: "Policy Domain Analysis"
+author: "Documented Insights Analysis System"
+date: "February 2026"
+
+geometry:
+  - a4paper
+  - margin=2.5cm
+
+fontsize: 11pt
+lang: en-GB
+
+toc: true
+toc-depth: 2
+number-sections: true
+
+pdf-engine: xelatex
+
+header-includes:
+  - \usepackage{booktabs}
+  - \usepackage{longtable}
+  - \usepackage{array}
+  - \usepackage{multirow}
+  - \usepackage{wrapfig}
+  - \usepackage{float}
+  - \usepackage{colortbl}
+  - \usepackage{pdflscape}
+  - \usepackage{tabu}
+  - \usepackage{threeparttable}
+  - \usepackage{threeparttablex}
+  - \usepackage[normalem]{ulem}
+  - \usepackage{makecell}
+  - \usepackage{xcolor}
+  - \usepackage{needspace}
+  - \usepackage{tcolorbox}
+  - |
+    \definecolor{lightgray}{gray}{0.9}
+    \definecolor{SoftCyan}{RGB}{204,238,255}
+    \definecolor{SoftBlue}{RGB}{204,229,255}
+    \definecolor{SoftGreen}{RGB}{204,255,229}
+    \definecolor{SoftYellow}{RGB}{255,255,204}
+    \definecolor{SoftRed}{RGB}{255,204,204}
+    \definecolor{TealBlue}{RGB}{0,128,128}
+---
