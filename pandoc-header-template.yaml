@@ -12,7 +12,7 @@ fontsize: 11pt
 lang: en-GB
 
 toc: true
-toc-depth: 2
+toc-depth: 1
 number-sections: true
 
 pdf-engine: xelatex
