@@ -256,22 +256,6 @@ query-all-domains:
 		docker exec $(PERL_CONTAINER) perl /app/scripts/08_domain_query.pl $$domain 2>/dev/null | head -20; \
 	done
 
-# Report generation
-report:
-	@test -n "$(DOMAIN)" || (echo "Usage: make report DOMAIN=taxation" && exit 1)
-	@echo "Generating reports for: $(DOMAIN)"
-	@echo ""
-	@echo "1. Pattern analysis report..."
-	docker exec $(PERL_CONTAINER) perl /app/scripts/09_generate_domain_report.pl $(DOMAIN)
-	@echo ""
-	@echo "2. LLM positions report..."
-	docker exec $(PERL_CONTAINER) perl /app/scripts/10_generate_llm_report.pl $(DOMAIN)
-	@echo ""
-	@echo "Reports generated:"
-	@echo "  Pattern:   output/domain_$(DOMAIN)_analysis_pattern.md"
-	@echo "  LLM:       output/domain_$(DOMAIN)_analysis_llm.md"
-	@echo ""
-	@echo "Combine with: cat output/domain_$(DOMAIN)_analysis_*.md > output/domain_$(DOMAIN)_analysis.md"
 
 html-report:
 	@test -n "$(DOMAIN)" || (echo "Usage: make html-report DOMAIN=taxation" && exit 1)
@@ -505,13 +489,13 @@ clean:
 # Supports both: make report-all  AND  make report DOMAIN=all
 
 # List of all domains (update if you add more)
-ALL_DOMAINS = taxation procurement sovereignty vendor-lock security
+DOMAINS = taxation procurement sovereignty vendor-lock security
 
 # Generate reports for all domains
 .PHONY: report-all
 report-all:
 	@echo "Generating reports for all domains..."
-	@for domain in $(ALL_DOMAINS); do \
+	@for domain in $(DOMAINS); do \
 		echo ""; \
 		echo "============================================================="; \
 		echo "Processing: $$domain"; \
@@ -551,7 +535,7 @@ endif
 .PHONY: report-all-pattern
 report-all-pattern:
 	@echo "Generating pattern reports only (fast)..."
-	@for domain in $(ALL_DOMAINS); do \
+	@for domain in $(DOMAINS); do \
 		echo "Pattern report: $$domain"; \
 		docker exec documented-insights-perl perl /app/scripts/09_generate_domain_report.pl $$domain; \
 	done
@@ -561,8 +545,121 @@ report-all-pattern:
 .PHONY: report-all-llm
 report-all-llm:
 	@echo "Generating LLM reports only..."
-	@for domain in $(ALL_DOMAINS); do \
+	@for domain in $(DOMAINS); do \
 		echo "LLM report: $$domain"; \
 		docker exec documented-insights-perl perl /app/scripts/10_generate_llm_report.pl $$domain; \
 	done
 	@ls -lh output/domain_*_analysis_llm.md
+# Makefile snippet - PDF Report Generation
+# Add to your Makefile
+# ============================================================================
+# PDF REPORT GENERATION (COMBINED)
+# ============================================================================
+# Replace lines 555-663 in Makefile with this section
+
+# Generate combined PDF for single domain (pattern + LLM in one PDF)
+.PHONY: report-pdf
+report-pdf:
+ifndef DOMAIN
+	@echo "Error: DOMAIN not specified"
+	@echo ""
+	@echo "Usage: make report-pdf DOMAIN=<domain-name>"
+	@echo "   or: make report-pdf DOMAIN=all"
+	@echo ""
+	@echo "Available domains:"
+	@ls domains/*.conf | sed 's/domains\//  - /' | sed 's/\.conf//'
+else ifeq ($(DOMAIN),all)
+	@$(MAKE) report-pdf-all
+else
+	@echo "Generating combined PDF report for: $(DOMAIN)"
+	@mkdir -p output/pdf
+	@# Check both markdown files exist
+	@if [ ! -f output/domain_$(DOMAIN)_analysis_pattern.md ]; then \
+		echo "⚠ Pattern markdown not found: output/domain_$(DOMAIN)_analysis_pattern.md"; \
+		echo "  Run: make report DOMAIN=$(DOMAIN)"; \
+		exit 1; \
+	fi
+	@# Combine pattern and LLM markdown with proper UTF-8 handling
+	@echo "Combining pattern and LLM analysis..."
+	@docker exec $(PERL_CONTAINER) perl /app/scripts/combine_reports_for_pdf.pl $(DOMAIN)
+	@# Generate single PDF from combined markdown
+	@echo "Creating PDF..."
+	@docker exec $(PERL_CONTAINER) pandoc \
+		/app/output/domain_$(DOMAIN)_analysis_combined.md \
+		--metadata-file=/app/pandoc-header-template.yaml \
+		--metadata subtitle="Domain: $(DOMAIN) - Complete Analysis" \
+		-o /app/output/pdf/domain_$(DOMAIN)_analysis.pdf
+	@echo "✓ PDF created: output/pdf/domain_$(DOMAIN)_analysis.pdf"
+	@ls -lh output/pdf/domain_$(DOMAIN)_analysis.pdf
+endif
+
+# Generate combined PDFs for all domains
+.PHONY: report-pdf-all
+report-pdf-all:
+	@echo "Generating combined PDF reports for all domains..."
+	@mkdir -p output/pdf
+	@for domain in $(DOMAINS); do \
+		echo ""; \
+		echo "============================================================="; \
+		echo "Processing: $$domain"; \
+		echo "============================================================="; \
+		$(MAKE) report-pdf DOMAIN=$$domain || echo "⚠ Failed for $$domain"; \
+	done
+	@echo ""
+	@echo "============================================================="; 
+	@echo "All PDF generation complete"
+	@echo "============================================================="; 
+	@ls -lh output/pdf/*.pdf 2>/dev/null | wc -l | xargs echo "Total PDFs created:"
+	@ls -lh output/pdf/*.pdf 2>/dev/null
+
+# Combined: Generate markdown reports AND PDF
+.PHONY: report-full
+report-full:
+ifndef DOMAIN
+	@echo "Error: DOMAIN not specified"
+	@echo "Usage: make report-full DOMAIN=<domain-name>"
+else
+	@echo "Generating complete report package for: $(DOMAIN)"
+	@# Generate markdown reports
+	$(MAKE) report DOMAIN=$(DOMAIN)
+	@# Generate combined PDF
+	$(MAKE) report-pdf DOMAIN=$(DOMAIN)
+	@echo "✓ Complete report package ready for $(DOMAIN)"
+	@echo ""
+	@echo "Files created:"
+	@ls -lh output/domain_$(DOMAIN)_analysis_pattern.md output/domain_$(DOMAIN)_analysis_llm.md 2>/dev/null
+	@ls -lh output/pdf/domain_$(DOMAIN)_analysis.pdf 2>/dev/null
+endif
+
+# Combined: All domains, markdown + PDF
+.PHONY: report-full-all
+report-full-all:
+	@echo "Generating complete report packages for all domains..."
+	@$(MAKE) report-all
+	@$(MAKE) report-pdf-all
+	@echo "✓ All reports complete (markdown + PDF)"
+
+# Clean combined markdown files
+.PHONY: clean-combined
+clean-combined:
+	@echo "Cleaning combined markdown files..."
+	@rm -f output/domain_*_analysis_combined.md
+	@echo "✓ Combined files cleaned"
+
+# Clean PDFs
+.PHONY: clean-pdf
+clean-pdf:
+	@echo "Cleaning generated PDFs..."
+	@rm -rf output/pdf
+	@echo "✓ PDFs cleaned"
+
+# Test Pandoc setup
+.PHONY: test-pandoc
+test-pandoc:
+	@echo "Testing Pandoc installation..."
+	@docker exec $(PERL_CONTAINER) pandoc --version
+	@echo ""
+	@echo "Testing XeLaTeX..."
+	@docker exec $(PERL_CONTAINER) xelatex --version | head -5
+	@echo ""
+	@echo "✓ PDF generation tools ready"
