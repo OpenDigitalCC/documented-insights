@@ -1,0 +1,29 @@
+---
+title: "EU Open Digital Ecosystems Consultation Analysis"
+subtitle: "Policy Domain Analysis"
+author: "Documented Insights Analysis System"
+date: "February 2026"
+
+geometry:
+  - a4paper
+  - margin=2.5cm
+
+fontsize: 11pt
+lang: en-GB
+
+toc: true
+toc-depth: 2
+number-sections: true
+
+pdf-engine: xelatex
+
+header-includes:
+  - \usepackage{booktabs}
+  - \usepackage{longtable}
+  - \usepackage{float}
+  - \usepackage{xcolor}
+  - |
+    \definecolor{lightgray}{gray}{0.9}
+---
+
+
