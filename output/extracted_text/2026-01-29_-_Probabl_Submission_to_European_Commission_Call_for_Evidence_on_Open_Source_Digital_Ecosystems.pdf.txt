@@ -1,0 +1,171 @@
+Ref. Ares(2026)1046564 - 29/01/2026
+
+Probabl Submission: Towards European Open Digital Ecosystems
+
+1. Executive Summary
+
+Probabl welcomes the opportunity to present evidence to the upcoming European Open
+Digital Ecosystem strategy.
+
+Probabl is the software company committed to the stewardship, sustainability, and
+industrialization of state-of-the-art open source libraries, commercial solutions, and services
+that enable enterprises to own their data science. We are the stewards of scikit-learn, the
+reference open source library for machine learning â a global technical standard and
+patrimonial asset with over 3.9 billion downloads. We represent a voice that remains rare but
+could be more common in Europe if the right support levers are put in place: an open source
+project, born from public research funding at Inria, that successfully spun out into a
+mission-driven challenger company with the backing of both public and private investment.
+
+At Probabl, we are convinced that open source technologies and open digital ecosystems
+present a versatile and powerful lever for the EUâs policy goals by distributing technology
+horizontally and universally. We are in full agreement that the potential of open source
+innovation cannot be achieved through research grants alone. Our key messages are:
+
+   1.â Recognize that Europe is a global powerhouse built on global collaboration:
+       According to GitHub data, the EU ranked 1st in the world in 2025 in terms of code
+       contributions to public projects on GitHub (over 155 million), outpacing the USA
+       (below 140 million) and India (below 118 million). At the same time, EU-based open
+       source projects and organizations benefited immensely from global collaboration,
+       receiving millions of code contributions from developers and organizations based in
+       the USA, UK, and India, among many other countries. This underlines a crucial fact
+       the EU should not overlook when developing its strategy: Open source is global and
+       therefore building bridges with global open source ecosystems must be a priority.
+   2.â Invest in professional stewards of open source ecosystems that can develop,
+       maintain, and sustain industrial-grade, enterprise-ready solutions and
+       services: The EU should invest in the creation, scale-up, and sustainability of
+       commercial open source software companies that can steward ecosystems and
+       bridge the gap between dynamic open source innovation and the challenges of
+       building and deploying industrial-grade, enterprise-ready solutions and services.
+   3.â Establish EU-wide fund for the maintenance and security of critical open
+       source software: We support the call for the creation of a dedicated, mission-driven
+       EU Sovereign Tech Fund that would invest in the maintenance and security of critical
+       open source software that form the building blocks of our global digital economy,
+       building on the success of Germanyâs STA. These components are indeed digital
+       infrastructure and therefore it is critical that the maintenance work done by the
+       developers (or, often, the developer - singular) is adequately funded.
+
+Our response elaborates avenues for how the EU can effectively support the innovative
+firepower of open source ecosystems for the benefit of the EU and the world as a whole.
+2. Answers to the Call for Evidence Questions
+
+Q1: What are the strengths and weaknesses of the EU open source sector?
+
+   ââ Strength: Global leader: Europe is a global leader in open source, particularly in the
+      scientific Python and data science stack. As GitHubâs response highlights, the EU is
+      an open source powerhouse that thrives and benefits from global collaboration:
+          ââ In the EU, 24.9 million developers and 1.3 million organizations are active on
+               GitHub. They collectively contributed to 54 million EU-based projects.
+          ââ EU-based developers made the most contributions to public open source
+               projects on GitHub in 2025 (155 million code contributions), ahead of the USA
+               (just below 140 million) and India (just below 118 million).
+          ââ The EU is second globally in the number of developers on GitHub, following
+               the USA (30 million) and ahead of India (24.5 million).
+          ââ EU-based open source projects received significant contributions from
+               developers across the world, including the USA (over 934,000), UK (over
+               553,000), and India (over 347,000), among others.
+          ââ To illustrate the global nature of open source ecosystems, on the following
+               page, image 1 visualizes the top 20 economies by Git pushes and image 2
+               visualizes the geography of pull request creators in the scikit-learn repository.
+   ââ Strength: Economic impacts: The dynamism of Europeâs open source ecosystem
+      translates into tangible economic impacts. As GitHubâs response highlights:
+          ââ A 2021 study for the European Commission found that open source software
+               contributed a minimum of â¬65 to 95 billion to EU GDP.
+          ââ A 2024 Harvard study estimates the global demand-side and supply-side
+               value of open source software at $8.8 trillion and $4.15 billion respectively.
+   ââ Challenge: Limited venture capital: European open source projects struggle to
+      spin out into companies due to limited venture capital for commercial open source
+      companies compared to the USA. An exception to the rule is Paris-based Serena,
+      which champions commercial open source companies, as well as the upcoming
+      funds Commit by Red River West and Open Capital that are both dedicated to
+      funding commercial open source. Such specialized VCs are rare in Europe as their
+      LPs have not been acquainted with the less standard business models prevalent in
+      open source projects (examples of successful companies in the USA should drive
+      European appetite to finance these models: Red Hat, MongoDB, Elastic Search, etc).
+   ââ Challenge: Operational vs. scientific maturity: Most European organizations lack
+      formal strategies and Open Source Program Offices (OSPOs) to support and sustain
+      the open source tools and communities they depend on.
+   ââ Challenge: Competitive disadvantage in public procurement: Tendering
+      processes favor established proprietary vendors through rigid templates and an
+      immediate cost focus that ignores the long-term value of open source alternatives for
+      the digital resilience of organizations and the hidden costs of vendor lock-in.
+Image 1: Top 20 economies (EU combined) in terms of cumulative Git pushes to repositories
+  hosted on GitHub (Q1 2020 to Q3 2025). Source: GitHub Innovation Graph (2026-01-28).
+
+          Image 2: Geography of pull request creators in the scikit-learn project. â
+                         Source: OSS Insights (2026-01-29).
+Q2: What is the added value of open source for the public and private sectors?
+
+   ââ Strategic ownership: Open source offers organizations strategic ownership of parts
+      or all of their technology stack, allowing them to maintain control and trust. In the
+      context of data science, this enables organizations to own their data science and AI,
+      ensuring AI capabilities are core internal assets rather than outsourced services. This
+      also protects critical and sensitive data, shielding them from leaks.
+   ââ Industrial-grade reliability: Professionalized stewardship provides a professional
+      layer of accountability, rigor, and predictability required for industrial-scale
+      deployment. Such stewardship bridges the gap between community-driven
+      innovation in open source projects and the production needs of enterprises.
+   ââ Interoperability and transparency: Open source foundations provide verifiable
+      foundations that prevent the limitations of black-box AI systems, which is essential for
+      the explainability and fairness of AI solutions and compliance with EU regulation.
+   ââ Digital resilience without protectionism: By promoting interoperable standards,
+      open source ensures European digital infrastructure is grounded in choice and
+      resilience rather than tech cynicism or oligopolistic dependence.
+   ââ Talent: Participation in open source is a key lever for attracting, building, and
+      retaining high-level talent, as it allows experts to contribute to global, open innovation
+      ecosystems. A survey of over 500 open source maintainers by the Sovereign Tech
+      Agency shows that open source maintainers are a highly skilled demographic, with
+      over 50% having 15 years or more professional experience in software engineering.
+Q3: What concrete measures and actions may be taken at the EU level?
+
+   ââ Invest in professional stewardship models: Move beyond R&I grants to fund open
+      source companies that provide the development and provision of industry-grade,
+      enterprise-ready solutions that grassroots open source projects tend to lack.
+   ââ Bridge the venture capital gap: Address the fundraising disparity between the US
+      and EU by creating targeted incentives for VC funds to invest in category-defining
+      open source leaders. This can be addressed through specialized funds-of-funds
+      aiming for âimpact dividendsâ by incentivizing production of open-source products.
+   ââ Establish the EU Sovereign Tech Fund: Drawing on Germanyâs success, establish
+      a pan-European EU STF as a mission-driven fund that addresses chronic
+      underinvestment in the maintenance of critical open source technologies. As the
+      GitHub response notes, âA successful open source industrial policy should not
+      restrict itself to promoting the commercialization of open source software. While
+      commercialization is an attractive and realistic goal for some projects, as shown by
+      the large number of successful open source businesses, it is inappropriate for
+      othersâ¦ It is important to distinguish between open source products, which are
+      easier to monetize, and open source components, which make significant
+      contributions to the European economy by forming basic building blocks of EU
+      companiesâ technology stacks, without lending themselves to commercialization.â
+   ââ Mandatory upstream contribution in procurement: Require that companies
+      supplying open source to the public sector demonstrate active upstream
+      contributions to ensure the long-term sustainability of the underlying open base
+      technologies.
+Q4: What technology areas should be prioritized and why?
+
+   ââ The data science and AI stack: AI is more than just the model layer (i.e. open
+      models). Prioritize funding for open source tooling used across domains of data
+      science and AI, from statistical machine learning with tabular data to language
+      modelling, and across the stack, ensuring the entire lifecycle from data to impact is
+      supported by transparent, modular, and high-performance open source tools.
+   ââ Data-driven priorities for the European ecosystem: According to a 2025 Linux
+      Foundation survey of 316 stakeholders in Europeâs open source ecosystem, the most
+      important technology areas that should be invested in are operating systems (43%),
+      AI and machine learning (38%), and cybersecurity (34%).
+Q5: In what sectors could open source lead to increased competitiveness?
+
+   ââ Sector-agnostic tooling: Investments in sector-agnostic open source tools will be
+      beneficial. For example, open source tooling for data science and AI offers
+      cross-cutting advantages, as they are used across sectors, including healthcare,
+      finance, and manufacturing. In addition, in highly regulated sectors like the
+      aforementioned, open source offers transparency and audibility that facilitate trust.
+3. About Probabl
+
+Probabl is a mission-driven software company founded in 2023 by the core developers of
+scikit-learn, the reference open source library for machine learning that has been
+downloaded over 3.9 billion times. Our mission, as written in the companyâs bylaws, is to
+develop, maintain at the state of art, and sustain a complete suite of open source tools for
+data science. Probabl is a world-leader in tooling for enterprise AI and stewards the
+scikit-learn ecosystem-including libraries like scikit-learn, skrub, skops, and skore-that
+enable enterprises to own their data science. Probabl is supported by financial backing from
+Serena, Capital Fund Management, Mozilla Ventures, Apertu Capital, and France 2030.
+
+Website: https://probabl.ai/

@@ -1,0 +1,219 @@
+Ref. Ares(2026)1203409 - 03/02/2026
+
+            Policy Recommendations for Integrating Living Labs in
+                       Framework Programme 10 (F10)
+
+The European Union is increasingly recognizing the value of Living Labs in its innovation
+strategies. In Horizon Europe1, the EU's flagship research and innovation program, Living Labs
+are specifically mentioned as a key approach for developing and testing new technologies and
+solutions.
+
+The European Commission has launched five ambitious European Missions to address critical
+global challenges, including A Soil Deal for Europe, Climate-Neutral and Smart Cities,
+Adaptation to Climate Change, Beating Cancer, and Healthy Oceans, Seas, Coastal and Inland
+Waters. Living labs, a collaborative approach that seamlessly integrates researchers, citizens,
+and stakeholders, have emerged as a pivotal tool for achieving the EU Missions. Living Labs
+are mentioned in each of the missions, but especially the Mission âA Soil Deal for Europeâ
+has the main goal of to establish 100 living labs and lighthouses to lead the transition towards
+healthy soils by 20302.
+
+The New European Innovation Agenda mentions how living labs for green digital solutions
+and smart zero pollution under the Zero Pollution Action Plan will support engagement with
+regional and local authorities alongside stakeholders to develop local actions for green and
+digital transition, and identifies Living Labs, along with sand-boxes and test bed living labs as
+a way to facilitate the deployment of disruptive technologies through future calls and support
+policymakers and innovators in their approach to experimentation in the EU3. Moreover, states
+that the Commission will also support the creation of living labs and incubators for example,
+to connect innovators and public administrators to provide innovative solutions in areas of
+public need.
+
+Based on the request in the Communication from The Commission to the European Parliament,
+the Council, the European Economic and Social Committee and the Committee of the Regions
+âPathway to a Healthy Planet for Allâ, especially in the statement in the Flagship 7, ENoLL
+together with the EC developed recommendations4 on using Living Lab for a climate and
+environment-friendly use of digital solutions to accelerate zero pollution efforts, with a
+particular focus on citizen engagement, that have been adopted by the Stakeholder Platform
+Zero Pollution.
+
+Living Labs Definition
+Living Labs are open innovation ecosystems in real-life environments based on a systematic
+user co-creation approach that integrates research and innovation activities in communities
+and/or multi-stakeholder environments, placing citizens and other end-users at the centre of
+the innovation process.
+
+1
+  Living Labs have been explicitly and consistently mentioned in different Work Programmes since the beginning of Horizon
+Europe. In the WP 23/24only, Living Las have been cited in more than 20 topics across 5 Work Programmes.
+2
+  https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-
+europe/eu-missions-horizon-europe/soil-deal-europe_en
+3
+  https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52022DC0332
+4
+  https://doi.org/10.5281/zenodo.14050384
+As intermediaries, Living Labs connect citizens, research organizations, businesses, and
+government to co-create joint value, develop prototypes, and scale innovations. This
+collaborative framework engages all actors of the quadruple helix by implementing the 4P
+Public â Private â People â Partnerships approach.
+
+By focusing on usersâsuch as citizens, farmers, healthcare providers, other non-citizen users,
+companies, and different key stakeholdersâLiving Labs ensure direct engagement, making
+research and development responsive to diverse societal and sectoral needs.
+
+Bridging the gap between research and market adoption
+Living Labs (LLs) are dynamic ecosystems that bridge the gap between research and market
+adoption. By engaging end-users, researchers, industries, and communities in real-world
+settings, LLs de-risk innovation by aligning solutions with real-world requirements,
+accelerating their adoption and long-term viability. These environments extend innovation
+beyond traditional laboratory confines into public spaces, homes, workplaces, agricultural
+fields, and other community contexts. Their iterative experimentation enables the validation of
+products, services, policies, and regulatory frameworks, offering a platform for evidence-based
+policy-making and regulatory learning.
+
+Through collaborative problem-solving, rapid prototyping, and innovation cycles grounded in
+the quadruple helix model, Living Labs tackle complex societal challenges and bolster Europeâs
+competitiveness in the global market.
+
+Living Labs as Research Infrastructures and Technology Research Infrastructures
+LLs are integral components of Europeâs evolving Research & Innovation infrastructure
+ecosystem, operating across all Technology Readiness Levels (TRLs) and supporting innovation
+at every stage, from early research to large-scale implementation. With their flexible approach,
+LLs also align with the characteristics of Research Infrastructures (RIs) for early-stage
+experimentation and Technology Infrastructures (TIs) for advanced development and
+regulatory learning.
+
+Trust as foundation of long-term cooperation and tangible results
+Living Labs function as "trust brokers" within the innovation ecosystem, fostering an
+environment of transparency, mutual accountability, and sustained stakeholder involvement.
+Through consistent, open communication, they build and reinforce trust across the spectrum
+of participants, including specific groups such as citizens, farmers, community organizations,
+and other end-users. This foundation of trust enables long-term cooperation, grounded in
+real-life operational settings.
+
+Living Labs address todayâs challenge and tomorrowâs sustainable and competitive
+future
+Living Labs deliver solutions for todayâs urgent challenges through speed, agility, and de-
+risking, while building strategic foundations for tomorrowâs sustainable and competitive
+future. They bridge immediate action and long-term vision, driving progress in the green and
+digital transitions and ensuring resilience in an ever-changing world.
+Living labs are a global movement that foster the international cooperation in research,
+innovation and digitalization.
+Europe is currently leading the Living Lab movement. This general-purpose social technology
+is reinforcing Nord to South, and East to West open cooperation between innovation
+ecosystems. The world is becoming an open Living Lab, and Living Lab practices and Living
+Labs diplomacy can support an open, bottom-up dialogue among Organisations and
+Countries.
+
+POLICY RECOMMENDATIONS:
+ENoLL Policy Recommendation align with the independent expert report âAlign, act, accelerate:
+Research, technology and innovation to boost European competitiveness Publication
+metadata5â that provides strategic recommendations on maximising the impact of EU
+Research and Innovation programmes in the future, and with the âThe future of European
+competitivenessâ6 or better known as Draghi report.
+
+1. Prioritize Living Labs as Essential Actors in Co-Creation and User-Centric Innovation
+(ACCELERATE)
+To strengthen Europeâs innovation ecosystem, FP10 should prioritize Living Labs as integral
+partners in EU-funded projects. As collaborative environments that bring together citizens,
+industries, academia, and public bodies, Living Labs are uniquely positioned to drive user-
+centred, real-world testing of innovative solutions. Recognizing Living Labs as key project
+participants in FP10 will foster inclusive, agile, and efficient pathways to addressing societal
+challenges.
+
+2. Integrate Living Labs in the EU's Green and Digital Transition Goals (ALIGN)
+As Europe advances its Green Deal and Digital Transition, Living Labs should be positioned as
+key intermediaries to test, localize, and scale these innovations at the community level. Living
+Labsâ real-world testing environments make them invaluable for translating EU goals into
+tangible, sustainable outcomes that meet local needs. Embedding Living Labs into Green and
+Digital Transition initiatives within F10 will drive localized impact, from renewable energy
+solutions to smart city infrastructure.
+
+3. Promote Living Labs as Facilitators of Regional Innovation and Social Inclusion
+(ALIGN, ACCELERATE)
+Living Labs act as key enablers of regional innovation, especially in underserved communities.
+By mobilizing local stakeholders and engaging diverse social groups, Living Labs foster
+inclusive co-creation processes and address disparities in access to innovation. FP10 should
+support Living Labs in economically disadvantaged and rural regions, ensuring equitable
+distribution of resources and fostering social inclusion through community-focused
+innovation.
+
+5
+    https://op.europa.eu/en/publication-detail/-/publication/2f9fc221-86bb-11ef-a67d-01aa75ed71a1/language-en
+6
+    https://commission.europa.eu/document/download/97e481fd-2dc3-412d-be4c-f152a8232961_en
+4. Enhance Europeâs innovation ecosystem by supporting Living Labs as Research and
+Technology Infrastructure (ACT, ACCELERATE)
+To enhance Europeâs innovation ecosystem, FP10 should recognize and support the dual
+function of Living Labs within the broader framework of Research Infrastructures (RIs) and
+Technology Infrastructures (TIs). Living Labs provide the services to support the whole
+innovation process, focusing on both early-stage experimentation and fundamental research
+(RIs) as well as to scaling and deploying innovations in real-world contexts (TIs). Expanding
+innovation vouchers to include access to Living Labs will enable SMEs and startups to leverage
+these unique capabilities across varying Technology Readiness Levels (TRLs). Additionally,
+supporting ENoLLâs harmonization initiatives7 will ensure consistent methodologies, making
+Living Labs more effective in bridging the gap between research outcomes and market-ready
+solutions.
+
+5. Leverage Living Labs to Bridge Europeâs Innovation Gap and Boost Competitiveness
+(ACT, ACCELERATE)
+To address the innovation gap highlighted in the Draghi Report, FP10 could leverage the role
+of Living Labs as open innovation ecosystems that actively involve public, private, academic,
+and civil society actors. Living Labs contribute to closing this gap by providing collaborative
+environments for co-creating, testing, validating and scaling innovations in real-world settings,
+effectively bridging the divide between early-stage research and market deployment. By de-
+risking innovation and ensuring that solutions meet societal and market needs, Living Labs
+enhance Europe's ability to translate research into competitive advantages, supporting the
+EU's strategic goal of closing the innovation gap and strengthening global competitiveness.
+
+4. Enhance Impact Measurement Tools for Living Labs within EU Projects (ACT)
+FP10 should invest in developing robust impact measurement frameworks tailored to the
+unique contributions of Living Labs. Harmonized impact metrics, like the ones developed by
+ENoLL Harmonisation working group, would allow Living Labs to demonstrate the value they
+bring to EU-funded projects and support evidence-based policy-making at the EU level. A
+comprehensive toolkit for impact assessment, evolution of the actual value capturing tool
+developed by ENoLL, would also enhance transparency, helping Living Labs convey their value
+in addressing societal challenges.
+
+5. Establish a Voucher Scheme to Leverage Living Labs for Experimentation and
+Innovation (ACCELERATE)
+FP10 should include a voucher-based funding mechanism to enable startups, universities, and
+cities to utilize Living Labs for experimentation and innovation. This scheme, inspired by the
+European Innovation Council model, would support the operational capacity of Living Labs by
+providing resources for training, infrastructure, and digital tools. By offering vouchers,
+stakeholders can access Living Labs to test, prototype, and scale solutions while fostering
+collaboration across sectors. This approach would enhance the reach and effectiveness of
+
+7
+  Harmonisation aims to reconcile diEerences and promote coherence between multiple practices while allowing more ï¬exibility
+compared to standardisation, which focuses on establishing a single set of speciï¬cations. Harmonized Living Lab services and
+processes across the ENoLL Network enable increased eEiciency, productivity, improved quality, foster collaboration, scalability,
+and better risk management.
+The Harmonisation Working Group has been established to deï¬ne a Harmonization Framework with suggested processes,
+guidelines and recommendations on how Living Labs can perform their activities in a harmonized way that is widely accepted by the
+Living Lab community across the world. https://enoll.org/working-group/harmonization/
+Living Labs, also under-resourced regions, allowing them to contribute more substantially to
+FP10 projects and drive EU-wide innovation.
+
+6. Establish a Dedicated Funding Stream for Living Lab-Initiated Projects
+FP10 should create a dedicated funding stream accessible directly to Living Labs, allowing
+them to initiate projects that reflect community-driven priorities. Currently, Living Labs often
+play a supporting role in larger projects, limiting their ability to lead on locally relevant
+innovations. A targeted funding stream will empower Living Labs to elevate local needs to the
+European stage, creating bottom-up solutions that leverage regional strengths and
+knowledge.
+
+7. Foster Regulatory Innovation Through Living Labs (ALIGN)
+Living Labs offer a unique platform for regulatory learning by providing real-world testing
+grounds for innovative solutions. By involving multiple stakeholders, including regulators,
+industry, and citizens, Living Labs can facilitate the co-creation of regulatory frameworks that
+are agile, adaptable, and aligned with societal needs. Through iterative experimentation and
+data-driven insights, Living Labs can identify and uncover regulatory barriers and
+opportunities, inform policy decisions, and accelerate the adoption of innovative technologies.
+Therefore, policymakers should actively support the development and scaling of Living Labs,
+together with the adoption of sandboxes, to foster a regulatory environment that is conducive
+to innovation and societal well-being.
+
+We would kindly request a meeting with the Commissioner to discuss the importance
+of Living Labs, with the ENoLL Secretariat represented by Chair Wim De Kinderen,
+Vice Presidents Georgia Ayfantopoulou and Evdokimos Konstantinidis, and Director
+Martina Desole.

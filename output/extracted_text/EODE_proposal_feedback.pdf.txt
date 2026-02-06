@@ -1,0 +1,125 @@
+Ref. Ares(2026)1166400 - 02/02/2026
+
+Feedback on the European Open Digital Ecosystems proposal
+Reduce compliance barriers to open-source adoption (GDPR and information security)
+   ââ Establish an EU certification mechanism for GDPR and information-security compliance. The
+      European Commission should develop a certification mechanism that smaller organisations and
+      open-source service providers can realistically obtain, for example with a validity period of three to
+      five years. The objective is to reduce uncertainty and transaction costs, and to mitigate the structural
+      advantage that large vendors enjoy through packaged legal and compliance capacity.
+
+   ââ Publish EU-endorsed compliance guidance and transition checklists. The Commission should provide
+      practical, EU-endorsed guidance on how organisations can transition to open-source solutions in a
+      compliant manner. This should include concrete checklists and reference controls (i.e., standard
+      security and data-protection measures such as access control, patch management, logging, and
+      documentation) tailored to different contexts: private citizens, small and medium-sized enterprises,
+      universities, and public administrations.
+
+Provide actionable roadmaps and strengthen interoperability to prevent lock-in
+   ââ Develop tailored transition roadmaps for public administrations and businesses. The Commission
+      should issue practical transition roadmaps that outline sequencing (what to migrate first), anticipated
+      risks, training needs, and procurement templates. These roadmaps should also include examples of
+      relevant open standards, such as the Open Document Format (ODF) for document exchange.
+
+   ââ Strengthen interoperability requirements across public-sector information systems. The Commission
+      should reinforce interoperability requirements, including the use of open standards, documented
+      interfaces (often referred to as âopen APIs,â meaning publicly documented ways for software systems
+      to exchange data and functionality), and portability obligations for publicly funded software, thereby
+      reducing long-term dependency on single vendors.
+
+Invest in the full open-source lifecycle and introduce more agile funding instruments
+   ââ Create a dedicated EU open-source investment and support programme. The Commission should
+      establish a dedicated funding instrument to support the full open-source lifecycle: research and
+      development, piloting, scaling, long-term maintenance, security improvements, and deployment.
+      Funding should explicitly support maintenance and security work, which are essential for reliability but
+      frequently under-resourced.
+
+   ââ Leverage existing programmes while reducing administrative burdens. While programmes such as
+      Digital Europe and Horizon Europe can support this agenda, the Commission should also introduce
+      more agile funding tracks (lighter application requirements, faster decisions, and smaller grants) to
+      ensure open-source initiatives are not impeded by disproportionate administrative overhead.
+
+   ââ Build on the digital commons EDIC model. The Digital Commons European Digital Infrastructure
+      Consortium (EDIC) provides an existing mechanism for pooling resources among Member States to
+      develop reusable digital solutions across borders. The Commission should build on this approach to
+      fund shared, reusable open-source âdigital commons.â
+
+   ââ Deploy strategic investment via STEP where appropriate. The Strategic Technologies for Europe
+      Platform (STEP) could be used to channel investment into open-source technologies that materially
+      enhance European competitiveness and security.
+
+Strengthen European digital infrastructure capacity, including cloud and core âdigital public
+goodsâ
+   ââ Support European cloud and infrastructure initiatives with concrete deployment capacity. The
+      Commission should continue supporting European-based cloud initiatives and open-source cloud
+
+                                                       1
+       software, such as the GAIA-X project, in order to provide credible alternatives to dominant
+       non-European cloud providers.
+
+   ââ Complement policy development with infrastructure implementation. Policy initiatives such as the
+      proposed European Cloud and AI Development Act should be complemented by tangible
+      infrastructure-building measures.
+
+   ââ Develop an EU-wide sovereign cloud capability for public services. The Commission should pursue a
+      practical, interoperable sovereign cloud capability for public services, understood here as a network of
+      interoperable data centres across Member States operating under European jurisdiction, standards, and
+      governance. Existing consortia and public institutions (including universities and national research
+      networks) should be formally involved in requirements definition and governance, to ensure usability
+      and uptake.
+
+   ââ Invest in European alternatives for critical digital infrastructure services. The Commission should
+      support, through funding and governance, European alternatives to key infrastructure components
+      currently provided predominantly by private and often non-European actors, including:
+
+            ââ a Europe-based, publicly funded code hosting and collaboration infrastructure compatible with
+               Git standards;
+
+            ââ cloud storage and collaboration components suitable for public institutions;
+
+            ââ open-source cloud-native capabilities, including âserverlessâ execution (i.e., platforms where
+               organisations deploy applications without managing underlying servers directly, while still
+               retaining control over governance and compliance).
+
+Align procurement rules and public-sector targets with openness and portability
+   ââ Introduce âOpen by Defaultâ procurement guidance. Public procurement policies at EU and Member
+      State level should be updated to ensure that open-source options are systematically assessed. Where
+      proprietary solutions are chosen, contracting authorities should provide clear justification. Procurement
+      criteria should also reward portability, open standards compliance, and transparency.
+
+   ââ Support migration towards open-source operating systems and productivity tools in the public sector.
+      The Commission should encourage, and where appropriate, require, public administrations to increase
+      adoption of open-source operating systems and productivity suites (e.g., Linux-based operating
+      systems, LibreOffice, and open collaboration platforms). Such migration reduces licensing costs,
+      improves auditability, and reduces dependency on single vendors. As an illustrative Member State
+      example, Denmarkâs Ministry of Digital Affairs has initiated a pilot testing of LibreOffice within
+      central administration, explicitly linked to goals of digital sovereignty and reduced reliance on foreign
+      technology providers.
+
+   ââ Define requirements for openness in critical infrastructure domains. For critical infrastructure sectors
+      (e.g., payments, healthcare, defence), the Commission should set stronger expectations regarding open
+      standards and, where feasible, open-source foundations, while maintaining space for European
+      private-sector actors to compete on implementation, support services, compliance, user experience, and
+      value-added capabilities.
+
+Support open European AI and data ecosystems
+   ââ Establish an Open European AI initiative. The Commission should support open-source AI
+      frameworks, algorithms, and datasets, including the development of European foundational AI models
+      under open licences. This should be coupled with the establishment of open data commons, namely
+      shared datasets governed for public benefit and privacy protection, so that smaller European actors can
+      access the resources needed to innovate. A relevant example is OpenEuroLLM, a collaborative effort to
+      develop open-source large language models covering all EU languages.
+
+                                                      2
+Strengthen Member State coordination through national strategies and policy networks
+   ââ Encourage national open-source strategies aligned with EU priorities. The Commission should promote
+      national strategies that set measurable targets for open-source adoption across government, education,
+      and industry, aligned with EU-level objectives.
+
+   ââ Create an open-source policy network and support Open Source Programme Offices (OSPOs). The
+      Commission should facilitate an EU-level policy network for Member States to share best practices and
+      jointly develop reusable solutions. In parallel, Member States should be encouraged to establish
+      OSPOs, namely dedicated coordinating functions responsible for inventorying proprietary
+      dependencies, guiding procurement, and supporting training and migration.
+
+                                                    3

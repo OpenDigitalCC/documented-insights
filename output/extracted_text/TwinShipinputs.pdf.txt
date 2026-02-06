@@ -1,0 +1,47 @@
+Ref. Ares(2026)362199 - 14/01/2026
+
+Empowering Maritime Innovation with Open-Source VesselAI: TwinShipâs Vision
+
+The TwinShip project (https://twin-ship.eu ) builds upon the foundations laid by the
+Horizon 2020 VesselAI project (https://vessel-ai.eu ), proposing the integration of its
+open-source digital platform to support innovation in the maritime sector. One of
+TwinShipâs core innovations is this Advanced VesselAI Digital Platform, a fully open-
+source solution designed to foster cross-sector collaboration and accelerate maritime
+digitalization.
+
+The Challenge
+
+Today, the maritime industry remains heavily dependent on proprietary digital
+platforms, which:
+
+   â¢   Restrict access to external R&D initiatives
+
+   â¢   Limit interoperability and data sharing
+
+   â¢   Hinder the validation of AI/ML technologies
+
+   â¢   Slow down sector-wide innovation
+
+TwinShipâs Breakthrough
+
+To overcome these barriers, TwinShip is leveraging and expanding the capabilities of the
+VesselAI platform by embedding it into its Digital Twin (DT) and Decision Support
+System (DSS) framework. The enhanced platform features:
+
+   â¢   Large-scale data processing for complex maritime datasets
+
+   â¢   Federated data sharing with encryption to ensure secure collaboration
+
+   â¢   Semantic interoperability using shared vocabularies and industry ontologies for
+       seamless integration
+
+Deployment and Impact
+
+The platform is already operational at the Institute of Communication and Computer
+Systems (ICCS), NTUA in Athens, with deployment at UiT â The Arctic University of
+Norway in TromsÃ¸ currently underway.
+
+By enabling trusted, scalable, and secure collaboration between academia, research
+institutions, and industry, TwinShipâs open-source platform sets the stage for
+accelerated maritime innovationâensuring data protection, transparency, and long-
+term resilience.

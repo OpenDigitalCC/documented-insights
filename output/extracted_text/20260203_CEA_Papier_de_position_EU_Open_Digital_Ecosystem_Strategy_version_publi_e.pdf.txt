@@ -1,0 +1,265 @@
+Ref. Ares(2026)1221693 - 03/02/2026
+
+              Commissariat Ã  lâÃ©nergie atomique et aux Ã©nergies alternatives
+              Atomic Energy and Alternative Energies Commission
+
+ StratÃ©gie europÃ©enne en faveur des Ã©cosystÃ¨mes numÃ©riques ouverts et des
+                           solutions open source
+                                          RÃ©ponse du CEA
+
+Date dâÃ©mission : FÃ©vrier 2026
+
+RÃ©sumÃ©
+
+Le CEA soutient pleinement lâinitiative de la Commission europÃ©enne visant Ã  Ã©laborer une stratÃ©gie
+europÃ©enne en faveur des Ã©cosystÃ¨mes numÃ©riques ouverts et des solutions open source. En tant
+quâorganisme de recherche et de technologie, le CEA dÃ©veloppe, utilise et valorise de nombreux
+logiciels, dont une part croissante est diffusÃ©e sous licence open source, et sâappuie largement sur ces
+solutions dans ses activitÃ©s de recherche, de dÃ©veloppement technologique et dâinnovation.
+
+Ã ce titre, le CEA est directement concernÃ© par les enjeux de structuration, de soutenabilitÃ© et de
+gouvernance des Ã©cosystÃ¨mes open source, qui constituent des leviers clÃ©s de compÃ©titivitÃ©,
+dâinnovation, de standardisation et de souverainetÃ© technologique.
+
+Le CEA partage lâanalyse gÃ©nÃ©rale prÃ©sentÃ©e dans le document de consultation, tout en soulignant que,
+malgrÃ© la vitalitÃ© des communautÃ©s open source europÃ©ennes, lâUnion europÃ©enne fait face Ã  des
+faiblesses structurelles, notamment un dÃ©ficit de structuration de lâÃ©cosystÃ¨me en matiÃ¨re
+dâexploitation, de valorisation et de pÃ©rennisation des solutions open source quâelle produit. En effet,
+lâUnion europÃ©enne ne dispose pas encore dâun cadre stratÃ©gique pleinement structurÃ© pour lâopen
+source, comparable Ã  celui dâautres grandes puissances technologiques. La reconnaissance du rÃ´le
+stratÃ©gique du logiciel open source constitue dÃ¨s lors un enjeu central de la future stratÃ©gie
+europÃ©enne.
+
+Questions :
+
+1. Quelles sont les forces et les faiblesses du secteur europÃ©en de
+    lâopen source ? Quels sont les principaux obstacles qui entravent son
+    dÃ©veloppement, notamment en ce qui concerne : (i) lâadoption et la
+    maintenance de logiciels open source de haute qualitÃ© et sÃ©curisÃ©s ;
+    (ii) des contributions durables aux communautÃ©s open source ?
+
+    1.1. Forces
+
+Le CEA estime que la principale force du secteur open source dans lâUnion europÃ©enne rÃ©side dans la
+vitalitÃ©, la compÃ©tence et lâengagement des communautÃ©s de dÃ©veloppeurs. LâEurope compte de
+
+                                                                                                         1
+            Commissariat Ã  lâÃ©nergie atomique et aux Ã©nergies alternatives
+            Atomic Energy and Alternative Energies Commission
+
+nombreux programmeurs de haut niveau, ainsi que des logiciels et bibliothÃ¨ques open source
+largement utilisÃ©s Ã  lâÃ©chelle internationale, tant dans le monde acadÃ©mique que dans certains
+secteurs industriels.
+
+Cette dynamique sâappuie sur une culture du travail collaboratif particuliÃ¨rement dÃ©veloppÃ©e,
+renforcÃ©e par plusieurs dÃ©cennies de programmes europÃ©ens de financement favorisant les
+collaborations transnationales. Le CEA souligne que cette culture est pleinement cohÃ©rente avec des
+mouvements structurants tels que lâOpen Science, qui promeut lâouverture et le partage des rÃ©sultats
+de la recherche, y compris des codes sources.
+
+Des initiatives emblÃ©matiques telles que Software Heritage, qui vise Ã  prÃ©server et rendre accessible
+le patrimoine logiciel mondial, ou la Fondation Eclipse, qui structure de nombreux projets open source
+dâenvergure, illustrent la capacitÃ© de lâUnion europÃ©enne Ã  jouer un rÃ´le significatif dans lâÃ©cosystÃ¨me
+open source mondial.
+
+    1.2. Faiblesses et obstacles
+
+MalgrÃ© ces atouts, le CEA identifie plusieurs faiblesses structurelles qui illustrent comme principal
+constat, un dÃ©ficit de structuration de lâÃ©cosystÃ¨me europÃ©en en matiÃ¨re dâexploitation, de
+valorisation et de pÃ©rennisation des solutions open source quâil produit.
+
+En premier lieu, le CEA souhaite souligner lâabsence de forges open source europÃ©ennes de rÃ©fÃ©rence,
+largement adoptÃ©es et reconnues. La majoritÃ© des projets open source europÃ©ens sont aujourdâhui
+hÃ©bergÃ©s sur des plateformes extra-europÃ©ennes, principalement amÃ©ricaines. Cette situation limite
+la maÃ®trise europÃ©enne des infrastructures numÃ©riques, de la gouvernance des projets et de leur
+visibilitÃ©. Si des initiatives nationales Ã©mergent, elles demeurent fragmentÃ©es et insuffisamment
+coordonnÃ©es Ã  lâÃ©chelle de lâUnion.
+
+En second lieu, le CEA estime que les modÃ¨les de soutenabilitÃ© Ã©conomique des logiciels open source
+sont insuffisamment dÃ©veloppÃ©s en Europe. Ã la diffÃ©rence des Ãtats-Unis, oÃ¹ des fondations de
+grande ampleur (telles que la Linux Foundation) jouent un rÃ´le structurant en matiÃ¨re de gouvernance,
+de financement et dâindustrialisation, lâÃ©cosystÃ¨me europÃ©en repose sur un nombre limitÃ© de
+structures capables de soutenir des projets open source ambitieux sur le long terme. La Fondation
+Eclipse constitue une exception notable, mais ne peut Ã  elle seule couvrir lâensemble des besoins.
+
+En troisiÃ¨me lieu, le CEA observe que la couverture de certains besoins technologiques stratÃ©giques
+est parfois perÃ§ue comme incomplÃ¨te en Europe, en particulier pour des briques logicielles de bas
+niveau et des environnements logiciels largement utilisÃ©s. Cela concerne notamment les systÃ¨mes
+dâexploitation, les environnements dâexÃ©cution et les suites logicielles de productivitÃ©, pour lesquels
+les solutions open source existantes ne bÃ©nÃ©ficient pas toujours dâun niveau suffisant de support,
+dâintÃ©gration, de maintenance ou de maturitÃ© fonctionnelle pour rÃ©pondre aux attentes des
+utilisateurs publics et industriels. Cette situation ne rÃ©sulte toutefois pas dâun dÃ©ficit de compÃ©tences
+techniques en Europe, mais principalement dâune base dâutilisateurs encore insuffisamment large,
+conduisant Ã  un manque de structuration des Ã©cosystÃ¨mes, de visibilitÃ© des solutions, de mutualisation
+des efforts et de financements ciblant des niveaux de R&D proches de lâindustrialisation. Dans ce
+contexte, une politique volontariste de renforcement de lâusage des logiciels open source au sein de
+lâUnion europÃ©enne, incluant notamment le financement du support aux utilisateurs, la promotion de
+solutions open source matures et lâobligation de recours Ã  des formats de documents ouverts,
+
+                                                                                                       2
+            Commissariat Ã  lâÃ©nergie atomique et aux Ã©nergies alternatives
+            Atomic Energy and Alternative Energies Commission
+
+permettrait dâÃ©largir les communautÃ©s dâutilisateurs, de renforcer la qualitÃ© et la couverture
+fonctionnelle des solutions, et de crÃ©er les conditions dâune valorisation Ã©conomique pÃ©renne des
+services associÃ©s, tout en rÃ©duisant les dÃ©pendances technologiques extra-europÃ©ennes.
+
+Enfin, le CEA souligne lâimportance de mettre en place des mÃ©canismes de financement adaptÃ©s afin
+dâassurer la pÃ©rennitÃ© et lâimpact des logiciels open source. Une stratÃ©gie europÃ©enne cohÃ©rente doit
+ainsi inclure le soutien non seulement au dÃ©veloppement des logiciels eux-mÃªmes, mais Ã©galement
+aux outils, services et coÃ»ts dâÃ©cosystÃ¨me associÃ©s (support, maintenance, valorisation). Lâopen source
+ne se dÃ©finit pas par la gratuitÃ© mais par les libertÃ©s quâil confÃ¨re aux utilisateurs. Ã cet Ã©gard, la
+possibilitÃ© de dÃ©velopper des modÃ¨les Ã©conomiques fondÃ©s sur la distribution de logiciels libres et la
+fourniture de services associÃ©s constitue un levier lÃ©gitime et nÃ©cessaire pour financer le
+dÃ©veloppement et lâamÃ©lioration continue de ces solutions, sans remettre en cause les principes du
+libre. Soutenir ces modÃ¨les est ainsi une condition essentielle pour assurer la durabilitÃ© des
+Ã©cosystÃ¨mes open source Ã  lâÃ©chelle europÃ©enne.
+
+Dans le mÃªme ordre dâidÃ©e, le CEA estime que ces enjeux de soutenabilitÃ©, de structuration des
+Ã©cosystÃ¨mes et de modÃ¨les Ã©conomiques sâappliquent en grande partie Ã  lâopen hardware. Une
+rÃ©flexion spÃ©cifique sur lâopen hardware apparaÃ®t dÃ¨s lors nÃ©cessaire, afin dâadapter les dispositifs de
+soutien existants aux particularitÃ©s de ces projets, tout en sâinscrivant dans la continuitÃ© des
+problÃ©matiques identifiÃ©es pour lâopen source.
+
+2. Quelle est la valeur ajoutÃ©e de lâopen source pour les secteurs public
+   et privÃ© ? Veuillez fournir des exemples concrets et prÃ©ciser les
+   facteurs les plus pertinents pour Ã©valuer cette valeur ajoutÃ©e (coÃ»ts,
+   risques, verrouillage fournisseur, sÃ©curitÃ©, innovation, etc.).
+Le CEA estime que lâopen source apporte une valeur ajoutÃ©e significative pour les acteurs publics et
+privÃ©s, Ã  travers plusieurs dimensions clÃ©s.
+
+PremiÃ¨rement, lâopen source constitue un levier majeur dâinteropÃ©rabilitÃ©. Il permet de construire
+des Ã©cosystÃ¨mes numÃ©riques ouverts et interopÃ©rables, condition indispensable au dÃ©veloppement
+de chaÃ®nes de valeur complÃ¨tes. Le projet Catena-X illustre par exemple la capacitÃ© de lâopen source Ã 
+fÃ©dÃ©rer un secteur industriel autour de standards et dâoutils communs, en facilitant le partage sÃ©curisÃ©
+des donnÃ©es.
+
+DeuxiÃ¨mement, le CEA souligne le rÃ´le de lâopen source dans lâaccÃ©lÃ©ration des processus de
+standardisation. Les communautÃ©s open source permettent de transformer rapidement des
+spÃ©cifications techniques en normes opÃ©rationnelles, souvent via des fondations jouant un rÃ´le de
+tiers de confiance. On peut citer comme exemple la bibliothÃ¨que Kokkos, Ã  laquelle le CEA contribue
+de maniÃ¨re active et dont certains concepts de programmation sont inclus rÃ©guliÃ¨rement dans les
+diffÃ©rents standards du langage C++. Cette standardisation est alors un levier puissant de valorisation
+indirecte, nombre de services sâappuyant sur ces solutions standards.
+
+TroisiÃ¨mement, lâopen source constitue un outil essentiel de lutte contre le verrouillage fournisseur.
+La dÃ©pendance Ã  des solutions propriÃ©taires peut entraÃ®ner des coÃ»ts Ã©levÃ©s et une perte dâautonomie
+
+                                                                                                      3
+            Commissariat Ã  lâÃ©nergie atomique et aux Ã©nergies alternatives
+            Atomic Energy and Alternative Energies Commission
+
+stratÃ©gique. Des alternatives open source existent, y compris en Europe, et offrent aux utilisateurs une
+plus grande maÃ®trise de leurs choix technologiques et de leurs dÃ©penses financiÃ¨res en limitant la
+vulnÃ©rabilitÃ© Ã  des hausses de coÃ»ts de licence du fait de potentielles positions quasi-monopolistiques.
+
+         Cas spÃ©cifique des organismes de recherche
+
+Pour les organismes de recherche et de technologie, le CEA identifie des bÃ©nÃ©fices supplÃ©mentaires Ã 
+lâengagement dans lâOpen Source :
+
+    -   une visibilitÃ© accrue des applications et outils dÃ©veloppÃ©s et donc une contribution au
+        rayonnement scientifique et technologique de lâorganisme
+    -   une dÃ©marche de transparence, partage et de mise en commun conforme Ã  la dÃ©marche
+        Open Science et participant Ã  la confiance du contenu des outils et de leurs rÃ©sultats ;
+    -   une meilleure reconnaissance des ingÃ©nieurs et dÃ©veloppeurs, dont les contributions open
+        source restent cependant insuffisamment valorisÃ©es ;
+    -   un vecteur de valorisation indirecte de la R&D en facilitant la mise Ã  disposition des rÃ©sultats
+        des recherches et lâÃ©mergence de standards ;
+    -   un renforcement du positionnement comme fournisseur de technologies, notamment pour
+        le CEA.
+
+Le CEA souligne par ailleurs que si lâopen source ne supprime pas lâensemble des coÃ»ts (maintenance,
+compÃ©tences, support), il permet une meilleure maÃ®trise des systÃ¨mes dâinformation (entreprise et
+scientifique) et des donnÃ©es associÃ©es et donc des progrÃ¨s en termes dâindÃ©pendance et de
+souverainetÃ©, en particulier face Ã  la gÃ©nÃ©ralisation de modÃ¨les SaaS propriÃ©taires susceptibles
+dâentraÃ®ner une captation des donnÃ©es et une dÃ©pendance accrue aux Ã©diteurs, et le cas Ã©chÃ©ant, une
+surface accrue dâexposition aux lois extraterritoriales amÃ©ricaines.
+
+3. Quelles mesures et actions concrÃ¨tes pourraient Ãªtre mises en
+   Åuvre au niveau de lâUnion europÃ©enne afin de soutenir le
+   dÃ©veloppement et la croissance du secteur open source europÃ©en,
+   et de contribuer aux objectifs de souverainetÃ© technologique et de
+   cybersÃ©curitÃ© de lâUE ?
+
+    3.1. Structuration des Ã©cosystÃ¨mes open source Ã  lâÃ©chelle europÃ©enne
+
+Le CEA propose :
+
+    -   la mise en place dâune forge europÃ©enne unifiÃ©e ou dâun rÃ©seau de forges interopÃ©rables, en
+        tenant compte des usages existants et de la dimension communautaire essentielle Ã  lâadoption
+        par les dÃ©veloppeurs ;
+    -   le soutien au dÃ©veloppement dâoutils permettant une mise en Open Source sÃ»re (exempte de
+        vulnÃ©rabilitÃ©s) et valorisable (licences) ;
+
+                                                                                                      4
+            Commissariat Ã  lâÃ©nergie atomique et aux Ã©nergies alternatives
+            Atomic Energy and Alternative Energies Commission
+
+    -   la crÃ©ation ou le renforcement de fondations open source europÃ©ennes ambitieuses,
+        dÃ©pendant du seul droit europÃ©en, capable dâhÃ©berger des projets stratÃ©giques, dâassurer une
+        gouvernance de confiance intÃ©grant Ã  la fois les acteurs acadÃ©miques et les industriels et
+        dâattirer des financements publics garantissant ainsi lâessor de modÃ¨les de soutenabilitÃ©,
+        proposant et soutenant des licences Open Source favorisant lâÃ©mergence dâun modÃ¨le
+        europÃ©en de lâOpen Source ;
+
+    3.2. Adaptation des instruments aux spÃ©cificitÃ©s de lâopen source
+
+Le CEA souligne que les instruments europÃ©ens doivent tenir compte :
+
+    -   des exigences de collaboration avec lâindustrie (confidentialitÃ©, exclusivitÃ©, gouvernance) ;
+    -   de la nÃ©cessitÃ© de ne pas opposer monde acadÃ©mique et monde privÃ©, mais de favoriser leur
+        articulation ;
+    -   de lâimportance de soutenir les projets jusquâÃ  des niveaux de maturitÃ© compatibles avec une
+        adoption industrielle et lâÃ©mergence de standards ;
+    -   du droit en matiÃ¨re de logiciel et de codes Open Source.
+
+    3.3. Reconnaissance et financement
+
+Le CEA propose :
+
+    -    de renforcer la reconnaissance des contributions open source, en particulier dans les
+         carriÃ¨res acadÃ©miques, notamment Ã  travers leur prise en compte explicite dans les critÃ¨res
+         dâÃ©valuation des chercheurs (par exemple dans les rÃ©fÃ©rentiels dâÃ©valuation du Haut Conseil
+         de lâÃ©valuation de la recherche et de lâenseignement supÃ©rieur en France ou le rÃ©fÃ©rentiel
+         international H-factor) ainsi que dans les dispositifs de suivi et de valorisation de la science
+         ouverte, tels que le baromÃ¨tre de la science ouverte intÃ©grant publications, donnÃ©es et
+         codes ;
+    -    dâintÃ©grer des coÃ»ts de maintenance des outils Open Source dans le cadre des projets de
+         recherche europÃ©en, en plus de lâencouragement Ã  la mise en Open Source des logiciels
+         dÃ©veloppÃ©s dans ces projets ;
+    -    de soutenir la crÃ©ation de fonds dâinvestissement spÃ©cialisÃ©s dans les modÃ¨les open source ;
+    -    la mise en place dâune politique volontariste dans lâusage des logiciels open source au sein
+         des institutions EuropÃ©ennes.
+
+4. Quels domaines technologiques devraient Ãªtre considÃ©rÃ©s comme
+   prioritaires dans ce contexte, et pour quelles raisons ?
+Le CEA estime que les prioritÃ©s devraient porter sur :
+
+    -    les domaines caractÃ©risÃ©s par une forte dÃ©pendance Ã  des acteurs extra-europÃ©ens (outils
+         de dÃ©veloppement, logiciels bureautiques, cybersÃ©curitÃ©, tÃ©lÃ©communications) ;
+
+                                                                                                       5
+            Commissariat Ã  lâÃ©nergie atomique et aux Ã©nergies alternatives
+            Atomic Energy and Alternative Energies Commission
+
+    -    les technologies pour lesquelles la mutualisation europÃ©enne peut accÃ©lÃ©rer lâinnovation et
+         les retombÃ©es sociÃ©tales;
+    -    les applications relevant des domaines stratÃ©giques tels que lâÃ©nergie, les matÃ©riaux, les
+         rÃ©seaux, lâIA, lâespace, â¦
+    -    les technologies Ã©mergentes et critiques, notamment le numÃ©rique quantique, oÃ¹ lâEurope
+         dispose dâatouts scientifiques forts et dâopportunitÃ©s de standardisation.
+
+5. Dans quels secteurs un recours accru Ã  lâopen source pourrait-il
+   contribuer Ã  renforcer la compÃ©titivitÃ© et la rÃ©silience cyber de
+   lâUnion europÃ©enne ?
+Le CEA considÃ¨re que lâensemble des secteurs oÃ¹ lâinteropÃ©rabilitÃ© constitue un facteur clÃ© de
+compÃ©titivitÃ© est concernÃ©. Lâopen source contribue Ã  la crÃ©ation de standards ouverts et Ã  la rÃ©silience
+des Ã©cosystÃ¨mes numÃ©riques.
+
+Par ailleurs, la transition Ã©nergÃ©tique sâaccompagnant de systÃ¨mes plus complexes et flexibles, les
+Ã©changes de donnÃ©es nÃ©cessaires Ã  leur pilotage doivent Ãªtre sÃ©curisÃ©s. Le dÃ©veloppement de
+solutions Open Source sÃ»res permettrait lâÃ©mergence de standards favorisant la sÃ©curitÃ© des futures
+systÃ¨mes et rÃ©seaux Ã©nergÃ©tiques.
+
+                                                                                                       6

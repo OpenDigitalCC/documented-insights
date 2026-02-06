@@ -1,0 +1,211 @@
+Ref. Ares(2026)1225392 - 03/02/2026
+
+ Open Regulatory Compliance Working Group
+ European Open Digital Ecosystems
+ Date: 2026/02/03
+
+Context
+The Open Regulatory Compliance Working Group (ORC WG) brings together open source
+communities, foundations, and manufacturers working on the practical implementation of
+digital regulation.
+
+From this operational perspective, open digital ecosystems are not only a policy objective
+but a prerequisite for scalable compliance, supply-chain security, and long-term
+competitiveness for both industry and public sector actors.
+
+We suggest approaching digital sovereignty not by the geographic origin of code ('Made in
+Europe'), but by retaining operational control over technology, so that the policies avoid
+fragmentation that would isolate European entities from the global innovation taking place in
+established open source communities.
+
+Key Areas of Action
+1. Practical portability and interoperability of open source
+ecosystems
+Large companies and SMEs alike depend on open source projects hosted on software
+forges. While source code portability is largely solved, project data portability is not,
+creating operational friction and long-term dependencies.
+
+Supporting open, documented APIs and formats for exporting and importing project data
+(issues, CI, metadata, security information) would:
+
+   ââ Reduce platform lock-in risks,
+   ââ improve business continuity,
+   ââ increase resilience across the software supply chain.
+
+Community-driven initiatives such as ForgeFriends and CodeCommons show that
+interoperability can be achieved without disrupting existing platforms and deserve EU
+support.
+
+2. Resilient digital services for software supply chains
+Build, distribution, and dependency services (e.g. package repositories and registries) are
+now critical infrastructure for European industry, including regulated sectors.
+
+Ensuring resilience through:
+
+   ââ Contingency planning,
+ Open Regulatory Compliance Working Group
+ European Open Digital Ecosystems
+ Date: 2026/02/03
+
+   ââ Federated services instead of centralised,
+   ââ EU-based mirrors,
+   ââ A EU based capability for continuous build, test and integration at scale of all the
+      software packages that are key to society in general and to open source in particular.
+      Including the institutional capacity and capability to maintain such in cooperation with
+      the open source community
+   ââ and archival layers such as Software Heritage,
+
+supports risk management and business continuity without changing existing
+development models.
+
+Resilience requires a shift from passive consumption to an 'Upstream First'
+development and security model.
+
+3. Open source Attestations as the balance factor for
+compliance and sustainability
+To bridge the gap between regulatory requirements and the reality of open source
+development, verifiable attestations offer a mechanism for continuous trust. These digital
+proofs provide secure evidence of how software components are built, tested, and secured
+throughout the supply chain.
+Supporting and standardising the use of open source attestation frameworks would:
+
+   ââ Provide a lightweight, verifiable way to demonstrate compliance with regulations like
+      the CRA.
+   ââ Enhance automation for both security and compliance tooling.
+   ââ Foster a high-trust, low-friction environment essential for the long-term sustainability
+      of open source ecosystems.
+   ââ Strengthen transparency and accountability across the software supply chain.
+   ââ Enable non-profit open source Foundations to act as neutral facilitators of attestation
+      infrastructure, leveraging their stewardship role to host, maintain, and coordinate
+      attestation frameworks in a vendor-neutral and publicly accountable manner, and
+      with instruments such as implementing act.
+
+4. Compliance enablement through open source tools
+Regulations such as the CRA introduce lifecycle security and documentation requirements
+that affect manufacturers of all sizes.
+
+Open source compliance tooling (SBOM generation, vulnerability tracking, provenance,
+license analysis) already:
+
+   ââ lowers implementation costs,
+   ââ improves transparency,
+   ââ supports automation at scale.
+
+Promoting and supporting these tools helps the industry demonstrate compliance
+efficiently, rather than adding additional burden.
+ Open Regulatory Compliance Working Group
+ European Open Digital Ecosystems
+ Date: 2026/02/03
+
+5. Reliable identification of software components
+For CRA-aligned SBOMs, identifying what exact software artefact is used is increasingly
+critical for manufacturers and integrators.
+
+Content-based, persistent identifiers such as Package-URL or SWHIDs provide:
+
+   ââ forge-independent identification,
+   ââ long-term traceability,
+   ââ improved auditability.
+
+Recognising such identifiers as best practice strengthens supply-chain security without
+imposing new development constraints.
+
+6. Responsible use of open source in AI development
+Source code is a major input for AI training, including general-purpose models. From a
+compliance and security perspective, traceability and accountability are essential.
+
+Promoting mechanisms that link generated code back to archived origins helps:
+
+   ââ reduce legal and security uncertainty,
+   ââ support regulated industries,
+   ââ maintain trust in AI-assisted development.
+
+Conclusion
+Open digital ecosystems are a strategic enabler of Europeâs technological sovereignty,
+industrial competitiveness, and regulatory effectiveness. For industry and public
+administrations alike, the challenge is no longer whether to rely on open source, but how to
+do so sustainably, securely, and at scale under emerging regulatory frameworks such
+as the Cyber Resilience Act.
+
+From ORCâs operational experience, the most effective path forward is not additional
+regulation of open source, but targeted support for the infrastructure, practices, and
+tooling that allow regulation to be implemented efficiently. We support the idea of a
+European Sovereign Tech Fund that invests in the maintenance of critical basic open
+source technologies, such as libraries or programming languages.
+
+The Open Regulatory Compliance Working Group recommends
+that the European Commission:
+   1.â Recognise open source as a Global community assetâ
+       Open source success is rooted in the global community. The European Commission
+       should embrace global cooperation, recognising that worldwide code improvements
+       benefit Europe and support essential security and compliance.â
+Open Regulatory Compliance Working Group
+European Open Digital Ecosystems
+Date: 2026/02/03
+
+  2.â Treat open source infrastructure as a strategic assetâ
+      Recognise software forges, package repositories, build systems, and archives as
+      part of Europeâs digital backbone, and support their resilience through interoperability,
+      mirroring, and contingency planning.â
+
+  3.â Strengthen continuous trust through open source attestationsâ
+      Support the standardisation and use of open source attestation frameworks that
+      provide verifiable evidence of how software components are built, tested, and
+      secured throughout the supply chain for demonstrating compliance with regulations.â
+
+  4.â Develop specific regulatory guidance supporting the activities of open source
+      Foundations as vendor neutral non-comercial actorsâ
+      Foundation-led attestation activities are explicitly recognised as trust-enabling
+      infrastructure rather than commercial compliance or certification services. Such
+      clarification â through implementing acts or guidance â is necessary to provide
+      legal certainty for not-for-profit foundations in many Member States and to avoid
+      unintended competition with commercial service providers.â
+
+  5.â Develop specific regulatory guidance supporting the activities of open source
+      Foundations as vendor neutral non-comercial actorsâ
+      Foundation-led attestation activities are explicitly recognised as trust-enabling
+      infrastructure rather than commercial compliance or certification services. Such
+      clarification, through implementing acts or guidance, is necessary to provide legal
+      certainty for not-for-profit Foundations in many Member States and to avoid
+      unintended competition with commercial service providers.â
+
+  6.â Promote interoperability and portability by designâ
+      Encourage open, documented APIs and formats that enable full project portability
+      across platforms, reducing lock-in risks and improving long-term sustainability for
+      both companies and public institutions.â
+
+  7.â Ensure Friction-Free Access to Open Standardsâ
+      With increasing regulation, all compliance standards must be available to all, free of
+      charge, and in implementation-ready formats. This is essential to prevent stifling
+      innovation and to maintain the virtuous feedback loop that underpins an open digital
+      economy and innovation.â
+
+  8.â Enable compliance through open source toolingâ
+      Actively support open source solutions for SBOMs, vulnerability management,
+      provenance, and compliance automation, ensuring that companiesâespecially
+      SMEsâcan meet regulatory requirements without disproportionate cost or
+      complexity.â
+
+  9.â Strengthen software traceability and supply-chain trustâ
+      Endorse content-based, persistent identifiers (such as Package-URL SWHIDs) as
+      best practice for identifying software artefacts in regulated environments, supporting
+      CRA implementation and long-term auditability.â
+ Open Regulatory Compliance Working Group
+ European Open Digital Ecosystems
+ Date: 2026/02/03
+
+   10.âAlign AI, software, and cybersecurity policiesâ
+       Promote responsible use of open source code in AI training by supporting traceability
+       mechanisms that enhance legal certainty, security, and trust, without limiting
+       innovation.â
+
+   11.âPromote âUpstream Firstâ development and security modelsâ
+       Encouraging maintenance and active contribution back to upstream projects,
+       because organizations contributing code capture significantly higher value and
+       security benefits than those that merely consume it.
+
+By focusing on enablement rather than enforcement, the European Commission can
+foster an open digital ecosystem where regulation becomes a shared framework for trust
+and resilience, rather than a barrier to innovation. ORCWG stands ready to continue
+contributing practical expertise, community coordination, and implementation feedback to
+support this objective.

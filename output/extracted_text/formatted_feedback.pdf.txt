@@ -1,0 +1,47 @@
+Ref. Ares(2026)435544 - 15/01/2026
+
+1. Strength, weaknesses and barriers
+
+The strength of the EU open-source sector is its vibrant community, which is more active than in
+any other region (most involvement per capita). Adoption of open-source is hampered by vendor
+lock-in from US and Chinese big-tech companies and strong lobbying. A shift to open-source in the
+public sector and the investment of part of the former license fees towards the open-source sector
+(funding developer time, infrastructure, etc) would significantly help the sector.
+
+2. Added value
+Since many projects are non-profit, all the funds invested in open-source directly contribute to
+development and provide for tax-paying European citizens (the developers), thus providing more
+direct (features and infrastructure) and indirect (taxes) public benefits than if the same amount were
+given to for-profit structures. Please refer to multi-year NGI data for more details. Because
+development is open-source there is very little risk for lock-in and the products can still used and
+improved upon if the structure behind it goes out of business or stops existing.
+
+3. Concrete measures
+
+Mandating the use of open-source solutions when they exist in the public sector (administration and
+schools) should be the main priority. Invest part of the former license fees towards the open-source
+sector, either by paying for support or directly as subsidies.
+
+4. Priorities
+
+The main priority should be the development of a sovereign mobile ecosystem, as it is currently
+dominated by the US (with Android, historically partly open-source but mostly locked by
+proprietary components from Google, and iOS, entirely proprietary). Mobile Linux with
+postmarketOS and European companies such as Jolla are potential contributors in this endeavour.
+Second priority would be a viable browser for European citizen, to ensure that web engines and
+standards are not also dominated by the Google/Apple duopoly, either by forking Firefox or by
+investing in Servo. In terms of operating systems and desktop environments, Linux is already there,
+but additional funding for accessibility would not hurt, and funding of alternatives such as BSD
+could also ensure that additional options are available. Finally while it is open-source, the secure
+communication sector is dominated by Signal, which is open-source but is US-based and has all its
+infrastructure depending on US-based big-tech platforms. Finally, please do not forget all the open-
+source libraries that are foundations of many ubiquitous tools and that every other tool therefore
+depends on, since they tend to really struggle to get funding for their crucial work.
+
+5. Sectors
+
+All sectors should move to open-source to be more resilient. Education is the most crucial sector to
+avoid lock-in of future generations (though this is currently partly unavoidable due to the headstart
+of US and Chinese big-tech). Public administrations are the second priority since this is what
+countries can change most quickly as is currently visible in Denmark and Germany, with major
+benefits for the open-source sector.

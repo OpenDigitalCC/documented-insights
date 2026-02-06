@@ -1,0 +1,176 @@
+Ref. Ares(2026)1219663 - 03/02/2026
+
+IBM feedback on the
+European Commissionâs
+Call for Evidence on an
+Open Digital Ecosystem
+
+IBM thanks the European Commission for the opportunity to provide input to the Call for
+Evidence on an initiative âTowards European open digital ecosystemsâ. IBM has been a
+strong supporter of the European Commissionâs Open Source strategy 2020-2023 and we
+welcome the initiative to build on this and expand the focus towards an open digital
+ecosystem.
+
+IBM has been a long term advocate for open technologies and open infrastructures. This
+includes our long history and strong commitment to open source which was further
+strengthened with the acquisition of RedHat. IBM is an active and leading participant in
+open source projects. IBM contributed to the foundations and success of leading open
+source foundations like the Linux Foundation, the Eclipse Foundation and the Apache
+Foundation. We regularly publish and donate key technologies to open source
+addressing all leading edge technology developments, most recently in the fields of AI
+and Quantum.
+
+IBM also has a long history of high commitment and strong participation in to open
+standards development. IBM is a leading member of European and global
+standardisation organisations and contributes at both technical and governance level.
+Open standards and open source are both key elements of open technologies and
+should be considered in their interplay for reaping full benefits for an open digital
+ecosystem.
+
+Against this background we welcome the opportunity to share some thoughts on the
+envisaged policy initiative for an open digital ecosystem focusing on the key aspects and
+questions raised in the call for evidence.
+
+The EU is a key player on
+open technologies and open-source
+Open source has been the main driving factor for innovation over the last decades. Open
+source ecosystems nourish entrepreneurship and technology progress on a broad scale.
+The EU has a very active and vivid open source sector with which IBM is connected and to
+which IBM contributes broadly. It is worth noting that a large majority of all software
+deployed in the EU today is already based on open source. A key indicator of the
+importance of open source in Europe is also the fact that the second largest open
+foundation of the world, the Eclipse Foundation, is based in Europe. Other Foundations
+have very active and effective European chapters. Moreover, success stories like
+FOSDEM, which is held annually in Brussels and is one of the most recognised Open
+Source conferences in the world, further constitute the relevance of Open Source in
+Europe and the impact of the European open source ecosystem.
+
+The EU Open Source strategy 2020-2023 provided a very good and comprehensive
+foundation for driving open source developments and the adoption in Europe. We
+support the European Commissionâs perspective to build on this and expand the open
+source strategy beyond what had been the scope so far. The principles outlined in the
+Open Source strategy 2020-2023 are, in IBMâs mind, still valid and donât require
+modification. In order to continue on this solid basis, we recommend that the European
+Commission give clear support for the definition for what constitutes open source as
+provided by the Open Source Initiative (OSI). This is important to avoid confusion with
+other, non-Open-Source software developments and licenses when moving toward an
+open digital ecosystem.
+
+From our observation, the European Commissionâs Open Source strategy did have
+positive effects in increasing the overall focus on open source. This includes the full
+scope of positive effects, both economical as a driver for innovation and collaboration, as
+well as at governance level, e.g. for enabling digital sovereignty. Many initiatives were
+founded during the last decade embracing open source as the key development model.
+These include areas like sustainability, digitisation of industry, the digital product
+passport, automotive, dataspaces, etc.
+
+Open Source is, by definition, a borderless and collaborative model that enables crowd-
+sourced quality control and interoperability across platforms. This approach ensures
+portability â allowing algorithms and applications, whether from a European provider or
+elsewhere. Open innovation must remain global, collaborative, and interoperable by
+design - avoiding geographic restrictions or lock-in that run counter to the principles of
+open source. Therefore, as part of the open digital ecosystem strategy, actions should be
+taken to encourage further participation of European players in open source
+developments and refrain from trying to create borders (e.g. refrain from promoting EU
+only developments) which would be contrary to the overall spirit and the innovative
+global network effects of open source.
+
+                                                                                          2
+Adoption and maintenance of
+high-quality and secure
+open source and sustainable
+contributions to open-source communities
+Open Source developments take place in multiple ways. They may happen ad hoc, e.g.
+with projects started on Open Source platforms which get traction and evolve into
+important software developments. The usual way for industry, whether large or small, is
+via initiating and contributing to Open Source projects managed under the governance of
+Open Source Foundations like the Linux Foundation, the Eclipse Foundation, the Apache
+Foundation, and others. These provide for maintenance, quality, security, etc.
+
+We recommend that the European Commission seeks partnership and interaction with
+these foundations for the development of an effective strategy on open digital
+ecosystems.
+
+Added value of open source
+for the public and private sectors
+Open Source software provides choice and and control. It prevents vendor lock-in.
+
+Reference and compatibility implementations in Open Source also reduce cost and effort
+by making software available for everyone to use or build on. This, in particular, supports
+SMEs in Europe who have an easier way via Open Source to benefit from and participate
+in innovation.
+
+In general, Open Source makes it easier for researchers, developers, governments, and
+businesses to develop algorithms, simulate systems, and run experiments. IBM is
+convinced that the amount of relevant innovations resulting from open source will
+further increase.
+
+                                                                                          3
+Possible concrete measures
+and actions at EU level
+to support the development
+and growth of the
+EU open-source sector and
+contribute to the EUâs
+technological sovereignty
+and cybersecurity agenda
+Open Source is a foundational element for effectively promoting technological
+sovereignty. The Openness and the ability of choice which Open Source provide are core
+aspects for technological sovereignty.
+
+Cybersecurity has been a key aspect in strong focus of Open Source developments. One
+example are the activities in the Linux Foundations OpenSSF project which addresses
+cybersecurity on a broad level and gives it continuous attention in Open Source projects
+and developments. The European Commission and ENISA are already connected to these
+activities. This interlock may be strengthened.
+
+Overall, the European Commission should establish a coordinated and structured
+interaction with the leading global Open Source foundations and organisations hosting
+Open Source projects. Via such an interaction awareness and understanding for EU
+policy needs and objectives should be created and ways for taking them into
+consideration be sought and explored.
+
+In addition, it is important for an effective open digital ecosystem and for leadership of
+the EU in open digital technologies to have a much improved set up for IT
+standardisation in Europe. The current structures are unclear as to where IT
+standardisation is done which regularly results in competing efforts. Nor are the
+processes available today favourable for effective IT standards development including
+interaction with open source communities and enabling the easy and straight forwards
+implementation of standards in open source. A distinct place and distinct process for
+open digital standards development in Europe is needed.
+
+Technology areas and
+possible prioritisation
+Open Source has overall been the major driving factor for innovation across multiple
+sectors for more than 15 years. From an EU policy perspective, technology areas that are
+
+                                                                                             4
+of key strategic importance for Europe should increase their consideration and support
+for Open Source. We recommend that this be done in close interaction with industry who
+provide the bulk expertise to Open Source. Without good software developers from
+industry a broad Open Source strategy will not be successful.
+
+Sectors where an increased use
+of open source could lead
+to increased competitiveness
+and cyber resilience
+Digitisation is a central need for Europeâs competitiveness. Given the relevance Open
+Source already has today regarding the actually deployed software in Europe, it must be
+expected that this increases further and across all sectors. It is, therefore, hard to pick
+individual sectors. It may even be counter-productive to reduce focus on specific sectors.
+A broad approach is needed.
+
+Concluding remarks
+IBM welcomes the considerations about an initiative promoting open digital ecosystems.
+We see strong potential that this can build on the European Commissionâs open source
+strategy and at the same time continue it and bring it to a new level regarding the
+awareness of open source and its potential and critical impact for innovation as well as
+promote the participation in and adoption of open source technologies throughout
+different sectors and organisations.
+
+IBM is ready to support the European Commission on this path, drawing from our long
+experience with and investment into open technologies. IBM believes that the benefits
+from open digital ecosystems are huge and respond very much to current challenges and
+technology needs. We are ready anytime for further exchanges on the topic.
+
+                                                                                           5

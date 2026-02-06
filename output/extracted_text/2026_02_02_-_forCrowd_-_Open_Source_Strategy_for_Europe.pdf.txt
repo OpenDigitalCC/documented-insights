@@ -1,0 +1,238 @@
+Ref. Ares(2026)1160371 - 02/02/2026
+
+Subject: Input for the call for evidence of the European Open Digital Ecosystems
+Date: 02 February 2026
+
+3. What concrete measures and actions may be taken at EU level to support the
+development and growth of the EU open source sector and contribute to the EUâs
+technological sovereignty and cybersecurity agenda?
+Europe has the opportunity to address its digital sovereignty concerns, attract top
+tech companies, and boost innovation across the continent by adopting a long-term
+open source strategy.
+
+Open Source Tax
+Open source software (OSS), a unique intersection of private initiatives and public
+goods, offers well-recognized benefits1-2-3-4-5. However, these goods are chronically
+underfunded and underproduced due to a coordination failure known as the Free
+Rider Problem: a lack of contracts and price signals leads OSS consumers to not
+know how much to pay back or whether to pay at all.
+
+1
+  The Open Source Impact Study by OpenForum Europe in collaboration with Fraunhofer ISI
+2
+  Open Source as Europeâs Strategic Advantage by Linux Foundation
+3
+  Global Digital Compact by the United Nations
+4
+  The Value of Open Source Software by Harvard Business School
+5
+  Open source software and global entrepreneurship by Nataliya Langburd Wright, Frank Nagle, Shane
+Greenstein
+
+                                                                                                     1
+We propose addressing this market failure by introducing a new consumption tax,
+âOpen Source Taxâ, on the sale of proprietary solutions, akin to the value-added tax.
+
+                                                                                            â
+
+A Progressive Open Source Strategy for Europe
+Our strategy proposal is closely aligned with OpenForum Europeâs (OFE) European
+Sovereign Tech Fund (EU-STF) initiative. Taking their report as a base, our proposal
+can be summarized as:
+
+   ââ Establish EU-STF.
+   ââ Implement a 1% Open Source Tax on proprietary solutions, and use the
+      revenue to fund EU-STF.
+   ââ Distribute funds back into the EU's open source sector in a data-driven,
+      transparent, and reliable way.
+   ââ Gradually increase the tax rate to shift resources from proprietary to the open
+      source side.
+
+With this structure, while the coordination (Free rider) problem is still addressed
+through a centralized tax approach, OSS production remains in private initiatives,
+preserving free-market dynamics.
+While the strategyâs primary objective is to expand the EU open source sector, its
+secondary objective is to expand the global open source sector, which, in turn,
+indirectly benefits the EU by increasing the availability of open source solutions.
+
+                                                                                        2
+In our proposal, we specifically focus on the software layer. However, the strategy
+can be extended to cover other relevant areas, such as AI models 6-7, social media
+platforms, cloud, hardware/design, and content, while accounting for the unique
+features of each.
+Below are the detailed actions to implement this strategy.
+
+1. Build EU-wide Software Inventory
+As proposed by OFE (Action #1: Mapping and Identifying OSS Dependencies), the
+first action is to map software dependencies across the EU and identify which
+proprietary and open source solutions the public and private sectors rely on.
+Having this inventory is critical for multiple reasons:
+
+    ââ Security: To identify the most critical components in the supply chain,
+       allowing the resilience efforts to be focused.
+    ââ Benchmark: To track the impact of the policy initiatives (Cyber Resilience Act,
+       public procurement adjustments, EU-STF) in the constantly changing tech
+       landscape, and to determine whether proprietary dependencies increase or
+       decrease over time.
+    ââ Funding: To use this dataset, particularly information on how many
+       organizations use which OSS, to implement a data-driven funding mechanism.
+
+A few remarks regarding the inventory:
+
+    ââ The inventory should be publicly available, potentially anonymized and
+       aggregated, so that any 3rd party can review the dataset.
+    ââ Data can be collected either by directly obtaining Software Bill of Materials
+       from individual organizations or by working with app stores and package
+       managers.
+    ââ The dataset should be updated regularly to enable tracking of changes over
+       time.
+    ââ Data collection could start in public-sector organizations and expand to the
+       private sector through volunteer participation.
+
+2. Establish European Sovereign Tech Fund
+Establish a dedicated EU-wide fund to finance the open source sector, as outlined in
+the OFE proposal.
+
+6
+  Beyond AI and copyright by Paul Keller / Open Future Foundation, calls for a similar structure for the
+AI ecosystem.
+7
+  AI Should Help Fund Creative Labor by Mariana Mazzucato & Fausto Gernone, as another similar
+example.
+
+                                                                                                       3
+3. Introduce Open Source Tax
+Introduce a 1% Open Source Tax on all proprietary solutions sold within the EU as a
+revenue source for the EU-STF, instead of a fixed budget. To prevent protectionism,
+the tax should also apply to proprietary solutions produced within the EU.
+The Open Source Tax, similar to Value Added Tax (VAT), should be collected at the
+point of sale. However, unlike VAT, the Open Source Tax should not be subject to tax
+deductions.
+The long-term goal is to shift resources and the market from proprietary to open
+source solutions. The Open Source Tax would push both software companies and
+consumers towards open source and create a cycle by reallocating resources:
+
+    ââ With the added tax, the proprietary side becomes more expensive, while each
+       sale generates revenue for open source alternatives.
+    ââ Stable, proportional revenue would give the EU open source sector the
+       financial capacity to build more mature solutions.
+    ââ Due to higher costs, consumers of proprietary solutions have a stronger
+       incentive to seek open source alternatives.
+
+While implementing this strategy, the signal to software companies should be to
+gradually open source their solutions and compete in the open source market, as
+resources will shift to OSS over time.
+
+4. Distribute Funds via Data-Driven Funding
+Financing a growing open source market would require a âprogressiveâ, data-driven
+funding structure to achieve scalability.
+The required funding structure is similar to that of digital platforms such as YouTube
+or Spotify, where the content creators earn direct income based on the popularity of
+their content. For example, the online video-sharing platform YouTube distributed
+approximately $20 billion to around 87 million content creators in 2024, thanks to its
+scalable funding infrastructure 8-9-10.
+In the context of EU-STF, while the fundâs revenue will be Open Source Tax, the fund
+should be distributed to any EU-based legal entity that produces OSS.
+Metrics: The primary metrics for the fund distribution should be the software's
+âusageâ information (how many European organizations rely on that particular OSS),
+as will be revealed by the EU-wide inventory, and âsoftware size/complexityâ.
+
+8
+  âYouTube generated $36.1 billion revenue in 2024â
+9
+  âYouTube then takes 45%â
+10
+   â87 million YouTube Creatorsâ
+
+                                                                                       4
+There may be additional weights in the formula, such as âIndustry,â which favors
+critical sectors like healthcare and finance.
+No strings attached: The only purpose of this funding structure is to address the
+market failure around OSS and to achieve coordination between producers and
+consumers. Therefore, payments should be made on a âno strings attachedâ basis.
+No discrimination: Similarly, the fund should not discriminate against any field of
+endeavor or party that can legally operate within the EU.
+Long-term: This strategy should be implemented with a long-term commitment (e.g.,
+5 years or more) to ensure the EU open source sector can rely on this income.
+EU-only: The EU-STF should primarily finance the EU's open source sector. Member
+States could be expected to have different Open Source Tax rates. In that case, there
+should be a proportionality between the country contributing the most to the EU-STF
+and the country receiving the largest share of the fund, to avoid the free rider
+problem at the country level.
+Regarding the non-EU aspect, the EU-STF should be used to incentivize software and
+technology companies to relocate to the EU.
+From a supply chain security perspective, the fund should also prioritize critical open
+source dependencies outside the EU, but only within a limited budget.
+Open governance: The fund's processes and data should be transparent, including
+the algorithm, decision-making process, number of funded solutions, and so on. The
+fund should serve as a blueprint, enabling other countries to adopt Europe's strategy.
+
+5. Gradually Shift To Open
+Once the initial structure is established, increase the Open Source Tax by 1%
+annually and gradually shift resources from the closed-source to the open source
+sector.
+As explained above, in this cycle, greater financial resources on the open source side
+would lead to more mature solutions, pushing the software market and consumers
+toward open source. Overall, this cycle offsets increased taxes through lower license
+fees and subscription costs.
+Software companies in the EU can respond to this strategy by building open source
+alternatives to their proprietary products and competing in the EU open source
+market.
+Software companies outside the EU should be invited to relocate to the EU or asked
+to lobby to adopt Europeâs open source strategy in their respective countries.
+
+                                                                                      5
+As this process unfolds, with proprietary solutions decreasing and open source
+solutions increasing, revenue from the Open Source Tax will stop growing once a
+certain threshold is reached.
+This critical milestone means that the majority of the software industry has shifted
+towards open source. âSoftwareâ becomes a public good.
+To continue financing âsoftwareâ production, the consumption tax must now be
+applied to a broader base, to all downstream use.
+
+Reviewing strategy outcomes
+Here is a brief review of each partyâs options and potential outcomes.
+
+Software consumer in the EU
+[Primary objective] As proprietary solutions become more expensive to purchase,
+software consumers in the EU will always have the option to turn to maturing open
+source solutions.
+
+Software company in the EU
+[Primary objective] Similarly, the software companies in the EU can respond to this
+strategy by building open source alternatives to their proprietary products and start
+competing in the EU open source market.
+
+Software company outside the EU
+If software companies outside the EU want to respond to the growing European open
+source sector, they will have two options:
+
+   ââ [Primary objective] Relocate their business to the EU and start competing in
+      the EU open source market.
+   ââ [Secondary objective] Lobby in their country to adopt Europeâs open source
+      strategy, implement a public fund with a dedicated tax structure, thereby
+      expanding the global open source sector.
+
+Conclusion
+As concerns over Europeâs heavy reliance on proprietary solutions grow, Europe has
+the potential to turn this situation to its advantage by adopting a progressive,
+long-term strategy and building a market for open source solutions. A successfully
+implemented strategy could enable the EU to achieve its digital sovereignty goals,
+transform the EU into an open source hub, and become a model for other regions to
+follow.
+
+                                                                                        6
+Thank you for evaluating our proposal. We have briefly outlined our position on what
+concrete actions should be taken to systematically grow the EUâs open source
+sector. Please do not hesitate to contact us if you require further information. We
+look forward to working with EU institutions, open source communities, and relevant
+stakeholders to implement this strategy.
+
+Serkan Holat
+forCrowd
+Email: contact@forcrowd.org
+Web: https://forcrowd.org
+Address: Keurenplein 4, Box A3230, 1069CD Amsterdam, Netherlands
+KVK number: 66403278
+
+                                                                                   7

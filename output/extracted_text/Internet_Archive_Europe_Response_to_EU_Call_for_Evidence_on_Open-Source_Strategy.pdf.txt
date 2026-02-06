@@ -1,0 +1,241 @@
+Ref. Ares(2026)1209924 - 03/02/2026
+
+            Internet Archive Europe Response
+                   EU Call for Evidence
+                on Open-Source Strategy
+Submitted by: Internet Archive Europe
+Date: February 2025
+Reference: European Open Digital Ecosystems Initiative
+
+About Internet Archive Europe
+The Internet Archive Europe is part of a network of non-profit digital libraries spanning the US,
+Europe, and Canada, all dedicated to providing universal access to knowledge. Our work embodies
+both open source and open access principles: we rely on open source software to build and
+maintain our infrastructure, and we provide open access to the digital materials we
+preserveâincluding websites, books, audio, video, images, and software.
+
+Since 1996, the Internet Archive has been collecting and preserving the World Wide Web, providing
+free public access through the Wayback Machine. This work depends entirely on open source tools
+for web crawling, data processing, and access systems. Operating at web scaleâbillions of pages
+collected over decadesâwe have developed deep expertise in building open infrastructure that
+works effectively across the entire internet. We contribute to and maintain numerous open source
+projects for digital preservation, ensuring these tools remain available to memory institutions
+worldwide.
+
+Our commitment to openness extends beyond software to the content we preserve. We provide
+free, unrestricted access to our collections, enabling researchers, educators, journalists, and the
+public to access historical versions of websites, out-of-print books, and other materials that might
+otherwise be lost or inaccessible. National libraries and archives across Europe and beyond rely on
+our open access collections and open source tools as critical infrastructure for their own
+preservation missions. This combination of open source infrastructure and open access to
+knowledge demonstrates that openness is not just technically superiorâit is essential for serving
+the public interest.
+
+                                                                                                       1
+Introduction
+We welcome the European Commission's call for evidence on strengthening the EU's open-source
+sector. Internet Archive Europe strongly supports open source as a foundation for preserving and
+providing universal access to knowledge. Our submission focuses on three interconnected areas
+where open source principles directly enable our mission: web archiving and preservation,
+development of AI models and tools, and ensuring public access to knowledge resources.
+
+1. What are the strengths and weaknesses of the EU
+open-source sector?
+
+Strengths
+
+Open Infrastructure for Knowledge Preservation: Europe has been very active in the development
+of strong open source tools and standards for digital preservation, including web archiving
+software, such as Heritrix (web crawler), OpenWayback, and various WARC processing utilities,
+metadata standards, and interoperability protocols
+
+Collaborative Research Infrastructure: European research institutions have built robust open
+source ecosystems for data science, machine learning, and digital humanities. This collaborative
+approach enables smaller institutions and civil society organisations to access sophisticated tools
+without prohibitive licensing costs.
+
+Standards Development: The EU's emphasis on open standards has created strong foundations for
+interoperability in digital preservation and access systems.
+
+Weaknesses and Barriers
+
+Sustainability of Niche Preservation Tools: Specialised tools for digital preservation, web archiving,
+and cultural heritage often lack sustained funding and maintenance. These tools are critical
+infrastructure for memory institutions but may not have obvious commercial applications.
+
+Fragmented Approaches to AI Model Development: There is insufficient coordination between
+efforts to build open AI models and the need for high-quality, openly accessible training data.
+Large-scale web archives, digitised books, and cultural heritage collections could serve as valuable
+training resources but are often underutilised due to legal uncertainty and technical barriers.
+
+Access Restrictions: Overly restrictive interpretations of copyright and database rights sometimes
+prevent the use of archived web content for training AI models, even when such use would advance
+research and innovation without harming rights holders. This creates an imbalance where
+commercial entities with legal departments can navigate these complexities more easily than
+academic and civil society organisations.
+
+                                                                                                    2
+2. What is the added value of open source for public and
+private sectors?
+
+For Digital Preservation and Memory Institutions
+
+Cost-Effective Scale: Web archiving at internet scale requires processing billions of web pages.
+Open source tools enable organisations to build and maintain these capabilities at a fraction of the
+cost of proprietary solutions. For example, the Wayback Machine and similar tools at national
+libraries rely fundamentally on open source software stacks.
+
+Long-Term Accessibility: Proprietary formats and closed systems risk creating "digital dark ages"
+where content becomes inaccessible as vendors change or disappear. Open source ensures that
+preserved digital content remains accessible across generations, as the tools needed to access it can
+be maintained and updated indefinitely.
+
+Transparency and Trust: Memory institutions serve as trusted custodians of cultural heritage. Open
+source software allows these institutions to demonstrate exactly how they collect, process, and
+provide access to materials and to establish standard protocols and methods while doing so. This
+contributes to building public trust in these critical functions.
+
+For AI Development and Research
+
+Tensors as the New Code: The Case for Open Source AI
+
+Tensors, the numerical weights of neural networks, have become the functional equivalent of
+executable code, encoding capabilities learned from vast datasets rather than explicit programming
+logic. Just as the open source movement recognized that software freedom requires access to
+source code, meaningful openness in AI demands access to model weights, training code, and
+datasets.
+
+Model weights alone are insufficient: true reproducibility, auditing, and community-driven
+improvement require the complete trilogy of open models, open training code, and open data.
+Without open datasets, we cannot verify model capabilities, audit for biases, or enable researchers
+and smaller organizations to train competitive models.
+
+The concentration of computational resources and proprietary datasets in a few hands threatens to
+create an AI oligopoly. To preserve the democratic innovation that made software flourish, we must
+advocate for complete AI transparency, open weights, open code, and open data.
+
+Training Data Transparency: Web archives, digitised books, and other cultural heritage materials
+provide rich, diverse datasets that can improve model quality and reduce bias. When both the
+models and the training data are open, researchers can understand, audit, and improve AI systems.
+
+                                                                                                   3
+Enabling Innovation: Smaller research institutions, startups, and civil society organisations can
+participate in AI development when they have access to both open source tools and open training
+datasets. This democratises innovation and ensures that AI development reflects diverse
+perspectives rather than only the interests of large commercial entities.
+
+For Universal Access to Knowledge
+
+Removing Barriers: Open source software and open access to digital collections work together to
+provide universal access to knowledge. When libraries, archives, and educational institutions use
+open source systems, they can share tools, reduce costs, and extend access to underserved
+communities.
+
+Cross-Border Collaboration: Open source enables European institutions to collaborate across
+national boundaries without vendor lock-in or compatibility issues. A French researcher can use
+tools developed in Germany to access collections held in Poland, all built on shared open source
+infrastructure.
+
+3. What concrete measures may be taken at EU level?
+
+Support Open Source Digital Preservation Infrastructure
+
+   1. Establish sustained funding mechanisms for critical open source tools used in digital
+      preservation and web archiving. These tools form essential infrastructure for memory
+      institutions but often rely on volunteer maintainers or sporadic project funding.
+   2. Create a European Digital Preservation Commons that brings together national libraries,
+      archives, and research institutions to collaboratively develop and maintain open source
+      preservation tools.
+
+Enable Responsible Use of Archived Content for AI Training
+
+   3. Clarify legal frameworks to explicitly permit the use of web archives and digitised cultural
+      heritage collections for training AI models, provided such use respects the non-commercial
+      nature of preservation and does not substitute for access to original works.
+   4. Develop technical standards and tools for making web archives accessible to AI researchers
+      while implementing appropriate safeguards (e.g., respecting robots.txt for historical
+      snapshots, excluding sensitive content).
+   5. Support the creation of high-quality, openly licensed training datasets derived from
+      European cultural heritage collections. These datasets would give European AI developers
+      access to diverse, multilingual content while demonstrating European leadership in
+      responsible AI development.
+
+Promote Open Access to Knowledge Infrastructure
+
+                                                                                                4
+   6. Mandate open source requirements in public funding for digital library and archive
+      infrastructure. When public funds create digital collections and access systems, the tools
+      should be openly available for reuse.
+   7. Support interoperability standards that enable seamless access across European digital
+      collections, building on existing initiatives like Europeana but ensuring the underlying
+      infrastructure remains open and accessible.
+   8. Recognise web archiving as critical infrastructure deserving of public support comparable to
+      physical libraries and archives. The internet is now the primary medium for publishing and
+      communication; preserving it openly should be treated as a public good.
+
+4. What technology areas should be prioritised?
+From Internet Archive Europe's perspective, the following areas deserve priority:
+
+Web Archiving and Preservation Technologies: Tools for large-scale web crawling, WARC
+processing, content extraction, format migration, and long-term digital preservation. These
+technologies ensure that Europe's digital cultural heritage remains accessible.
+
+Natural Language Processing and AI for Cultural Heritage: Open source NLP tools and models
+trained on European languages and cultural materials. This includes OCR for historical documents,
+entity recognition for archival materials, and translation tools that work well with historical and
+regional language variants.
+
+Access and Discovery Systems: Open source search, browsing, and recommendation systems
+designed for digital collections. These systems should respect privacy, avoid manipulative design
+patterns, and enable genuine discovery rather than merely optimising engagement.
+
+Data Processing and Analysis Tools: Open source tools that enable researchers to analyse
+large-scale web archives and digital collections, including computational social science, digital
+humanities, and network analysis capabilities.
+
+5. In what sectors could increased use of open source lead to
+increased competitiveness and cyber resilience?
+Cultural Heritage and Memory Institutions: Open source provides the foundation for efficient,
+sustainable, and trustworthy digital preservation. As more cultural content moves online, open
+source tools enable institutions to adapt quickly without vendor dependencies.
+
+Research and Education: Open source reduces barriers to entry for research, enables
+reproducibility, and allows smaller institutions to participate in cutting-edge work. When combined
+with open access to training data from archives and collections, this creates a powerful engine for
+European innovation in AI and data science.
+
+                                                                                                 5
+AI Development: Europe can differentiate itself by building AI systems with transparent training
+data and open source foundations. Web archives and cultural heritage collections provide unique
+training resources that, when openly available, enable the development of models that reflect
+European values and languages.
+
+Public Infrastructure: Government websites, educational platforms, and public service systems built
+on open source can more easily share improvements, respond to security issues collectively, and
+avoid vendor lock-in. Using archived web content to train models that improve public services
+creates additional value from preservation efforts.
+
+Conclusion
+Internet Archive Europe urges the European Commission to recognise that open source software
+and open access to preserved digital content are mutually reinforcing elements of digital
+infrastructure. Support for open source must extend beyond traditional software development to
+include the specialised tools and systems that enable universal access to knowledge.
+
+By clarifying legal frameworks for using archived web content in AI training, supporting the
+maintenance of digital preservation tools, and promoting open access to European cultural heritage
+as training data, the EU can advance multiple policy objectives simultaneously: strengthening open
+source ecosystems, enabling responsible AI development, preserving cultural heritage, and ensuring
+universal access to knowledge.
+
+Open source is not only about technology: it is about ensuring that knowledge remains accessible,
+that innovation remains possible, and that the public interest remains at the center of digital
+infrastructure. Internet Archive Europe stands ready to contribute our expertise in web-scale
+archiving and preservation to these important objectives.
+
+Contact Information:
+Internet Archive Europe
+
+Julien Masanes
+julien@internetarchive.eu
+
+                                                                                                 6

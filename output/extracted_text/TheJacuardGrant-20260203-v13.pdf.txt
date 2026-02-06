@@ -1,0 +1,246 @@
+Ref. Ares(2026)1213903 - 03/02/2026
+
+                                                  On
+                               Building Capacity and Capability for
+                                 Open Source and Civic Software
+                               Sustainability and Digital Sovereignty
+                                              in Europe
+
+I would like to personally thank the Commission for this opportunity to provide feedback and
+evidence on the strategic open source strategy that is developed. I would like to focus on one
+very narrow aspect - that of capacity and capability building -- of ensuring that the Europe of
+Tomorrow has what it needs to maintain and further the digital infrastructure it so crucially relies
+on in general, and by extension its open digital ecosystem.
+
+And to make this practical - I would like to do this in the form of a very practical proposal -- the
+creation of the Jacquard Grant. That 1) exposes students to Open Source and Standards
+widely, 2) creates an European Open Source Excellence Centre (EOSEC) to work on
+OpenSource & Civic Software that 3) allows a smaller group of academic students to get
+hands-on experience in open source to prepare them in their career and 4) provides Europe
+with a strategic knowledge capture on the open source that is crucial to a modern, open and
+democratic, society.
+                                               Summary
+
+In short -- Europe is getting behind on generating the Capacity and Capability needed to sustain
+the Open Source, the Digital Commons and related Civic software needed by society. Upcoming
+legislation, such as the CRA, NIS2, PLD and DORA only make this need more pressing - we
+simply lack the people and skills.
+
+To build the required capacity and capability - this proposal for the Jaquard grant as a key
+element of the European Open Digital Ecosystems strategy is to ensure that at least 1% of
+graduates in Europe that enter the workplace in IT in 2025, shall have made a meaningful &
+sustainable contribution to open source software that makes up 95% of the software used at a
+European- or a National-institution or is in common use at EU-SMEs.
+
+The Jacquard grant consists of 5 interlocking elements that address this issue at its core:
+
+    1.â A travel & subsistence grant for any student1 to attend a known open source conference2
+        in the EU once during their study;
+    2.â A grant for any student in the last 2 years of their study to present a talk or poster at up
+        to three such conferences;
+    3.â An opportunity to train and undertake work experience of 3 months, on-site, at any
+        European Open Source Excellence Centre (EOSEC) to work on OpenSource & Civic
+        Software; with grant covering travel & subsistence;
+    4.â One or two such EOSEC centres staffed by established âopen source developers in
+        residenceâ on a one-year secondment/fellowship and;
+    5.â A set of operational tasks (such as nightly builds, bug fixing, integration tests,
+        maintenance) at EOSEC that help build European Sustainability and Digital Sovereignty
+        with regard to open source software in general and civic software in particular - and does
+        so by contributing to the existing global open source efforts.
+
+1
+  Intentionally not limiting this to STEM students; for example; a UI/UX or graphics designer,
+documentation/language specialist, cyber-forensics, or accountant/lawyer (e.g. as currently so key to our
+ISO-27001 & audit space that the CRA further drive) is just as valuable.
+2
+  To be clarified as FOSDEM, Libre&FÃªte, esLibre, foss4g-it, DevConf-Brno, FrOSConf, etc (some
+sensible subset of https://foss.events/ with > 250 participants & opensource.org aligned)
+                                              Context
+
+Society, and especially democratic society, is increasingly dependent on open standards and
+open source software3. Over 95% of the software that `runsâ in Europe is open source. Open
+Source software underpins virtually everything: from being the core of the internet to transport,
+news, governments, taxes, education, water, sewage and energy.
+
+Open Source software is maintained by a loose, global, coalition of volunteers and companies.
+With open source software now nearly half a century old, the question of sustainability and
+ensuring sufficient capacity and capability in society to maintain and further this digital commons
+becomes important.
+
+The first two generations of Open Source creators are now retiring, just as society's reliance on Open
+Source software has reached an enormous scale. And this reliance is starting to exceed both the
+capacity and capability being fed into the market by the European educational system.
+
+And this is made more complex by modern IT not just needing STEM engineers; but also
+requiring a deep understanding of open source by, for example, auditors, security, forensic,
+legal- and cyber-experts. Along with a growing reliance in the embedded, manufacturing and
+IoT market on open source adding demand.
+
+Secondly - increasingly, society is placing new demands on this loose, global, coalition of
+volunteers and companies that exceed the current informal frameworks (e.g. the CRA).
+
+Thirdly - increasingly law and regulation is embodied in code. And with that - the ability of a
+democracy to be sovereign is increasingly dependent on the substrate of (open source)
+software being conducive to implementing a democratic vision. This requires code to be
+conceived and maintained within that same culture and vein.
+
+It is therefore essential for Europe to create not just centers of excellence with knowledge
+-about- open source; but to also start pro-actively stabilizing, maintaining and securing those
+parts of the digital commons that matter to it; and with processes informed by the needs of
+Europe. In general; but also specifically for civic software. As the latter is generally so unique
+that it does not command a commercial market of its own.
+
+The Jacquard grant tries to address a subset of this problem; that of creating, and ensuring
+Europeâs access, to additional capacity and capability at the root; during that inflection moment
+in which young professionals start to specialize.
+
+3
+ Hoffmann, Manuel and Nagle, Frank and Zhou, Yanuo, The Value of Open Source
+Software (January 1, 2024). Harvard Business School Strategy Unit Working Paper No.
+24-038, Available at SSRN: https://ssrn.com/abstract=4693148 or
+http://dx.doi.org/10.2139/ssrn.4693148
+                             The Jacquard Programme - in 5 actions
+
+For this the following 5 actions are proposed:
+
+#1 - Integrate a new generation into the global network that maintains the internet
+
+While modern STEM education often uses free- and open source software -- it does not expose
+students to the culture and network that is key to open source software and the internet. An
+informal, yet key professional network, that is of importance for both 1) the students professional
+career and 2) for Europe its command of sufficient resources to keep shaping open source
+software.
+
+For this reason - the programme is to provide a travel & subsistence grant for any student to
+attend a well-known open access, open source conference once during their study. (Note that
+key open source conferences in Europe; such as FOSDEM, are often gratis (in general or for
+such students).
+
+In practical terms - this is envisioned as a simple capped4 travel and per diem payment paid
+post event. With a `stampâ or some similar face to face contact at a Jacquard Booth (or parallel
+event) at the conference. This face to face element is to be in a position to help create an influx
+of 'funnelâ for activity 3 -- the capture of talent for the summer schools.
+
+#2 - Build the next generation of leaders
+
+For a small group of students (typically in STEM in general, and computer science, AI and
+cyber-studies in particular) it is essential that they are able to present the fruits of their work;
+new innovation and ideas, not just to the academic community as research - but also to the
+wider community where it has direct impact on new technology and where it can be applied.
+And where they can build a personal network which allows them to participate in open-source &
+disseminate that innovation.
+â
+So this aspect of the proposal is to provide this group with a path to implementing their
+(academic/university originating) innovation and ideas directly - and (as these conferences are
+generally EU-SME dominated) disseminated directly to the industry.
+
+In practical terms - this programme would likely feed into activity 5 (support of the EU
+infrastructure) -- with a copy of the paper, post or presentation submitted for 'open accessâ to
+European Open Source Excellence Centre (EOSEC); and with the latter doing annual or
+quarterly publications and statistics on this.
+
+4
+  E.g. absolute; or simply as a fixed amount per km between domicile/place of learning of the student &
+the event.
+And this would also serve as a source, of funnel, for staff at the OESEC in activity #4 (the
+creation of a centre of excellence); to provide the needed bench-strength and long term stability
+to the `open source developers in residenceâ (much like post-grads and post-doc are currently
+cycled on capped, 1-3 year contracts through, for example, European Institutions such as the
+Joint Research Centres, ESA, ENBL, ESO, ESRF/ILL, EFDA or ENISA).
+
+#3 - Build Capacity and Capability - for industry and society
+
+Few, if any students (even those studying computer engineering), get much exposure to actual,
+professional, at-scale, processes and methods of internet-scale software engineering.
+
+Yet it is that very skill that society (and future) employers clamor for. Even if a future employer is
+small or an SME - it is essential for their staff to understand open source, at-scale, software
+engineering; in order to select and maintain the myriad of software that SME relies on. Skills
+which the SME does neither have access to; and is too small to build in-house.
+
+Open Source software provides an opportunity for such students5 to directly, and meaningfully,
+participate in these types of processes. And get, at the tail end of their study, first hand
+experience with the best-of-breed / industry best practices that permeate the software industry
+(and where Europe generally is behind the curve). And in this way - enter the market better
+prepared; helping uplift (SME and) industry.
+
+For this - the programme should provide an opportunity to train and undertake a practical work
+experience of at least 3 months, on-site, at any European Open Source Excellence Centre
+(EOSEC) to work on OpenSource and Civic Software; with grant covering travel & subsistence.
+
+The reason for the on-site aspect is that in Software Engineering, building capacity and
+capability is first and foremost a human effort; highly reliant on social and human interaction. It
+needs a relatively large group of people that intensively cooperates and collaborates; with a
+very fast feedback loop. This is also the reason for keeping the number of sites (initially) limited;
+to get sufficient scale at those sites.
+
+It also allows for things such as having a steady flow of appearances and presentations by well
+known engineers or scientists; not so much for knowledge transfer; but for inspiration and
+thought leadership.
+
+The practical work will typically focus on things such as maintenance, bug fixes, security fixes,
+build and test automation, automated tests, audits, documentation and other relatively
+junior/entry tasks. That requires both a bulk effort (something that is hard to sustain delivery in
+an open source community - and hence welcome) and a long term stable commitment with
+
+5
+ It may be attractive/appropriate to offer this to a slightly wider group of young people - e.g. those that are
+under the age of 30 and have had at least 3 years of work experience developing software; but never
+attended a formal education in a relevant field.
+regard to resources and maintenance (again; something hard to build in a volunteer open
+source community).
+
+In practice; this system would likely consist of batches of students for 3 or 6 months blocks of
+time (with a 50% overlap); with the EOSEC providing a simple distance based travel stipend at
+start and finish, housing and a small per diem. Ideally the location would be attractive; but not
+distracting -- e.g. it should be such that students are likely to stay near and interact with each
+other, form a network that furthers their future career -- both during `office hoursâ and outside.
+
+#4 - Capture, Sustain and Further existing Capacity and Capability
+
+Both the internet, and the open source that developed in tandem, is now about half a century
+old - and- has grown from a small effort to something that permeates almost all economic
+endeavors. This age means that the initial two or three generations of volunteers are rapidly
+becoming unavailable. And with that, structured access to their knowledge, experience and
+ability to maintain the international open source community. And secondly - it means that the
+number of people needed to keep sustaining this growing software stack, is only growing.
+
+For this reason - this programme tries to capture as much knowledge and experience from the
+existing open source experts - and transfer this on to the next generation. It does this by staffing
+the European Open Source Excellence Centre (EOSEC) with established âopen source
+developers in residenceâ on a year (or max 2 years) secondment/fellowship (much like existing
+temporary research fellowships at the EUâs institutions).
+
+And then having these fellows work with the students during their 3 month practical work period
+on the very open source they are an expert in. Thus introducing these students into the social
+network, culture, habits, technology and dynamics of `theirâ open source projects. And ensuring
+that the work done by students is meaningful, furthers the fields and help build European
+capacity and capability in a new generation.
+
+#5 - Strategic support for European Sustainability and Digital Sovereignty
+
+While open source methodologies and its `volunteeringâ culture have served the industry well --
+there is a large set of key, long term, activities that are not well suited to a loose cadre of
+engineers. Such as automated testing, validation, verification, fixes of small bugs, release
+packaging, menial-improvements, cleanups and so on. And if these are done - they are
+currently typically funded by (big) tech industry. Against a set of needs, requirements and
+commercial strategic realities which are not necessarily aligned with long term needs, the needs
+of Europe and the use of open source in civic software.
+
+Secondly - there is a dearth of knowledge in Europe as to what open source is used in general,
+and, more specifically, know which open source software is key to our economic and democratic
+processes.
+So the final prong of the Jacquard programme is to strategically support the needs of open
+source in Europe. By identifying needs (in particular of national and local public institutions); and
+creating things such as nightly tests, builds, implementations of regulation and so on. And pair
+this with activity 3 (so students get meaningful, actual, production experience) making use of the
+expertise from activity 4.
+
+Over time - as regulation and legislation increasingly becomes `codeâ -- it is likely that this will
+include the open source needed for cross border legislation. With an additional focus on
+maintaining things like taxonomies and transformations needed in the medical,
+travel/car/transport and GIS world. All things that are key to not yet well maintained in Europe in
+a collective way.
+
+It is likely that this is also conducive to implementing things such as Cyber Resilience Act and
+the GDPR.

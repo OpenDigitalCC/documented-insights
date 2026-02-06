@@ -1,0 +1,522 @@
+Ref. Ares(2026)570697 - 19/01/2026
+
+Response to the European Union's call for contributions
+"Towards free European digital ecosystems"
+
+Introduction
+Open Source represents a strategic opportunity for Europe to strengthen its
+technological sovereignty, competitiveness and cyber resilience. As an
+entrepreneur and investor involved in the Open Source ecosystem, I propose
+an ambitious roadmap focused on three key levers:
+
+1.    Quadrupling the Linux user base in Europe in four years (from 16
+million to 64 million users).
+
+2.   Raise awareness of open source among the general public through
+targeted campaigns and public-private partnerships.
+
+3.   Develop European Linux support and terminal companies to meet
+growing demand and build a sustainable ecosystem.
+
+1. Strengths and weaknesses of the open source sector in the
+EU â Barriers to adoption and sustainable contribution
+
+Strengths
+â¢     Collaborative innovation: The EU is home to dynamic communities
+(KDE, Nextcloud, etc.) and flagship projects such as Blender (3D) and
+Mastodon (decentralised social networks), which demonstrate Europe's
+capacity for innovation.
+
+â¢    Technological sovereignty: Open source reduces dependence on non-
+European players (e.g. migration of French administrations to Linux, such as
+the Gendarmerie nationale).
+
+â¢      Security and transparency: Open code allows for independent audits,
+limiting the risk of backdoors (e.g. Signal, Matrix for secure messaging).
+
+â¢     Controlled costs: Reduction in software licences for SMEs and local
+authorities (e.g. City of Munich, estimated savings of several million euros
+with LiMux).
+
+                                                                                         1
+Weaknesses and barriers
+â¢     Lack of visibility: The general public still associates open source with a
+solution "for experts". Awareness campaigns are rare and poorly
+coordinated.
+
+â¢    Fragmentation of efforts: Multiple Linux distributions and projects, with
+no unified European leader (unlike Red Hat in the United States).
+
+â¢     Lack of mature support companies: Few European players offer
+professional services comparable to Red Hat or SUSE, slowing down adoption
+in businesses.
+
+â¢    Cultural barriers: CIOs are wary of the absence of a "single point of
+responsibility" (e.g. concerns about maintenance or hardware compatibility).
+
+â¢     Insufficient funding: Contributions from European companies to open
+source projects remain low compared to GAFAM (e.g. only 5% of contributors
+to the Linux kernel are European).
+
+â¢      Legal complexity: Uncertainties about licences (e.g. GPL) and
+intellectual property deter some organisations.
+
+Specific barriers
+â¢     Adoption: Lack of training for end users and system administrators.
+
+â¢   Maintenance: Difficulty in sustaining projects without a clear business
+model.
+
+â¢     Sustainable contributions: European companies contribute little in
+terms of code or human resources, preferring to consume rather than
+participate.
+
+2. Added value of open source for the public and private
+sectors
+
+Public sector
+â¢    Cost reduction: E.g. Italy saved â¬50 million/year by migrating 8,000
+workstations to Linux (Bolzano region).
+
+                                                                                   2
+â¢      Security: E.g.: Germany uses Kolab for its sovereign emails, avoiding the
+risks of espionage.
+
+â¢     Interoperability: E.g.: The EU's OSOR portal facilitates the sharing of
+solutions between administrations.
+
+Private sector
+â¢     Competitiveness: SMEs using open source software reduce their costs
+by 20-30% (European Commission study, 2022).
+
+â¢     Avoiding lock-in: E.g.: OVHcloud uses OpenStack to offer an
+alternative to AWS/Azure.
+
+â¢     Agility: E.g.: Blablacar and Doctolib rely on open source stacks to scale
+quickly.
+
+â¢    Cybersecurity: E.g.: Asterisk (IP telephony) enables companies to
+control their voice infrastructure.
+
+Key factors for assessing added value
+  Factor            Concrete example                       Impact
+                                                40% reduction in software
+Cost        MAIF migration to Linux
+                                                costs
+            Using Keepass (password
+Risk                                            Reducing data leaks
+            management)
+            Adoption of Nextcloud by            Independence from Microsoft
+Lock-in
+            Rennes University Hospital          365
+                                                Adopted by Firefox and
+Innovation Rust (secure language)
+                                                Microsoft (!)
+                                                Rapid fixes thanks to the
+Security    OpenSSL (despite Heartbleed)
+                                                community
+
+3. Concrete measures to support open source in the EU
+
+To quadruple the Linux base in 4 years
+â¢   Public awareness campaign: "Linux is simple", "Linux is free" with
+ambassadors (e.g. partnerships with tech influencers, actors, journalists, etc.).
+
+                                                                                3
+â¢      Pre-installation: Require manufacturers to offer a Linux option on PCs
+sold in the EU (as Dell does with Ubuntu).
+
+â¢    Training: Integrate open source into school curricula (e.g. Class'Code in
+France) and create European certifications (e.g. "EU Certified Linux
+Administrator").
+
+â¢     Tax incentives: Tax credits for companies migrating to open source.
+
+To raise awareness
+â¢     Public events: Organise a "Free Software Month" in European capitals,
+with workshops in shops.
+
+â¢     Media: Documentary series on the "heroes" of European Open Source
+
+â¢    "Open Source Friendly" label: For committed companies and
+administrations.
+
+To develop support companies
+â¢     European Investment Fund: â¬500 million to finance European scale-
+ups
+
+â¢    Reserved calls for tenders: Reserve 20% of public IT contracts for open
+source solutions with local support.
+
+â¢      Network of centres of excellence: Create regional hubs (e.g. a "CERN
+for Free Software").
+
+4. PrioritÃ© technology areas
+            Area                             Why?
+                            Reduce dependence on
+Operating systems
+                            Windows/macOS
+Cloud/Sovereignty           Avoid AWS/Azure dominance
+                            Strengthen resilience against
+Cybersecurity
+                            cyberattacks
+                            Democratise access to tools (e.g.
+AI/Big Data
+                            alternatives to TensorFlow)
+Health                      Securing medical data
+Education                   Equipping schools with free software
+
+                                                                                4
+Conclusion: A roadmap for Europe
+
+The EU must step up its efforts by:
+
+1.   Setting a clear target: 64 million Linux users by 2029 (1 in 7
+Europeans)
+
+2.  Making open source visible and desirable through high-impact
+campaigns.
+
+3.   Creating European support champions.
+
+Concrete proposal: Launch an "Open Source Plan for Europe" with a
+budget of â¬2 billion per year, combining subsidies, training and
+communication. This plan could be led by a European Free Software
+Agency, in partnership with the Free Software Foundation Europe and
+actors such as APELL (European Professional Free Software Association).
+
+                                                                          5
+                         M
+
+         M
+
+                             g
+
+         (
+
+    0                    g
+
+%                M
+    (M               .   (
+
+%
+
+             4
+
+                                 
+%
+
+%   Ã¨                       M
+
+%
+
+%   Ã´
+                W       Ã 
+
+%
+                W           M
+
+%   .       (
+
+%   Ã´
+                            4pÃ´p
+
+%   Ã¨               4
+
+v
+%   p
+
+%       (
+
+                                   
+%       Ã¨
+
+%
+                                      u
+
+%                M       p
+
+%
+
+%       C
+                             (
+
+%       Ã®
+             :       :
+
+%       r            u            S
+
+%       C                    :
+
+    0                g
+C                                pÃ´
+
+             (
+            p
+            Ã¨W
+
+                                          
+                                p   Ã´
+
+                                Ã¨
+                    W
+
+                                        g
+
+%   v
+
+%
+    Ã¨       M           (
+
+%   0
+Ã¨   Ã¨   Ã´
+p                   M
+
+%               Ã¨
+
+%   -
+
+%
+
+%               0
+
+%   0                       (
+
+%
+
+                                            
+%                                    Ã¨
+Ã¨M
+
+     (
+                 (
+
+v                        Ã                        p   p
+v
+                         (
+             (
+                                             Ã´
+
+                         Ã 
+-
+
+v                                        g
+
+     M
+
+         0
+
+         v
+
+                                                         4
+                                                             Ã¨
+
+                     0       0           g
+     g           p               M
+
+                                                                 
+Antwort auf den Aufruf der EuropÃ¤ischen Union zur
+Einreichung von BeitrÃ¤gen âAuf dem Weg zu freien
+europÃ¤ischen digitalen Ãkosystemenâ
+
+Einleitung
+Open Source stellt fÃ¼r Europa eine strategische Chance dar, seine
+technologische SouverÃ¤nitÃ¤t, WettbewerbsfÃ¤higkeit und Cyber-Resilienz zu
+stÃ¤rken. Als Unternehmer und Investor, der sich im Open-Source-Ãkosystem
+engagiert, schlage ich einen ehrgeizigen Fahrplan vor, der sich auf drei
+wichtige Hebel konzentriert:
+
+1.   Vervierfachung der Linux-Nutzerbasis in Europa innerhalb von vier
+Jahren (von 16 auf 64 Millionen Nutzer).
+
+2.   Steigerung des Bekanntheitsgrades von Open Source in der breiten
+Ãffentlichkeit durch gezielte Kampagnen und Ã¶ffentlich-private
+Partnerschaften.
+
+3.   Aufbau europÃ¤ischer Unternehmen fÃ¼r Linux-Support und -
+EndgerÃ¤te, um der steigenden Nachfrage gerecht zu werden und ein
+nachhaltiges Ãkosystem zu schaffen.
+
+1. StÃ¤rken und SchwÃ¤chen des Open-Source-Sektors in der EU â
+Hindernisse fÃ¼r die EinfÃ¼hrung und nachhaltige Mitwirkung
+
+StÃ¤rken
+â¢     Kollaborative Innovation: Die EU beherbergt dynamische Communities
+(KDE, Nextcloud usw.) und Vorzeigeprojekte wie Blender (3D) oder Mastodon
+(dezentrale soziale Netzwerke), die die InnovationsfÃ¤higkeit Europas unter
+Beweis stellen.
+
+â¢     Technologische SouverÃ¤nitÃ¤t: Open Source verringert die AbhÃ¤ngigkeit
+von auÃereuropÃ¤ischen Akteuren (z. B. Migration franzÃ¶sischer BehÃ¶rden zu
+Linux, wie die Gendarmerie nationale).
+
+                                                                           1
+â¢     Sicherheit und Transparenz: Offener Code ermÃ¶glicht unabhÃ¤ngige
+Audits und begrenzt das Risiko von HintertÃ¼ren (z. B. Signal, Matrix fÃ¼r
+sichere NachrichtenÃ¼bermittlung).
+
+â¢   Kontrollierte Kosten: Reduzierung der Softwarelizenzen fÃ¼r KMU und
+Kommunen (z. B. Stadt MÃ¼nchen, geschÃ¤tzte Einsparungen in HÃ¶he von
+mehreren Millionen Euro mit LiMux).
+
+SchwÃ¤chen und Hindernisse
+â¢    Mangelnde Sichtbarkeit: Die breite Ãffentlichkeit assoziiert Open
+Source immer noch mit einer LÃ¶sung âfÃ¼r Expertenâ.
+Sensibilisierungskampagnen sind selten und wenig koordiniert.
+
+â¢    Fragmentierung der BemÃ¼hungen: Vielzahl von Linux-Distributionen
+und Projekten ohne einheitlichen europÃ¤ischen MarktfÃ¼hrer (im Gegensatz
+zu Red Hat in den USA).
+
+â¢    Mangel an ausgereiften Support-Unternehmen: Nur wenige
+europÃ¤ische Akteure bieten professionelle Dienstleistungen an, die mit Red
+Hat oder SUSE vergleichbar sind, was die EinfÃ¼hrung in Unternehmen
+bremst.
+
+â¢     Kulturelle Barrieren: Misstrauen der IT-Leiter gegenÃ¼ber dem Fehlen
+eines âeinzigen Verantwortlichenâ (z. B. BefÃ¼rchtungen hinsichtlich Wartung
+oder HardwarekompatibilitÃ¤t).
+
+â¢    Unzureichende Finanzierung: Die BeitrÃ¤ge europÃ¤ischer Unternehmen
+zu Open-Source-Projekten sind im Vergleich zu den GAFAM nach wie vor
+gering (z. B. sind nur 5 % der Mitwirkenden am Linux-Kernel EuropÃ¤er).
+
+â¢    Rechtliche KomplexitÃ¤t: Unsicherheiten hinsichtlich Lizenzen (z. B. GPL)
+und geistigem Eigentum schrecken einige Organisationen ab.
+
+Spezifische Hindernisse
+â¢    EinfÃ¼hrung: Mangelnde Schulung der Endnutzer und
+Systemadministratoren.
+
+â¢     Wartung: Schwierigkeit, Projekte ohne klares GeschÃ¤ftsmodell
+langfristig aufrechtzuerhalten.
+
+                                                                              2
+â¢      Nachhaltige BeitrÃ¤ge: EuropÃ¤ische Unternehmen leisten nur geringe
+BeitrÃ¤ge in Form von Code oder Personal und ziehen es vor, zu konsumieren
+statt sich zu beteiligen.
+
+2. Mehrwert von Open Source fÃ¼r den Ã¶ffentlichen und privaten
+Sektor
+
+Ãffentlicher Sektor
+â¢     Kostensenkung: Beispiel: Italien hat durch die Umstellung von 8.000
+ArbeitsplÃ¤tzen auf Linux (Region Bozen) 50 Millionen Euro pro Jahr
+eingespart.
+
+â¢     Sicherheit: Beispiel: Deutschland nutzt Kolab fÃ¼r seine souverÃ¤nen E-
+Mails und vermeidet so Spionagerisiken.
+
+â¢    InteroperabilitÃ¤t: Beispiel: Das EU-Portal OSOR erleichtert den
+Austausch von LÃ¶sungen zwischen Verwaltungen.
+
+Privatwirtschaft
+â¢    WettbewerbsfÃ¤higkeit: KMU, die Open Source nutzen, senken ihre
+Kosten um 20 bis 30 % (Studie der EuropÃ¤ischen Kommission, 2022).
+
+â¢     Vermeidung von Lock-in: Beispiel: OVHcloud nutzt OpenStack, um
+eine Alternative zu AWS/Azure anzubieten.
+
+â¢    AgilitÃ¤t: Beispiel: Blablacar und Doctolib setzen auf Open-Source-
+Stacks, um schnell skalieren zu kÃ¶nnen.
+
+â¢    Cybersicherheit: Beispiel: Asterisk (IP-Telefonie) ermÃ¶glicht es
+Unternehmen, ihre Sprachinfrastruktur zu kontrollieren.
+
+SchlÃ¼sselfaktoren fÃ¼r die Bewertung des Mehrwerts
+  Faktor          Konkretes Beispiel                Auswirkung
+Kosten     Umstellung der MAIF auf Linux   -40 % der Softwarekosten
+           Verwendung von Keepass
+Risiko                                     Reduzierung von Datenlecks
+           (Passwortverwaltung)
+           EinfÃ¼hrung von Nextcloud durch UnabhÃ¤ngigkeit von Microsoft
+Lock-in
+           das UniversitÃ¤tsklinikum Rennes 365
+
+                                                                              3
+             Rust (sichere                     Von Firefox und Microsoft (!)
+Innovation
+             Programmiersprache)               Ã¼bernommen
+                                               Schnelle Korrekturen dank der
+Sicherheit OpenSSL (trotz Heartbleed)
+                                               Community
+
+3. Konkrete MaÃnahmen zur UnterstÃ¼tzung von Open Source in
+der EU
+
+Vervierfachung der Linux-Basis innerhalb von vier Jahren
+â¢      Kampagne fÃ¼r die breite Ãffentlichkeit: âLinux ist einfachâ, âLinux
+ist freiâ mit Botschaftern (z. B. Partnerschaft mit Tech-Influencern,
+Schauspielern, Journalisten usw.).
+
+â¢    Vorinstallation: Hersteller dazu verpflichten, eine Linux-Option fÃ¼r in
+der EU verkaufte PCs anzubieten (wie Dell es mit Ubuntu tut).
+
+â¢     Ausbildung: Integration von Open Source in die LehrplÃ¤ne (z. B.
+ClassâCode in Frankreich) und Schaffung europÃ¤ischer Zertifizierungen (z. B.
+âEU-zertifizierter Linux-Administratorâ).
+
+â¢    Steuerliche Anreize: Steuergutschriften fÃ¼r Unternehmen, die auf
+Open Source umsteigen.
+
+Zur Steigerung der Bekanntheit
+â¢    Veranstaltungen fÃ¼r die breite Ãffentlichkeit: Organisation eines
+âMonats der freien Softwareâ in den europÃ¤ischen HauptstÃ¤dten mit
+Workshops in GeschÃ¤ften.
+
+â¢    Medien: Dokumentarserie Ã¼ber die âHeldenâ der europÃ¤ischen Open
+Source
+
+â¢    Label âOpen Source Friendlyâ: FÃ¼r engagierte Unternehmen und
+Verwaltungen.
+
+Zur FÃ¶rderung von Support-Unternehmen
+â¢    EuropÃ¤ischer Investitionsfonds: Mit 500 Millionen Euro zur
+Finanzierung europÃ¤ischer Scale-ups
+
+â¢   Reservierte Ausschreibungen: 20 % der Ã¶ffentlichen IT-AuftrÃ¤ge fÃ¼r
+Open-Source-LÃ¶sungen mit lokalem Support reservieren.
+
+                                                                               4
+â¢     Netzwerk von Kompetenzzentren: Schaffung regionaler Hubs (z. B.
+ein âCERN fÃ¼r freie Softwareâ).
+
+4. Vorrangige Technologiebereiche
+          Bereich                            Warum?
+                            Verringerung der AbhÃ¤ngigkeit von
+Betriebssysteme
+                            Windows/macOS
+                            Die Dominanz von AWS/Azure
+Cloud/SouverÃ¤nitÃ¤t
+                            vermeiden
+                            StÃ¤rkung der WiderstandsfÃ¤higkeit
+Cybersicherheit
+                            gegenÃ¼ber Cyberangriffen
+                            Demokratisierung des Zugangs zu
+KI/Big Data                 Tools (z. B. Alternativen zu
+                            TensorFlow)
+Gesundheit                  Sicherung medizinischer Daten
+                            Ausstattung von Schulen mit freier
+Bildung
+                            Software
+
+Fazit: Ein Fahrplan fÃ¼r Europa
+
+Die EU muss einen Gang hÃ¶her schalten, indem sie
+
+1.   Ein klares Ziel festlegt: 64 Millionen Linux-Nutzer bis 2029 (1 von 7
+EuropÃ¤ern)
+
+2.  Open Source durch wirkungsvolle Kampagnen sichtbar und
+begehrenswert macht
+
+3.   europÃ¤ischer Vorreiter im Bereich Support schafft
+
+Konkreter Vorschlag: Start eines âOpen-Source-Plans fÃ¼r Europaâ mit
+einem Budget von 2 Mrd. â¬ pro Jahr, der Subventionen, Schulungen und
+Kommunikation kombiniert. Dieser Plan kÃ¶nnte von einer EuropÃ¤ischen
+Agentur fÃ¼r freie Software in Zusammenarbeit mit der Free Software
+Foundation Europe und Akteuren wie der APELL (Association
+Professionnelle EuropÃ©enne du Logiciel Libre) geleitet werden.
+
+                                                                             5

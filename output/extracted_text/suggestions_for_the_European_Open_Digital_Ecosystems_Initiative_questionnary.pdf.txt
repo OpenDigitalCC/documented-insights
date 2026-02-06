@@ -1,0 +1,132 @@
+Ref. Ares(2026)1225573 - 03/02/2026
+
+Strengths & weaknesses of the EU open-source sector?
+
+Strengths
+
+   â¢   Low total cost of ownership â Proxmox VE, Backup Server and Mail Gateway are 100 %
+       open-source and have no hidden licensing fees, allowing organisations to replace expensive
+       proprietary stacks with a single, integrated solution.
+    â¢ No vendor lock-in â Customers can run the software on any hardware and can submit patches
+      to add additional functionality that automatically benefits all others.
+    â¢ High transparency â code can be inspected, audited and improved by anyone.
+    â¢ Large, active developer community that drives rapid innovation and bug-fixes.
+
+Added value of open source for public & private sectors?
+
+                            Why it matters                            Concrete example
+                 No licence fees, lower total cost of
+                                                      Enterprises pay only for support subscriptions
+                 ownership. Reduces CAPEX and
+Cost                                                  while the software itself is provided through the
+                 OPEX, especially for SMEs and
+                                                      open-source licences.
+                 public administrations.
+Risk & security Source code is publicly auditable,
+                                                      Proxmoxâs 100% open-source nature allows
+                 enabling quicker vulnerability
+                                                      users to inspect security patches immediately.
+                 detection and remediation.
+Vendor lock-in Freedom to move workloads
+                                                      Proxmox open-source stack can be run on any
+                 between providers or on-premises
+                                                      hardware that supports Linux kernels.
+                 without re-architecting.
+                 Community contributions add
+                 features faster than closed-source
+                                                      The Proxmox community regularly contributes
+                 road-maps. Keeps the stack
+Innovation                                            very specific ideas for enhancements, because
+                 up-to-date with emerging
+                                                      they can access the source code.
+                 technologies without waiting for a
+                 vendor roadmap.
+                 Open Source simplifies integration Proxmoxâs REST API, source code access, hooks
+Interoperability
+                 with existing tools and software.    and much more.
+
+Concrete EU-level measures & actions
+
+   â¢   Dedicated maintenance grants for critical open-source infrastructure to ensure long-term
+       security updates.
+   â¢   Tax credits or subsidies for companies that contribute code or fund development of
+       complementary modules.
+   â¢   Standardised open-source procurement guidelines that recognize 100 % open-source solutions
+       without hidden licensing fees.
+   â¢   EU-wide certification programme for open-source security to build trust in sovereign-cloud
+       stacks.
+   â¢   Training & up-skilling programmes (EU-funded bootcamps) focused on important infrastructure
+       software like Proxmox Virtual Environment.
+   â¢   Prioritise open-source alternatives whenever they are available and demonstrably fundable
+       for long-term use â this leverages the inherent cost-efficiency and vendor-independence of
+       open-source solutions.
+   â¢   Legislation and regulation must not discourage small or emerging open-source projects,
+       overly restrictive rules push innovators toward non-EU investors, undermining the EUâs
+       strategic goal of technological sovereignty. The EU should therefore create a regulatory
+       environment that lowers entry barriers for nascent projects while still ensuring security and
+       compliance.
+
+What technology areas should be prioritised and why?
+
+The EUâs most effective way to achieve digital sovereignty is to secure the underlying infrastructure
+first, rather than concentrating only on end-user-oriented services.
+
+Proxmox Virtual Environment (VE) demonstrates how an open-source, software-defined stack can
+replace proprietary hyperscalers while delivering all the capabilities needed for a sovereign
+infrastructure.
+
+If the EU were to fund and standardise similar open-source solutions across the infrastructure layer, it
+could build a sovereign cloud that matches the functionality of the large hyperscalers without being
+locked into vendors that have little incentive to support open-source alternatives.
+
+Focusing on this foundational layer also reduces the âdevil-on-the-wallâ narrative that proprietary
+players use to discourage open-source adoption. By promoting proven, open technologies like
+Proxmox VE, the EU can:
+
+   â¢   Retain control over data and services â No hidden licences or vendor-specific APIs.
+   â¢   Lower total cost of ownership â The software is free, only support contracts are optional,
+       which keeps budgets predictable.
+   â¢   Accelerate innovation â The open code base allows rapid security patches and feature
+       extensions, unlike the slower release cycles of many commercial stacks.
+
+In short, securing the infrastructure with open-source platforms such as Proxmox VE is the pragmatic
+foundation for an EU-wide sovereign infrastructure, while end-user initiatives can build on top of that
+trusted base.
+
+In what sectors could an increased use of open source lead to increased competitiveness and cyber
+resilience?
+
+Public administration
+Low-cost, vendor-neutral virtualization and backup allow ministries to run mission-critical services
+on-premise while keeping full control over data and security updates.
+
+Healthcare
+Secure, isolated virtual machines for electronic health records combined with encrypted backups
+protect patient data and meet GDPR/medical-device regulations. This also eases collaboration
+between medical communities which drives innovation and better healthcare for all EU citizens.
+
+Manufacturing & Industry 4.0
+Edge-compute nodes powered by Proxmox VE provide real-time control of production lines, the
+integrated backup server guarantees rapid recovery from ransomware or hardware failure.
+
+Telecommunications
+Open-source virtualisation enables telcos to build private 5G or edge-cloud platforms without being
+locked into proprietary hypervisors, improving service agility and reducing CAPEX. Securing the
+telecommunication stack is also very important for any meaningful sovereignty ambitions.
+
+Financial services
+Keeping the infrastructure of our financial institutions save and secure should be top priority, again
+having independent and auditable infrastructure in this sector is the basis for any meaningful cyber
+resilience.
+
+Defense & security
+A sovereign, fully auditable stack removes dependence on foreign vendors, supports classified
+workloads in isolated VMâs, and allows rapid patching of vulnerabilities, critical for national defence
+cyber-resilience.
+
+Energy & utilities
+Distributed SCADA and monitoring systems can run on Proxmox VE clusters, benefitting from built-in
+high-availability and disaster-recovery to keep critical infrastructure online during attacks or outages.
+
+Feel free to adapt these bullet points to your own experience or to add specific case studies.
+Submitting concise, product-focused examples will make the EU consultation more impactful.

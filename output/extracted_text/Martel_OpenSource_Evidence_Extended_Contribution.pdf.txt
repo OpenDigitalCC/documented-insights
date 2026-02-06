@@ -1,0 +1,107 @@
+Ref. Ares(2026)1147667 - 02/02/2026
+Martel Innovate â                                                 Dr Monique Calisti, January 2026
+
+Extended Contribution: Towards a Sovereign Industrial Open Source Policy
+
+From: Dr. Monique Calisti, CEO, Martel Innovate
+
+Subject: Transitioning from Grassroots Support to a Sovereign Industrial Open Source Policy
+
+Preamble: A Legacy of Building European Foundations
+
+Martel Innovateâs contribution is grounded in a deep-rooted history of building the very foundations
+of European open digital ecosystems. We do not just advocate for open source; we live it.
+
+    â¢   Architectural Legacy: Key members of the Martel team, including our CIO Dr. Giovanni
+        Rimassa, were among the original creators of JADE (Java Agent DEvelopment Framework).
+        JADE remains one of the worldâs most successful open-source agent middleware, proving our
+        ability to build AI-based software that survives and scales for decades.
+
+    â¢   Operational Commitment: Martel leads by example, deploying open-source software like
+        Odoo to run our corporate operations and Nextcloud for secure collaboration. By using open
+        source to run our business, we ensure our own digital sovereignty and avoid the vendor lock-
+        in of global proprietary giants.
+
+    â¢   Modern Leadership: This legacy continues through our driving role in FIWARE, our Orchestra
+        Cities platform, and our coordination of strategic initiatives like EUCloudEdgeIoT.eu, NGI
+        Commons, and Next Generation Open Source, besides direct collaboration with leaders like
+        the SUSE, Eclipse Foundation, OW2, Apell, Linux Foundation Europe and RedHat.
+
+    â¢   Technical Excellence in Projects: In our research and innovation projects, we utilize a
+        professional open-source stackâincluding Kubernetes, Docker, Prometheus, and Open
+        Policy Agent (OPA)âto build enterprise-grade, transparent, and auditable solutions for our
+        partners.
+
+1. The "European" Open Source Paradox: Governance over Geography
+
+Open Source has no boundaries by definition. A strategic "European" approach must be defined by
+Strategic Autonomy and Governance, not the origin of the code.
+
+    â¢   Sovereignty of Governance: A project is "European" if its roadmap is governed by transparent,
+        multi-stakeholder frameworks anchored in EU legal values. This prevents any single non-EU
+        entity from unilaterally changing licenses or "unplugging" critical technology.
+
+    â¢   Economic Retention: "Buying European" means investing in the local ecosystem of SMEs and
+        experts who provide maintenance and customization. This keeps economic value and
+        expertise within our borders.
+
+2. Maintenance and Sustainability: The Bedrock of Cybersecurity
+
+A major blind spot in current funding is the focus on "new" features over the maintenance of existing
+foundations.
+
+    â¢   Investing in Resilience: Cybersecurity is not a one-time patch; it is a continuous process of
+        maintenance. Many critical European infrastructures rely on open-source libraries that are
+        underfunded or maintained by volunteers.
+Martel Innovate â                                                    Dr Monique Calisti, January 2026
+
+    â¢   The Proposal: The EU must treat open-source maintenance as a strategic investment in
+        cybersecurity. Directing funds toward the professionalized maintenance of core libraries is
+        the most cost-effective way to reduce systemic vulnerabilities across the continent.
+
+3. Living Hubs: Lowering Barriers via Coordination
+
+Technology alone is not enough; we need the social and organizational glue to make it accessible.
+
+    â¢   Strategic Coordination and Support Actions (CSAs): We advocate for the creation of "Living
+        Hubs", dedicated coordination actions that act as mobilizers for both public and private
+        organizations.
+
+    â¢   The Role of Hubs: These hubs should grow awareness, provide technical and legal "help
+        desks," and lower the barrier to entry for SMEs who may fear the complexity of open-source
+        licensing or governance. They serve as the bridge between developers and industrial adopters.
+
+4. Concrete Policy Levers for Market Transformation
+
+    â¢   Public Procurement Reform: Procurement must favor open source by default and separate
+        software costs from service/support costs. This empowers local SMEs to compete with global
+        proprietary giants.
+
+    â¢   Fiscal Incentives: We recommend tax deductions for European companies that transition to
+        or actively contribute to sovereign open-source stacks.
+
+    â¢   Education: Integrate open-source governance into core digital training to build a workforce
+        capable of managing industrial-grade open digital ecosystems.
+
+5. Realizing Autonomy: Beyond "Bragging" Against Big Tech
+
+Regulation is a defensive tool; Open Source is an offensive strategy. The Commission has spent years
+regulating Big Tech, yet our dependency has only increased. The only path to reducing this
+dependency is to provide more competitive, sovereign alternatives. By treating open source as a
+strategic industrial asset, the EU can build an auditable foundation immune to foreign vendor lock-in.
+
+6. Regarding the EuroStack initiative, Martel Innovate views it as a necessary but high-risk ambition.
+For it to succeed, it must avoid the trap of 'political protectionism.' A sovereign stack cannot be built
+top-down by decree; it must be earned through technical excellence and developer experience. We
+believe EuroStackâs role should be that of a curator and guarantor of interoperability, rather than a
+creator of redundant tools. It should focus on the 'unglamorous' but vital work of ensuring that
+diverse, best-of-breed European open-source componentsâfrom cloud-native infrastructure to AIâ
+actually work together seamlessly at an industrial grade.
+
+Conclusion:
+
+Martel Innovate stands ready to help the EC move from "Open Source as a Research Topic" to "Open
+Source as an Industrial Policy." By focusing on maintenance, coordination hubs, and SME
+empowerment, Europe can finally turn its technical excellence into digital sovereignty.
+
+Dr. Monique Calisti CEO, Martel Innovate

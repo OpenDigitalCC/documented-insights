@@ -1,0 +1,249 @@
+Ref. Ares(2026)1225663 - 03/02/2026
+
+Free ICT Europe Position Paper
+Consultation: Towards European Open Digital Ecosystems
+
+1. Introduction and Overall Positioning
+Free ICT Europe welcomes the European Commissionâs initiative to develop a European
+Open Digital Ecosystem Strategy, recognising open source hardware and software as a
+strategic pillar for Europeâs technological sovereignty, cybersecurity, sustainability and
+competitiveness. We strongly support the Commissionâs ambition to move beyond
+fragmented initiatives and to address structural barriers that prevent open digital solutions
+from scaling and capturing economic value within the European Union.
+
+However, Free ICT Europe emphasises that open source alone is not sufficient to deliver
+digital sovereignty or fair competition. The core challenge faced by European public and
+private users is commercial dependency, not merely the use of proprietary technology.
+Dependency arises when software vendors combine restrictive licensing, bundled support
+models, opaque contractual terms, short support lifecycles and obstacles to make
+adjustments by the users; that in all to prevent resale, reuse, independent maintenance and
+third-party innovation.
+
+Where user applications, like âofficeâ clearly have open source alternatives, for the large
+software applications the challenge is bigger; huge investments made, stability of
+operations, risk calculations are some elements that will at least delay the development of
+both the software and support market.
+
+For hardware the use of open source operating systems should be made possible, this will
+reduce dependency, extend life-cycles and decouple the support requirement. In general no
+hardware or software restrictions that enforce proprietary OS.
+
+To further develop an Open Digital Ecosystem, analysis of the vendor driven market is
+needed as lessons learned.
+
+After decades where vendors had more or less complete freedom in their market, the
+solution should not only focus on open source, though also address that dependencies
+should be reduced and increased protection for European organisations that use and own
+the systems and applications.
+
+From the perspective of Free ICT Europe, a genuinely open digital ecosystem must therefore
+address software as an economic and infrastructural asset throughout its full lifecycle,
+including:
+
+                                          Page 1 of 7
+   â¢   initial development and deployment,
+   â¢   long-term maintenance and security support,
+   â¢   resale and reuse of used software in secondary markets,
+   â¢   and end-of-support transition to third-party or community-based maintenance.
+
+Without these elements, Europe risks replacing one form of dependency with another,
+including new lock-ins around âopen but commercially closedâ ecosystems.
+
+2. Market Analysis: Structural Challenges in the European Software
+Ecosystem
+2.1 Concentration, Lock-in and Lifecycle Control
+
+The European software market is characterised by high concentration and strong network
+effects, particularly in operating systems, enterprise applications, databases and cloud-based
+workplace environments. SaaS based distribution of software results in less consumer
+control and an increased vendor lock-in. Dominant global vendors retain control not only
+over software code, but also over:
+
+   â¢   licensing models (shift from perpetual to a more expensive subscription),
+   â¢   access to updates and security patches,
+   â¢   audit practices and compliance enforcement,
+   â¢   Forced hardware upgrades, software wonât run otherwise,
+   â¢   and end-of-support timelines.
+
+As documented by Free ICT Europe members, support lifecycles have been progressively
+shortened (from 10â12 years to 5â7 years in many cases), forcing premature migrations and
+hardware replacement, increasing costs and electronic waste, and undermining
+sustainability objectives.
+
+Under a subscription model clients have to upgrade in the vendor's timeline... if they don't
+they are still paying for the right to use without the support and can't stop paying else they
+lose their right-to-use.
+
+This control structure limits the ability of European SMEs, public authorities and refurbishers
+to extend software and hardware lifetimes, even where systems remain technically fit for
+purpose.
+
+                                          Page 2 of 7
+2.2 Software Resale and the Secondary Market
+
+An Open Source product is not free of charge. It will only become mature if there is the
+business case in supply and especially support. Hence companies will need to offer
+supported versions and optional support under a licence or a subscription.
+
+ECJ case law has established that used software can constitute as an asset eligible for resale
+(if a copy or downloaded software has a perpetual use license, this must be considered as
+âsale of goodsâ), yet in practice the secondary software market remains legally and
+commercially fragile. Obstacles include:
+
+   â¢   contractual clauses restricting licence transfer,
+   â¢   vendor refusal to provide updates or security patches to secondary users,
+   â¢   lack of recognised quality standards or codes of conduct,
+   â¢   and widespread market distrust caused by fraudulent or non-functional offers.
+
+Despite these challenges, the secondary market is strategically important for:
+
+   â¢   affordability for SMEs and public bodies,
+   â¢   sustainability and lifecycle extension,
+   â¢   competition and price discipline in primary markets.
+
+An open digital ecosystem must therefore explicitly recognise and legitimise secondary
+software markets.
+
+2.3 Open Source: Opportunities and Limits
+
+Free ICT Europe fully recognises the value of open source for transparency, innovation and
+resilience. At the same time, market experience shows that:
+
+   â¢   many organisations still perceive open source as risky due to unclear accountability
+       and support models;
+   â¢   commercial open-source ecosystems can recreate lock-in through exclusive support
+       or certification schemes;
+   â¢   and security outcomes depend less on licence type than on governance,
+       organisational maturity and long-term maintenance capacity;
+   â¢   (independent) ICT providers do not have a clear business case related to open
+       source, while a business model is needed for wider market adoption, especially for
+       the private sector.
+
+Open source should therefore be understood as one instrument within a broader openness
+framework, not as a binary alternative to proprietary software.
+
+                                          Page 3 of 7
+Hence, Free ICTâs emphasis that attention for open source is a needed step, though, the
+market needs reduced vendor control and dependencies that will be covering the
+proprietary market, crucial for sovereignty, cybersecurity, sustainability and
+competitiveness.
+
+3. Free ICT Europeâs Core Policy Positions
+3.1 Software Must No Longer Be Treated as a âBlack Boxâ
+
+Free ICT Europe strongly argues that software can no longer be treated as an untouchable
+âblack boxâ governed solely by vendor-defined terms.
+
+Software acts as a digital key controlling access to hardware functionality, data, and
+organisational processes.
+
+Where users have paid for software licenses or subscriptions, the EU should ensure:
+
+   â¢   meaningful control over its lifecycle,
+   â¢   freedom to change support providers,
+   â¢   and the ability to reuse or resell software assets lawfully.
+
+This principle aligns directly with EU objectives on competitiveness, sustainability and
+strategic autonomy.
+
+3.2 Separation of Software Ownership and Support
+
+A cornerstone of an open digital ecosystem is the decoupling of software ownership from
+vendor-control. Free ICT Europe advocates that:
+
+   â¢   users who lawfully own software licences must be free to obtain maintenance and
+       support from third parties;
+   â¢   vendors should not use access to security updates as a leverage mechanism to
+       enforce commercial dependency;
+   â¢   security patch access should be guaranteed for the useful lifetime, which would be
+       10 to 12 years, not just the controlled refresh cycle (and irrespective of support
+       provider).
+
+This principle is particularly relevant in the context of the Cyber Resilience Act, where long-
+term security obligations are already recognised.
+
+                                           Page 4 of 7
+3.3 âSecond-Life Software Supportâ After End-of-Support
+
+When vendors unilaterally terminate support for widely deployed software, valuable digital
+assets risk becoming unusable or insecure. Free ICT Europe therefore proposes a âsecond-
+lifeâ mechanism, whereby:
+
+   â¢   upon vendor end-of-support of a product or software version, essential technical
+       interfaces (APIs, protocols, documentation) and, where feasible, source code are
+       made available. Eventually under controlled conditions or with contracts in place
+       with third parties;
+   â¢   this enables independent European providers to deliver continued maintenance,
+       security and compatibility support;
+   â¢   preserving value for users while reducing forced migrations and waste.
+
+This approach does not eliminate proprietary business models, but balances intellectual
+property with societal and economic interests.
+
+4. Recommendations to the European Commission
+4.1 Strategic Recognition of Software Lifecycle Openness
+
+The Open Digital Ecosystem Strategy should explicitly recognise:
+
+   â¢   Used software license resale,
+   â¢   freedom of choice for provider and (third-party) support,
+   â¢   and an open market for post-vendor maintenance
+   â¢   Provide funding support for Open Source Maintainers
+
+as legitimate and desirable components of a competitive European digital economy.
+
+4.2 Funding and Governance Support
+
+EU funding instruments should:
+
+   â¢   support sustainable governance models for open-source and hybrid software;
+   â¢   include maintenance, documentation and long-term support as eligible costs;
+   â¢   facilitate collaboration between developers, users, refurbishers and third-party
+       support providers.
+
+                                         Page 5 of 7
+4.3 Interoperability and Open Standards
+
+In line with existing Free ICT Europe positions, the Commission should:
+
+   â¢   prioritise open standards and open data formats;
+   â¢   require that publicly funded software tools be released under open licences where
+       possible;
+   â¢   ensure interoperability obligations are enforceable in practice, not only in principle.
+
+4.4 Trust and Market Organisation
+
+The Commission should encourage:
+
+   â¢   recognised codes of conduct for secondary software markets;
+   â¢   transparency requirements for licence provenance and functionality;
+   â¢   and cooperation with industry-led initiatives that aim to professionalise and stabilise
+       these markets.
+
+5. Conclusion
+Free ICT Europe strongly supports the Commissionâs ambition to build a European Open
+Digital Ecosystem. To succeed, this strategy must go beyond promoting open source
+development and address the economic realities of software dependency, lifecycle control
+and market concentration.
+
+For non-open source hardware and especially software the decencies should be reduced,
+restrictive practices and lock-ins to be removed; responsibilities and freedom to maintain in
+line with any other tangible product.
+
+By recognising software resale (used software), third-party support and second-life
+maintenance as integral elements of openness, the EU can:
+
+   â¢   strengthen digital sovereignty,
+   â¢   reduce costs and environmental impact,
+   â¢   empower SMEs and public authorities,
+   â¢   and ensure that digital value created in Europe is retained in Europe.
+
+Free ICT Europe stands ready to contribute further expertise and market insight as this
+strategy is developed and implemented.
+
+                         â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦..
+
+                                          Page 6 of 7
+Contact: contact@free-ict-europe.eu
+
+                                      Page 7 of 7

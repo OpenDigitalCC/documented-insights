@@ -1,0 +1,138 @@
+Ref. Ares(2026)978675 - 28/01/2026
+
+EU Call for Evidence: European Open Digital Ecosystems
+
+    â¢   What are the strengths and weaknesses of the EU open-source sector? What are the
+        main barriers that hamper (i) adoption and maintenance of high-quality and secure
+        open source; and (ii) sustainable contributions to open-source communities?
+
+Europe is a major contributor to global open-source development, with around 30% of active
+contributors on GitHub in 2021 based in Europe (Wachs et al., 2022). 1 This reflects strong
+technological capacity in the EU. In recent years, the sector has also become more
+professionalised, with more European companies building business models around open source
+and offering off-the-shelf products and services. Moreover, many large European, including
+German, companies such as Bosch and Mercedes-Benz have established dedicated Open Source
+Program Offices (OSPOs). At the same time, the EU open-source ecosystem remains fragmented,
+with many small and mid-size organisations and projects operating at national level. This
+fragmentation makes it difficult to achieve scale and to compete with international hyperscalers.
+Moreover, while Europe strongly promotes open code and open standards, there is in practice a
+large number of standards, which limits interoperability.
+
+On the adoption side (i), there is sometimes a lack of complementary services, e.g. integrated
+cloud services comparable to those provided by major hyperscalers, which may make open-
+source solutions less attractive for organisations seeking turnkey offerings. Moreover, users and
+customers are often hesitant to change established products due to switching costs, reluctance
+to opt for less-known solutions and perceived risks (e.g. compliance questions). Scaling up open-
+source products to meet enterprise-level demand can also be challenging. Procurement practices
+are another major barrier, as it is often unclear to organisations how to procure open-source
+software, how to evaluate it fairly against proprietary solutions, or how to account for support
+and additional services in procurement frameworks, particularly in a fragmented market. Open
+source solutions may also lack functionalities of proprietary solutions and offer a less polished
+user experience.
+
+Barriers to sustainable contributions (ii) are closely linked to funding. Open-source software is
+widely used across the economy and public sector, but its development and maintenance are
+frequently underfunded. Many critical projects depend on a small number of maintainers and
+1   https://www.sciencedirect.com/science/article/pii/S0040162522000105
+volunteers, which creates long-term sustainability and security risks. This imbalance between
+widespread use and limited financial support needs to be addressed through longer-term
+investment and more systematic contributions from companies and public organisations that
+rely on open-source software. Public spending could be a powerful lever to address this
+imbalance, however, the vast majority of public IT expenditure currently flows into proprietary
+solutions, depriving the open-source ecosystem of an important potential source of funding.
+Without such sustained support, it is difficult to ensure the long-term quality and resilience of
+open-source ecosystems in Europe. It should be noted that we have made important advances in
+open source funding and procurement practices. For example, the German Sovereign Tech
+Agency has shown how long-term funding in essential software components provides baseline
+assurances that larger Enterprise Solutions and market-based approaches, like ZenDiSâs
+openDesk, can rely on.
+
+   â¢   What is the added value of open source for the public and private sectors? Please
+       provide concrete examples, including the factors (such as cost, risk, lock-in,
+       security, innovation, among others) that are most important to assess the added
+       value.
+
+Open-source software delivers clear added value for both the public and private sectors. By
+enabling reuse, open source lowers total cost of ownership (over time) and avoids duplication of
+development efforts. Public administrations can share and adapt solutions across institutions
+and borders, while private companies can build on existing components to accelerate
+development and market entry. Interoperability and open standards further lower barriers to
+entry and support competition in the private sector.
+
+Open source also reduces strategic risks by limiting dependence on single vendors, provided that
+a robust ecosystem of IT providers and community support exists. Access to source code ensures
+long-term control over digital systems and enables switching service providers if needed. Security
+is strengthened through transparency, as open code allows independent review and faster
+detection and remediation of vulnerabilities, which is particularly important in regulated and
+sensitive sectors. Open source also contributes to more secure software supply chains, making it
+easier to verify and track components across the development lifecycle. Open source further
+enhances resilience by reducing exposure to external interference. At the EU level, it contributes
+to digital sovereignty by decreasing one-sided technological dependencies and strengthening
+long-term technological capacity.
+
+   â¢   What concrete measures and actions may be taken at EU level to support the
+       development and growth of the EU open-source sector and contribute to the EUâs
+       technological sovereignty and cybersecurity agenda?
+
+The EU should focus on sustained investment, regulatory clarity, strategic procurement and
+standard-setting â what we call: Invest, Buy, Clarify, Lead.
+Invest: Long-term investment in the maintenance and development of critical open-source
+components is essential, to ensure security and resilience but also to transform foundational
+software into enterprise-ready âbuilding blocksâ that multiple operators can adopt and scale into
+advanced services. By funding open source â and by earmarking dedicated resources in the
+upcoming Multiannual Financial Framework (MFF) â the EU can reduce structural fragility in
+software supply chains and create a fertile ecosystem for innovation. Cascade funding, i.e. using
+existing organisations like the newly established Digital Commons EDIC to distribute funding, can
+reduce administrative hurdles.
+
+Buy: The EU should leverage its own procurement power to drive adoption, establishing open
+source as the default option wherever feasible, beginning with the European Commission and
+extending to EU-funded projects. This creates more predictable demand and encourages
+cooperative development across companies, plus it aligns with broader policy objectives of
+interoperability and reduced vendor lock-in. Open source should continue to be treated as the
+preferred solution in regulations, reinforcing its strategic role across public digital services and
+enabling European operators to compete on a level playing field with global providers.
+
+Clarify: Regulatory and legal clarity around developing, procuring and commercialising open-
+source software is critical. Clear liability and compliance frameworks reduce uncertainty and thus
+support both development and adoption. This is especially important when turning software into
+widely usable modules that meet enterprise and compliance needs. There is a need for clear
+guidance on how open-source projects and products can meet compliance and documentation
+requirements without undue burden.
+
+Lead: The EU should continue to lead by example in defining standards and interoperability
+profiles and promoting secure, transparent software supply chains. For example, the Cyber
+Resilience Act demonstrates how the EU can mandate Software Bills of Materials (SBOMs),
+treating them as lifecycle security assets anchored in international standards. Similar approaches
+can be applied more broadly to open-source ecosystems. Initiatives such as the EU Cloud
+Sovereignty Framework can help set de-facto standards for sovereign IT.
+
+    â¢   What technology areas should be prioritised and why?
+
+The EUâs open source strategy should focus on supporting a set of technological building blocks
+(Fermigier, 2025).2 These include:
+
+     â¢ Foundation layers like network infrastructure, compute, storage, and core internet
+        standards and protocols
+
+     â¢ Enabling capabilities such as identity and trust, cybersecurity, data and AI management,
+        service operations, and software development frameworks
+
+     â¢ Interaction and application layers including collaboration and communication tools, digital
+2   https://euro-stack.com/blog/2025/5/tbb-for-open-internet-stack
+       market services, and domain-specific applications
+
+By supporting development of these building blocks as open source components with common
+standards and interoperability profiles, the EU can ensure they work together and are reusable
+across sectors. At the same time, attention must go beyond code. To increase usability of open
+source solutions, we need a modular approach to packaging, selling and delivering services that
+covers deployment, integration, maintenance and support.
+
+   â¢   In what sectors could an increased use of open source lead to increased
+       competitiveness and cyberresilience?
+
+Open source has the potential to enhance competitiveness and cyber resilience across virtually
+all sectors. However, to maximise impact and reduce systemic risks, critical sectors should be
+prioritised, including government, essential infrastructure, finance, research, and defense.
+Focusing on these areas ensures that open source delivers the greatest strategic benefit while
+laying a foundation for wider adoption across the economy.

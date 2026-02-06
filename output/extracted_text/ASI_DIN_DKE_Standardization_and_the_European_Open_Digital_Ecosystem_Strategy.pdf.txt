@@ -1,0 +1,286 @@
+Ref. Ares(2026)1167543 - 02/02/2026
+
+CALL FOR EVIDENCE | 02/26
+
+Strengthening Europeâs Open
+Source Ecosystem through
+Standardization
+A Standardization Perspective on better
+Regulation, Interoperability and Digital
+Sovereignty
+
+                                                     1
+â   Executive Summary
+European standardization forms the backbone of Europeâs digital infrastructure,
+providing trusted frameworks that ensure interoperability, legal certainty, market
+access, and scalability. Standards are essential for maintaining a coherent,
+reliable, and efficient technological ecosystem across Europe.
+Open Source Software (OSS/FLOSS) can serve as a powerful complement to this
+system by enhancing innovation capacity, supporting practical implementation,
+and contributing to Europeâs technological sovereignty. When aligned with
+European standardization, Open Source can help translate normative
+requirements into interoperable, secure, and reusable solutions that are easier to
+adopt in practice.
+From a standardization perspective, the current separation between
+standardization and Open Source represents a missed opportunity. Better
+integration can significantly improve regulatory effectiveness, implementation
+quality, cybersecurity, and industrial uptake, while also strengthening the
+sustainability of Open Source communities themselves. At the same time, many
+Open Source maintainers currently lack clear incentives, pathways, and
+recognition to engage in formal standardization processes, despite pursuing
+closely aligned technical objectives.
+This paper argues for a systematic coupling of European standardization and
+Open Source through:
+    â¢   Integrating Open Source communities into European standardization
+        processes in a structured and sustainable way.
+    â¢   Complementing stable standards with Open Source reference
+        implementations to support adoption and trust in regulated markets.
+    â¢   Establishing EU-level funding mechanisms to sustain standardization-
+        related Open Source activities, including long-term maintenance and
+        security.
+Such an approach directly supports EU priorities such as Better Regulation, the
+Digital Product Passport (DPP), the Cyber Resilience Act (CRA), and Europeâs
+broader digital sovereignty agenda.
+
+                                                                                     2
+1.       What are the strengths and weaknesses of the EU Open Source sector?
+         What are the main barriers?
+Strengths
+     â¢   Europe benefits from a strong research and innovation landscape, with
+         significant contributions from academia, publicly funded research
+         programmes, public administrations, and a dynamic SME ecosystem that
+         actively develops and uses Open Source solutions.
+     â¢   Open Source Software already plays a central role in many critical digital
+         infrastructures, including cloud platforms, data spaces, cybersecurity
+         solutions, AI frameworks, and embedded systems, making it a de facto
+         foundation of Europeâs digital economy.
+     â¢   At policy level, there is increasing recognition of Open Source as a strategic
+         asset for technological sovereignty, resilience, and reduced dependency on
+         single vendors, as reflected in recent EU strategies and legislative
+         initiatives.
+Weaknesses
+     â¢   Open Source implementations are often developed in a fragmented manner
+         across sectors, projects, and Member States, resulting in duplication of
+         effort and limited interoperability.
+     â¢   Many Open Source projects lack sustainable funding models, clear
+         maintenance responsibilities, and long-term stewardship, which can affect
+         quality, security, and continuity.
+     â¢   There is insufficient alignment between Open Source projects, regulatory
+         requirements, and harmonised European standards.
+     â¢   Public procurement and regulated markets often lack trusted reference
+         points, such as recognised or certified implementations, making it difficult
+         to rely on Open Source solutions in compliance-critical environments.
+Barriers
+     â¢   There is currently no EU-wide programme dedicated to the long-term
+         maintenance, security auditing, and lifecycle management of strategically
+         relevant Open Source components.
+     â¢   Incentives for industry and public administrations to contribute upstream
+         to Open Source projects remain weak, even though such contributions are
+         essential for sustainability and security.
+     â¢   Mature governance models for Open Source projects that are formally
+         recognised at EU level are largely missing, which limits trust, adoption, and
+         systematic integration into regulatory and standardization frameworks.
+
+                                                                                      3
+Standardization Perspective:
+Standardized interfaces, data models, and conformity frameworks for Open
+Source projects can significantly enhance their integration into regulated
+environments. The structural challenges need to be addressed. The alignment
+of Open Source initiatives with standardized practices holds the potential to
+drive growth and facilitate cooperation across diverse industries.
+
+2.       What is the added value of open source for the public and private
+         sectors? Please provide concrete examples, including the factors (such
+         as cost, risk, lock-in, security, innovation, among others) that are most
+         important to assess the added value.
+Public Sector Benefits:
+     â¢      Lower costs and reduced vendor lockâin: Interoperable, modifiable
+            solutions reduce longâterm dependency.
+     â¢      Transparency and auditability: Essential for DPP, eGovernment, identity
+            systems and CRA compliance.
+     â¢      Rapid implementation of legal requirements: OSS reference
+            implementations can validate regulatory feasibility (âBetter Regulation
+            through Codeâ).
+Private Sector Benefits:
+     â¢      Accelerated innovation: OSS shortens development cycles and enables
+            shared R&D.
+     â¢      Improved interoperability: Standardized OSS APIs, formats and
+            protocols reduce integration burdens.
+     â¢      Lower compliance costs: OSS reference implementations enable early
+            validation of the applicability of standards and upcoming regulatory
+            obligations.
+     â¢      Security improvements: Community review and rapid patch cycles
+            strengthen supplyâchain resilience.
+
+                                                                                   4
+Role of Standardization:
+Standards amplify this value by:
+â¢    providing stable, technology-neutral specifications,
+â¢    enabling interoperability between multiple Open Source and proprietary
+     implementations,
+â¢    creating legal and procedural certainty for adoption at scale,
+â¢    adding another layer of trust.
+
+3.       What concrete measures and actions may be taken at EU level to
+         support the development and growth of the EU Open Source sector and
+         contribute to the EUâs technological sovereignty and cybersecurity
+         agenda?
+From a standardization perspective, the following actions are recommended:
+a. Systematic integration of Open Source into European standardization
+processes
+     â¢     Early involvement of Open Source communities and foundations in
+           standardization committees, while fully respecting the principles of
+           national delegation.
+     â¢     Refined participation and contribution requirements for liaison partners,
+           enabling project-based engagement of Open Source initiatives.
+b. Reference implementations linked to Standards
+     â¢     Use of Open Source reference implementations developed alongside
+           stable standards and specifications as practical implementation
+           guidance, validation tools, and technical baselines for testing and
+           conformity.
+     â¢     By translating normative requirements into executable artefacts,
+           reference implementations can lower implementation barriers, reduce
+           misinterpretation, and support the broader adoption of harmonised
+           standards.
+c. Funding
+     â¢     Align Horizon Europe, Digital Europe, IPCEI, and national funding with
+           standardization-linked Open Source activities.
+     â¢     Longâterm funding for critical OSS components, explicitly supporting
+           activities that connect Open Source development with standardization
+           processes and outcomes.
+
+                                                                                    5
+4.       What technology areas should be prioritised and why?
+Based on regulatory pressure, market relevance, and societal impact, priority
+areas include:
+     â¢   Digital Product Passport (DPP) & Circular Economy
+     â¢   Cybersecurity & software supply chain security
+     â¢   Data spaces and interoperability frameworks
+     â¢   Cloud-to-edge infrastructures
+     â¢   AI and trustworthy AI toolchains
+     â¢   Quantum technologies
+These domains require compatible implementations, cross-border
+interoperability, and trusted governance, which cannot be achieved by regulation
+or Open Source alone.
+
+5.       In what sectors could an increased use of Open Source lead to
+         increased competitiveness and cyber resilience?
+Increased and coordinated use of Open Source and standards can significantly
+boost competitiveness and cyber resilience in:
+     â¢   Cybersecurity
+     â¢   Public administration and eGovernment
+     â¢   Manufacturing, Industrial Automation and supply chains
+     â¢   Mobility, Energy & Critical Infrastructure
+     â¢   Healthcare
+     â¢   Emerging deep-tech sectors (AI, quantum, advanced materials)
+
+6.       Towards a New Model: Standards Ã Open Source
+This paper proposes a shift from a document-centric view of standardization
+towards a âstandards + implementationâ model, where:
+     â¢   Standards define what is required,
+     â¢   Open Source reference implementations demonstrate how it can be
+         implemented,
+     â¢   and governance ensures trust, neutrality, and sustainability.
+Such a model strengthens both ecosystems:
+     â¢   Open Source gains legitimacy, adoption, and regulatory compatibility.
+     â¢   Standardization gains relevance, implementability, and real-world impact.
+
+                                                                                     6
+7.       Conclusion
+European standardization is a cornerstone of Europeâs digital single market,
+providing trusted, inclusive, and stable frameworks for interoperability, legal
+certainty, market access, and scalability. In an increasingly software-driven and
+regulated environment, ensuring that standards remain implementable, secure,
+and widely adopted is essential for Europeâs competitiveness and digital
+sovereignty.
+Open Source Software is not a competing system, but a natural and powerful
+complement to standardization. When properly aligned, Open Source enables
+standards to be translated into practical, interoperable, and reusable
+implementations, supporting regulatory effectiveness, industrial uptake, and
+cybersecurity. The continued separation of both ecosystems limits their collective
+impact and weakens Europeâs ability to turn regulation into innovation.
+From a standardization perspective, deeper engagement with Open Source
+ecosystems is therefore not a departure from established principles, but a
+necessary evolution. It requires targeted adjustments to participation models,
+governance frameworks, and licensing approaches in order to accommodate
+Open Source contribution practices while safeguarding the neutrality, legitimacy,
+and trust embedded in European standardization.
+To realise this potential, Europe should pursue a coherent âStandards Ã Open
+Sourceâ approach, focused on the following key actions:
+     â¢   Systematically integrate Open Source communities and foundations into
+         European standardization processes.
+     â¢   Establish Open Source reference implementations linked to stable
+         standards, serving as implementation guidance, validation instruments, and
+         trusted reference points for regulated markets and public procurement.
+     â¢   Create EU-level funding mechanisms that jointly support standardization-
+         related Open Source activities, including long-term maintenance, security
+         audits, and lifecycle management of critical components.
+     â¢   Develop recognised governance models that connect policy objectives,
+         standards development, and Open Source implementation, enabling trust,
+         scalability, and cross-border interoperability.
+By pursuing these measures, Europe can strengthen both standardization and
+Open Source, ensuring that standards remain implementable, Open Source gains
+legitimacy and sustainability, and regulatory objectives translate more effectively
+into secure, interoperable, and competitive digital solutions. DIN, DKE, and ASI
+stand ready to contribute normative expertise, coordination capacity, and
+practical implementation pathways to support this transformation in close
+alignment with European policy priorities.
+
+                                                                                      7
+About DIN
+DIN, the German Institute for Standardization, is the independent platform for standardization in Germany and
+worldwide. Together with industry, scientific institutions, public authorities and civil society as a whole, DIN plays a
+major role in identifying future areas for standardization. By helping to shape the green and digital transformation,
+DIN makes an important contribution towards solving current challenges and enables new technologies, products
+and processes to establish themselves on the market and in society. More than 40,000 experts from industry,
+research, consumer protection and the public sector bring their expertise to work on standardization projects
+managed by DIN. The results of these efforts are market-oriented standards and specifications that promote global
+trade, encouraging rationalization, quality assurance and environmental protection as well as improving security
+and communication. DIN is listed in the EU transparency register with number 989808524267-58. For more
+information, go to www.din.de.
+
+About DKE
+The DKE German Commission for Electrical, Electronic & Information Technologies (DKE) is the national platform
+for about 10,000 experts from industry, science and public administration to elaborate standards and safety
+specifications for electrical engineering, electronics and information technology. Standards support global trade
+and, among other things, the safety, interoperability and functionality of products and systems. As a competence
+centre for electrotechnical standardization, the DKE represents the interests of German industry in European
+(CENELEC, ETSI) and international standardization organizations (IEC). In addition, the DKE provides
+comprehensive services in the field of standardization and VDE specifications. DKE is listed in the EU transparency
+register with number 162258150652-40. For more information, go to www.dke.de
+
+About Austrian Standards International
+Austrian Standards International is the recognized standardization body in Austria, a non-profit service organization
+founded in 1920. It is part of a national, European and international standardization network: the European
+Committee for Standardization (CEN), the European Telecommunications Standards Institute (ETSI) and the
+International Organization for Standardization (ISO). A.S.I. cooperates with the Austrian Electrotechnical
+Association (OVE), member of CENELEC and IEC. Building on its recognized expertise, A.S.I. provides the
+independent platform for standardization for stakeholders from industry, SMEs, research, public authorities and
+policy makers, NGOs, trade unions, consumers. About 5,000 experts from almost 3,000 organizations bring their
+expertise into standardization, co-creating solutions to achieve scalability, internationalization, trust, safety and
+quality of products, services and systems. A.S.I. is listed in the EU transparency register with number
+614959294272-76. For more information go to www.austrian-standards.at.
+
+                                                                                                                        8
+Daniel Haack | Senior Project Manager             Dr. Michael Rudschuck | Head of Industry Department
+
+DIN Deutsches Institut fÃ¼r Normung e. V.          DKE Deutsche Kommission Elektrotechnik Elektronik
+Am DIN-Platz, BurggrafenstraÃe 6, 10787 Berlin,   Informationstechnik in DIN und VDE
+Germany
+                                                  MerianstraÃe 28, 63069 Offenbach, Germany
+Tel: +49 30 2601-2407
+                                                  Tel.: +49 69 6308-266
+E-Mail: Daniel.Haack@din.de | www.din.de
+                                                  E-Mail: michael.rudschuck@vde.com | www.dke.de
+
+Dr. Karl Gruen | Deputy Managing Director
+
+Austrian Standards International
+HeinestraÃe 38, 1020 Wien, Austria
+
+Tel: +43 1 21300714
+
+E-Mail: k.gruen@austrian-standards.at |
+www.austrian-standards.at
+
+                                                                                                        9

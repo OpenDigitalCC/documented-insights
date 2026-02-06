@@ -1,0 +1,258 @@
+Ref. Ares(2026)1143413 - 02/02/2026
+
+                                                                             Berlin, January 2026
+
+Submission to the Call for Evidence
+âTowards European open digital ecosystemsâ
+
+Executive summary
+Europe already hosts strong open-source communities and produces a significant share of
+foundational digital building blocks. Yet the EU often does not capture proportional value, and
+many promising projects struggle to scale beyond expert users. To unlock Europeâs competitive-
+ness, resilience and democratic capacity, the EU Open Source Strategy should:
+
+      â Treat usability and product development as first-order policy goals, not a ânice-to-
+          haveâ: open-source solutions often lose at the last mile (UX, onboarding, design, dis-
+          tribution).
+      â Shift from short-term innovation funding to lifecycle funding, including long-term
+          maintenance, security response, governance and operations (10 to 20 year horizons for
+          infrastructure-like software).
+      â Expand the strategic lens beyond âfoundational librariesâ to include user-facing,
+          society-shaping digital infrastructures where Europe faces structural dependencies
+          (e.g., communication/discovery and mapping/geo layers).
+      â Build one ecosystem, not many silos: enable cross-sector interoperability and com-
+          patibility so open-source solutions can reach critical mass.
+      â Use EU-level instruments to âopenâ closed ecosystems where feasible, not to spon-
+          sor new projects but to support transitions that increase the overall stock of reusable,
+          auditable software.
+      â Create a credible data base on economic value, adoption barriers and value capture,
+          to support Member States and public buyers in prioritisation and sustained investment.
+
+Question 1
+  Strengths and weaknesses of the EU open-source sector; main
+  barriers to adoption, maintenance and sustainable
+  contributions
+
+Strengths
+
+The EU has a strong base of open-source talent, research capacity, and community-driven in-
+novation. Europe contributes substantially to foundational components that underpin modern
+digital systems. These communities and practices are a strategic asset: they cultivate skills, en-
+able knowledge diffusion, and create the conditions for durable innovation and should be used
+as such in positioning the EUâs digital (economic) policy vis-Ã -vis the US and China.
+
+                                                                                                                  1/6
+Weaknesses and barriers (clustered)
+
+A) The âproductisation gapâ (from developer tool to mass adoption)
+A recurring barrier is that many open-source initiatives are built primarily by and for technically
+proficient communities. As a result, critical elements for adoption at scale (usability, design,
+onboarding, documentation for non-experts, localisation, accessibility, product management,
+distribution) are under-resourced. This gap is not merely cosmetic: it determines whether open
+source remains a niche or becomes a mainstream option capable of competing with dominant
+proprietary offerings.
+
+B) Sustainability gap (maintenance and security over time)
+Even widely used open-source components and applications frequently rely on fragile funding
+structures and volunteer labour. The EU and Member States often fund innovation but under-
+fund maintenance, security hardening, incident response, and long-term operations. In a simi-
+lar vein, necessary endeavours to transfer and scale working solutions (i.e. software documen-
+tation, documentation of organizational practices, standardization / interoperability, transferra-
+ble business models, marketing, etc.) are underfunded. Depending on the respective area, sus-
+tainability can be provided both by business models and market forces or â where inapplicable â
+by public funding in the interest of Europeâs democratic societies.
+
+C) Fragmentation into sectoral silos
+Open-source ecosystems are commonly organised by sector (govtech, smart city, social,
+health, education, etc.) with limited cross-sector coordination. This fragmentation hampers in-
+teroperability and compatibility, reduces reuse, and prevents the formation of critical mass. It
+also increases duplicated effort and weakens shared maintenance capacity.
+
+D) Value capture outside the EU and weak political/economic narrative in Member States
+Europe often contributes significantly to upstream work, while downstream commercialisation
+and value capture happen elsewhere. Moreover, in many Member States open source is still per-
+ceived as niche or secondary, partly because robust, comparable data on economic impact,
+adoption drivers and public value is missing. This inhibits sustained political prioritisation and
+long-term investment decisions.
+
+Question 2
+  Added value of open source for public and private sectors (with
+  examples and factors to assess)
+Open source delivers value not only as a procurement option, but as a governance model for
+critical digital infrastructure. Its added value is best assessed across economic, security, and
+democratic dimensions.
+
+A) Reducing economic and societal structural dependencies
+For both public and private actors, open source can mitigate lock-in and dependency risks. Im-
+portantly, dependency is not only economic. In several âeverydayâ digital layers, e.g. communi-
+cation, discovery, mapping, Europe is heavily reliant on a small number of globally dominant
+platforms. These layers shape market access, information flows, and civic discourse.
+
+                                                                                                      2/6
+Examples of high-dependency layers with high public relevance:
+
+     â Communication and public discourse infrastructure (e.g., social networking and re-
+         lated services as well as civic tech and public participation tools)
+     â Discovery and access layers (e.g., web search and AI agents, app stores, browser de-
+         faults, recommender systems)
+     â Geospatial and mapping layers (e.g., maps, points of interest, routing-related com-
+         ponents)
+
+B) Transparency and accountability as democratic value
+Open source can increase inspectability of critical systems, including algorithmic curation and
+AI-enabled decision support, when paired with good documentation and governance. This sup-
+ports democratic oversight, auditing, and contestability â characteristics especially relevant
+where digital systems influence public debate, access to services, or allocation decisions.
+
+C) Cyber resilience through verifiability and repairability
+Open source can strengthen cyber resilience by enabling broader review, faster patching, and
+reduced dependence on a single vendorâs timelines, if maintenance and security processes are
+funded and professionalised. The assessment should therefore consider not only licensing, but
+governance maturity, security practices, and maintenance capacity.
+
+D) Innovation and competitiveness through ecosystem effects
+Open source lowers barriers for SMEs and public administrations to build on shared compo-
+nents, creating spillovers and enabling European service markets (support, integration, host-
+ing, compliance, training). âCommunity vitalityâ itself becomes a competitiveness factor, in-
+cluding talent attraction, learning effects, and faster diffusion of innovation.
+
+Key factors to assess added value (context-dependent):
+
+     â Lock-in and switching costs
+     â Long-term operational risk and continuity
+     â Security governance and response capacity
+     â Ability to audit/verify (incl. AI-related systems)
+     â Interoperability and reuse potential
+     â Market structure effects (openness for SMEs, contestability)
+
+                                                                                                  3/6
+Question 3
+  Concrete EU-level measures and actions to support
+  development and growth, and contribute to technological
+  sovereignty and cybersecurity
+We recommend a strategy that treats open source as infrastructure policy and ecosystem pol-
+icy, not only as software funding.
+
+A) Fund adoption, not only code: make usability a strategic objective
+Create dedicated EU support for the âlast mileâ:
+
+      â UX/UI, service design, accessibility, localisation
+      â Product management and user research
+      â Reuse, business model development, scaling, interoperability
+      â Documentation for non-expert adoption (public sector and SMEs)
+A practical approach is to establish user-facing tracks within EU funding instruments, with eval-
+uation criteria that reward demonstrated adoption and user outcomes, while remaining com-
+patible with open-source community practices.
+
+B) Establish lifecycle funding for maintenance, security, and operations (10 to 20 years
+   where needed)
+For software that functions as digital infrastructure, sustainability must be designed in:
+
+      â Multi-year maintenance and security response funding
+      â Support for professional governance and stewardship roles
+      â Funding for dependency management, secure build/release pipelines, and vulnerabil-
+         ity handling
+      â Operational support for long-lived services where appropriate
+This should complement support for foundational components, but broaden it to include user-
+facing infrastructure where dependencies are societally significant.
+
+C) Build one ecosystem: interoperability and compatibility as scaling mechanisms
+EU action can reduce fragmentation by:
+
+      â Supporting open standards and shared interfaces
+      â Funding interoperability work and cross-sector reference architectures
+      â Enabling reusable components across public administration, civic services, and pri-
+         vate markets
+      â Incentivising compatibility to help projects reach critical mass
+
+                                                                                                    4/6
+D) âOpeningâ as a strategic lever: expand the open ecosystem by transitioning closed
+   assets
+Beyond sponsoring new open-source projects, the EU should consider instruments that help
+transition selected closed-source solutions toward open models where it increases resilience
+and market contestability:
+
+      â Transition funding for re-licensing and governance redesign
+      â Support for migration paths and community handover models
+      â Incentives for open components in previously closed ecosystems
+This is not a blanket approach; it requires clear criteria (public value, dependency reduction,
+feasibility, security governance).
+
+E) Procurement and policy frameworks that reward sustainability
+Public purchasing power can stabilise ecosystems if procurement moves from âpilot projectsâ
+to sustainable adoption:
+
+      â Procurement criteria for maintainability, interoperability, and openness of interfaces
+      â Requirements or incentives for contributing back (where appropriate)
+      â Contract structures that fund long-term maintenance and security work (not only de-
+          livery)
+
+F) Build a robust evidence base and monitoring capability
+A credible EU-wide data effort would help Member States treat open source as strategic:
+
+      â Mapping value chains and potential EU value capture
+      â Measuring adoption barriers (incl. usability/skills)
+      â Quantifying dependency hotspots and strategic layers
+      â Identifying where targeted interventions yield the highest resilience and competitive-
+          ness returns
+
+G) Finance models beyond business cases: include public-civic approaches
+Not all high-value open-source infrastructure will sustain itself through market revenue alone.
+The EU should explore mixed models:
+
+      â Public-private partnerships where appropriate
+      â Public-civic partnerships and public-civic-private models for infrastructure-like ser-
+          vices
+      â Long-term stewardship funding where the public interest is strong
+
+                                                                                                  5/6
+Question 4
+  Technology areas to prioritise and why
+In addition to commonly cited foundational layers, the strategy should explicitly include user-
+facing digital infrastructures where dependency and public impact are greatest.
+
+A) Communication, discovery and mapping layers (high dependency, high societal
+    impact)
+These layers shape how people communicate, find information, and navigate the world. They
+are deeply embedded in daily life and economic activity, yet currently dominated by a small
+number of global providers.
+
+B) Civic and public-service digital infrastructure (adoption potential and public value)
+Tools that function as infrastructure for participation and service delivery (e.g., civic participa-
+tion platforms, reusable administrative components) should be prioritised because they directly
+support state capacity and democratic participation.
+
+C) âInfrastructure by function,â not by technical category
+The EU should broaden the definition of infrastructure beyond networks, compute, and low-level
+libraries. Many application-level systems (e.g., scheduling/booking infrastructures in health
+contexts, POI ecosystems, public service portals) are de facto infrastructure and deserve lifecy-
+cle-oriented support.
+
+D) Data and findability infrastructure enabling reuse and interoperability
+Without discoverability, shared components do not scale. Priorities should include tooling and
+practices that make open components easier to find, evaluate, integrate, and maintain across
+sectors.
+
+Question 5
+  Sectors where increased open-source use could raise
+  competitiveness and cyber resilience
+We do not provide a separate sector-by-sector response, as our submission deliberately fo-
+cuses on cross-cutting bottlenecks and policy levers that apply horizontally across sectors. The
+sectoral implications are therefore embedded in our answers to Questions 1 to 4, in particular
+our argument for prioritising âinfrastructure by functionâ.
+
+Dr. Mathias GroÃklaus (corresponding)                               Agora Digitale Transformation
+mathias.grossklaus@agoradigital.de                                  KrausenstraÃe 8
+                                                                    10117 Berlin
+Dr. Vivien Benert
+                                                                    GERMANY
+Dr. Torben Klausa
+
+Agora Digitale Transformation is the think tank for updates to our democracy. Its goal is to harness the
+opportunities of digital transformation to strengthen democracy. As a non-profit organization, the think
+tank works across party lines, collaboratively, and evidence-based, with a focus on practical and effec-
+tive solutions for policymaking. Agora Digitale Transformation actively seeks dialogue and collaboration
+with innovators from civil society, public administration, academia, business, and politics. Agora Digitale
+Transformation is funded by Stiftung Mercator.
+
+                                                                                                              6/6

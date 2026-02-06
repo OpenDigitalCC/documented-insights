@@ -1,0 +1,179 @@
+Ref. Ares(2026)1205775 - 03/02/2026
+
+     European Open Digital Ecosystems
+
+E-Mobility Europe represents the voice of the full electric mobility value chain in Eu-
+rope, including vehicle manufacturers, charging infrastructure providers, software de-
+velopers, energy companies, mobility service providers, and research organisations.
+Digital technologies and increasingly open-source software and hardware are critical
+enablers of the green and digital transition of mobility.
+Open source already underpins key layers of connected, electric and software-defined
+vehicles, smart charging infrastructure, energy management systems, and mobility ser-
+vices. Strengthening the EU open-source ecosystem is therefore essential for Europeâs
+industrial competitiveness, technological sovereignty, cybersecurity and climate objec-
+tives.
+
+In this context, E-Mobility Europe provides the following responses to the consultation
+questions, reflecting the experience and needs of the European electric mobility eco-
+system and its reliance on open, interoperable and secure digital technologies.
+
+1. What are the strengths and weaknesses of the EU open-source sector? What are
+     the main barriers that hamper (i) the adoption and maintenance of high-quality
+     and secure open-source solutions, and (ii) sustainable contributions to open-
+     source communities?
+The European Union benefits from one of the largest and most active open-source
+communities worldwide, with strong alignment to EU values such as openness, in-
+teroperability, transparency and respect for fundamental rights. Open-source solutions
+are already deeply embedded in Europeâs digital economy and are widely used across
+sectors such as telecommunications, connectivity, embedded systems, energy sys-
+tems, smart cities and industrial applications.
+In the e-mobility and electric vehicle ecosystem, open source is increasingly used
+across the value chain, including vehicle software, battery and energy management,
+charging infrastructure, connectivity, data exchange and integration with energy sys-
+tems and public infrastructure. There is increasing evidence across manufacturers, sup-
+pliers, infrastructure operators and digital service providers that non-differentiating
+software components are best developed collaboratively. This creates clear opportu-
+nities to reduce costs, improve interoperability and accelerate innovation at ecosystem
+level.
+
+                               1
+Despite these strengths, the EU faces persistent difficulties in scaling open-source ini-
+tiatives into large, globally competitive ecosystems. Europe is strong in developing and
+using open source, but often captures only a limited share of the resulting economic
+and strategic value. In software-intensive and safety-critical sectors such as electric
+mobility, adoption is further slowed by legacy industrial cultures, long product life cy-
+cles, high regulatory and liability requirements, and fragmented governance across
+transport, energy and digital domains.
+The main barriers to adoption and maintenance of high-quality and secure open source
+include insufficient long-term funding for maintenance and security updates, limited
+integration of open source into certification and approval frameworks, fragmented in-
+itiatives without shared reference architectures, and risk-averse procurement prac-
+tices in both public and private sectors.
+
+Furthermore, the absence of standardized 'Security by Design' frameworks and feder-
+ated identity management creates uncertainty regarding liability. This makes it difficult
+for CISOs and procurement officers to validate open-source solutions against emerging
+regulations like the Cyber Resilience Act (CRA), leading to the misconception that they
+are less secure than proprietary software.
+
+Sustainable contributions to open-source communities are hampered by an over-reli-
+ance on voluntary contributions for critical infrastructure, a lack of mature business
+and sustainability models, limited institutional capacity in Europe to steward complex
+and long-lived projects, and misalignment between regulatory obligations and open-
+source development practices.
+
+2. What is the added value of open source for the public and private sectors? Please
+    provide concrete examples, including the most important factors to assess this
+    added value (e.g. cost, risk, lock-in, security, innovation).
+The added value of open source for both public authorities and private actors is well
+established and supported by extensive research and market experience. Open source
+enables cost efficiency and risk sharing by allowing multiple actors to jointly develop
+and maintain non-differentiating software components. It supports interoperability
+across systems and providers, reduces dependency on single vendors, and helps avoid
+long-term lock-in.
+Open source also contributes to improved cybersecurity and resilience through trans-
+parency, auditability and shared responsibility for identifying and addressing vulnera-
+
+                                2
+bilities. In addition, open-source development often accelerates innovation and stand-
+ardisation, as practical implementations can serve as reference points for wider adop-
+tion.
+
+Beyond transparency, open source enables verifiable 'Privacy by Design' implementa-
+tions. By processing sensitive data at the edge and employing data minimization tech-
+niques within open architectures, organizations can drastically reduce their regulatory
+risk exposure (GDPR) and prevent mass surveillance, which remains difficult to audit in
+'black box' solutions.
+
+In the e-mobility and electric vehicle system, these benefits are particularly evi-
+dent. Open-source solutions facilitate interoperability between vehicles, charging in-
+frastructure, energy systems and digital services, which is essential for scaling electric
+mobility across borders. They also enable closer integration with smart cities, energy
+management and sustainability services, creating value that no single actor could de-
+liver alone. Key factors to assess this added value include total cost of ownership, se-
+curity and resilience, interoperability, innovation capacity and the ability to maintain
+long-term control over digital assets.
+
+3. What concrete measures and actions could be taken at EU level to support the
+     development and growth of the EU open-source sector and contribute to the EUâs
+     technological sovereignty and cybersecurity agenda?
+At EU level, greater emphasis should be placed on supporting open-source ecosystems
+rather than isolated projects. Funding instruments could more systematically address
+the full lifecycle of open-source solutions, including long-term maintenance, security,
+governance and integration into real-world deployments. This is particularly important
+for software that underpins critical systems such as electric mobility, energy and
+transport infrastructure.
+The EU could also strengthen trusted, neutral governance structures capable of coor-
+dinating collaboration among industry, public authorities and open-source communi-
+ties, while ensuring compliance with competition, safety and cybersecurity require-
+ments. Such structures are essential for managing shared roadmaps, reference archi-
+tectures and long-term sustainability.
+Regulatory frameworks should be designed and implemented in close dialogue with
+open-source ecosystems. Early and systematic consultation can help ensure that legis-
+lation supports, rather than unintentionally hinders, open-source adoption. In soft-
+ware-intensive systems, there is scope to move from predominantly process-based
+
+                                3
+compliance towards approaches that place greater emphasis on demonstrable out-
+comes and system behaviour. This can be achieved while fully maintaining high levels
+of safety and security.
+
+To ensure this, the EU should promote the development of 'Compliance as Code' tools
+and fund the implementation of Secure Software Development Lifecycles (SSDLC) for
+critical projects. This includes the mandatory integration of SBOM (Software Bill of Ma-
+terials) generation, cryptographic supply chain signing, and automated security audits,
+ensuring the ecosystem is ready for the Cyber Resilience Act by default.
+
+Finally, EU-level coordination could help strengthen capacity at Member State level,
+particularly in public procurement, certification and public-sector adoption of open-
+source solutions. Greater alignment across Member States would reduce fragmenta-
+tion and support the emergence of genuinely European open digital ecosystems.
+
+4. Which technology areas should be prioritised and why?
+Priority should be given to technology areas that are software-intensive, safety- and
+security-critical, and essential for the functioning of electric mobility systems. These
+include software-defined vehicles, battery and energy management systems, charging
+infrastructure and interoperability layers, connectivity and data platforms, cloud and
+edge computing, artificial intelligence, and cybersecurity, including software supply-
+chain security.
+The electric vehicle system brings together many of these technologies within a single,
+highly integrated ecosystem. As such, it represents a strategic opportunity to
+strengthen Europeâs digital capabilities, industrial competitiveness and technological
+sovereignty, while supporting broader objectives related to sustainability and the
+green transition.
+
+5. In which sectors could an increased use of open-source lead to increased com-
+     petitiveness and cyber resilience?
+Increased use of open source can significantly enhance competitiveness and cyber re-
+silience in sectors such as e-mobility and electric vehicles, energy systems and smart
+grids, charging and transport infrastructure, smart cities and digital public services, and
+industrial manufacturing.
+For the European e-mobility ecosystem in particular, collaborative open-source devel-
+opment is becoming essential to manage complexity, ensure interoperability and re-
+main competitive in a global market. Given current geopolitical dynamics, multiple
+
+                                4
+global open-source ecosystems are likely to emerge. Ensuring that Europe plays a lead-
+ing role in at least one major ecosystem is therefore critical for long-term resilience,
+innovation and technological sovereignty.
+
+For the European e-mobility ecosystem, open source is not a niche choice but a strate-
+gic industrial enabler. A coherent EU open-source strategy, combining funding, policy,
+procurement, governance and infrastructure, will directly support Europeâs technolog-
+ical sovereignty, cybersecurity and industrial competitiveness, while accelerating the
+green and digital transition of mobility. Such a strategy can help reduce fragmentation,
+enable interoperability across the electric mobility value chain, and support the devel-
+opment of trusted and secure digital foundations for vehicles, charging infrastructure,
+energy systems and mobility services.
+By strengthening European capacity to develop, maintain and govern critical open
+technologies, the EU can improve resilience against external dependencies and en-
+hance long-term control over key digital assets. Coordinated EU action can also facili-
+tate alignment between regulatory frameworks, standardisation efforts and real-world
+deployments, ensuring that open-source solutions can be safely and effectively inte-
+grated into complex, software-intensive and safety-critical mobility systems.
+
+E-Mobility Europe stands ready to contribute to the implementation of this strategy
+and to collaborate with EU institutions, Member States and the broader open-source
+community.
+
+                               5

@@ -1,0 +1,210 @@
+Ref. Ares(2026)1221932 - 03/02/2026
+
+                     Response to the European Commissionâs Open Digital Ecosystems Consul-
+                     tation â February 2026
+
+ING welcomes the opportunity to provide input on how to foster open digital ecosystems in Europe,
+given the importance and widespread use of open-source software, also in the banking community.
+ING considers that open source delivers the most value when three parts work together:
+     i.  Open code keeps the source available so it can be reviewed, fixed, and maintained over
+         time,
+    ii.  Open governance lets anyone contribute on technical merit, regardless of employer, na-
+         tionality, or other non-technical factors, and
+   iii.  Open standards and protocols make systems interoperable and replaceable.
+If policies or procurement processes focus on only one or two parts, the model weakens. To support
+sovereignty, resilience, and competition, the EU should design measures that reinforce all three.
+The answers below follow this structure of three elements.
+
+1. What are the strengths and weaknesses of the EU open-source sector?
+
+Code
+â¢ The EU has a strong developer community,
+â¢ The EU is weaker in supporting infra for code (collaboration, hosting, repositories). Platforms are
+   mostly maintained, managed and hosted in the US (E.g. GitHub, Gitlab, Pipy),
+â¢ EU computer sciences departments are underrepresented in global top university rankings.
+
+Governance
+â¢ The US government is a strong driving factor behind technology development. The US National
+   Science Foundation and US Internet Engineering Taskforce prove that the US government rec-
+   ognises the strategic value of innovation. This also applies to the billions of dollars spent by
+   Federal agencies on cybersecurity contracts. The European Commission has more focus on im-
+   plementation, simplification and consumer protection,
+â¢ EU governance is generally less robust, compared to for example, the US. Main oversight com-
+   mittees, organisations and foundations are incorporated in the US (e.g. Linux Foundation Eu-
+   rope resorts under the Linux Foundation US). Most funding and contribution is also from the US,
+â¢ OSS projects in Europe suffer from underinvestment and a commercialisation gap compared to
+   the US,
+â¢ Successful European OSS projects that are commercialised, tend to exit to US-based markets
+   (Ex. Elastic, Gitlab).
+
+Protocols
+â¢ The EU is weaker, as creation and maintenance is mostly under US bodies (ANSI, IEEE, ITU, NIST,
+   CISA).
+â¢ The EU is stronger at adopting open standards. The US tends to develop their own standards or
+   adopt/adjust open standards.
+
+2. What are the main barriers that hamper (i) adoption and maintenance of high-quality and se-
+   cure open source; and (ii) sustainable contributions to open-source communities?
+
+                                                 1
+Code
+â¢ The supporting infra for code tends to reside in the US at commercial parties (platforms such as
+   GitHub (MS)). The EU and other jurisdictions do not have the same level of supporting infra. This
+   integrated infra contains a high level of sophisticated automation. The investment gap over the
+   past years between the US and the EU for these cloud solutions, has increased tremendously,
+â¢ For certain projects (less well-maintained ones), there are security concerns regarding long-
+   term support to fix vulnerabilities,
+â¢ Increasing security concerns regarding malware targeting the OSS supply chain.
+
+Governance
+â¢ Main oversight committees, organisation and funding tend to gravitate towards the US. The EU
+   and other jurisdictions do not have similar committees, organisation and funding available, and
+   they are hard to build given a more restrictive environment,
+â¢ The EU innovation funding mechanism can fund companies that justify innovation simply by
+   forking OSS projects. This fosters fragmentation of the OSS landscape, instead of focusing on
+   fewer but stronger OSS projects,
+â¢ A limited ability in the EU to provide professional support for critical OSS components holds back
+   adaption,
+â¢ EU vendors are relatively underrepresented among main partners and sponsors of OSS bodies,
+   compared to US and China.
+
+Resourcing
+We consider resourcing as a category under governance and long-term sustainability of projects.
+European barriers include:
+â¢ Lack of incentives and resources for European maintainers. Current tax regulation makes it less
+   attractive to contribute, as it could be seen as taxable value creation towards a third party,
+â¢ Chronically short-staffed package repositories,
+â¢ Long-term insecurity of projects to remain in the OSS ecosystem,
+â¢ Lack of transparent licensing on some OSS projects.
+
+Protocols
+â¢ Standards are under heavy influence by large software vendors even if standards are open (e.g.
+   Kerberos RFC4120),
+â¢ Creation and maintenance mostly take place in US bodies (e.g. ANSI, IEEE, ITU, NIST, CISA).
+
+3. What is the added value of open source for the public and private sector? Please provide con-
+   crete examples including the factors (such as cost, risk, lock-in, security, innovation)
+
+Code
+â¢ OSS source code has desirable properties such as quality, availability, reusability, transpar-
+   ency, portability and robustness,
+â¢ OSS code facilitates growth and hiring of talent: OSS contributors are recognised by a broad
+   expert community, whereas corporate certifications foster vendor lock-in.
+
+Governance
+â¢ OSS allows the private sector to participate in the creation, steering and roadmap of projects,
+â¢ OSS can reduce concentration risk and commercial leverage on oligopolistic or monopolistic
+   software supply markets. OSS could thus reduce vendor lock-in into closed ecosystems and
+   can increase strategic independence, both at operational and geopolitical level.
+
+                                                 2
+   Protocols
+   â¢ Open protocols allow easier and more interoperable integration. They are easier to audit, pro-
+      vide more flexibility, and less reliance on large vendorsâ proprietary protocols, also reducing
+      vendor lock-in.
+
+   At ING open source is used at scale. ING also provides some of its projects to the open-source com-
+   munity. ING also uses technology that started as open source, and in some cases is commercially
+   supported. Examples of important OSS projects that tend to be in use at banks like ING include the
+   Linux kernel, Python, MariaDB (formerly MySQL), Kubernetes, GnuPG, Fail2ban, OSSEC, NGINX, So-
+   narQube, YARA, Suricata, Elastic, Apache Tomcat, Jetty, Cassandra, GitLab and Backstage.
+
+   ING integrates a considerable number of OSS libraries into its systems and applications. ING cur-
+   rently tracks several million opensource libraries across the largest opensource ecosystems (e.g.
+   MVN & Gradle, NPM, Nuget, Yarn, Pip).
+
+   The worldwide benefits derived from OSS at the demand side are estimated at â¬7.5tr. This trans-
+   lates into an estimated âbenefit ratioâ of 1:3.5 (meaning â¬1 spent on using OSS saves â¬3.50 of in-
+   house development costs; source and source)
+
+4. What concrete measures and actions may be taken at the EU level to support development and
+   growth of the EU open-source sector and contribute to the EU technological sovereignty and
+   cyber security agenda?
+
+   The EU needs to (a) ensure the technological sovereignty of OSS projects with strategic im-
+   portance and (b) create the conditions for the secure development of such OSS projects:
+
+   Code
+   â¢ This requires EU support for security mechanisms (to protect against supply chain and integrity-
+      based cyber-attacks) such as funded audits, vulnerability monitoring, and coordinated incident
+      response, targeted funding (directly or via explicit scoring uplifts in broader calls) for mainte-
+      nance and evolution, with the goal of building a distributed maintainer network across the Un-
+      ion,
+   â¢ The EU could consider identifying a subset of specific OSS projects as critical for the EU, and
+      focus efforts on them, also including adjacent critical dependencies,
+   â¢ For such EU-critical projects, consider providing targeted funding - directly or via explicit scoring
+      uplifts in broader calls for maintenance and evolution, with the goal of building a distributed
+      maintainer network across the Union,
+   â¢ Like US federal agencies do, the EU could fund immediate security improvement initiatives of
+      open-source repositories ecosystems (e.g. npm, pipy, mvn, crates). Funding could be consid-
+      ered for critical OSS projects to create a âcommon cybersecurity tooling stackâ. Threat intel
+      projects, platforms and communities could be facilitated and funded.
+
+   Governance
+   â¢ Encourage EU-wide governance structures that allow for European ecosystems of OSS pro-
+      jects to organise themselves in balanced, transparent ways, allowing foundations to maintain
+      an open and trusted character without concentrated representations. Participation could
+      range from fully open for generic OSS projects, to more restricted for projects identified as
+      critical,
+
+                                                     3
+â¢   Embed requirements in public procurement processes to consider EU OSS and â at otherwise
+    similar tender results â give preference to EU OSS. Require clarity on integration of OSS in
+    products purchased and showcase successful deployments by the public sector,
+â¢   Encourage EU critical infrastructure providers (defence, police, telecom, energy, healthcare,
+    finance, etc) to widely adopt EU OSS in their systems, as well as to contribute to their code-
+    base,
+â¢   Funding and support for demonstrated individual / company OSS contributors to critical pro-
+    jects. Consider tax credits for work spent on contributions to specific, EU critical OSS projects,
+â¢   Safeguard investments in EU stack providers based on OSS. The absence of vendor lock-in
+    could be compensated by long term commitments by private & public sector users,
+â¢   Foster coordination of a network of OSPOs for experience sharing,
+â¢   OSS license models have varying degrees of openness and limitations, not everything is as
+    open as âopen sourceâ would suggest. Evaluate the feasibility and opportunity of introducing
+    an EU FOSS licensing model.
+
+Protocols
+â¢ Provide interoperable alternative protocol definitions and a certification process within the EU
+   for important protocols that are currently not fully open.
+
+5. What technology areas should be prioritised and why?
+
+Code
+â¢ Cybersecurity products,
+â¢ (IAM) Directory and Authentication services,
+â¢ (Private cloud) Virtualization layers, on-premises hosting orchestration frameworks,
+â¢ AI models and Agentic AI orchestration components,
+â¢ Databases and data analytics platforms,
+â¢ Platform engineering and software supply chain (e.g.CI/CD, code repositories, code testing,
+    etc),
+â¢ Personal productivity and office automation, including secure messaging,
+We do note that technology sovereignty has many dimensions. OSS projects potentially reduce
+current cloud dependencies. At the same time, these projects run on a hardware stack (on-prem-
+ises), that has its own supply chain dependencies.
+
+Governance
+â¢ Package repositories infrastructure and support,
+â¢ Threat intelligence exchange platforms.
+
+Protocols
+â¢ Open source that implements open or international standards in authentication, network and
+   cloud technologies, in areas that currently heavily rely on proprietary protocols.
+â¢ Open-source sectorial data structure standards.
+
+There is a strong concentration of cybersecurity vendors (mainly US and Israel). Many security tools
+have migrated to a cloud SaaS based delivery model which raises the risk the tool is inaccessible if
+the underlying cloud becomes unavailable. The research and development of on-premises and air-
+gapped security products has stalled.
+
+The ecosystem of Authentication Directory services is highly concentrated and there is very little
+choice for large organisations. Identity services are essential for operations.
+
+                                                   4
+Threat intel exchange communities and platforms have demonstrated significant success and
+value. The European CERT ecosystem is very active and blends in naturally with OSS projects and
+initiatives. ING is an active member of several threat exchange communities.
+
+ING Supervisory, Regulatory & Public Affairs
+Web â Mail - +31 20 576 6388
+
+                                               5

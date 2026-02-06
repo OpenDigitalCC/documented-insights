@@ -1,0 +1,162 @@
+Stellungnahme: StÃ¤rkung von FOSS und offenen digitalen Ãkosystemen            Ref. Ares(2026)576888 - 20/01/2026
+
+     Stellungnahme zur StÃ¤rkung von FOSS und
+           offenen digitalen Ãkosystemen
+ Diese Stellungnahme bÃ¼ndelt persÃ¶nliche Erfahrungen, Bemerkungen und Erwartungen an
+ EU-MaÃnahmen rund um freie und offene Software (FOSS), offene Standards und
+ interoperable Hardware-Ãkosysteme.
+
+       Grundhaltung: Digitale SouverÃ¤nitÃ¤t wird nicht durch einzelne Produkte erreicht,
+       sondern durch Ã¼berprÃ¼fbare Technik, offene Schnittstellen und Regeln, die
+       Nachnutzung und Wartung real mÃ¶glich machen.
+
+ 1) Grundprinzip: Public Money, Public Code + wirksames Copyleft
+ Wenn Beschaffung oder FÃ¶rderung aus Ã¶ffentlichen Mitteln erfolgt, muss der Quellcode
+ offen sein und dauerhaft offen bleiben. Damit Verbesserungen nicht wieder privatisiert
+ werden, sollte ein Copyleft-Mindeststandard gelten. FÃ¼r mich ist wichtig, dass RÃ¼ckfluss in
+ die Allgemeinheit praktisch erzwungen wird â besonders bei netzwerkbasierten Diensten.
+ Die EU sollte klar definieren, welche Lizenz- und Modellklassen sie dafÃ¼r anerkennt (siehe
+ Abschnitt 2).
+
+ 2) Klare Begriffe: Open Source, Freie Software, Copyleft â und
+ warum SSPL-Debatten relevant sind
+ In der Praxis wird âOpen Sourceâ oft als Marketingwort genutzt. Ich wÃ¼nsche mir, dass
+ EU-FÃ¶rderung und EU-Beschaffung klare Kriterien haben, die nicht nur âQuelltext irgendwo
+ sichtbarâ bedeuten, sondern echte Nachnutzung, Auditierbarkeit und RÃ¼ckfluss sichern.
+ Die OSI-Definition ist dafÃ¼r ein hilfreicher Bezugspunkt â aber sie ist aus meiner Sicht nicht
+ automatisch deckungsgleich mit den europÃ¤ischen Zielen (SouverÃ¤nitÃ¤t, fairer
+ Wettbewerb, Schutz vor Hyperscaler-Ausbeutung). Gerade an der Debatte um die Server
+ Side Public License (SSPL) sieht man das: Viele verstehen SSPL als Reaktion darauf, dass
+ groÃe Cloud-Anbieter Open-Source-Software nutzen, Wert abschÃ¶pfen und
+ Verbesserungen nicht angemessen zurÃ¼ckgeben.
+ Ich halte diese Motivation fÃ¼r nachvollziehbar und richtungsweisend. Sie passt gut zu einer
+ Strategie, die RÃ¼ckfluss und Fairness real absichern will â Ã¤hnlich wie bei starkem
+ Netzwerk-Copyleft (AGPL-Logik). Dass die OSI SSPL nicht als Open-Source-Lizenz
+ anerkennt, geht aus meiner Sicht in der Bewertung zu weit, weil damit ein relevantes
+ Schutzproblem politisch âunsichtbarâ gemacht wird.
+ Wichtig ist mir deshalb eine saubere EU-Klarstellung: (a) FOSS im engeren Sinn (mit vollen
+ Nutzungsfreiheiten) und (b) Schutzlizenzen gegen Cloud-Ausbeutung
+ (âsource-availableâ/SSPL-Ã¤hnlich) dÃ¼rfen nicht vermischt werden â aber die EU sollte offen
+ benennen, welche Ziele sie jeweils adressieren und in welchen Programmen welche Klasse
+ zulÃ¤ssig ist. Entscheidend ist der Effekt: Verhindern wir Open Core, Paywall-Sicherheit und
+ neue Lock-in-Fallen, oder fÃ¶rdern wir sie unabsichtlich?
+ Permissive Lizenzen kÃ¶nnen sinnvoll sein, erlauben aber leicht, dass Ã¶ffentlich finanzierte
+ Arbeit am Ende als proprietÃ¤res Produkt oder als Open Core zurÃ¼ckkommt. Starkes
+ Copyleft ist fÃ¼r mich ein Schutzmechanismus gegen diese Re-Privatisierung â insbesondere
+ dort, wo der Ã¶ffentliche Sektor langfristig unabhÃ¤ngig bleiben muss.
+
+Stand: 20.01.2026                                                                              Seite 1
+Stellungnahme: StÃ¤rkung von FOSS und offenen digitalen Ãkosystemen
+
+ 3) Beschaffung EU-weit: Open-by-Default, inklusive Kontrolle und
+ Sanktionen
+ Die EU sollte Mindestanforderungen fÃ¼r Ã¶ffentliche Vergaben definieren, damit EU-weit
+ deutlich mehr OSS beschafft wird:
+
+â¢ Offene Standards und InteroperabilitÃ¤t als Pflicht, nicht als Wunsch.
+â¢ Quellcode-VerfÃ¼gbarkeit, Build-Dokumentation und nachvollziehbare Releases als Pflicht.
+â¢ Rechte zur Weitergabe und Nachnutzung (BehÃ¶rde-zu-BehÃ¶rde) ohne Zusatzkosten.
+â¢ EinschrÃ¤nkung von Konstrukten, die faktisch Lock-in herstellen (proprietÃ¤re
+  Datenformate, exklusive Schnittstellen, ânur unser Partner darf wartenâ).
+ Wichtig ist echte Kontrolle: Vergaben mÃ¼ssen prÃ¼fbar sein, und bei Nichteinhaltung
+ braucht es Konsequenzen (z. B. Vertragsstrafen, Ausschluss bei Wiederholung,
+ RÃ¼ckzahlung von FÃ¶rdermitteln).
+
+ 4) Transparenz statt NDA-Kultur
+ Bei Ã¶ffentlich finanzierter Software sollte Geheimhaltung (NDA) die Ausnahme sein. NDAs
+ werden oft genutzt, um Schnittstellen, Sicherheitsprobleme oder Kostenstrukturen zu
+ verstecken. Standard muss sein: Ã¶ffentliche Dokumentation, offene Schnittstellen,
+ verÃ¶ffentlichte Roadmaps und transparente Kosten- und Betriebsmodelle â NDAs nur eng
+ begrÃ¼ndet.
+
+ 5) Freie Normen und Standards: keine Paywalls fÃ¼r Grundlagen
+ Normen und Standards sind Infrastruktur. Wenn Ã¶ffentliche Einrichtungen sie einhalten
+ sollen, mÃ¼ssen relevante Normen zumindest fÃ¼r Ã¶ffentliche Projekte frei zugÃ¤nglich sein â
+ oder es braucht gleichwertige frei verfÃ¼gbare EU-Standards. Paywalls fÃ¶rdern
+ Intransparenz und behindern kleine Anbieter, Open-Source-Communities und
+ Bildungseinrichtungen.
+
+ 6) Hardware und GebÃ¤ude-Technik: InteroperabilitÃ¤t muss real
+ funktionieren
+ Offenheit darf nicht bei Software enden. In der Praxis sieht man InsellÃ¶sungen: fehlende
+ Kommunikation zwischen SchaltschrÃ¤nken und Kreisen, proprietÃ¤re Pumpen oder
+ Steuerungen, und keine sinnvolle PC- oder App-Anbindung. Die EU sollte fÃ¼r Ã¶ffentlich
+ finanzierte GebÃ¤ude- und Industrie-Technik Mindeststandards setzen:
+
+â¢ Offene, dokumentierte Schnittstellen und Protokolle.
+â¢ Austauschbare Komponenten (Vendor-NeutralitÃ¤t) und saubere Datenmodelle.
+â¢ Langfristige Update- und Sicherheitszusagen sowie dokumentierte Lebenszyklen.
+â¢ Wo mÃ¶glich: Auditierbarkeit von Firmware und Reparierbarkeit.
+ Ziel: Systeme mÃ¼ssen ineinandergreifen kÃ¶nnen â nicht nur auf dem Papier.
+
+ 7) EU-Code-Hosting und EU-BetriebsfÃ¤higkeit als Standard
+ Ãffentlich finanzierte Projekte sollten standardmÃ¤Ãig auf Infrastruktur setzen, die in der EU
+ rechtlich und technisch betrieben werden kann (Code-Hosting, CI/CD, Paket- und
+ Artefakt-Repositories, Spiegel). Dazu gehÃ¶ren signierte Releases, reproduzierbare Builds
+
+Stand: 20.01.2026                                                                        Seite 2
+Stellungnahme: StÃ¤rkung von FOSS und offenen digitalen Ãkosystemen
+
+ und nachvollziehbare Lieferketten.
+
+ 8) Marktlenkung: geschlossene Systeme verursachen externe
+ Kosten
+ Geschlossene Software und Hardware erzeugen AbhÃ¤ngigkeiten, erschweren Audits,
+ verkÃ¼rzen Lebenszyklen und treiben Folgekosten. Ich halte deshalb eine zusÃ¤tzliche
+ Abgabe auf besonders geschlossene, nicht-interoperable oder nicht-auditierbare LÃ¶sungen
+ fÃ¼r gerechtfertigt â als Lenkungsinstrument zugunsten offener Alternativen. Wichtig ist,
+ dass dies nicht einfach an Endnutzer durchgereicht wird, sondern Anreize schafft,
+ LÃ¶sungen zu Ã¶ffnen und interoperabel zu machen.
+
+ 9) Analyse und Reverse Engineering: mehr rechtliche Klarheit und
+ Hersteller-Toleranz
+ Sicherheitsanalyse, InteroperabilitÃ¤t und Reparatur setzen oft voraus, dass man
+ proprietÃ¤re Systeme untersuchen darf. Hier wÃ¼nsche ich mir mehr rechtliche Klarheit und
+ bessere Duldung durch Hersteller â besonders bei hartem DRM. Beispiel: Bei Blu-rays
+ verhindert AACS praktisch eine Privatkopie, obwohl Privatkopie als Konzept grundsÃ¤tzlich
+ existiert. Wenn DRM so stark ist, dass legale NutzungsmÃ¶glichkeiten faktisch blockiert
+ werden, braucht es EU-weite Regeln, die Analyse und alternative Implementierungen
+ ermÃ¶glichen (mindestens fÃ¼r private Nutzung, Barrierefreiheit, Archivierung, Forschung
+ und Sicherheit).
+
+ 10) Patente und IP-Abfluss: weniger Blockaden, mehr europÃ¤ische
+ WertschÃ¶pfung
+ Ich sehe Patente und IP-Strategien als Problem, wenn sie Innovation bremsen statt fÃ¶rdern
+ (z. B. bei unnÃ¶tigen Monopolen auf Software-Mechaniken) oder wenn Firmen abwandern
+ und ihre IP verschwindet, wÃ¤hrend Europa nur die AbhÃ¤ngigkeit behÃ¤lt. Die EU sollte
+ stÃ¤rker fÃ¶rdern, dass Ã¶ffentlich mitfinanzierte SchlÃ¼sseltechnologien offen oder zumindest
+ standardisiert und interoperabel bleiben.
+
+ 11) Sicherheit und moderne Baseline: FIDO2 und Passkeys als Kern,
+ nicht als Extra
+ FÃ¼r Webanwendungen und Ã¶ffentliche Dienste halte ich phishing-resistente
+ Authentifizierung fÃ¼r zentral. Passkeys (FIDO2/WebAuthn) sollten in vielen
+ Open-Source-Projekten und in Ã¶ffentlichen Plattformen als Kernfunktion vorgesehen sein â
+ nicht nur als kostenpflichtiges Add-on oder Plugin. Wenn Sicherheit und
+ Nutzerfreundlichkeit an geschlossene Erweiterungen ausgelagert werden, entsteht erneut
+ AbhÃ¤ngigkeit. Basissicherheit gehÃ¶rt in den Kern.
+
+ 12) VerstÃ¤ndlichkeit und Teilhabe: klare Kommunikation, inklusive
+ Einfacher Sprache
+ Ãffentliche digitale Systeme scheitern oft an VerstÃ¤ndlichkeit. Ich wÃ¼nsche mir
+ verbindliche Anforderungen an nutzerfreundliche Dokumentation: klare Sprache,
+ barrierearme Darstellung, und â wo BÃ¼rgerinnen und BÃ¼rger direkt betroffen sind â
+ Kerninfos auch in Einfacher Sprache (Anleitungen, Rechte, Datenschutz).
+
+Stand: 20.01.2026                                                                      Seite 3
+Stellungnahme: StÃ¤rkung von FOSS und offenen digitalen Ãkosystemen
+
+ 13) Realistische HÃ¼rde: internationale Handels- und
+ Wettbewerbsrahmen
+ Mir ist bewusst, dass Teile dieser      international gebremst werden kÃ¶nnen (z. B. durch
+ handelsrechtliche Rahmen, internationale Vergabepraxis oder Lobbydruck). Genau deshalb
+ halte ich klare EU-Regeln fÃ¼r wichtig: Wenn Europa digitale SouverÃ¤nitÃ¤t ernst meint, muss
+ es strategische Infrastruktur schÃ¼tzen und fair lenken â auch wenn das unbequem ist.
+
+ Kontakt und Ansprechbarkeit
+ Ich bringe viele persÃ¶nliche Erfahrungen und Bemerkungen aus dem Alltag mit, die klar
+ zeigen, wo mich AbhÃ¤ngigkeiten, Intransparenz und fehlende InteroperabilitÃ¤t konkret
+ stÃ¶ren â auch wenn diese Richtung politisch in der EU herausfordernd sein kann. FÃ¼r
+ RÃ¼ckfragen oder Austausch stehe ich gerne zur VerfÃ¼gung.
+
+Stand: 20.01.2026                                                                     Seite 4

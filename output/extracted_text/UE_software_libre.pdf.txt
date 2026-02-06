@@ -1,0 +1,198 @@
+Ref. Ares(2026)1224790 - 03/02/2026
+
+                                                LLIUREX
+
+LliureX es un proyecto impulsado por la Generalitat Valenciana que naciÃ³ con el
+objetivo de introducir el uso de las TIC y del software libre en el sistema educativo
+de la Comunitat Valenciana. Se trata de una distribuciÃ³n GNU/Linux adaptada
+especÃ­ficamente a las necesidades de los centros educativos.
+En el aÃ±o 2003 el gobierno valenciano anuncia su apuesta por el uso de software
+libre en educaciÃ³n, dando origen al proyecto LliureX.
+En el aÃ±o 2004 se hace la presentaciÃ³n oficial del proyecto en el âI Congreso de
+Software Libre de la Comunitat Valencianaâ y se realiza un pilotaje en 10 centros
+educativos.
+En mayo del aÃ±o 2005 se produce el lanzamiento de la primera versiÃ³n, LliureX
+5.05, basada en Debian.
+En el 2007 hay un cambio importante, la base del sistema pasa de Debian a Ubuntu.
+Durante este periodo tambiÃ©n se desarrolla el Modelo de Aula, un conjunto de
+herramientas para que los docentes puedan controlar y gestionar los equipos del
+alumnado y el aprendizaje en red.
+Durante estos 20 aÃ±os se han publicado diferentes versiones de forma periÃ³dica y
+tambiÃ©n se han publicado diversos sabores o adaptaciones segÃºn necesidades:
+Escritorio, Servidor, Cliente, Infantil, Bibliotecas, MÃºsica, Lite, FP y PYME 1
+(pequeÃ±a y mediana empresa).
+En estos aÃ±os se introducen herramientas clave como:
+    ï·   LliureX-Lab, un laboratorio para aprender idiomas.
+    ï·   IntegraciÃ³n del traductor SALT en el LibreOffice para mejorar el soporte del
+        valenciano.
+    ï·   Control de Aula, es una herramienta que permite al profesorado gestionar y
+        supervisar en tiempo real los ordenadores del alumnado dentro de un aula
+        de informÃ¡tica. Su objetivo es facilitar la docencia y evitar distracciones, pro-
+        porcionando un entorno seguro y controlado. Permite supervisar la actividad
+        del alumnado y transmitir contenidos y explicaciones.
+    ï·   Zero Center, es el centro de control de LliureX, una herramienta propia y
+        fundamental de esta distribuciÃ³n educativa. Su finalidad es simplificar al mÃ¡-
+        ximo la administraciÃ³n del sistema, permitiendo realizar tareas que en otras
+        distribuciones GNU/Linux requerirÃ­an comandos complejos o configuraciones
+        avanzadas. Se trata de una interfaz centralizada desde la cual el usuario puede
+1   AdaptaciÃ³n utilizada en familias de FormaciÃ³n Profesional de Comercio y Marketing, y que tambiÃ©n es vÃ¡lida
+    para su uso en cualquier empresa, sobretodo para la pequeÃ±a y mediana empresa.
+    Cuando el alumnado conoce estas aplicaciones puede transmitir este conocimiento en el momento que hace las
+    prÃ¡cticas de empresa o cuando se incorpora al mundo laboral.
+
+                                                PÃ¡gina 1 de 5
+       gestionar software, configurar el sistema, resolver problemas o instalar recur-
+       sos educativos.
+   ï·   LliureX Store, es la tienda de aplicaciones oficial de LliureX 23 y LliureX 25.
+       DiseÃ±ada para facilitar la bÃºsqueda, instalaciÃ³n y gestiÃ³n de software dentro
+       de esta distribuciÃ³n educativa. ActÃºa como un punto centralizado desde el que
+       cualquier usuario puede encontrar aplicaciones de forma sencilla y segura.
+   ï·   La incorporaciÃ³n de inteligencia artificial en el propio sistema operativo y
+       en las aplicaciones mÃ¡s utilizadas, ya sea para mÃºsica, diseÃ±o grÃ¡fico o la
+       ofimÃ¡tica.
+En la actualidad, LliureX estÃ¡ instalado en mÃ¡s de 300.000 ordenadores y se ha
+consolidado como un proyecto maduro, referente y a la vanguardia dentro del
+ecosistema de las distribuciones educativas.
+La distribuciÃ³n LliureX permite que los mÃ¡s de 800.000 usuarios, entre el
+profesorado y alumnado del sistema educativo valenciano, accedan a
+aplicaciones y herramientas digitales seguras, adecuadas para los diferentes niveles
+educativos, fomentando un entorno de aprendizaje inclusivo y dinÃ¡mico.
+LliureX naciÃ³ como una apuesta por el software libre en el sistema educativo
+pÃºblico valenciano, y su enfoque siempre ha sido: mejorar la digitalizaciÃ³n en el
+sistema educativo, reducir costes en licencias, ofrecer herramientas adaptadas a la
+realidad de las aulas, fomentar el uso del valenciano y el castellano y fomentar la
+independencia tecnolÃ³gica (esto ya lo decÃ­amos hace mÃ¡s de 20 aÃ±os).
+
+CaracterÃ­sticas generales y ventajas
+
+El movimiento del software libre propone una forma Ã©tica de entender el software
+que ha transformado profundamente la industria informÃ¡tica y que se estÃ¡
+propagando a muchas otras Ã¡reas.
+Supone un importante cambio de mentalidad respecto del software privativo, y
+ademÃ¡s su filosofÃ­a transciende mÃ¡s allÃ¡ del Ã¡mbito informÃ¡tico. No sÃ³lo proporciona
+ventajas tÃ©cnicas como la seguridad y la eficiencia, sino que nos aporta una serie
+de valores Ã©ticos: colaboraciÃ³n, no discriminaciÃ³n y sobre todo libertad.
+Promover y transmitir estos valores dentro del sistema educativo es ya justificaciÃ³n
+suficiente para usar software libre en la actividad docente, pero estos no son los
+Ãºnicos beneficios que obtenemos.
+Muchas de las caracterÃ­sticas y ventajas que nos proporciona LliureX, derivan del
+hecho de usar software libre y no hubiese sido posible incorporarlas de no ser por las
+cuatro libertades que nos proporciona el software libre (usarlo, estudiarlo y
+modificarlo, redistribuir copias y distribuir copias de versiones modificadas):
+
+                                      PÃ¡gina 2 de 5
+   â   DifusiÃ³n de las seÃ±as de identidad de la RegiÃ³n de Valencia y el aprendizaje
+       en lengua valenciana y castellana. Al tratarse de software libre, es posible
+       modificar los programas para traducirlos al valenciano y al castellano. De esta
+       forma, Lliurex se desarrolla ajustÃ¡ndose y respetando la identidad y la realidad
+       lingÃ¼Ã­stica de la sociedad valenciana, y se distribuye en las dos lenguas
+       oficiales de nuestra Comunitat: valenciano y castellano.
+   â   Permite combatir la brecha digital. LliureX estÃ¡ presente en todos los centros
+       escolares, y puede usarse legal y gratuitamente tanto en el aula como en casa,
+       permitiendo el acceso a las TIC a todo el alumnado sin ningÃºn tipo de
+       discriminaciÃ³n y con independencia de su poder adquisitivo.
+   â   Disponibilidad de software actualizado y de Ãºltima generaciÃ³n. Los
+       paquetes de software de LliureX pueden actualizarse de manera automÃ¡tica a
+       travÃ©s de Internet utilizando las herramientas incluidas en la propia
+       distribuciÃ³n. AdemÃ¡s, al tratarse de software libre, actualizar a las nuevas
+       versiones de los programas no conlleva ningÃºn coste de licencias de uso ni de
+       cualquier otro tipo. Esta facilidad para mantener actualizado el sistema se
+       traduce en una mayor seguridad, estabilidad y rendimiento, favorece la
+       ausencia de virus y garantiza que nuestro alumnado vaya a formarse
+       utilizando software actual y de calidad.
+   â   SoberanÃ­a digital. Independencia del proveedor de software e incremento del
+       poder de negociaciÃ³n con los proveedores TIC.
+   â   EconomÃ­a, optimizaciÃ³n de recursos y mejor gestiÃ³n de los fondos pÃºbli-
+       cos. Los recursos que se destinaban a la adquisiciÃ³n de licencias de uso de so-
+       ftware privativo pueden dedicarse a otros fines.
+       AdemÃ¡s, el software libre alarga significativamente la duraciÃ³n de los
+       equipos (obsolescencia programada) al requerir menos recursos tÃ©cnicos,
+       permitiendo reutilizar hardware antiguo con sistemas operativos ligeros. Evita
+       actualizaciones forzosas de hardware, reduce costes de mantenimiento y ga-
+       rantiza seguridad y soporte tÃ©cnico a largo plazo sin depender de fabricantes
+       privados. AdiÃ³s a la obsolescencia programada, al no estar atado a la polÃ­tica
+       de actualizaciones de un proveedor especÃ­fico, la administraciÃ³n decide
+       cuÃ¡ndo actualizar o mantener su sistema, evitando el cambio forzoso de
+       hardware.
+
+LliureX no es un simple programa sino un sistema operativo completo con mÃ¡s de
+300 aplicaciones para el Ã¡mbito educativo. El sistema operativo es una pieza de
+software imprescindible en cualquier sistema informÃ¡tico, e incluye el conjunto de
+programas que empiezan a ejecutarse al encender la mÃ¡quina, sin los que no serÃ­a
+posible utilizar el ordenador ni interaccionar con Ã©l de ninguna forma.
+
+                                      PÃ¡gina 3 de 5
+Las principales ventajas que se derivan de desarrollar y mantener nuestro
+propio sistema operativo son:
+   â   AdaptaciÃ³n a las particularidades y necesidades de nuestro sistema
+       educativo. En LliureX se han seleccionado e incorporado programas y
+       utilidades para atender las necesidades tanto de las distintas asignaturas y
+       Ã¡reas formativas como de los diferentes niveles educativos. TambiÃ©n se han
+       desarrollado versiones especÃ­ficas para su uso en diferentes espacios
+       singulares del centro (aulas de infantil, aulas de informÃ¡tica, laboratorios de
+       idiomas, aulas de mÃºsica, bibliotecas, ...)
+   â   Establecer nuestro propio calendario de versiones y actualizaciones. De
+       esta forma podemos adaptarnos al calendario escolar, evitando interrupciones
+       durante el curso y favoreciendo la posibilidad de ofertar la formaciÃ³n durante
+       las fechas mÃ¡s apropiadas.
+   â   Mayor simplicidad de instalaciÃ³n, administraciÃ³n y uso. LliureX incluye
+       herramientas de autoconfiguraciÃ³n para minimizar las necesidades de
+       administraciÃ³n. De esta forma, LliureX puede ser instalado y usado por
+       prÃ¡cticamente cualquier miembro de la comunidad educativa sin necesidad de
+       disponer de especiales conocimientos de informÃ¡tica.
+   â   AdaptaciÃ³n al hardware y equipamiento especÃ­fico de los centros
+       docentes. Al tratarse de nuestra propia distribuciÃ³n, en LliureX se aÃ±aden
+       configuraciones especÃ­ficas, parches y controladores adicionales para soportar
+       automÃ¡ticamente el hardware de dotaciÃ³n de los centros pÃºblicos. Por otra
+       parte, el control de la distribuciÃ³n GNU/Linux simplifica la distribuciÃ³n de
+       sistemas preinstalados y la creaciÃ³n de distintos perfiles de instalaciÃ³n con
+       preconfiguraciones especÃ­ficas.
+
+Â¿QuÃ© implica a dÃ­a de hoy LliureX?
+Â· CatÃ¡logo de aplicaciones
+Amplio ecosistema de aplicaciones de software libre y cÃ³digo abierto para educaciÃ³n,
+evaluadas y validadas por el gobierno valenciano para cumplir con la legislaciÃ³n
+vigente en cuanto a protecciÃ³n de datos y ciberseguridad.
+Â· Independencia tecnolÃ³gica
+SelecciÃ³n y adaptaciÃ³n de aplicaciones idÃ³neas para el proceso de enseÃ±anza-
+aprendizaje, sin depender de una empresa o proveedor externo que pueda imponer
+condiciones o limitaciones.
+Â· Privacidad
+Respeto por la privacidad y la protecciÃ³n de los datos de las personas que lo utilizan,
+ya sean docentes, no docentes o estudiantes. Como se trata de software libre ofrece
+
+                                      PÃ¡gina 4 de 5
+transparencia, permitiendo a cualquier usuario auditar dÃ³nde y cÃ³mo se almacenan
+los datos.
+Â· Accesibilidad e inclusiÃ³n
+Personalizable, para poder adaptarse tanto a las necesidades educativas de cada
+persona como para facilitar el acceso, permanencia y promociÃ³n del uso de las TIC en
+igualdad de condiciones, ya que LliureX puede utilizarse en el hogar de la misma
+manera que en el aula, sin necesidad de comprar una licencia.
+Â· Fiabilidad y estabilidad
+La combinaciÃ³n de un equipo de programadores, junto a un equipo de asesores
+tÃ©cnicos docentes, y la comunidad de personas usuarias de LliureX, aseguran que el
+software no solo sea fiable y estable, sino que tambiÃ©n proporcione un rendimiento
+Ã³ptimo y una experiencia satisfactoria para la persona.
+Â· Seguridad
+Alto nivel de seguridad para los centros educativos y las personas usuarias. DiseÃ±o
+confiable que protege de amenazas y vulnerabilidades que comprometen la
+disponibilidad de los dispositivos informÃ¡ticos, ademÃ¡s de proteger la integridad y
+confidencialidad de la informaciÃ³n que en ellos se almacena.
+
+LliureX es mÃ¡s que un sistema operativo o sus aplicaciones, es una iniciativa de
+transformaciÃ³n digital de los centros educativos de la comunidad valenciana
+basada en software libre y cÃ³digo abierto.
+
+Otros proyectos que tambiÃ©n llevamos desde la Conselleria de EducaciÃ³n y que estÃ¡n
+basados en software libre y cÃ³digo abierto son: Aules (Moodle con mÃ¡s de 500.000
+usuarios y 200.000 aulas virtuales), Biblioedu (PMB), Portaledu y Portaledu blogs
+(WordPress con mÃ¡s de 1.500 pÃ¡ginas web) y el proyecto Appsedu (Liferay).
+
+Apostar por el software libre y el cÃ³digo abierto posibilita la soberanÃ­a digital, la
+independencia tecnolÃ³gica, la adaptaciÃ³n a las necesidades regionales y el
+fomento de la economÃ­a local.
+Copio el enlace a la estrategia TIC 2024-2028 en la que se indica la apuesta por el uso
+del software libre y cÃ³digo abierto en las aulas valencianas.
+
+                                      PÃ¡gina 5 de 5

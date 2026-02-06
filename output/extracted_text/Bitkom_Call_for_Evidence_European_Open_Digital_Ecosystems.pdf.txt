@@ -1,0 +1,360 @@
+Titel
+                                       Ref. Ares(2026)1222164 - 03/02/2026
+
+        Leveraging Open
+        Source for an Open
+        Digital Ecosystem
+        Response to the European Commissionâs Call for
+        Evidence regarding the upcoming European Open
+        Digital Ecosystem Strategy
+
+                                                                     1
+Leveraging Open Source for an Open Digital Ecosystem
+
+At a glance
+
+Leveraging Open Source for
+an Open Digital Ecosystem
+Initial position
+Open source is a key enabler for Europeâs digital sovereignty, competitiveness, and
+cybersecurity. To be effective, EU policy must strengthen Europeâs capacity to sustain,
+govern, and adopt open technologies as part of a global ecosystem, addressing existing
+barriers in funding, procurement, maintenance, and market integration.
+
+Bitkom rating
+The initiative correctly identifies open source as a strategic asset for Europeâs digital
+future. Further clarification is needed on how EU measures will support long-term
+sustainability, value creation, and market uptake, while avoiding fragmentation and
+preserving technology neutrality and global openness.
+
+Key takeaways
+ï¡ Foster value creation and capture
+
+   While Europe is strong in open source development, value capture often occurs
+   outside the EU. EU action should therefore focus on market integration and uptake,
+   as well as the structural support of open source business models.
+
+ï¡ Foster sustainable maintenance and security
+
+   Critical open source projects depend on consistent maintenance. EU action should
+   therefore focus on sustainable funding and strong market integration to support
+   long-term project activities and maintenance.
+
+ï¡ Reduce adoption barriers through funding and procurement reform
+
+   Lifecycle-based procurement, outcome-oriented funding, and a strategic focus on
+   existing solutions where available are essential to overcome adoption barriers and
+   enable scalable deployment across public and private sectors.
+
+ï¡ Strengthen Europeâs role in global open source ecosystems
+
+   EU measures should incentivize upstream contribution, private-sector engagement,
+   and interoperability, ensuring that European actors can actively shape and benefit
+   from global open source ecosystems without fragmentation.
+
+                                                                                            2
+Leveraging Open Source for an Open Digital Ecosystem
+
+Content
+1     The European Open Source Sector                                        4
+      Key Strengths of the EU Open Source Ecosystem                          4
+
+      Key Weaknesses of the EU Open Source Ecosystem                         5
+
+      Barriers to Adoption and Maintenance                                   5
+
+      Barriers to sustainable contribution                                   5
+
+2     The Added Value of Open Source                                         6
+3     Measures and Actions                                                   7
+      Sustain and Secure Critical Open Source Infrastructure                 7
+
+      Align Public Funding with Open Source Outcomes                         7
+
+      Enable Market Uptake through Procurement and Standards                 7
+
+      Create Incentives for Private-Sector Contribution                      8
+
+4     Key Technologies and Sectors                                           8
+      Technologies to be prioritized                                         8
+
+      Sectors in which Open Source enhances Competitiveness and Resilience   9
+
+                                                                                 3
+Leveraging Open Source for an Open Digital Ecosystem
+
+1                          The European Open Source
+                           Sector
+Open source software can serve as a strategic lever for strengthening Europeâs digital
+sovereignty. However, digital sovereignty should not be understood as a narrow or
+protectionist concept equating to a âBuy Europeanâ approach. Rather, it must be
+grounded in Europeâs ability to act confidently and sustainably within global digital
+ecosystems.
+
+A European strategy on open digital ecosystems should therefore treat open source not
+primarily as a European asset to be isolated, but as a global commons in which Europe
+must actively invest, contribute, and lead. Open source is inherently borderless and
+depends on globally distributed communities. EU measures should explicitly safeguard
+the global openness of its ecosystem and avoid isolationist or fragmenting approaches
+that could weaken existing international communities and undermine resilience and
+security.
+
+The core strategic challenge lies less in creating alternatives in isolation and more in
+strengthening Europeâs long-term capacity to sustain, govern, and rely on open
+technologies. When applied strategically, the open source model enables the efficient
+use of developer resources, fosters collaboration between European companies and
+global communities, and preserves competition within compliant markets. If focused
+on technology-neutral and objective requirements, interoperability, and measurable
+outcomes, a dedicated EU Open Digital Ecosystem Strategy can strengthen innovation
+capacity, skills, and capabilities across the European digital sector.
+
+Key Strengths of the EU Open Source Ecosystem
+The European Union benefits from a deep integration of its developers, companies, and
+public actors into global open source ecosystems and communities. European
+contributors play an active role across a wide range of widely used projects and
+foundations, giving the EU significant influence within international open source
+development processes.
+
+In addition, Europe has developed strong competencies in sector-specific applications
+of open source software, particularly in areas such as logistics, automotive, and
+industrial systems. These strengths are complemented by a broad and diverse
+landscape of competent communities, small and medium-sized enterprises, and larger
+companies that successfully build and maintain open source solutions.
+
+Open source technologies play a crucial role by enabling EU companies to collaborate
+on the foundational, non-differentiating layers of digital infrastructure and the
+implementation of common standards. This collaborative approach drives progress and
+efficiency across the EU industry, while safeguarding essential competition within the
+market.
+
+                                                                                           4
+Leveraging Open Source for an Open Digital Ecosystem
+
+Key Weaknesses of the EU Open Source Ecosystem
+Despite these strengths, structural weaknesses persist. While a considerable share of
+open source software is developed within the EU, economic value creation and
+commercialization often occur outside Europe. As a result, the EU remains strong in
+development capabilities but comparatively weaker in capturing value and scaling
+successful solutions.
+
+Furthermore, there are general reservations among European businesses to take on an
+active and sustained role in open source ecosystems, particularly with regard to
+upstream contribution and governance.
+
+Although the strategic importance of open source is increasingly recognized at the
+political level, the EU still lacks a cohesive and operational strategy with clear priorities,
+practical objectives, and measurable KPIs. At the same time, collective investment in
+digital commons remains insufficient, especially with regard to foundational open
+source components that underpin Europeâs digital infrastructure.
+
+Barriers to Adoption and Maintenance
+One of the most significant barriers to adoption lies in prevailing procurement and
+cost-evaluation practices. In both public and private sectors, procurement decisions
+frequently prioritize initial acquisition costs over comprehensive lifecycle evaluations.
+This approach often fails to account for long-term factors such as maintenance,
+security updates, support, and transition costs, thereby disadvantaging solutions that
+may offer more predictable and sustainable total cost of ownership.
+
+In addition, deficiencies in market visibility and organization limit the uptake of open
+source solutions. A lack of transparency regarding available offerings and their
+capabilities reduces market awareness and makes it difficult for potential users to
+identify suitable solutions, particularly when compared to well-resourced proprietary
+vendors with established sales and marketing structures.
+
+Regulatory fragmentation across Member States further complicates adoption.
+Heterogeneous legal and regulatory frameworks and insufficient harmonization create
+uncertainty for organizations seeking to deploy and scale open source solutions across
+borders. Additionally, initiatives developing partially redundant solutions (e.g. office
+software) across the EU complicate adoption and maintenance.
+
+Barriers to sustainable contribution
+Sustainable contribution to open source ecosystems is often hindered by a short-term
+focus on development cost savings and a limited appreciation of the long-term value of
+engagement. Incentives for sustained upstream contribution remain weak, both in
+public funding schemes and in corporate strategies.
+
+These challenges are compounded by an overestimation of legal, intellectual property,
+and liability risks associated with open source contribution, affecting both individuals
+and companies.
+
+                                                                                                 5
+Leveraging Open Source for an Open Digital Ecosystem
+
+In addition, the adoption of open source software stacks to sector-specific use cases
+frequently lacks sustained support, as existing funding models tend to focus on
+horizontal technologies and do not adequately address specific sectoral needs.
+
+Public funding instruments often prioritize new projects, prototypes, and innovation
+phases, while long-term maintenance, security and operational support remain
+underfunded. This imbalance undermines the sustainability of widely used open source
+components that form part of critical digital infrastructure.
+
+2                         The Added Value of Open Source
+From a strategic perspective, open source software contributes significantly to
+resilience and digital sovereignty. By mitigating vendor lock-in and enabling
+transparency, auditability, and verifiability, open source strengthens long-term
+reliability and trustworthiness, particularly in critical and high-dependency sectors.
+
+Open source also supports more efficient cost allocation and scalability. Shared
+investment in foundational technologies allows organizations and public
+administrations to reduce duplication of effort and allocate resources more effectively
+across ecosystems and Member States.
+
+In terms of innovation, open source accelerates time-to-market by enabling reuse,
+modular development, and collaboration across organizational boundaries. This allows
+companies and public actors to focus investments on differentiating features and core
+business innovation rather than rebuilding basic infrastructure.
+
+At the same time, open source fosters market development and enables new European
+business models built around services, integration, customization, and long-term
+support. Enhanced interoperability and data portability further strengthen competitive
+and open markets within the EU.
+
+In addition, the open source ecosystem serves as a vital commons for education,
+lifelong learning, and upskilling. EU companies and the EU public sector benefit from
+the practical training and hands-on experience that open source provides to future
+employees, while also supporting the continuous development of skills and expertise
+among their existing workforce. This ongoing engagement with open source
+strengthens the overall talent pool and enhances digital competencies across the
+European economy.
+
+                                                                                          6
+Leveraging Open Source for an Open Digital Ecosystem
+
+3                         Measures and Actions
+EU action should focus on strengthening the conditions under which open source
+software can be sustainably developed and maintained, governed, and adopted at
+scale. Priority should be given to long-term maintenance, upstream contribution,
+market integration, and the avoidance of fragmentation, rather than to the parallel
+development of isolated or duplicative solutions.
+
+Sustain and Secure Critical Open Source Infrastructure
+Funding and policy instruments at the EU level should systematically include sector-
+specific open source initiatives alongside generic digital infrastructure and generally
+aim to strengthen cooperation on security best practices. A European Sovereign Tech
+Fund should be established to sustain and secure critical open source technologies,
+with a clear focus on long-term maintenance, security, and resilience rather than short-
+term project funding.
+
+In parallel, structured stewardship models such as EU open source maintenance
+cooperatives should be supported to ensure the reliable operation and continuous
+evolution of widely used components. The EU should also formally recognize and
+support Software Heritage, or comparable initiatives, as shared and reliable
+repositories for critical open source components, based on stable public-private
+partnership models for funding. Where necessary to ensure continuity and security,
+strategic patronage mechanisms for critical open source projects should be
+implemented. These mechanisms should generally avoid unnecessary fragmentation
+of existing ecosystems. Thus, the commission should initiate a structured dialogue
+with global open source software foundations.
+
+Align Public Funding with Open Source Outcomes
+Public funding mechanisms should be adapted to better support outcome-oriented
+and agile open source development. This requires shifting KPIs away from research-
+centric metrics toward measurable impact, reuse, adoption, and long-term
+sustainability. The goal should be to foster unbiased funding practices that evaluate
+potential solutions equally, based on objective requirements and case-based criteria.
+
+Enable Market Uptake through Procurement and
+Standards
+Public procurement represents a key lever for scaling open source in Europe and should
+be adapted accordingly. Procurement procedures should place greater emphasis on
+lifecycle-based evaluation rather than acquisition cost, focus on existing solutions
+where available in âMake or Buyâ decisions, and should explicitly include
+interoperability and avoidance of vendor lock-in as core criteria. In addition, tenders
+should recognize and reward the active participation of suppliers in upstream open
+source development of the solutions they provide.
+
+                                                                                           7
+Leveraging Open Source for an Open Digital Ecosystem
+
+EU-level and national procurement rules should be systematically reviewed to identify
+and eliminate any unintended discrimination against open source solutions and
+components. This includes reassessing preferences for offers with formal commercial
+support from vendors, ensuring that open source solutions with comparable informal
+support practices are equally considered. Tools such as the OpenSSF Scorecard can be
+employed to evaluate the maturity and reliability of open source projects, enabling fair
+and transparent comparison with proprietary alternatives.
+
+The establishment and support of open source reference implementations for existing
+standards can further facilitate adoption and interoperability across sectors.
+
+Create Incentives for Private-Sector Contribution
+To strengthen Europeâs role within global open source ecosystems, private-sector
+engagement must be actively encouraged. Targeted tax incentives and/or subsidies
+similar to established incentives for internal R&D efforts should be introduced to
+encourage sustained engagement by European businesses and to lower barriers to
+long-term contribution.
+
+The EU has a significant opportunity to strengthen the acceptance of open source
+within the EU business culture. However, EU companies often remain risk-averse in
+adopting open source, influenced by factors such as intra-EU taxation rules â including
+and especially transfer pricing of multi-national development activities â and
+inconsistencies in national legislation on issues like intellectual property rights and
+liability exclusions. Additionally, the introduction of the Cyber Resilience Act (CRA) may
+have unintentionally increased uncertainty and hesitation, which should be proactively
+addressed to encourage broader open source adoption.
+
+4                         Key Technologies and Sectors
+Technologies to be prioritized
+Priority should be given to cross-sectoral software stack elements such as operating
+systems, databases, middleware, common data models and APIs, as well as to core
+digital platformsâwhich often carry a high risk of proprietary vendor lock-in.
+Furthermore, broad-use and high-sensitivity applications including office solutions,
+communications, IoT, and security software should be prioritized. Core internet
+protocols and advanced authentication technologies should also be considered
+strategic priorities.
+
+Beyond horizontal technologies such as cloud, AI, and cybersecurity, particular
+attention should be paid to sector-specific open source stacks in areas where Europe
+has strong regulatory responsibility and long system lifecycles.
+
+                                                                                             8
+Leveraging Open Source for an Open Digital Ecosystem
+
+Sectors in which Open Source enhances
+Competitiveness and Resilience
+Increased use of open source software would be particularly beneficial in sectors such
+as transport, energy, public administration, cybersecurity, and industrial systems,
+where shared open foundations directly strengthen cyber resilience, interoperability,
+and long-term competitiveness.
+
+Semiconductor and hardware engineering, including microprocessors and IP blocks,
+also represent areas in which open approaches can contribute to strategic resilience
+and Europeâs innovation capacity.
+
+                                                                                         9
+Bitkom represents more than 2,300 companies from the digital economy. They generate an
+annual turnover of 200 billion euros in Germany and employ more than 2 million people.
+Among the members are 1,000 small and medium-sized businesses, over 700 start-ups and
+almost all global players. These companies provide services in software, IT,
+telecommunications or the internet, produce hardware and consumer electronics, work in
+digital media, create content, operate platforms or are in other ways affiliated with the
+digital economy. 82 percent of the membersâ headquarters are in Germany, 8 percent in the
+rest of the EU and 7 percent in the US. 3 percent are from other regions of the world. Bitkom
+promotes and drives the digital transformation of the German economy and advocates for
+citizens to participate in and benefit from digitalisation. At the heart of Bitkomâs concerns
+are ensuring a strong European digital policy and a fully integrated digital single market, as
+well as making Germany a key driver of digital change in Europe and the world.
+
+Published by
+Bitkom e.V.
+Albrechtstr. 10 | 10117 Berlin
+
+Contact person
+Felix Ansmann | Head of Software & IT-Services
+P +49 30 27576 098| f.ansmann@bitkom.org
+
+Responsible Bitkom Committee
+WG Open Source
+
+Copyright
+Bitkom 2026
+
+This publication is intended to provide general, non-binding information. The contents reflect the view within
+Bitkom at the time of publication. Although the information has been prepared with the utmost care, no claims
+can be made as to its factual accuracy, completeness and/or currency; in particular, this publication cannot take
+the specific circumstances of individual cases into account. Utilising this information is therefore sole
+responsibility of the reader. Any liability is excluded. All rights, including the reproduction of extracts, are held
+by Bitkom.
+
+bitkom.org

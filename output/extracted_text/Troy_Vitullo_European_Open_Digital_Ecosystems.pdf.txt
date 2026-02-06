@@ -1,0 +1,99 @@
+T R OY V I T U L L O
+                                                                        Ref. Ares(2026)1122862 - 31/01/2026
+                          720-300-3045 | troy@troyvit.com | LinkedIn
+
+T O W A R D S E U R O P E A N O P E N D I G I TA L E C O S Y S T E M S
+
+Full post on my blog.
+
+What are the strengths and weaknesses of the EU open-source sector?
+
+Many aspects of an open source digital infrastructure already exist in Europe, from
+system services like Linux and KDE, cloud services like NextCloud and Penpot,
+infrastructure services like bunny.net, and powerful AI solutions like Mistral.
+
+The biggest weakness is scale. Open alternatives to Google Workspace are a good
+example: they are up against a product funded by an organization with a yearly
+revenue rivaling the GDP of Finland.
+
+What is the added value of open source for the public and private sectors?
+
+Open source projects give the public a say in the shape of the tools they use. In
+education the tools themselves become a lesson, because students can take them
+apart and learn how they work. Integrating open source throughout the education
+system gives students a deeper understanding of the technology they use.
+
+The private sector is beholden to the owners of the closed source tools that they rent
+or buy. That means everything from unilaterally changed licenses to data exfiltration
+to corporations and governments. Open source helps ensure that the private sector
+owns its software instead. Open source also provides a chance for the private sector
+to participate in the commons while at the same time affecting the course of the
+development of the tools it uses.
+
+What can the EU do to support the development and growth of the EU open-
+source sector and contribute to the EUâs technological sovereignty and
+cybersecurity?
+
+Support universities and embrace the U.S. brain drain
+
+The EU is already providing a safe haven for U.S. university researchers. It can extend
+that. Put them to work using and developing open source through research grants,
+software development infrastructure and extended education programs.
+Scale infrastructure
+
+Build the open, sovereign digital cloud that Europeans deserve. Amazon recently
+announced the âAWS European sovereign cloudâ, not because they believe that they
+can deliver sovereignty to another polity but because they fear that Europe can do it
+without them. Europeâs digital infrastructure can come from within by leveraging
+what it already has and investing in interoperability between existing cloud providers.
+
+Support open information
+
+Google and Cloudflare offer free protection services like Project Galileo and Project
+Shield to at-risk enterprises like news-rooms and human rights organizations. They
+can also take those protections away at the whim of a CEO. Europe can subsidize
+the same thing through companies like bunny.net and back those protections up.
+
+Fund the bits that hold it all together
+
+There are hundreds of invisible open source libraries that we all use every day, and
+most of us donât know it. They are the backbone of the worldâs digital infrastructure
+and need social and financial support. It is a matter of security for EU to help fund
+and build communities for many of these isolated projects.
+
+Create truly open AI
+
+   1. Incentivize EU AI companies to release more open models by making deals to
+      integrate them into European Commission projects
+
+  2. Tie AI expansion to sustainable energy sources. When building out physical
+     digital infrastructure keep AI front in center in thinking, especially in terms of
+     environmental impact.
+
+  3. Use AI to fight AI. The same principles disinformation actors use to create
+     discord can be used to detect and fight it. Integrating open AI tools into
+     Europeâs battle against disinformation creates accountability and builds trust.
+
+What technology areas should be prioritised and why?
+
+   1. Open source libraries
+
+  2. AI
+
+  3. Collaboration suites
+
+  4. Interoperability
+
+  5. Open federated social tools
+In what sectors could an increased use of open source lead to increased
+competitiveness and cyber resilience?
+
+  1. Public sector
+
+  2. University research
+
+  3. Defense: Operations Security (OpSec), anti-disinformation, OS intelligence
+
+  4. Journalism and truth-telling
+
+  5. Social media

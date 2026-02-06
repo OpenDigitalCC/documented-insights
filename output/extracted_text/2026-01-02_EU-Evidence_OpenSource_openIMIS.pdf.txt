@@ -1,0 +1,261 @@
+Ref. Ares(2026)1225612 - 03/02/2026
+
+EU Call for Evidence: Towards European Open
+Digital Ecosystems
+Contribution from The openIMIS Initiative
+
+Background: The openIMIS Initiative
+openIMIS - The Digital Public Good for Universal Health Coverage and Universal
+Social Protection
+
+openIMIS is a digital public good which powers versatile solutions for the
+management of health financing and social protection programs. It can be easily
+configured to support various workflows across the social protection delivery
+chain. Designed to be interoperable with other information systems, openIMIS
+draws upon and contributes to Digital Public Infrastructure. More than 36 Mio
+beneficiaries in 14 countries (Tanzania, Cameroon, The Gambia, DR Congo, Chad,
+Mauretania, Nepal, Niger, Nigeria, Burundi, Bangladesh, Lao PDR, SÃ£o TomÃ© and
+PrÃ­ncipe, and Niue) benefit from social protection programs (health insurance,
+employment injury insurance, cash transfer and voucher schemes, beneficiary
+registries) managed using openIMIS.
+
+The global openIMIS initiative is co-financed by the German Ministry for Economic
+Development and Cooperation (BMZ), the Swiss Agency for Development and
+Cooperation (SDC) and the European Commission (EU). Country-specific
+implementations of the software in LMICs are funded partly by country
+governments with support through 8 different donors and realised by multi- and
+bilateral organisations such as ILO, WB, UNICEF, UNOPS, Enabel (Belgium), Expertise
+France, GIZ (Germany); NGOs, private health insurances and others. About 23
+private sector developer teams from 19 countries are working at openIMIS
+implementations at different stages in more than 21 countries, alongside the IT
+teams of the respective health and social protection agencies.
+
+Feedback to the Questions of Interest
+1. What are the strengths and weaknesses of the EU open-
+   source sector? What are the main barriers that hamper ...
+(i) ... adoption and maintenance of high-quality and secure open source
+
+Strenghts:
+Europe has many dedicated software developers who understood the importance
+of open source and who were able to develop a business model around it. The
+advantages of the freedom in FOSS is very much appreciated and seen as an
+enabler â as opposed to the restrictions and very limiting licence conditions of
+proprietary software. In the openIMIS Initiative we were able to source several
+companies in public, international tenders that had extensive experience with
+FOSS development and were able to carry the project.
+
+Weaknesses:
+
+European deciders in politics, IT management and also end-users became used
+to the convenience of getting free or cheap non-FOSS US platform offerings. The
+understandable urge for trendy, up to date and shiny software that works without
+disruptions created a dreadful dependency from powerful US providers that
+quickly dominated the international market. The complexity of a comprehensive
+evaluation of different product offerings oftentimes creates near-religious feelings
+without factual basis among deciders about the usefulness of commercial
+products (e.g. Apple versus Windows on workstations). Aspects of prestige and the
+general feeling that expensive is always better inevitable leads to feelings of being
+at the lower end of the life if the software is for free â lobbyist for commercial
+software might have fuelled these feelings even more. IT managers face immense
+pressure to go with mainstream solutions as failure will be tolerated more easily
+with a market-proven solution. This inevitably creates monopolies in favour of the
+strongest competitor and led to the decline of European software solutions: e.g.
+the now open-sourced LibreOffice package originated from the German
+StarOffice, which was the preferred choice of German industries in the 1990ies but
+eventually lost against the overwhelming competition from Microsoft.
+
+European deciders especially at the political level lack a basic understanding of
+digital economies and therefor do not understand the value of data as a resource
+in value chains for the creation and sale of knowledge products. Equally the
+dangers of monopolistic dependencies (e.g. vendors lock in in software and
+platforms) are not understood from their technical nature by most. The few light-
+house projects of FOSS based digital administrations were therefore initiated
+mainly from a costing perspective (e.g. SchwÃ¤bisch Hall) and oftentimes only
+followed through half-heartedly or even discarded after a democratic change of
+leadership (e.g. LiMUX)
+
+This is in sharp contrast to the experiences the openIMIS Initiative has made with
+implementation projects in Low-and-Middle-Income countries across the globe:
+of course, the cost aspect is a major factor, but the fear of loosing national control
+and data to global providers is prevailing, maybe out of historical experience.
+FOSS is clearly seen as an advantage to build local competences and to maintain
+ownership and legal control of all aspects of their national Digital Public
+Infrastructure (DPI).
+
+(ii) ... sustainable contributions to open-source communities
+
+Strengths:
+
+Europe has many dedicated software developers who understood the importance
+of open source and co-creation as a lever for powerful collection of software tools.
+A very powerful and strong mix of organisations especially around Academia and
+Start-Ups have recognized the value of FOSS as a means to start their projects on
+a much higher level, allowing them to focus on their core-business and final
+products, may it be scientific publications or online services based on open-
+source platforms. Especially academic institutions have worked with an open-
+source mindset from the beginning by âstanding on the shoulders of giantsâ.
+
+As openIMIS, we were able to able to profit from this existing open-source
+infrastructure for the development of the openIMIS software, but also from the
+learnings from successful examples of other open-source products in our sectors
+(health & social protections) such as DHIS2 from the University of Oslo.
+
+Weaknesses:
+
+There is a general lack of understanding at the political level that digital
+infrastructure is a public responsibility which goes beyond regulating data
+protection and system security. Although even commercial application systems
+are heavily based on FOSS products, there is still a general feeling that these
+products are there by gods grace or the because of the free work of pizza-eating
+nerds without a life. The bottom-up nature of FOSS ecosystems is not understood
+in a political environment that is used to prestigious top-down mega projects that
+consume high volumes of public budget. There is need for sustainable public
+funding structures for digital infrastructure: hardware, connectivity, FOSS, data
+standards. Europe has to develop new mechanisms to manage and nurture very
+divers European digital ecosystems that ask for decentralized and modular
+system approaches.
+
+We have worked and experienced such environments in the openIMIS Initiative
+especially in the interaction with other digital players in the global digital health
+ecosystem in co-operation with other FOSS communities such as DHIS2, OpenMRS,
+Bahmni or OpenLMIS and communities that co-create data exchange standards
+and architecture blueprints for digital architectures such as HL7 FHIR for health
+data, the Digital Convergence Initiative (DCI) for social protection data or the
+GovStack Initiative for digital governmental services.
+
+2. What is the added value of open source for the public and
+   private sectors? Please provide concrete examples,
+   including the factors (such as cost, risk, lock-in, security,
+   innovation, among others) that are most important to
+   assess the added value.
+
+Any digital application today is already making use of FOSS to a large extent:
+every mobily phone is running an operating system based on Linux. Every large
+software vendor and cloud platform provider is incorporating open-source
+components into their product and contributes code enhancements back to FOSS
+projects. With FOSS embedded even into practically all small IoT and network
+devices, the entire digital backbone of todays world is running on open-source
+software: there is no way denying the benefits of open source in all aspects in
+todays world as they have already been proven superior in a harsh global
+economy. Securing, nurturing and regulating the ecosystem in a beneficial way is
+the task of todays governments to protect their digital public infrastructure and
+protect their citizens from harm.
+
+The openIMIS Initiative has proven these benefits in the ten years of her existence
+through several implementation projects. We were also able to benefit from the
+vast experience of other partner communities in our sector, such as DHIS2,
+OpenMRS and OpenLMIS and other partners that are active in e.g. the Digital
+Square Global Goods Initiative. The most obvious benefits and mechanisms in our
+community experience are
+
+   â¢   Innovation through open community structures, freely available essential
+       resources & documentations, and a welcoming community with a shared
+       vision and understanding of the power of co-creation. We achieve this
+       through active community management that gives only a moderating role
+       to the GIZ hosted co-ordination desk and outsources code development
+       and maintenance in public tenders. Technical teams and developers from
+       new implementations are actively approached and encouraged to join the
+       regular community calls and are also being recommended to other
+       international implementation funders for new projects.
+   â¢   Shared cost of feature enhancement through contributions from on-site
+       teams is possible through the open community in combination with a
+       copy-left license for the resulting software product. This paves the way for a
+       diverse funder base for new implementation projects and also for
+       contributions to the maintenance of the global product. Funders can be
+       sure to invest into a digital good that is publicly available for everybody
+       instead of investing into singular project islands that were created out of
+       short-sighted donor interests and driven by commercial software vendors
+       who will most certainly create a vendor lock-in.
+   â¢   Risk reduction with regards to software quality in all aspects is vastly
+       enhanced by having openly visible code for a multi-eye code verification
+       and also by crowdsourcing e.g. user acceptance tests (UAT) to members of
+       the wider community, which includes e.g. universities that use openIMIS as
+       part of their curriculum and engage students into the regular UAT activities.
+   â¢   Risk reduction with an eye on the sustainability of the software product
+       and the continuity of development and community processes is enabled
+       through a multi-funder and multi-expert community on the one hand, and
+       the use of open repositories for code and documentation. If one funder
+       breaks away there are still others to step in. The selection of platforms and
+       all tools that are used in the community was done with the worst-case
+       scenario in mind: if due to some global emergency all funders break away
+       and the co-ordination desk would cease to exist, the code, all
+       documentation & knowledge products and all the community channels will
+       remain openly available. The vast community of experts will have all
+       necessary means to continue the work and create new funding structures
+       to maintain at least minimal operations. Of course, they will be forced to
+       come up with a new co-ordinating structure, but there will be no legal
+       barrier keeping them from doing so. If on the other hand a commercial
+       provider collapses, this normally means the end of the software product.
+
+3. What concrete measures and actions may be taken at EU
+   level to support the development and growth of the EU
+   open-source sector and contribute to the EUâs
+   technological sovereignty and cybersecurity agenda?
+
+Support digital infrastructure that can be fully owned and controlled by the
+legislative bodies in the region that are covered by digital systems. The
+democratically legitimized representatives of the ultimate owner of the data â the
+citizen - must always be in full control. This touches all aspects of ownership of the
+tools and platforms with the aim of being able to physically shut off illegal data
+access and abusive systems in a worst-case scenario. Drawing from the
+experience of the openIMIS Initiative in co-creating a DPG with international
+partners at all levels, we see the importance of and have experience in managing
+the following measures:
+   â¢   Support sustainable co-creation environments for modular FOSS products
+       as digital public goods (DPGs) that can be shared among EU and other
+       entities as building blocks for localized digital public infrastructure (DPI) and
+       allow local customizations without legal limitation by intellectual property
+       right owners.
+   â¢   Support architecture frameworks for digital public infrastructure such as
+       GovStack that allow for a smooth integration of DPGs
+   â¢   Support the development of domain specific interoperability standards
+       such as HL7 FHIR (Health) or Digital Convergence Initiative (DCI â Social
+       Protection) to facility compatible modular development based on defined
+       data exchange standards.
+   â¢   Ensure diversified and sustainable funding streams to maintain a
+       continuous lifeline of the above points.
+
+4. What technology areas should be prioritised and why?
+
+Understanding the citizen as the owner of digital public infrastructure in a
+democracy, a citizen centric viewpoint is mandatory to define priority levels for
+technical development. From our learnings in many implementation scenarios of
+openIMIS based social protection systems world-wide we can see the following
+levels of dependency when building citizen centric applications as DPI:
+
+   â¢   Priority 1: intimate citizen date such as identity and family relations
+   â¢   Priority 2: foundational applications around citizen-oriented services such
+       as financial transactions and civil registration.
+   â¢   Priority 3: domain specific applications in a DPI to support specific sectors
+       such as health, social protection, education, trade etc
+
+5. In what sectors could an increased use of open source
+   lead to increased competitiveness and cyber resilience?
+
+The biggest obstacle of European co-operation is at the same her biggest
+chance: the diversity in languages, legal frameworks and cultural backgrounds
+requires co-creation processes that are more advanced than those in very
+homogenous ecosystems as they exist e.g. in the US or the British Commonwealth.
+Europeans have quite some experience opening borders for trade and travel and
+setting up frameworks that work across borders. Translating this to the
+development and use of digital products, Europe is in a very good positions to
+leverage this experience for the harmonisation of digital application that require
+cross border data exchange and sharing. Essential sectors are health and social
+protection systems that cover the needs of a trans-national workforce where
+citizens move freely between countries and need to access services from health
+and social protection systems of several countries in parallel.
+
+Leveraging these experiences creates blueprints for other transnational
+economies world-wide that give European companies and solutions a unique
+selling point globally. Already existing initiatives like the European Health Data
+Space are examples that are being closely observed by the international
+community. In our work with the openIMIS Initiative we experience the momentum
+that comes from a diverse developer community in these sectors in our daily work.
+
+At the same time health and social protection systems touch the most intimate
+data of individuals and households which requires an special security and
+confidentiality levels. Building transparent platforms within Europe based on FOSS
+and open standards removes dependencies from e.g. US based services and
+gives each member country the freedom to decide individually to which extend
+they want to buy into a European Infrastructure or own the building blocks
+nationally.

@@ -1,0 +1,138 @@
+Ref. Ares(2026)922194 - 27/01/2026
+
+                                                                                       digitalpublicgoods.net
+
+Response: Towards European Open Digital Ecosystems
+
+Dear Commission Reviewer,
+
+We welcome the opportunity to provide our perspective on the development of a European
+Open Digital Ecosystem Strategy. The Digital Public Goods Alliance (DPGA) is a UN-endorsed
+initiative that promotes the discovery, development, use, and investment in digital public goods
+to accelerate attainment of the Sustainable Development Goals. According to the UN definition,
+digital public goods (DPGs) include open source software, open data, open content collections
+and open AI systems that adhere to privacy and other applicable laws and best practices, do no
+harm by design and help make progress towards the SDGs.
+
+With more than 50 members, the alliance is global in nature. We have several European
+members, including the national governments of France, Germany, Estonia, and Norway, as well
+as OpenForum Europe and Open Future. The following remarks do not necessarily represent the
+opinion of our membership; they have been prepared and shared by the DPGA Secretariat.
+
+Question 1: Strengths and Weaknesses
+
+   ââ Strengths: Europe boasts a highly active ecosystem of open-source developers whose
+       values align with the principles of EU digital rights and the mission of the Digital Public
+       Goods Alliance. The substantial number of DPGs on the registry (over 230 to date) and
+       the active role of European partners in the global DPG ecosystem demonstrate Europeâs
+       commitment to a collaborative, transparent approach to digital sovereignty. An emphasis
+       on open source allows Europe to tap into global skills and build trust and autonomy
+       through transparency.
+   ââ Weaknesses: There is a lack of professionalised governance within public
+       administrations to manage open source lifecycles effectively. Furthermore, much of the
+       value from open source projects is currently captured by tech giants rather than local
+       European actors, thereby limiting domestic economic benefits.
+   ââ Barriers: A major barrier is the "maintenance debt" of critical upstream projects that
+       undergird many digital services. Additionally, a fragmented data ecosystem and data
+       silos, as well as legal uncertainties regarding training data, prevent the development of
+       European-based AI-driven solutions at scale that are built on open, reusable components
+       that could qualify as DPGs (open data, open source software, open models).
+Question 2: Added Value of Open Source and Open Data
+
+   ââ Sovereignty through Transparency: Open source and open data reduce dependence
+      on non-transparent technologies, allowing for verifiable and trustworthy digital
+      infrastructure, a core requirement for true digital sovereignty. The power of an open
+      source approach to the development of sovereign software and advanced AI systems lies
+      in the ability to collaborate with others and tap into a global skills ecosystem while being
+      able to fully own and scrutinise a shared solution based on its open nature. This
+      advantage is essential to national security and the strategic autonomy of nations.
+   ââ Concrete Examples: The use of open-source middleware such as Simpl within data
+      spaces ensures that public-sector data is not only available but also technically
+      interoperable across different systems and countries. Furthermore, recognised digital
+      public goods (DPG) such as the Mozilla Common Voice dataset and compar:IA, a web
+      platform developed by the French Ministry of Culture that allows citizens to compare the
+      performance of large language models and, thereby, create alignment datasets to
+      improve accuracy of LLMs, demonstrate the impact of DPGs for the development of
+      context-specific, localised AI solutions.
+
+Question 3: Concrete Policy Recommendations
+
+A. Scaling Upstream Funding
+
+   ââ Establish a EU Sovereign Tech Fund (EU-STF): Integrate the EU-STF into the
+      2028-2034 budget to provide sustainable "operational maintenance" for critical
+      open-source components that are essential for a wide range of digital services, including
+      digital public goods. An EU-STF should complement innovation grants to enable
+      long-term security and professional maintainer support.
+   ââ Include other funding vehicles, such as retrospective impact funding (e.g., via
+      Hypercerts), to reward mission-driven open source projects and digital public goods that
+      create proven public value.
+
+B. Institutionalising Governance through OSPOs
+
+   ââ Mandate OSPOs in Public Administrations: Require all EU agencies and Member
+      States to establish Open Source Programme Offices (OSPOs). These units serve as
+      organisational tissue that coordinate open source strategy, manage compliance, and
+      translate procurement intent into sovereign digital outcomes, including by leveraging
+      digital public goods such as X-Road for public service delivery.
+
+C. Leveraging Open Data and Open Standards
+   ââ High-Value Dataset Incentives: Expand the list of high-value datasets that must be
+       made freely available in machine-readable formats to fuel the creation of open-source
+       applications and AI models. This effort should focus especially on enabling the
+       development of open source, small language models that outperform established LLMs in
+       specific tasks. By focusing on smaller, highly performing models, development and
+       inference costs can be significantly reduced, and adherence to the DPG Standard is
+       simplified.
+   ââ Legal Clarity for Training: Explicitly confirm that existing EU directives (Articles 3 and 4
+       of the DSM Directive) allow for AI model training on all lawfully accessible data.
+   ââ Data Altruism Incentives: Use the Data Governance Act to create financial and
+       reputational incentives for "data altruism," and simplify the rulebook. This effort will
+       boost the availability of open data provided by private actors for public interest AI
+       development and open (source) AI models, which is an essential component for
+       increased sovereignty in AI development.
+   ââ Support Open Standards in AI development that enable the orchestration of smaller
+       models to tackle complex problems (multi-agent systems), helping move away from
+       non-sovereign, costly, monolithic AI models.
+
+D. Strategic Procurement Reform
+
+   ââ Standardised TCO and "Open by Default": Mandate a Total Cost of Ownership
+       (TCO) methodology in all public tenders to account for the long-term costs of vendor
+       lock-in. Publicly funded software should be released as open source by default to ensure
+       maximum reuse and efficiency, accelerating the creation of digital public goods.
+       Examples of DPGs created by public administrations include the French La Suite Docs
+       and La Suite Drive.
+
+E. Digital Public Infrastructure
+
+   ââ "DPG-First" for DPI: Mandate an "Open Source by Default" policy for all European
+       Digital Public Infrastructure (DPI) projects (e.g., EU Digital Identity Wallets; data sharing
+       infrastructure). This ensures foundational layers are sovereign, transparent, auditable, and
+       reusable across Member States, while prioritising the adoption of existing DPG solutions,
+       such as the Estonian X-Road, which has been implemented in more than 20 regions and
+       countries globally, including the German state of Schleswig-Holstein.
+Question 4: Technology Areas to Prioritise
+
+   ââ Digital Public Infrastructure (DPI): Prioritise open-source tools and DPGs that facilitate
+      secure digital identity and data exchange, such as MOSIP and X-Road. The DPGA hosts a
+      collection of proven DPGs for DPI on its website for reference.
+   ââ Social Technologies: Prioritise open-source tools and DPGs that facilitate decentralised
+      social discourse and public participation, such as Decidim, Pol.is and Mastodon. These
+      solutions should be adopted and championed by public authorities at the EU level and in
+      member states to signal a shift away from proprietary big-tech solutions and support
+      democratic deliberation.
+   ââ Public-Interest AI: Fund the creation, maintenance, and inference utility of a family of
+      permanently open, democratically governed, state-of-the-art European foundation models
+      for public-interest AI solutions that can serve as a shared technological backbone.
+
+Question 5: Sectors for Competitiveness and Resilience
+
+   ââ Public Administration & Governance: Ensure alignment with existing EU strategies
+      and initiatives, such as the Digital Commons EDIC. By utilising the DC-EDIC, proven
+      open-source solutions, and DPGs such as La Suite Docs and LA Suite Drive, these
+      solutions can be scaled across European governments, increasing their autonomy and
+      sovereignty over their own infrastructure. The DPG Standard and DPG Registry provide a
+      clear, internationally recognised framework and source for discovering high-quality,
+      open-source solutions for national-level implementation, thereby strengthening the EUâs
+      digital foundations and its global leadership in transparent digital governance.

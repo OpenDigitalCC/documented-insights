@@ -1,0 +1,145 @@
+Ref. Ares(2026)983907 - 28/01/2026
+
+HOP's position on the European Open Digital Ecosystem Strategy
+Date : January 2026
+
+HOP - Stop Planned Obsolescence is a French environment protection association. Since
+2015, it advocates for long-lasting products. It is directly linked to the construction of circular
+economy tools such as the repairability and durability indexes as well as the French repair
+bonus. It represents a community of more than 60.000 people. HOP is also part of the Right
+to Repair campaign's steering group. HOP started in 2025 the "No Windows Tax" campaign
+which mobilized 22 organizations to denounce the end of free Windows 10 updates and
+raise awareness about software obsolescence.
+
+The end of Windows 10 free security updates
+
+Microsoft announced that the end of free security updates for Windows 10 will take place on
+October 14, 2025. This decision pushed users to upgrade to Windows 11. Due to the
+multinationalâs hardware requirements, 400 million computers worldwide were incompatible
+with Windows 11 as of summer 2025, some being only five years old. The estimated
+consequences were particularly alarming:
+
+    -â   Economic impacts: over â¬10.4 billion in additional costs for users to pay for extended
+         updates over one year, not including the costs of replacing computers.
+    -â   Environmental impacts: the emission of over 70 million tons of COÂ², the extraction of
+         nearly 32,000 Eiffel Towersâ worth of raw materials, and the production of at least
+         800,000 tons of electronic waste.
+
+This case also highlighted our collective dependence on non-European digital multinationals.
+In response to these challenges, the coalitionâs petition won strong public support,
+gathering 50,000 signatures in just one month. The campaign demonstrated a
+convergence of interests among public, private, and civil society actors in seriously
+considering the transition to free and open-source software.
+
+The citizen mobilization secured a concession from Microsoft: eased access to update
+extensions until October 2026 in Europe. However, this is an underwhelming victoryâthis
+extension is only a reprieve, and in one year, users will face the same problem again.
+Furthermore, Microsoft requires users to log in with an account and does not allow automatic
+activation. The company also communicated for nearly nine months about the end of
+
+1
+updates, including messages encouraging the replacement of incompatible computers, and
+many people had already done so.
+
+Software obsolescence: a recurring problem to restrain
+
+Software obsolescence refers to all software techniques that push for the premature
+disposal of equipment. In the case of Windows 10, this encouragement to replace devices
+is due to the end of security updates, the lack of user information about alternatives to
+computer replacement, and the significant hardware requirements for upgrading to Windows
+11. Many other forms of software obsolescence exist, such as mandatory updates that can
+cause malfunctions or overburden device memory, or part-pairing that digitally ties a part to
+the device (preventing its replacement or refurbishment), among others.
+
+Switching to free and open-source software: a viable alternative to promote
+
+Transitioning to free and open-source software like Linux allows users to:
+
+    ââ Free themselves from the unilateral decisions of Microsoft and other non-European
+       software publishers,
+    ââ Significantly extend the lifespan of their devices,
+    ââ Do so securely and without license purchase costs.
+
+However, installation requires technical skills that are not yet widely accessible, and may
+involve adapting certain uses. This challenge has already been identified in the
+recommendations of French public authorities. GNU/Linux already equips the vast majority
+of the Gendarmerie nationale's devices. As already highlighted in a 2012 circular from the
+French Prime Minister, free and open-source software âis driven by actual needs,
+minimizing unnecessary changes.â It is high time these recommendations were put into
+practice.
+
+These points were echoed in a collective opinion column calling on French public
+administrations and individuals to seriously consider switching to free and open-source
+operating systems.
+
+2
+HOP's propositions against software obsolescence and to support the
+development of open-source softwares
+
+    1.â To impose the free availability of security updates for at least 15 years after the
+       latest unit released on the market.
+
+Making software components available is essential to allow users to freely use the products
+they have purchased and to extend their lifespan. This means ensuring their availability for
+15 years after the equipment is no longer marketed.
+
+    2.â Extending the lifespan of devices after the end of software support
+
+Software publishers should be required, at the end of free support, to:
+
+    ââ Guarantee access to extended support at a reasonable cost, without loss of
+       functionality, with duration and price announced at the time of software purchase,
+    ââ Inform users about switching to a free and open-source operating system,
+    ââ Open-source the software, enabling users to continue using their devices. Open
+       source is an opportunity to extend product lifespans.
+
+    3.â Restoring user control over their computer equipment at the time of purchase
+
+The Windows operating system is widely preinstalled on PCs at the time of purchase, and
+the cost of its license is included in the price of the computer, often without the buyerâs
+awareness. HOP supports consumer choice from the moment of purchase, including:
+
+    ââ The option to buy a computer without a preinstalled operating system,
+    ââ Clear display of the cost of proprietary software licenses (such as Windows) at the
+       time of purchase,
+    ââ Clear display of information regarding software lifespan and the deviceâs ability to
+       receive new versions at the time of purchase.
+
+3
+    4.â Curbing the risk of software obsolescence in public services
+
+For example, some parking payment apps accepted by the city of Paris are not compatible
+with operating systems older than iOS 16, excluding some residents. Applications and
+websites providing public services (post office, banking, libraries, museums, etc.) should
+function on all user devices. When this is impossible, the public body should provide an
+alternative service accessible to all. Additionally, it would be wise to promote the eco-design
+of software by reducing the computing power required for their operation.
+
+    5.â Raising awareness among public administrations and the general public about
+       responsible digital practices and free software
+
+Transitioning to free and open-source software can represent a significant burden for public
+administrations in terms of training time and adapting practices. It is important to create
+spaces for exchange between administrations on this topic and to raise awareness among
+European officials and civil servants about free software as a first step in the transition.
+
+To prioritize the use of free software, European administrations and member states could
+include in their software-related tenders a systematic requirement to evaluate open-source
+solutions, following the âOpen Source Firstâ principle.
+
+To raise public awareness of these issues, programs on responsible digital practices should
+be implemented across all relevant professional sectors and in schools to better design,
+maintain, and use digital services. A concrete proposal would be to scale up the NIRD
+initiative, launched in France by a collective of teachers to promote the use of GNU/Linux
+distributions adapted for education in schools.
+
+    6.â Mandating the reversibility of software updates
+
+Operating system updates can cause malfunctions, pushing consumers toward new
+purchases. For example, a software update was imposed on Google Pixel 4A smartphones
+in January 2025, with detrimental effects on battery life, and no option to revert or access
+facilitated repair services for all consumers regardless of their country of residence. It is
+necessary to ensure the reversibility of software updates to avoid negative impacts on
+product lifespan.
+
+4

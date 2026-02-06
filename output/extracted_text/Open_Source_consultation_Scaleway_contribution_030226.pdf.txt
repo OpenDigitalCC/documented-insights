@@ -1,0 +1,156 @@
+Ref. Ares(2026)1224377 - 03/02/2026
+
+             Call for evidence - European Open Digital Ecosystem Strategy
+
+                                 Scalewayâs contribution
+
+                                             ***
+
+Scaleway is a leading European cloud provider, subsidiary of the iliad Group, offering a fully
+sovereign and widely recognized portfolio, including:
+
+   â   public cloud PaaS and IaaS products, making it the best European alternative to
+       Amazonâs AWS or Googleâs GCP. Scaleway was the first CSP to provide true public
+       cloud services, and still offers the most comprehensive catalogue of products of any
+       European CSP ;
+   â   A extensive AI platform: Scaleway deployed the very first large scale H100 cluster in
+       Europe in 2023. It now provides large-scale GPU clusters (several thousands of
+       NVIDIA H100s interconnected, currently up-and-running, and brand new NVIDIA
+       B300), Inference as a Service, and of course GPU-as-a-Service (GPUaaS) â what
+       currently people call neo-clouds.
+
+Scaleway is deeply rooted in the open source ecosystem and we firmly believe that open
+source is the way for Europe to defend and work towards European sovereign technology,
+from infrastructure to software.
+
+Open source is an essential ingredient for European sovereignty. Open source is
+beneficial in several ways:
+
+   â   transparency, by allowing code auditing and avoiding the black box phenomenon
+   â   reversibility, by supporting strategic autonomy and
+   â   by enabling the development of a value chain: this allows for the retention of
+       economic value and technical know-how on European soil, rather than simply
+       consuming packaged services from the United States or China.
+
+However, as the Commission points out, free software alone is not enough, and a large part
+of its value is currently captured by tech giants outside the EU.
+
+Open source is not a magic bullet: the use of open solutions must be complemented by
+controlled infrastructure and high-level skills capable of maintaining and modifying projects.
+For example, in the cloud sector, there is a difference between using a "copy-paste" open
+source stack and reusing components of open source projects by adapting, customizing, and
+tailoring them to one's needs. Open source is not necessarily "plug-and-play" and does not
+dispense with specialized technical skills.
+
+Open source must be supported at all levels of the value chain: open source must be
+supported at the level of development forges, cloud infrastructures and platforms, as
+well as hardware, with projects like Open Compute or Risc-V.
+
+                                             ***
+1. What are the strengths and weaknesses of the EU open-source sector? What are
+the main barriers that hamper (i) adoption and maintenance of high-quality and secure
+open source; and (ii) sustainable contributions to open-source communities?
+
+Europe boasts a deep and successful history in Open Source, consistently developing world-
+class solutions that are adopted globally across diverse industries and sectors. In addition,
+open source is a highly resource-efficient model, primarily due to its high reusability. The
+pooling of resources inherent in the model benefits all participants, leading to more
+affordable solutions for the general public. Instead of repeatedly redeveloping identical
+solutions, organizations can reuse existing code, extending and improving it to meet their
+specific needs.
+
+Despite these merits, the adoption of secure, high-quality open source is hindered by several
+structural and cultural factors:
+
+   -   Legacy Procurement Biases: Many public procurement templates are designed for
+       proprietary software, requiring financial track records (e.g., "three years in business")
+       that open-source projects cannot provide.
+   -   Inertia of "Proprietary Habits": Organizations often renew existing dependencies out
+       of ease, failing to account for long-term benefits like interoperability and digital
+       sovereignty.
+
+2. What is the added value of open source for the public and private sectors? Please
+provide concrete examples, including the factors (such as cost, risk, lock-in, security,
+innovation, among others) that are most important to assess the added value.
+
+Open source increases transparency, which enhances security and builds trust. Users can
+switch solutions and providers, effectively avoiding vendor lock-in, and gain real ownership
+over the solution and the surrounding knowledge, ensuring adoption does not submit them to
+the will of the provider. A significant benefit is the potential to redirect profits currently
+generated in the EU by major, US-based tech companies back into the European economy,
+supporting local businesses and public institutions. Starting from a common, shared
+resource base accelerates the development of products and services, and the cost is greatly
+reduced since solutions do not need to be re-developed multiple times.
+
+For example, Open Hardware (Open HW) offers significant long-term benefits, including
+reduced capital and operational expenditures (CAPEX and OPEX), greater component reuse
+across product generations, and improved energy efficiency through optimized power
+delivery such as direct current (DC) and fewer power supply units (PSUs). The evolution of
+Open Rack v3 has enabled better power and cooling capabilities, making it increasingly
+suitable for AI workloads. Additionally, working directly with Taiwanese ODMs (e.g.,
+Gigabyte, ASRock Rack, MSI) allows companies like Scaleway to define precise technical
+specifications and drive customized implementations. However, initial CAPEX for Open Rack
+systems can be higher, and the lack of European manufacturing infrastructure leads to
+reliance on US or Asian suppliers, often with high minimum order quantities (MOQs) and
+limited access to evaluation samples. Despite growing interest, the European Open
+Hardware and firmware ecosystem remains underdeveloped compared to the US and Asia.
+There are no European champions in key areas such as chassis, mechanical design, or core
+components.
+3. What concrete measures and actions may be taken at EU level to support the
+development and growth of the EU open-source sector and contribute to the EUâs
+technological sovereignty and cybersecurity agenda?
+
+To support the growth of the EU open-source sector and enhance technological sovereignty,
+the EU may implement the following measures:
+
+A. Leverage Public Procurement as a Strategic Driver
+
+The Commission should align "Buy European" with "Buy Open Source" initiatives. Public
+procurement must support open-source solutions or those built on open-source foundations
+to reduce external dependencies. The European Commission and Parliament should lead by
+example by adopting open-source software and phasing out non-European, non-open
+proprietary solutions.
+
+B. Strengthen sovereign infrastructure and funding
+
+Technological sovereignty requires European control over the entire value chain, including
+hosting and maintenance. For example, EU may establish a dedicated fund to support the
+long-term maintenance of critical open-source infrastructure. EU also should support a large-
+scale hosting infrastructure (Forge) in partnership with existing ecosystems like
+Forgejo/Codeberg alongside european cloud service providers. This transforms hosting into
+a European public service, ensuring critical code is not dependent on non-transparent third-
+country platforms.
+
+C. Economic and Fiscal Incentives
+
+Financial mechanisms are needed to overcome the inertia of proprietary legacy systems. EU
+should implement fiscal mechanisms that favor organizations using, developing, or
+contributing to open-source initiatives. The benefit of public grants should also be conditional
+on use of reliable, open, and verifiable foundations to ensure long-term resilience.
+
+D. Education and Skills Development
+
+Sovereignty is impossible without a skilled workforce capable of maintaining and governing
+open ecosystems. It starts with education, by raising awareness on open-source
+environments as early as possible by integrating these technologies into standard
+educational curricula.
+
+E. Supporting open-source as a means of continuum between public research and the private
+sector
+
+The Commission supports R&D through several programs, for example Horizon 2030, or the
+RAISE program (Resource for AI Science in Europe, part of the European Strategy for Artificial
+Intelligence (AI) in Science. Nevertheless, the schemes are sometimes poorly visible and
+dispersed among a myriad of actors. It would be necessary to strengthen the impact and
+concentrate the support on a few key initiatives, such as Kyutai, an independent non-profit
+open-science research laboratory financed by Xavier Niel (iliad), Rodolphe SaadÃ© (CMA-
+CGM) and Eric Schmidt (former CEO, Google).
+
+Indeed, exchanges between the public and private sectors must be encouraged to support our
+competitiveness and innovation. Too often in Europe we struggle to move from our
+outstanding number of researchers to successful companies. In AI, open source offers a
+compelling path for rapid AI adoption, providing benefits for companies such as lower costs,
+easy model fine-tuning, and data control through hosting on sovereign infrastructures. It builds
+trust in the technology that can be easily audited, and it is more dependable than black-box
+APIs for companies to grow their use cases on and create value. It will also help attracting
+talents; researchers love to publish open-source.

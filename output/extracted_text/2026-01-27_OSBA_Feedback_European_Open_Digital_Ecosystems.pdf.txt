@@ -1,0 +1,601 @@
+Ref. Ares(2026)1151923 - 02/02/2026
+
+Call for Evidence:
+
+European Open Digital Ecosystems
+
+Stellungnahme der Open Source Business
+Alliance
+
+3. Februar 2026
+
+Die Open Source Business Alliance (OSBA) â Bundesverband fÃ¼r digitale
+SouverÃ¤nitÃ¤t e.V. ist der Verband der Open-Source-Industrie in Deutschland.
+Sie vertritt Ã¼ber 260 Mitgliedsunternehmen, die jÃ¤hrlich mehr als 126
+Milliarden Euro erwirtschaften. Die OSBA setzt sich dafÃ¼r ein, die zentrale
+Bedeutung von Open Source Software und offenen Standards fÃ¼r einen
+erfolgreichen digitalen Wandel im Ã¶ffentlichen Bewusstsein nachhaltig zu
+verankern.
+
+Kontakt:
+
+Open Source Business Alliance â Bundesverband fÃ¼r digitale SouverÃ¤nitÃ¤t e.V.
+Pariser Platz 6a
+10117 Berlin
+
+Miriam Seyffarth
+Leiterin Politische Kommunikation
+Tel.: +49 (0) 30 20 65 39 221
+E-Mail: seyffarth@osb-alliance.com
+Internet: www.osb-alliance.com
+
+                                         1
+Executive Summary
+Die Open Source Business Alliance begrÃ¼Ãt die Initiative der EU-
+Kommission fÃ¼r eine âEuropean Open Digital Ecosystem Strategyâ. Die EU-
+Kommission trÃ¤gt hiermit in entscheidendem MaÃe dazu bei, die digitale
+SouverÃ¤nitÃ¤t der europÃ¤ischen Verwaltung zu stÃ¤rken.
+
+Denn der Einsatz von Open Source Software verringert AbhÃ¤ngigkeiten von
+auÃereuropÃ¤ischen proprietÃ¤ren Anbietern und stÃ¤rkt Wahlfreiheit,
+InteroperabilitÃ¤t und die FÃ¤higkeit, digitale Systeme im Ã¶ffentlichen
+Interesse dauerhaft zu betreiben und weiterzuentwickeln.
+
+Bereits heute steht eine leistungsfÃ¤hige europÃ¤ische Open-Source-Industrie
+bereit, die digital souverÃ¤ne SoftwarelÃ¶sungen entwickelt und anbietet. Durch
+signifikante Investitionen in den europÃ¤ischen Open-Source-Sektor kann die EU-
+Kommission Resilienz, HerstellerunabhÃ¤ngigkeit, Kontroll- und
+GestaltungsfÃ¤higkeit der digitalen Infrastrukturen sowie InnovationsfÃ¤higkeit und
+Wettbewerb in Europa sichern. So kann der dauerhafte Aufbau von
+WertschÃ¶pfung, Kompetenzen und FachkrÃ¤ften in Europa gewÃ¤hrleistet werden.
+
+Dies sind in diesem Zusammenhang besonders zentrale Handlungsfelder fÃ¼r
+die EU-Kommission:
+
+   â¢   âPublic Money, Public Codeâ: Alle Software, die mit Ã¶ffentlichen
+       Geldern entwickelt wird, muss der Allgemeinheit als Open Source
+       Software frei zur VerfÃ¼gung gestellt werden.
+
+   â¢   Im EU-Vergaberecht mÃ¼ssen im Rahmen der Public Procurement
+       Revision die vorrangige Beschaffung von Open Source Software, eine
+       âOpen Source by Defaultâ Regelung sowie nachhaltige
+       Vergabekriterien fÃ¼r die Beschaffung von Open Source Software
+       verankert werden.
+
+   â¢   Es mÃ¼ssen konkrete und messbare Ziele fÃ¼r die Umstellung der
+       Verwaltung auf Open Source festgesetzt werden.
+
+   â¢   Es mÃ¼ssen Schulungsprogramme fÃ¼r Open Source Software fÃ¼r
+       Beamtinnen und Beamte eingerichtet werden.
+
+   â¢   Das EC Open Source Programme Office muss ausgebaut und gestÃ¤rkt
+       werden, der Austausch zwischen Wirtschaft und Verwaltung muss
+       gefÃ¶rdert werden.
+
+   â¢   Wo die langfristige Wartung und Pflege kritischer Open-Source-
+       Basiskomponenten nicht gesichert ist, muss der Staat unterstÃ¼tzen.
+
+                                     2
+Im Folgenden gehen wir auf die Leitfragen aus dem Call for Evidence ein.
+
+1. What are the strengths and weaknesses of the EU
+open-source sector?
+Open Source Software stellt sicher, dass die verwendeten Systeme
+unabhÃ¤ngig Ã¼berprÃ¼fbar, gestaltbar und austauschbar sind. Die Freiheiten,
+die die Open-Source-Software-Lizenzen gewÃ¤hren, ermÃ¶glichen daher
+digitale SouverÃ¤nitÃ¤t. Somit kÃ¶nnen Einzelpersonen, Unternehmen und
+Institutionen digitale Technologien selbststÃ¤ndig, selbstbestimmt und
+sicher verwenden.
+
+In einer Zeit, in der mit Thierry Breton ein ehemaliger EU-Kommissar
+aufgrund seines Engagements fÃ¼r faire Digitalgesetze von der Trump-
+Regierung mit Sanktionen belegt wird, muss allen klar sein, dass die EU-
+Kommission selbst zur Zielscheibe von Sanktionen, Spionage, Ãberwachung
+und Cyberangriffen wird. Open Source Software kann in diesem Kontext die
+Betriebsresilienz der EU-Kommission sicherstellen.
+
+Die Freiheiten, die die Open-Source-Software-Lizenzen gewÃ¤hren,
+garantieren die Transparenz des Quellcodes, so dass die Sicherheit der
+Software besser und vor allem auch unabhÃ¤ngig Ã¼berprÃ¼ft werden kann.
+Open Source Software trÃ¤gt somit auch zu Resilienz und der inneren und
+Ã¤uÃeren Sicherheit bei, um kritische AusfÃ¤lle in Wirtschaft und Verwaltung
+zu verhindern.
+
+Offene Standards und offene Schnittstellen sind eine wichtige
+Voraussetzung zur Sicherstellung von InteroperabilitÃ¤t und zur Vermeidung
+von HerstellerabhÃ¤ngigkeiten und gehen daher Hand in Hand mit Open
+Source Software. Sie ermÃ¶glichen einen freien Fluss von Informationen und
+sind die Voraussetzung fÃ¼r Wettbewerb, Multi-Vendor-FÃ¤higkeit und
+Nachnutzung. Damit Offene Standards ihr Potential entfalten, sollte es
+immer mindestens eine Open-Source-Referenzimplementierung geben.
+
+Open Source Software muss konsequent in offene, interoperable
+Systemarchitekturen eingebettet sein. FÃ¼r Verwaltungen sind daher nicht
+einzelne Softwareprodukte entscheidend, sondern die FÃ¤higkeit, Daten
+dauerhaft souverÃ¤n zu nutzen, Komponenten modular auszutauschen und
+organisationsÃ¼bergreifend zusammenzuarbeiten. Daher muss eine Open-
+Source-Strategie auf EU-Ebene zwingend mit verbindlichen Anforderungen
+an offene Schnittstellen, offene Datenmodelle und interoperable
+
+                                     3
+Plattformarchitekturen verknÃ¼pft werden. Nur so lassen sich langfristige
+AbhÃ¤ngigkeiten vermeiden.
+
+Open Source Software unterscheidet sich von proprietÃ¤rer Software durch
+den offenen und kooperativen Ansatz sowie durch die Freiheiten, welche
+Open-Source-Softwarelizenzen gewÃ¤hren. Infolgedessen unterscheiden
+sich auch die Entwicklungs- und Vertriebsmodelle von Open Source
+Software, welche die EU-Kommission bei der Softwarebeschaffung
+berÃ¼cksichtigen muss.
+
+(i) What are the main barriers that hamper adoption and maintenance
+of high-quality and secure open source?
+Das Open-Source-Ãkosystem besteht aus einer Verflechtung von
+professionellen Open-Source-Unternehmen und ehrenamtlichen Akteuren.
+Wenn eine Ã¶ffentliche BehÃ¶rde eine Open-Source-Software sicher und
+zuverlÃ¤ssig einsetzen mÃ¶chte, sollte sie dafÃ¼r immer professionelle
+Dienstleister nutzen. Schon heute gibt es eine groÃe und leistungsfÃ¤hige
+Open-Source-Industrie in Europa. Diese besteht aus Unternehmen, die
+professionell Open Source Software entwickeln, pflegen, betreiben, oder
+Schulungen oder sonstige Dienstleistungen und Services rund um Open
+Source anbieten. Einige dieser Unternehmen sind schon sehr lange am
+Markt und auch sehr erfolgreich. Ein groÃer Teil der Pflege und
+Weiterentwicklung von Open Source Software in Europa geschieht heute
+aus diesen professionellen Unternehmen heraus. Diese Industrie ist daher
+essentiell wichtig fÃ¼r den Erhalt und die Weiterentwicklung des
+europÃ¤ischen Open-Source-Ãkosystems und die digitale SouverÃ¤nitÃ¤t der
+Ã¶ffentlichen Verwaltung.
+
+Um ein leistungsfÃ¤higes, diverses und wettbewerbsfÃ¤higes europÃ¤isches
+Open-Source-Ãkosystem aufzubauen, muss die EU-Kommission daher ihrer
+Verantwortung als Ankerkunde gerecht werden und sollte Ã¼berall, wo es
+mÃ¶glich ist, auf kommerzielle Open-Source-LÃ¶sungen zurÃ¼ckgreifen.
+
+Insbesondere bei Softwareanpassungen und Neuentwicklungen muss die
+EU-Kommission sicherstellen, dass die entstehende Software unter einer
+Open-Source-Lizenz verÃ¶ffentlicht wird und der Quellcode der Software auf
+einer Ã¶ffentlich zugÃ¤nglichen Plattform (wie z.B. in Deutschland openCode)
+verÃ¶ffentlicht wird. Damit kÃ¶nnen andere BehÃ¶rden die gleichen LÃ¶sungen
+nutzen und weiterentwickeln, fÃ¼r die bereits Ã¶ffentliche Gelder verwendet
+wurden. Auf diese Weise werden vorhandene Ã¶ffentliche Mittel
+wirtschaftlicher eingesetzt und die Investitionen in Softwareentwicklung
+
+                                     4
+und -anpassungen stehen der Allgemeinheit im Anschluss frei zur VerfÃ¼gung
+(âPublic Money, Public Codeâ). Ãffentliche Verwaltungen mÃ¼ssen daher
+dafÃ¼r sorgen, dass vorgenommene Softwareanpassungen auch Upstream
+wieder in das ursprÃ¼ngliche Software-Projekt einflieÃen (siehe auch
+Positionspapier âVergabekriterien fÃ¼r eine nachhaltige Beschaffung von
+Open Source Softwareâ.)
+
+Open Source ist der zentrale SchlÃ¼ssel zur Erlangung und Sicherung digitaler
+SouverÃ¤nitÃ¤t, daher sind Open-Source-basierte LÃ¶sungen immer gegenÃ¼ber
+proprietÃ¤ren Varianten zu bevorzugen. Je hÃ¶her der Open-Source-Anteil in
+einer LÃ¶sung ist, desto mehr digitale SouverÃ¤nitÃ¤t entfaltet sich durch
+dessen Einsatz. Deshalb muss die EU-Kommission auch im Rahmen der
+aktuell laufenden Public Procurement Revision eine klare âOpen Source by
+Defaultâ Regelung im europÃ¤ischen Vergaberecht einfÃ¼hren. âOpen Source
+by Defaultâ meint, dass die Nutzung von Open Source Software der gesetzte
+Normalzustand bzw. der Standard ist (Ã¤hnlich wie âPrivacy by Defaultâ). Die
+Nutzung von proprietÃ¤rer Software ist dem gegenÃ¼ber die Ausnahme oder
+die Abweichung vom Normalzustand. Wenn sowohl proprietÃ¤re Software als
+auch Open-Source-LÃ¶sungen verfÃ¼gbar sind, muss die Open Source
+Software immer vorrangig ausgewÃ¤hlt, beschafft und genutzt werden
+(âOpen Source Firstâ). Im EU-Vergaberecht muss ein solcher Open-Source-
+Vorrang fÃ¼r Beschaffungs- und Vergabeprozesse klar verankert werden.
+
+Klare politische Rahmenbedingungen fÃ¼r eine bevorzugte Beschaffung von
+Open Source Software senden ein deutliches Signal in die europÃ¤ische IT-
+Wirtschaft. Denn dort, wo eine eindeutige Nachfrage besteht, bewegt sich
+auch die Angebotsseite auf dem Markt in die entsprechende Richtung. IT-
+Unternehmen, die heute noch hauptsÃ¤chlich proprietÃ¤re Software
+entwickeln, bekommen so Anreize, Open-Source-GeschÃ¤ftsmodelle zu
+entwickeln und in entsprechende SoftwarelÃ¶sungen zu investieren. So
+entsteht im europÃ¤ischen IT-Sektor ein wachsendes Angebot an qualitativ
+hochwertigen Open-Source-LÃ¶sungen, die der Staat nutzen kann.
+
+Die EU-Kommission muss daher klare, ambitionierte und mÃ¶glichst konkrete
+Ziele fÃ¼r die Umstellung auf Open Source in der Verwaltung benennen
+(beispielsweise âab dem Jahr 2035 werden Ã¶ffentliche Gelder nur noch fÃ¼r
+die Beschaffung von Open Source Software verwendetâ). Eine solche
+Zielmarke gibt der IT-Branche Planungssicherheit und die notwendigen
+Signale, die Entwicklung von SoftwarelÃ¶sungen so umzustellen, dass fÃ¼r die
+Ã¶ffentliche Verwaltung nur noch digital souverÃ¤ne LÃ¶sungen angeboten
+werden. Hierdurch entsteht ein lebendiges Open-Source-Ãkosystem.
+
+                                     5
+Digitale SouverÃ¤nitÃ¤t im Ã¶ffentlichen Sektor bedeutet auch eine
+institutionelle Steuerungs- und BetriebsfÃ¤higkeit des Staates und
+staatlicher Akteure. Diese umfasst insbesondere die FÃ¤higkeit, digitale
+Infrastrukturen selbst zu steuern, weiterzuentwickeln, zu betreiben und bei
+Bedarf Anbieter zu wechseln. Die EU-Kommission sollte daher Open Source
+explizit auch als Bestandteil Ã¶ffentlicher digitaler Basisinfrastrukturen
+begreifen. Pseudo-souverÃ¤ne Konstrukte wie z.B. die Delos-Cloud in
+Deutschland sind âSovereignty-Washingâ, denn auch wenn diese Cloud-
+LÃ¶sungen in Europa gehostet und betrieben werden, nutzen sie im Kern
+doch Closed Source Software, die nicht unabhÃ¤ngig Ã¼berprÃ¼ft und
+betrieben werden kann. Die Verwaltung ist hier weiterhin abhÃ¤ngig von den
+Software-Updates der proprietÃ¤ren auÃereuropÃ¤ischen Hersteller. Diese
+unterliegen z.B. im Fall von Microsoft, Google oder AWS dem US CLOUD Act
+und mÃ¼ssen sich den Anweisungen US-amerikanischer BehÃ¶rden
+unterwerfen. Diese Cloud-LÃ¶sungen stellen daher ein erhebliches Risiko fÃ¼r
+die digitale SouverÃ¤nitÃ¤t der EU-Kommission und ihrer BehÃ¶rden dar.
+
+Viele Prozesse in der aktuellen Beschaffungspraxis sind immer noch
+hauptsÃ¤chlich auf proprietÃ¤re Software ausgelegt. So gibt es beispielsweise
+in verschiedenen EU-Mitgliedsstaaten (auch in Deutschland)
+Vertragsvorlagen fÃ¼r die Softwarebeschaffung durch die Ã¶ffentliche Hand, in
+denen eine Beschaffung von Open Source Software nicht vorgesehen ist.
+Das fÃ¼hrt zu Rechtsunsicherheit und Vorbehalten bei
+Verwaltungsangestellten, Open Source Software zu beschaffen. Eine
+Anpassung der Vertragsmuster ist zudem oft aufwÃ¤ndig und benachteiligt
+de facto Open-Source-Anbieter bei Ã¶ffentlichen Vergabeverfahren.
+Derartige HÃ¼rden in Beschaffungsprozessen mÃ¼ssen u.a. im Rahmen der
+Public Procurement Revision identifiziert und gezielt abgebaut werden.
+
+Aktuell gelten die SoftwarelÃ¶sungen proprietÃ¤rer auÃereuropÃ¤ischer
+Software-Anbieter bei vielen Angestellten der Ã¶ffentlichen Verwaltung noch
+als Standard, Open-Source-LÃ¶sungen hingegen gelten als Ausnahme. Es
+kursieren teilweise immer noch Vorurteile und Falschaussagen Ã¼ber Open
+Source Software. Dies fÃ¼hrt zu Vorbehalten und Verunsicherung bei
+Beamtinnen und Beamten. Vielen Verwaltungsangestellten fehlen derzeit
+Kenntnisse Ã¼ber die Vorteile von Open Source Software oder Ã¼ber die
+Besonderheiten der Open-Source-Branche. Die EU-Kommission sollte
+durch die Einrichtung von Schulungsprogrammen dazu beitragen, dass
+bestehende Vorbehalte und Unsicherheiten bei den
+
+                                     6
+Verwaltungsangestellten beim Einsatz von Open Source Software abgebaut
+werden.
+
+FÃ¼r die nachhaltige Nutzung von Open Source im Ã¶ffentlichen Sektor sind
+dauerhafte Koordinierungs- und TrÃ¤gerstrukturen mit staatlicher
+Steuerungshoheit erforderlich. Open-Source-Projekte in der Ã¶ffentlichen
+Verwaltung benÃ¶tigen klare ZustÃ¤ndigkeiten fÃ¼r Betrieb, Pflege,
+Weiterentwicklung und Community-Management. Ohne solche Strukturen
+besteht die Gefahr, dass Open Source zwar entwickelt, aber nicht dauerhaft
+nutzbar gehalten wird. Open Source Program Offices in der Verwaltung
+institutionalisieren die Nutzung und Beschaffung von Open Source
+Software, sie unterstÃ¼tzen bei der Umstellung und dem Einsatz von Open
+Source Software und dem Aufbau von Kompetenzen, und sie stÃ¤rken die
+Zusammenarbeit zwischen Verwaltung, Open-Source-Unternehmen und
+Entwicklercommunities. HierfÃ¼r muss das bestehende EC Open Source
+Programme Office (EC OSPO) ausgebaut sowie personell und finanziell
+gestÃ¤rkt werden.
+
+Damit die Verwaltung die VorzÃ¼ge von Open Source Software optimal
+nutzen kann und um den GeschÃ¤ftsmodellen von Open-Source-
+Unternehmen Rechnung zu tragen, ist es sinnvoll, bei der Beschaffung von
+Open Source Software besondere Vergabekriterien zu berÃ¼cksichtigen
+(siehe Positionspapier der OSBA âSelection Criteria for the sustainable
+Procurement of Open-Source Softwareâ, Februar 2025). Denn eine Vergabe,
+bei der immer ausschlieÃlich das kurzfristig betrachtet billigste Angebot
+gewinnt, verhindert oftmals nachhaltige Investitionen in eine offene und
+resiliente digitale Infrastruktur.
+
+(ii) What are the main barriers that hamper sustainable contributions
+to open-source communities?
+Ein hÃ¤ufiges MissverstÃ¤ndnis besteht darin, dass Open Source Software
+kostenlos sei. Open Source Software kann aufgrund der Freiheiten, die die
+Lizenzen den Nutzenden gewÃ¤hren, von jedermann frei verwendet werden.
+Doch wenn der Staat sichere und leistungsfÃ¤hige Open Source Software
+nutzen mÃ¶chte, dann muss er auch als Ankerkunde und im Rahmen von
+Beschaffung und Beauftragungen Ã¶ffentliche Gelder in die
+Weiterentwicklung und Pflege von Open Source Software investieren, um
+die genutzte Software sicher zu halten.
+
+Hiervon profitieren nachgelagert auch Privatwirtschaft, Wissenschaft und
+Zivilgesellschaft, da die entsprechenden Open-Source-LÃ¶sungen frei
+
+                                     7
+verfÃ¼gbar sind und so auch in anderen Bereichen bestehende
+AbhÃ¤ngigkeiten ablÃ¶sen kÃ¶nnen. Open Source Software ist daher ein
+Innovationsbooster fÃ¼r einen modernen Staat und eine starke Wirtschaft.
+
+Der Cyber Resilience Act legt dem Inverkehrbringer eines Software-
+Produkts (âmanufacturerâ) eine hohe Verantwortung fÃ¼r die Sicherheit
+dieses Produkts auf. Dies wird hoffentlich dazu beitragen, dass
+Unternehmen, die Open-Source-Komponenten fÃ¼r ihr Produkt nutzen, sich
+auch finanziell oder mit anderen Ressourcen daran beteiligen werden, dass
+diese Komponenten stets sicher und auf dem neuesten Stand gehalten
+werden. SchlieÃlich mÃ¼ssen sie am Ende die Verantwortung fÃ¼r das
+Endprodukt und alle enthaltenen Komponenten Ã¼bernehmen. Dies kann sich
+entlang der Lieferkette positiv auf das allgemeine Sicherheitsniveau im
+Open-Source-Ãkosystem auswirken und der verbreiteten MentalitÃ¤t von
+Unternehmen und Organisationen entgegenwirken, die zwar gerne frei
+verfÃ¼gbare Open-Source-LÃ¶sungen nutzen oder in ihre Produkte einbauen,
+sich aber nicht an der Weiterentwicklung und Pflege dieser LÃ¶sungen
+beteiligen wollen.
+
+Manchmal gibt es im Open-Source-Ãkosystem Bereiche, wo ein
+Marktversagen festgestellt werden muss: Das ist immer dort der Fall, wo
+einzelne Open-Source-Basiskomponenten in besonders vielen oder in fÃ¼r
+die Infrastruktur besonders kritischen Produkten verbaut sind, wo es aber
+zum Beispiel keine kommerziellen Anbieter gibt, welche die Verantwortung
+fÃ¼r die Sicherheit Ã¼bernehmen, oder wo die langfristige Wartung und Pflege
+dieser Basiskomponenten aus anderen GrÃ¼nden nicht nachhaltig gesichert
+ist. In diesen Bereichen kann der Einsatz von staatlichen
+FÃ¶rdermechanismen sinnvoll sein, damit der Staat die Sicherheit und
+Funktion dieser fÃ¼r Wirtschaft und Verwaltung zentralen (Infrastruktur-)
+Komponenten gewÃ¤hrleisten kann. Der Sovereign Tech Fund aus
+Deutschland zeigt, wie eine erfolgreiche staatliche UnterstÃ¼tzung von Open
+Source Software aussehen kann. Der Sovereign Tech Fund gilt inzwischen
+international als Vorbild. Allerdings adressiert er vornehmlich den Bereich
+Basistechnolologien und ehrenamtliche Open-Source-Entwicklung. Ein
+solches Instrument kann aber eine sinnvolle ErgÃ¤nzung zu anderen
+MaÃnahmen wie der Einrichtung und dem Ausbau von Open Source Program
+Offices oder einer Open-Source-by-Default-Beschaffungspolitik sein.
+GrundsÃ¤tzlich sollten Ã¶ffentliche Gelder aber Ã¼ber Beschaffungen und
+Vergaben in das Open-Source-Ãkosystem investiert werden.
+
+                                     8
+2. What is the added value of open source for the
+public and private sectors?
+Please provide concrete examples, including the factors (such as cost, risk,
+lock-in, security, innovation, among others) that are most important to
+assess the added value.
+
+Da bei Open Source Software der Quellcode frei genutzt und angepasst
+werden und daher viel leichter auf bestehenden SoftwarelÃ¶sungen
+aufgebaut werden kann, kÃ¶nnen Unternehmen deutlich schneller und
+kostengÃ¼nstiger Innovationen entwickeln und diese der Verwaltung und der
+Industrie anbieten, als wenn sie alle Komponenten âfrom scratchâ neu
+entwickeln mÃ¼ssten. Die Innovationsgeschwindigkeit steigt. Gleichzeitig
+wird der Markteintritt fÃ¼r junge Unternehmen und Start-Ups vereinfacht und
+der Wettbewerb nimmt zu, es werden ArbeitsplÃ¤tze geschaffen und die
+WertschÃ¶pfung innerhalb der EU steigt.
+
+Das Open-Source-Ãkosystem ist zudem eine bedeutende Ressource fÃ¼r
+Ausbildung, kontinuierliche Weiterbildung und Qualifizierung. EU-
+Unternehmen profitieren von den praxisorientierten LernmÃ¶glichkeiten und
+der direkten Anwendungserfahrung fÃ¼r zukÃ¼nftige FachkrÃ¤fte. Gleichzeitig
+unterstÃ¼tzt die aktive Nutzung und Weiterentwicklung von Open-Source-
+LÃ¶sungen die fortlaufende Erweiterung von Kompetenzen und Fachwissen
+bei bestehenden Mitarbeitenden. Eine enge Verbindung mit Open Source
+stÃ¤rkt den Talentpool in der EU und fÃ¶rdert nachhaltig die digitalen
+FÃ¤higkeiten der europÃ¤ischen Wirtschaft.
+
+Wenn staatliche Investitionen vermehrt in Open-Source-LÃ¶sungen flieÃen,
+steigt zum einen die QualitÃ¤t der Open-Source-Produkte und es wÃ¤chst zum
+anderen auch das Angebot, aus dem der Staat auswÃ¤hlen kann. Das Preis-
+Leistungs-VerhÃ¤ltnis fÃ¼r den Ã¶ffentlichen Sektor verbessert sich.
+
+Open Source Software wirkt also als Innovationsbooster fÃ¼r Staat und
+Wirtschaft. Studien der EU-Kommission und der Harvard Business School
+belegen, dass neben der Verwaltung auch Privatwirtschaft, Wissenschaft
+und Zivilgesellschaft und ganze Volkswirtschaften von der VerfÃ¼gbarkeit
+skalierbarer und leistungsfÃ¤higer Open-Source-LÃ¶sungen profitieren:
+
+Die Studien âOpen source software and global entrepreneurshipâ sowie
+"Contributing to Growth? The Role of Open Source Software for Global
+Startups" der Harvard Business School zeigen, dass das aktive Engagement
+
+                                      9
+eines Staates fÃ¼r ein lebendiges Open-Source-Ãkosystem direkt zu mehr
+UnternehmensgrÃ¼ndungen in diesem Staat fÃ¼hrt.
+
+Auch das Paper âEstimating the GDP effect of Open Source Software and its
+complementarities with R&D and patents: evidence and policy implications â
+der Fraunhofer-Gesellschaft stellt fest, dass das Bruttoinlandsprodukt eines
+durchschnittlichen Landes 2,2 Prozent niedriger wÃ¤re, wenn keine Staaten
+zur Entwicklung von Open Source Software beitragen wÃ¼rden. Das belegt
+den immensen globalen Mehrwehrt von Open Source Software.
+
+Die Studie âThe Value of Open Source Softwareâ der Harvard Business
+School beziffert den weltweiten Wert von Open Source Software mit 8,8
+Billionen Dollar. So viel Geld mÃ¼ssten die Unternehmen aufwenden, die
+heute Open Source Software nutzen, wenn es diese Open Source Software
+nicht gÃ¤be und sie diese neu entwickeln oder kaufen mÃ¼ssten.
+
+Auch die von der EU-Kommission in Auftrag gegebene Studie âStudy about
+the impact of open source software and hardware on technological
+independence, competitiveness and innovation in the EU economy â belegt
+einen signifikanten Einfluss von Open Source auf die WettbewerbsfÃ¤higkeit
+europÃ¤ischer Unternehmen, das Wirtschaftswachstum, auf die
+Start-Up-/KMU-Szene und die technologische UnabhÃ¤ngigkeit. Der Studie
+zufolge fÃ¼hrten Investitionen von europÃ¤ischen Unternehmen in Open
+Source Software in HÃ¶he von einer Milliarde Euro im Jahr 2018 zu einem
+wirtschaftlichen Mehrwert von 65 â 95 Milliarden Euro. Selbst nach einer
+BerÃ¼cksichtigung verschiedener Faktoren fÃ¼hrt dies der Studie zufolge zu
+einem Kosten-Nutzen-VerhÃ¤ltnis von etwas mehr als 1:4. Auch diese Studie
+kommt zu dem Schluss, dass mehr BeitrÃ¤ge zu Open Source Software zu
+einem hÃ¶heren Bruttoinlandsprodukt der EU und zu mehr Start-Up-
+GrÃ¼ndungen fÃ¼hren. Zudem fÃ¼hren wirtschaftliche Anreize, die mit Open
+Source verbunden sind, zu einem Aufbau von
+Softwareentwicklungskompetenzen, einer Abmilderung des
+FachkrÃ¤ftemangels und zu einer Senkung der Gesamtbetriebskosten im
+Ã¶ffentlichen Sektor.
+
+Denn offene Standards und offene Schnittstellen sowie entsprechende
+Open-Source-Referenzimplementierungen ermÃ¶glichen eine schnelle und
+effiziente Nachnutzung einmal entwickelter SoftwarelÃ¶sungen. Wenn eine
+BehÃ¶rde eine Verwaltungsdienstleistung auf der Basis offener Standards
+digitalisiert hat, kann eine andere BehÃ¶rde diese LÃ¶sung Ã¼bernehmen, selbst
+betreiben oder unkompliziert den eigenen Rahmenbedingungen anpassen â
+ohne dass die im Grunde gleiche LÃ¶sung von anderen BehÃ¶rden immer
+
+                                     10
+wieder neu entwickelt und finanziert werden muss. Mit Open Source steigt
+daher die Geschwindigkeit und Effizienz bei der Verwaltungsdigitalisierung.
+
+Ein Teil der digitalen Infrastruktur des Staates, insbesondere in den
+Bereichen Datenhaltung, IdentitÃ¤tsmanagement, Register, Schnittstellen
+und Basiskomponenten muss als Ã¶ffentliche Infrastruktur und als Gemeingut
+verstanden werden. Vor diesem Hintergrund ist Open Source auch eine
+Voraussetzung fÃ¼r demokratische Kontrolle, Transparenz und langfristige
+HandlungsfÃ¤higkeit des Staates. In diesen Bereichen sollte die EU-
+Kommission explizit infrastrukturelle Betriebsmodelle auf der Basis von
+Open Source Software vorsehen.
+
+3. What concrete measures and actions may be
+taken at EU level to support the development and
+growth of the EU open-source sector and
+contribute to the EUâs technological sovereignty
+and cybersecurity agenda?
+Open Source Software bietet im Vergleich zu Closed-Source-LÃ¶sungen
+hÃ¶here Sicherheit durch Transparenz, und jeder Person und Institution die
+MÃ¶glichkeit, jederzeit eine vom Hersteller unabhÃ¤ngige ÃberprÃ¼fung
+durchzufÃ¼hren. Die Offenheit des Quellcodes ermÃ¶glicht eine schnellere
+Identifikation und Behebung von SicherheitslÃ¼cken, was insbesondere fÃ¼r
+kritische Infrastrukturen und den Ã¶ffentlichen Sektor von hoher Bedeutung
+ist.
+
+Wie bereits ausgefÃ¼hrt muss die EU-Kommission daher klare politische
+Rahmenbedingungen fÃ¼r eine bevorzugte Beschaffung von Open Source
+Software festlegen und u.a. im Rahmen der aktuell laufenden Public
+Procurement Revision eine klare âOpen Source by Defaultâ Regelung im
+europÃ¤ischen Vergaberecht einfÃ¼hren. Dies wird die Angebotsseite und
+insbesondere auch die Investitionen der europÃ¤ischen IT-Industrie in Open-
+Source-LÃ¶sungen in erheblichem MaÃe stimulieren, was wiederum zu mehr
+Wettbewerb sowie zu mehr und qualitativ hochwertigerer Software fÃ¼hrt.
+
+FÃ¼r eine erfolgreiche Umstellung der Ã¶ffentlichen Verwaltung auf digital
+souverÃ¤ne LÃ¶sungen ist es entscheidend, dass die EU-Kommission
+Messmethoden entwickelt und einsetzt, damit sie den verstÃ¤rkten Einsatz
+von Open Source Software in der Ã¶ffentlichen Verwaltung und die
+wirtschaftliche Verwendung der zur VerfÃ¼gung stehenden Haushaltsmittel
+
+                                     11
+messen, evaluieren und steuern kann. So sollte u.a. der Anteil der
+Ã¶ffentlichen Ausgaben fÃ¼r Open Source Software und fÃ¼r proprietÃ¤re
+Software kontinuierlich gemessen und die Ergebnisse transparent und
+Ã¶ffentlich zugÃ¤nglich verÃ¶ffentlicht werden.
+
+Die Bewertung des Erfolgs von Open-Source-Strategien im Ã¶ffentlichen
+Sektor sollte sich jedoch nicht nur am quantitativen Anteil von Open Source
+Software orientieren. ErgÃ¤nzend sollten Indikatoren entwickelt werden, die
+die tatsÃ¤chliche digitale SouverÃ¤nitÃ¤t messen, etwa die FÃ¤higkeit zum
+Anbieterwechsel, zur eigenstÃ¤ndigen Weiterentwicklung, zur
+Wiederverwendung von Software und Daten sowie zur interoperablen
+Zusammenarbeit zwischen BehÃ¶rden.
+
+Die EU-Kommission muss Open Source Software die nÃ¶tige Bedeutung
+zumessen und im Rahmen von Beschaffung und Vergabe ausreichend in
+diesen Bereich investieren. Denn von einem sicheren Open-Source-
+Ãkosystem profitieren sowohl die Ã¶ffentliche Hand als auch die
+Privatwirtschaft. Dort, wo der Markt nicht ausreichend funktioniert und es
+keine kommerziellen Anbieter gibt, die kritische oder vielgenutzte
+Basiskomponenten pflegen und weiter entwickeln kÃ¶nnten, sollte der Staat
+unterstÃ¼tzen und die Pflege dieser kritischen digitalen Infrastruktur
+Ã¼bernehmen (siehe Sovereign Tech Fund). Eine positive Stimulation des
+Open-Source-Marktes kann dazu beitragen, die FÃ¤lle zu verringern, in denen
+eine solche staatliche UnterstÃ¼tzung aufgrund eines Marktversagens nÃ¶tig
+wird.
+
+Die EU-Kommission kann u.a. durch die StÃ¤rkung von Open Source Program
+Offices den Austausch zwischen Verwaltung und Wirtschaft fÃ¶rdern. Das
+fÃ¼hrt dazu, dass die Verwaltungsangestellten mehr Kenntnisse Ã¼ber die
+Open-Source-Branche gewinnen und die Open-Source-Industrie die
+speziellen Anforderungen und BedÃ¼rfnisse der Verwaltung besser versteht.
+Auch Schulungen und der gezielte Kompetenzaufbau bei den Angestellten
+der Ã¶ffentlichen Verwaltung spielen eine wichtige Rolle fÃ¼r den sicheren und
+effizienten Einsatz von Open Source Software.
+
+Es kann sinnvoll sein, eigene Open Source Program Offices bei den
+BehÃ¶rden einzurichten, die bereits fÃ¼r IT-Sicherheit zustÃ¤ndig sind. In der
+Studie âFostering Open Source Software Security. Blueprint for a
+Government Cybersecurity Open Source Program Officeâ zeigt Autor Sven
+Herpig verschiedene AnsÃ¤tze auf, wie eine staatliche Institution die
+Sicherheit von Open Source Software gezielt fÃ¶rdern kÃ¶nnte und stellt die
+Idee eines âOpen Source Program Office (OSPO) fÃ¼r Cybersecurityâ vor.
+
+                                     12
+Denn in SicherheitsbehÃ¶rden ist zumeist bereits viel Expertise Ã¼ber IT-
+Sicherheit vorhanden und diese BehÃ¶rden sind daher prÃ¤destiniert dafÃ¼r,
+Open Source strategisch einzusetzen, um die Sicherheit digitaler
+Infrastrukturen zu ermÃ¶glichen, und um die Verbesserung der Sicherheit
+wichtiger Open-Source-LÃ¶sungen strategisch voranzutreiben.
+
+Um die technologische SouverÃ¤nitÃ¤t und die Cybersicherheit der genutzten
+Open Source Software zu sichern, kann die EU-Kommission es Angestellten
+der Ã¶ffentlichen Verwaltung ermÃ¶glichen, sich an der Weiterentwicklung
+und Pflege von Software zu beteiligen, die in der Verwaltung genutzt wird
+und eventuell besonders wichtig und kritisch ist. Die Stadt MÃ¼nchen hat
+hierfÃ¼r das âOpen Source Sabbaticalâ eingefÃ¼hrt. Dieses ermÃ¶glicht es
+Softwareentwickler:innen, fÃ¼r einen begrenzten Zeitraum an einem Open-
+Source-Projekt zu arbeiten und dieses zu verbessern.
+
+Auch die FortfÃ¼hrung oder der Ausbau von Bug-Bounty-Programmen
+kÃ¶nnen eine sinnvolle MaÃnahme der EU-Kommission sein, um die
+Sicherheit zentraler Open-Source-LÃ¶sungen gezielt zu verbessern.
+
+Die EU-Kommission verwendet aktuell in vielen Formularen fÃ¼r
+Ausschreibungen oder FÃ¶rderprogramme proprietÃ¤re Software-
+Komponenten und Standards wie beispielsweise Excel-Makros. Dies stellt
+zum einen ein erhebliches Sicherheitsrisiko dar, weil diese Makros oft als
+Einfallstor fÃ¼r Schadsoftware u.a. fÃ¼r Ransomware oder Datendiebstahl
+genutzt werden. Zum anderen steht die Verwendung dieser proprietÃ¤ren
+Makros der InteroperabilitÃ¤t und der digitalen SouverÃ¤nitÃ¤t im Wege, da
+diese nicht unabhÃ¤ngig angepasst oder Ã¼berprÃ¼ft werden kÃ¶nnen. Die EU-
+Kommission muss also ihre Formulare und Prozesse daraufhin Ã¼berprÃ¼fen,
+wo diese proprietÃ¤ren LÃ¶sungen und Standards im Einsatz sind und diese
+gezielt durch die vielfÃ¤ltigen vorhandenen Open-Source-Alternativen
+ablÃ¶sen.
+
+4. What technology areas should be prioritised and
+why?
+Die von der Deutschen Bundesregierung beauftragte Studie âStrategische
+Marktanalyse zur Reduzierung von AbhÃ¤ngigkeiten von einzelnen Software-
+Anbieternâ hat dargelegt, dass bei der Ã¶ffentlichen Verwaltung besonders
+groÃe AbhÃ¤ngigkeiten bei Arbeitsplatzsoftware sowie bei Cloud-LÃ¶sungen
+bestehen. Denn proprietÃ¤re monopolartige Anbieter zwingen die Nutzenden
+immer mehr in ein geschlossenes Ãkosystem (âVendor-Lock-Inâ). Deswegen
+
+                                     13
+sollten diese Bereiche mit besonderer PrioritÃ¤t berÃ¼cksichtigt werden.
+Projekte wie openDesk aus Deutschland oder LaSuite aus Frankreich
+adressieren daher insbesondere den Abbau von AbhÃ¤ngigkeiten bei
+Arbeitsplatzsoftware.
+
+Die EU-Kommission sollte zudem die Entwicklung und den Aufbau von
+Open-Source-Cloud-LÃ¶sungen gezielt vorantreiben und dafÃ¼r sorgen, dass
+strenge Mindestanforderungen fÃ¼r die Nutzung von Cloud-LÃ¶sungen durch
+die Ã¶ffentliche Verwaltung auch eingehalten werden. Dies gilt auch fÃ¼r Low-
+Code- und No-Code-Plattformen, da bei Plattformen immer ein besonders
+groÃes Risiko fÃ¼r einen Vendor-Lock-In besteht, wenn nicht explizit auf
+Open-Source-LÃ¶sungen gesetzt wird.
+
+GrundsÃ¤tzlich muss jede Software, von der kritische Infrastrukturen,
+Logistik, Sicherheit, Versorgung und ErnÃ¤hrung, Produktion etc. abhÃ¤ngen,
+ein besonders hohes MaÃ an digitaler SouverÃ¤nitÃ¤t aufweisen und sollte
+daher eine Open-Source-LÃ¶sung sein. Arbeitsplatzsoftware und Cloud-
+LÃ¶sungen aber auch Datenbanken, Virtualisierungssoftware und
+Betriebssysteme sind die Software-LÃ¶sungen, die bereichsÃ¼bergreifend
+eine zentrale Rolle spielen und daher besonders in den Blick genommen
+werden sollten. Low-Code-Plattformen spielen eine groÃe Rolle bei der
+Entwicklung von Fachanwendungen. Um auch hier einen Vendor-Lock-In zu
+vermeiden, sollten nur Open-Source-Low-Code-Plattformen zum Einsatz
+kommen.
+
+Insbesondere in den Bereichen von kritischer Infrastruktur und Verteidigung
+muss der Einsatz von Open Source Software mit hÃ¶chster PrioritÃ¤t
+vorangetrieben werden, um gefÃ¤hrliche AbhÃ¤ngigkeiten abzubauen.
+StreitkrÃ¤fte etwa sind fÃ¼r die meisten ihrer AktivitÃ¤ten auf Software
+angewiesen, von administrativen Aufgaben und Logistik bis hin zur
+KriegsfÃ¼hrung. Folglich hÃ¤ngt die Sicherheit eines MilitÃ¤rs auch von der
+Sicherheit und VertrauenswÃ¼rdigkeit der zahlreichen Software-Anbieter,
+Dienstleister sowie Entwickler und Maintainer von Softwarekomponenten
+ab. Ein GroÃteil der Software, die in Kampfmitteln und GerÃ¤ten verbaut ist
+und in den StreitkrÃ¤ften der EU-Mitgliedsstaaten genutzt wird, ist Closed
+Source Software aus den USA. Das bedeutet auch, dass zentrale Systeme auf
+Druck aus den USA jederzeit manipuliert, blockiert oder abgeschaltet
+werden kÃ¶nnten. Vor diesem Hintergrund ist der Einsatz von Open Source
+Software ein sicherheitspolitisches Muss: Bei Open Source Software muss
+nicht auf Zusagen der Hersteller vertraut werden, sondern der Quellcode
+
+                                     14
+kann jederzeit unabhÃ¤ngig eingesehen, angepasst, verÃ¤ndert und weiter
+gegeben werden.
+
+5. In what sectors could an increased use of open
+source lead to increased competitiveness and cyber
+resilience?
+GrundsÃ¤tzlich profitieren alle Sektoren von einem verstÃ¤rkten Einsatz von
+Open Source Software, denn sowohl in der Ã¶ffentlichen Verwaltung, der
+Privatwirtschaft, der Wissenschaft und auch der Zivilgesellschaft bestehen
+groÃe AbhÃ¤ngigkeiten von proprietÃ¤ren Anbietern. Wie bereits ausgefÃ¼hrt
+profitieren alle davon, wenn durch eine kooperative Entwicklung von Open-
+Source-LÃ¶sungen Kosten geteilt werden kÃ¶nnen und leistungsfÃ¤higere
+Software fÃ¼r alle frei zur VerfÃ¼gung steht.
+
+                                    15

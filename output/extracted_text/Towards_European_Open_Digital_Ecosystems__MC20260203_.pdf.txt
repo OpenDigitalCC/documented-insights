@@ -1,0 +1,452 @@
+Ref. Ares(2026)1225431 - 03/02/2026
+
+Towards European Open Digital Ecosystems
+Call for Evidence/Public Consultation
+Contribution by Michele Capobianco (03-02-2026)1
+
+Executive Summary: Strategic Importance and Relevance
+An EU Open Digital Ecosystem Strategy is strategically important because it directly links digital
+infrastructure choices to technological sovereignty, competitiveness and security, in a context where
+70â90% of code depends on open source and most value currently leaks outside the Union. The
+strategy is even more critical in a future where IoTâEdgeâCloud continua, 6G networks, AI-native
+systems, autonomous platforms, quantum computing and zero-trust security all converge on shared,
+and increasingly complex, programmable infrastructures.
+The Call for Evidence is timely and extremely relevant at present for several reasons:
+      ï·    Strategic timing - It is one of the few instruments where individual developers, SMEs, research
+           bodies and public administrations can influence to some extent a non-legislative strategy that
+           will guide funding, public-private partnerships and the framing of "sovereign" open
+           technologies alongside the forthcoming Cloud and AI Development Act.
+      ï·    Comprehensive scope - The initiative explicitly addresses the full open-source lifecycle - from
+           development through maintenance, sustainability and market integration - across critical
+           sectors including AI, cloud, edge computing, Internet of Things (IoT), cybersecurity, internet
+           technologies, and industrial applications such as automotive and manufacturing.
+      ï·    Future-oriented approach - The strategy recognizes emerging paradigms including the
+           computing continuum (IoT-Edge-Cloud/Multi-Cloud), edge intelligence, autonomous systems,
+           AI-native 6G networks, quantum-safe cryptography, zero-trust architectures, and threat-
+           intelligence-driven network management. These trends make the strategy not just relevant
+           but essential for Europe's technological future.
+      ï·    Sovereignty and resilience - In an era where essential digital capabilities - from cybersecurity
+           and IoT platforms to cloud services, AI frameworks, network infrastructure and data systems -
+           determine economic prosperity and security, the strategy aims to ensure these capabilities are
+           grounded in trustable, open, interoperable and verifiable foundations rather than depending
+           on external actors or non-transparent technologies.
+
+The following paragraphs answer the questions of the Call for Evidence. The proposed answers directly
+address the initiative's key objectives by discussing the added value of open source across public and
+private sectors, proposing concrete measures for deployment infrastructure, software supply chain
+security and project sustainability through stable lifecycle funding and EU-centered governance
+frameworks, outlining viable business models and public-private partnership mechanisms, identifying
+best practices and procurement reforms to encourage contribution and adoption, and prioritizing
+technology areas and sectors where open source can achieve successful market integration alongside
+legacy systems through interoperable reference architectures and policy alignment.
+
+1
+    An extended version of this document is available upon request.
+                                                                   Towards European open digital ecosystems
+                                                                         Call for Evidence/Public Consultation
+                                                             Contribution by Michele Capobianco, 03-02-2026
+
+Answers to the Proposed Questions
+
+1. Strengths, Weaknesses and Barriers of the EU Open-Source Sector
+The EU open-source ecosystem presents a complex picture of significant assets undermined by
+structural challenges. On the strength side, Europe boasts some of the world's most active developer
+communities whose work naturally aligns with EU digital rights and principles. This cultural alignment
+provides fertile ground for sovereign digital solutions. The track record of EU-funded programmes
+demonstrates real capability: initiatives like the Next Generation Internet, FIWARE framework,
+GenAI4EU, and RISC-V investments have successfully created high-quality code and vibrant
+ecosystems. Europe's research base in emerging areas - particularly cloud-edge-IoT continuum and 6G
+technologies - is robust, with strong institutional frameworks through IPCEI-CIS and the 6G Industry
+Association. Growing public-sector momentum, exemplified by the European Digital Infrastructure
+Consortium for Digital Commons, shows that coordinated EU approaches can build genuine
+alternatives to proprietary solutions.
+However, these strengths are severely compromised by structural weaknesses. The most damaging is
+value capture: much of the economic value generated by EU open-source projects is exploited outside
+Europe, typically by non-EU tech giants. European stakeholders face fragmented business models with
+unclear pathways from research prototypes to commercial viability, struggling against high entry
+barriers and network effects of dominant players in both public procurement and private markets.
+Limited access to growth capital, hosting infrastructure, and support services further constrains
+development. Adoption patterns vary wildly across sectors, with many industries still uncertain about
+open source's business value and risk profile. Perhaps most concerning, Europe's dependence on non-
+EU platforms becomes systemically dangerous as 6G networks, edge computing, autonomous systems
+and AI workloads converge on a small number of proprietary stacks, creating vulnerabilities that
+threaten European autonomy.
+The barriers to adoption and maintenance are multifaceted and reinforcing. Vendor lock-in and
+network effects create powerful disincentives to switch from established proprietary solutions. The
+technical complexity of orchestrating distributed applications across IoT, edge and cloud with strict
+latency and safety requirements makes operators risk-averse, often preferring vertically integrated
+solutions despite their transparency and sovereignty costs. Without standardized reference
+architectures, each deployment becomes a bespoke integration project, discouraging community-
+developed components and inflating costs. Procurement frameworks often inadvertently favor large
+proprietary vendors, while legal uncertainty and liability concerns further discourage public-sector
+adoption. For advanced use cases like edge intelligence and autonomous systems, the lack of
+established certification processes for open-source components creates additional hurdles. The
+transition to quantum-safe cryptography and zero-trust architectures requires deep protocol changes
+that, without coordinated EU support, may push organizations toward proprietary solutions.
+Barriers to sustainable community contributions are equally challenging. EU research programmes
+support initial development but rarely finance the long-term maintenance, governance,
+documentation and community management essential for successful scaling. Organizational incentives
+are misaligned: internal KPIs, legal uncertainty and liability concerns prevent companies and public
+bodies from allowing staff to contribute upstream during working time. The computing continuum
+requires rare multi-disciplinary expertise spanning networking, 6G, AI, security, hardware and cloud-
+native development - profiles heavily recruited by global platforms, making talent retention difficult
+for EU projects and SMEs. Fragmented foundation infrastructure means there's no cohesive EU-
+centered framework to host projects, pool resources and provide legal and compliance support across
+Member States. Finally, advanced stacks require substantial resources for operational aspects -
+observability, security hardening, documentation, governance - that remain weakly funded in EU
+programmes.
+
+                                              Page 2 of 9
+                                                                     Towards European open digital ecosystems
+                                                                           Call for Evidence/Public Consultation
+                                                               Contribution by Michele Capobianco, 03-02-2026
+
+2. Added Value of Open Source for the Public and Private Sectors
+Open source delivers strategic value across multiple dimensions that extend far beyond simple cost
+savings. The initiative correctly frames it as a public good that reduces dependencies, increases
+infrastructure control, and improves transparency and resilience - particularly critical in a future
+characterized by converging IoT-Edge-Cloud continua, 6G networks, AI-native systems and quantum
+threats.
+From a cost and total cost of ownership perspective, public administrations can pool investments in
+shared components - identity management, data exchange middleware, collaboration tools, document
+management and workflow engines - rather than paying repeated license fees. In the computing
+continuum context, administrations and operators can share EU-developed open stacks for device,
+edge and cloud orchestration, reducing duplicated investments while enabling rapid deployment of
+new use cases from smart ports and cities to connected vehicles and e-health. For private sector actors,
+particularly SMEs, building on existing open-source stacks reduces upfront R&D costs, allowing
+resources to focus on differentiation and domain-specific features. Start-ups can build edge-
+intelligence and autonomous-system solutions on top of open AI frameworks and 6G control-plane
+components rather than reinventing generic infrastructure.
+The sovereignty and risk reduction benefits are equally compelling. Open designs and code bases
+enable verification of security properties, avoidance of opaque data-extraction practices, and
+elimination of single-vendor lock-in - all central to EU technological sovereignty. For critical
+infrastructure including networks, edge computing and data spaces, open components allow Member
+States and agencies to audit, fork and maintain systems even if vendors exit the market. Multi-provider
+6G and continuum deployments become feasible, reducing dependence on individual vendors and
+allowing infrastructure to be moved across clouds and operators for sovereignty and resilience
+reasons. For autonomous systems sharing computing continua, open source enables transparent
+inspection of decision logic, safety mechanisms and update pipelines - vital for liability assessment and
+cross-border deployment.
+Security benefits manifest through auditability and enhanced vulnerability management. Open source
+supports coordinated disclosure and independent security assessments along software supply chains,
+with shared maintenance reducing the probability that critical vulnerabilities remain unpatched in
+widely reused components. Zero-trust architectures - requiring pervasive identity management,
+continuous authentication, fine-grained policy enforcement and deep telemetry - benefit from open
+implementations that make control planes auditable and composable. Threat-intelligence pipelines
+benefit from open formats and tools that enable cross-border collaboration and independent
+verification, supporting more resilient collective cyber defense. For quantum threats, open
+implementations of post-quantum algorithms allow transparent validation and faster migration in
+critical networks, while early integration into network and edge stacks avoids incompatible proprietary
+solutions and ensures long-term confidentiality.
+Innovation and standardization accelerate through open ecosystems. NGI projects, GenAI4EU open
+models and open vehicle stacks accelerate experimentation, reuse and interoperability, feeding faster
+standardization and reducing duplication across EU projects and Member States. Innovators, start-ups
+and SMEs can rapidly prototype and scale offerings in AI, cloud, IoT and cybersecurity, strengthening
+EU competitiveness relative to global incumbents. Concrete examples span from NGI open internet
+technologies providing shared building blocks for secure services, to FIWARE enabling commercial
+solutions for mobility and logistics, to open AI models providing transparent alternatives for public
+governance, to RISC-V reducing IP licensing constraints for European chip value chains, to the Digital
+Commons EDIC creating stable platforms for companies to offer specialized vertical solutions.
+
+                                               Page 3 of 9
+                                                                     Towards European open digital ecosystems
+                                                                           Call for Evidence/Public Consultation
+                                                               Contribution by Michele Capobianco, 03-02-2026
+
+3.   Concrete EU-Level Measures and Actions
+A coherent EU strategy must combine stable funding, reference architectures, dedicated programmes,
+governance frameworks, procurement reform and skills development to address the full open-source
+lifecycle across emerging technology paradigms.
+Stable funding and lifecycle support forms the foundation. Multi-year funding lines or mission-oriented
+programmes should cover the complete lifecycle: core development, security hardening and auditing,
+documentation and user experience design, community management and governance, and long-term
+maintenance. Critical project programmes should support key libraries, frameworks and tools widely
+reused in EU infrastructure, similar to existing cybersecurity or digital commons initiatives but focused
+explicitly on software supply-chain robustness.
+Open reference stacks for continuum and 6G are essential. The EU should fund and mandate modular
+reference architectures spanning device, edge, transport/6G network and cloud layers, including
+standard APIs and data models, orchestration and lifecycle management interfaces, observability and
+monitoring frameworks, and policy and security control planes. EU-funded telecommunications and
+edge computing projects should be required to provide open-source implementations of key control-
+plane components as part of these reference stacks, building on initiatives like IPCEI-CIS and AIOTI
+frameworks.
+Dedicated programmes for edge intelligence and autonomous systems should launch funding for open
+edge-AI frameworks, toolchains and runtime environments supporting safety-critical and real-time
+applications including connected vehicles, industrial control, aviation systems and maritime
+automation, with explicit links between open-source development and certification requirements.
+Shared open testbeds where autonomous-system behaviours can be validated on realistic 5G/6G-
+integrated cloud-edge infrastructures should make results, datasets and validated code available as
+digital commons.
+Zero-trust and threat intelligence integration requires funding for open-source zero-trust frameworks
+designed for heterogeneous IoT-Edge-Cloud environments and multi-provider 6G networks, covering
+identity and access management, continuous authentication and authorization, fine-grained policy
+enforcement, micro-segmentation and continuous verification. Open threat-intelligence platforms
+and standardized formats for sharing telemetry, indicators of compromise, tactics and techniques
+should integrate with Security Operations Centers and network management tools, with specific focus
+on AI-based detection, 6G network slicing and edge computing environments.
+Quantum-ready open infrastructures demand investment in open-source implementations of post-
+quantum cryptographic libraries, quantum-safe protocols and key-management systems, with shared
+EU testing infrastructures to validate these at scale in telecommunications, edge and cloud stacks. All
+EU-funded networking and cloud-edge projects should be required to include quantum-safe transition
+roadmaps and open reference implementations to avoid last-minute proprietary lock-in.
+EU-centered foundation and governance infrastructure should support a network of EU-anchored
+open-source foundations and cooperatives that can host and govern critical projects, manage
+intellectual property and licensing, provide legal and compliance services, and orchestrate cross-
+border governance structures. Open governance models should become eligibility criteria in EU
+funding programmes, with domain-specific foundations for networking, edge computing and AI stacks
+offering governance and legal services for rapidly evolving critical projects.
+Procurement, policy and regulatory alignment must adapt public procurement frameworks to explicitly
+recognize open source and digital commons as valid options, with evaluation criteria rewarding
+openness, interoperability, avoidance of vendor lock-in, quantum-safe and zero-trust readiness, and
+supply-chain security. Model contracts and templates should combine open-source software with
+commercial support services, lowering legal uncertainty. Relevant EU regulations should align with
+open-source practices, ensuring compliance requirements are implementable by community projects
+and SMEs, not only large proprietary vendors.
+
+                                               Page 4 of 9
+                                                                     Towards European open digital ecosystems
+                                                                           Call for Evidence/Public Consultation
+                                                               Contribution by Michele Capobianco, 03-02-2026
+
+Incentives for organizational contributions should include recognizing and encouraging "contribution
+time" in EU-funded projects, mandating or rewarding upstream contributions to existing open
+components. Best-practice frameworks should guide corporate and public-sector contribution policies,
+addressing risk management, intellectual property handling, staffing models and legal review
+processes. Infrastructure and tooling support should co-fund EU-based hosting and collaboration
+platforms respecting EU standards - code repositories, issue trackers, CI/CD (Continuous
+Integration/Continuous Delivery) pipelines, documentation platforms - operated as part of Digital
+Commons infrastructures. Shared security tooling for SBOM generation, vulnerability scanning, secure
+build systems and supply-chain integrity verification should be provided free or at low cost to EU open-
+source projects and SMEs.
+Skills, education and ecosystem building should embed open-source development, governance and
+licensing in digital skills programmes, higher education curricula and vocational training. Cross-sector
+communities of practice should share reference architectures, case studies, deployment experiences,
+reusable stacks and governance best practices across public-sector IT leaders, regulated industries,
+SMEs and research institutions.
+
+4. Priority Technology Areas
+Prioritization should reflect both sovereignty impact, existing EU strengths, and overall tendencies,
+spanning the technology stack from hardware through networking to applications and services, with
+particular attention to emerging paradigms.
+Multi-provider IoT-Edge-Cloud continuum platforms form the foundational layer. Orchestration,
+serverless frameworks and data-processing middleware that natively span devices, edge nodes and
+clouds underpin all advanced applications and must include built-in observability, identity and access
+management, policy enforcement and security telemetry. Edge intelligence and AI-native network
+automation represent the next critical layer: reusable AI components for self-optimizing 6G networks
+with automated configuration and resource allocation, alongside network features tailored to
+distributed AI workloads, with open toolchains for model training, deployment, monitoring,
+explainability and safety certification.
+Cloud and edge infrastructures provide essential foundations for all higher-level services, with open
+implementations reducing dependence on non-EU hyperscalers and enabling sovereign hosting for
+sensitive data and critical workloads across IaaS platforms, container orchestration, serverless
+computing, edge runtime environments, and storage systems. Open 6G network functions and
+management - including cloud-native implementations of control plane, user plane, network slicing,
+RAN (Radio Access Network) components, MANO (Management and Orchestration) frameworks and
+service mesh layers - support multi-provider and sovereign deployment models building on European
+6G vision and SNS JU research.
+Artificial intelligence frameworks and models provide transparent, auditable alternatives aligned with
+EU values, spanning large language models, domain-specific models, training and inference
+frameworks, model governance, lifecycle management and explainability tools. Autonomous systems
+software stacks for connected and cooperative systems require shared open components for
+perception, sensor fusion, localization, decision-making, safety envelopes, V2X communication and
+fleet management across vehicles, drones, maritime vessels, industrial robots and logistics systems.
+Cybersecurity tools and zero-trust platforms enable independent verification and faster collective
+response, including zero-trust identity and access management, continuous authentication and policy
+enforcement, micro-segmentation, threat intelligence platforms, and SOAR and SIEM systems.
+Quantum-safe networking and cryptographic services provide open building blocks for post-quantum
+security integrated into 6G and edge platforms: post-quantum cryptographic algorithms, quantum-
+safe key management, hybrid protocols, secure communication protocols and quantum random
+number generators.
+
+                                               Page 5 of 9
+                                                                     Towards European open digital ecosystems
+                                                                           Call for Evidence/Public Consultation
+                                                               Contribution by Michele Capobianco, 03-02-2026
+
+Internet technologies and data-space middleware ensure interoperability across Member States and
+sectors through data space connectors, identity and authentication services, data catalogues, semantic
+interoperability, consent and policy management, and secure data sharing and federation. IoT and
+industrial platforms raise interoperability across factories, ports and supply chains through industrial
+IoT platforms, edge frameworks for operational technology, digital twin frameworks, time-sensitive
+networking stacks and industrial automation protocols.
+Open hardware anchors value chains in Europe, particularly RISC-V processor architectures for edge
+and embedded systems, open hardware designs for high-performance computing, edge computing
+hardware platforms, and sensor and actuator reference designs. Digital commons for public services
+enable reuse and reduce fragmentation through shared platforms for document management,
+collaboration, case management, workflow, identity, authentication, cross-border interoperability
+frameworks and citizen engagement.
+
+5. Sectors Where Open Source Increases Competitiveness and Cyber Resilience
+Structured use of open source can simultaneously enhance competitiveness and cyber resilience
+across sectors, particularly when combined with EU-level coordination and strategic technology
+priorities.
+Public administration and digital government benefit from shared open platforms for identity
+management, data exchange, document management and case handling that lower operational costs
+through shared investment, enable cross-border interoperability, reduce dependence on proprietary
+cloud office suites, and allow deeper security scrutiny. More efficient services with lower IT spending
+free resources for service improvement and innovation, while auditable code and control over
+infrastructure reduce vulnerability to supply-chain attacks and enable sovereign incident response.
+Transport, mobility and logistics will depend heavily on edge intelligence, 6G connectivity and shared
+computing continua for connected and autonomous vehicles, ships, drones and logistics systems. Open
+stacks reduce platform dependence, enable local innovation ecosystems and support auditable safety
+and security for critical operations spanning software-defined vehicles, intelligent transportation
+systems, smart ports, fleet management and charging infrastructure. European automotive, maritime
+and logistics companies can differentiate through interoperable solutions rather than being locked into
+proprietary platforms, while transparent code for safety-critical functions enables independent
+security validation.
+Manufacturing, industrial IoT and process industries rely on dense IoT deployments, edge AI and 6G
+connectivity for automation, quality control and predictive maintenance. Open industrial platforms
+and zero-trust/quantum-safe solutions increase interoperability across multi-vendor equipment,
+lower integration costs, strengthen resilience against both conventional and quantum-enabled cyber
+attacks, and enable real-time security monitoring. This lowers barriers to advanced capabilities for
+European SMEs and mid-sized manufacturers while enabling defense-in-depth strategies for critical
+production systems.
+Energy and critical infrastructure require open, quantum-safe and zero-trust-ready control systems,
+real-time telemetry and analytics, distributed monitoring and coordinated incident response for smart
+grids, renewable energy management, pipeline monitoring and infrastructure control. European
+energy companies and infrastructure operators maintain technological leadership while ensuring long-
+term sovereignty over critical control systems, with survivability in the face of advanced cyber threats
+including future quantum-enabled attacks.
+Healthcare and public health services increasingly rely on edge computing and 6G networks for
+sensitive health data and latency-critical applications. Open infrastructures ensure transparency and
+verifiability of data handling, local control over sensitive patient data, interoperability across
+healthcare providers and Member States, and auditability for regulatory compliance. European health-
+tech companies can build on sovereign, trusted platforms meeting strict data-protection
+
+                                               Page 6 of 9
+                                                                   Towards European open digital ecosystems
+                                                                         Call for Evidence/Public Consultation
+                                                             Contribution by Michele Capobianco, 03-02-2026
+
+requirements, while open zero-trust architectures reduce vulnerability to ransomware and data
+breaches.
+Telecommunications and cloud service providers can differentiate by offering open, sovereign cloud-
+edge-6G platforms with built-in zero-trust security, threat intelligence integration, quantum-safe
+cryptography, multi-tenant isolation and transparent data governance. This enables European
+providers to compete on transparency, compliance and integration capabilities rather than pure scale,
+while open network functions and security controls enable rapid response to emerging threats and
+coordinated defense.
+Financial services and digital payments require high security, auditability and regulatory compliance.
+Open-source components for identity and authentication, transaction processing, threat intelligence,
+anomaly detection and quantum-safe encryption enable European financial institutions to reduce
+dependence on proprietary core banking and payment platforms while providing stronger long-term
+protection against sophisticated attacks on high-value targets.
+Defense and dual-use applications increasingly recognize the value of open, auditable components for
+command, control and communications systems, cybersecurity tools, situational awareness,
+autonomous systems and secure communications. The European defense industry maintains
+technological independence and avoids strategic dependence on foreign suppliers for critical systems,
+with auditable code and sovereign control reducing vulnerability to supply-chain compromises.
+Research and education benefit from open platforms for data analysis and simulation, collaborative
+research tools, open access to AI models and training data, and transparent, reproducible
+computational methods that accelerate scientific discovery by reducing barriers to advanced
+computational tools. Open security tools and practices in research networks serve as training grounds
+for the next generation of cybersecurity professionals.
+Agriculture and environmental monitoring increasingly rely on IoT sensor networks, edge computing
+for real-time analysis, satellite and drone data processing, and predictive models for precision
+agriculture and climate research. European agricultural technology companies can build on open
+platforms enabling innovations accessible to farmers across all scales of operation, while secure,
+transparent IoT and edge platforms protect critical food production infrastructure.
+
+Conclusion and Summary of Key Responses
+The European Open Digital Ecosystem Strategy represents a critical opportunity to transform open
+source from a hidden dependency into a deliberate instrument of industrial policy, cybersecurity
+and technological sovereignty.
+In a future characterized by converging IoTâEdgeâCloud continua, AI-native 6G networks, Intelligent
+Internet of Intelligent Things, autonomous systems, quantum computing threats, pervasive zero-trust
+requirements, etc. the strategy must go beyond supporting isolated open-source projects. It requires
+building a comprehensive European ecosystem spanning:
+    ï·   Technology - Open reference stacks for continuum, 6G, edge intelligence, autonomous
+        systems, quantum-safe cryptography and zero-trust security.
+    ï·   Governance - EU-centered foundations and transparent governance frameworks.
+    ï·   Business models - Sustainable pathways from research to industrial deployment and
+        commercial viability.
+    ï·   Skills - Education and training for multi-disciplinary open-source development.
+    ï·   Policy - Procurement, regulatory and funding frameworks that systematically favour open,
+        sovereign solutions.
+
+The measures proposed in this response - stable lifecycle funding, open reference architectures,
+domain-specific foundations, adapted procurement, shared infrastructure, quantum-safe roadmaps
+
+                                              Page 7 of 9
+                                                                           Towards European open digital ecosystems
+                                                                                 Call for Evidence/Public Consultation
+                                                                     Contribution by Michele Capobianco, 03-02-2026
+
+and zero-trust integration - provide a concrete pathway to realize this vision. Success will be
+measured not just by the volume of open-source code produced in Europe, but by:
+    ï·    The proportion of critical digital infrastructure running on trustable, auditable, European-
+         anchored open platforms.
+    ï·    The number of viable European companies and foundations providing open-source-based
+         solutions.
+    ï·    The degree of technological sovereignty in sectors from telecommunications and cloud to
+         automotive, manufacturing and public services.
+    ï·    The resilience of European digital systems to supply-chain attacks, vendor failures and
+         emerging quantum threats.
+
+This Call for Evidence provides a unique opportunity for stakeholders across the European open-source
+ecosystem - developers, companies, foundations, public administrations, research institutions and civil
+society - to shape a strategy that will define Europe's digital future for decades to come.
+The following table summarizes the responses to the five questions posed in the Call for Evidence,
+highlighting how each answer directly supports the initiative's strategic objectives.
+
+    Question                                               Summary Answer
+                     The EU has world-class developer communities and proven research programmes (NGI,
+1. Strengths,
+                     FIWARE, GenAI4EU, RISC-V) but suffers from value capture outside Europe, fragmented
+weaknesses and
+                     business models, limited access to infrastructure and capital, and structural dependencies
+barriers of the EU
+                     amplified by emerging continuum and 6G technologies. Main barriers include vendor lock-
+open-source
+                     in, procurement complexity, lack of standardized reference architectures, insufficient long-
+sector
+                     term funding, fragmented foundation infrastructure, and cross-domain skill gaps.
+                     Open source delivers strategic value beyond cost savings through reduced total cost of
+                     ownership via shared investments, enhanced sovereignty and risk reduction through
+2. Added value of
+                     infrastructure control and multi-provider flexibility, improved security through auditability
+open source for
+                     and vulnerability management, quantum-safe and zero-trust capabilities, accelerated
+public and private
+                     innovation and standardization, and transparent governance for autonomous systems.
+sectors
+                     Concrete examples span NGI, FIWARE, GenAI4EU, RISC-V and Digital Commons EDIC across
+                     diverse applications.
+                     A comprehensive strategy should include stable multi-year lifecycle funding for
+                     development through maintenance, open reference stacks for IoT-edge-cloud continuum
+3. Concrete EU-      and 6G, dedicated programmes for edge intelligence and autonomous systems, zero-trust
+level measures       and threat intelligence integration, quantum-ready open infrastructures, EU-centered
+and actions          foundation and governance frameworks, adapted procurement and regulatory alignment,
+                     organizational contribution incentives, shared infrastructure and security tooling, and skills
+                     development through education and cross-sector communities of practice.
+                     Priorities should span the full stack: multi-provider IoT-edge-cloud continuum platforms,
+                     edge intelligence and AI-native network automation, cloud and edge infrastructures, open
+4. Priority          6G network functions, AI frameworks and models, autonomous systems software stacks,
+technology areas     cybersecurity tools and zero-trust platforms, quantum-safe networking and cryptography,
+                     internet technologies and data-space middleware, IoT and industrial platforms, open
+                     hardware (RISC-V), and digital commons for public services.
+                     Key sectors include public administration and digital government,
+5. Sectors for       transport/mobility/logistics, manufacturing and industrial IoT, energy and critical
+increased            infrastructure, healthcare, telecommunications and cloud services, financial services,
+competitiveness      defense and dual-use applications, research and education, and agriculture/environmental
+and cyber            monitoring. In each sector, open source simultaneously reduces costs and dependencies
+resilience           while strengthening security, transparency, interoperability and sovereign control over
+                     critical systems.
+
+                                                    Page 8 of 9
+                                                                 Towards European open digital ecosystems
+                                                                       Call for Evidence/Public Consultation
+                                                           Contribution by Michele Capobianco, 03-02-2026
+
+References
+1.   European Commission (2026). Commission opens call for evidence on Open-Source Digital
+     Ecosystems. https://digital-strategy.ec.europa.eu/en/news/commission-opens-call-evidence-
+     open-source-digital-ecosystems
+2.   Smart Networks and Services Joint Undertaking (2025). Research and Innovation in Europe on
+     Cloud for 6G Networks. https://smart-networks.europa.eu/
+3.   6G Industry Association. (2024). European Vision for the 6G Network Ecosystem. https://6g-
+     ia.eu/
+4.   IPCEI-CIS (2026). Europeâs Next Generation Cloud Infrastructure and Services.
+     https://www.8ra.com/
+
+                                            Page 9 of 9

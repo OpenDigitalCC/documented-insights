@@ -1,0 +1,211 @@
+Ref. Ares(2026)724469 - 22/01/2026
+
+                        European Decentralisation Institute (EDI)
+                        Response to the European Commission Call for Evidence
+
+                   Towards European open digital ecosystems (Ref. Ares(2026)69111)
+
+                                             22 January 2026
+
+                        Authors: Christoph Kreiterling, Arno Laeven, Roman Beck.
+
+Executive summary
+Europe has become a rule-maker in the digital domain, but much of the underlying infrastructure that
+executes those rules remains non-European and highly concentrated. This creates a practical
+sovereignty gap: policy ambition depends on systems Europe does not fully control. The Commissionâs
+initiative is timely because open source can increase auditability, reduce lock-in, and improve supply
+chain transparency, but openness alone does not guarantee sovereignty. Sovereignty becomes real
+when governance, operational control, and credible exit paths are designed into the infrastructure.
+
+The European Decentralisation Institute (EDI) recommends a compact set of measures that convert
+Europeâs open-source strength into scalable, secure, and deployable capabilities across cloud and edge,
+AI, cybersecurity, open hardware, and industrial platforms. The core idea is simple: use EU policy and
+funding to make open, interoperable, and verifiable building blocks cheaper to adopt than proprietary
+lock-in. Pair that with governance standards, long-term maintenance funding, and procurement
+practices that measure exit costs and systemic risk.
+
+Key recommendations (high impact, near-term)
+
+    Â· â Make interoperability and portability testable: fund open test suites and conformance labs for
+        cloud, data, and AI stacks.
+    Â· â Shift procurement incentives: require an âexit and auditabilityâ scorecard for public sector IT
+        and EU-funded deployments.
+    Â· â Fund maintenance as infrastructure: create multi-year support for critical open-source
+        dependencies, security audits, and incident response.
+    Â· â Strengthen governance by design: set minimum governance criteria for âstrategicâ open
+        projects used in critical sectors.
+    Â· â Back European âfoundation infrastructureâ: repositories, package registries, CI/CD tooling, and
+        sovereign hosting options under EU jurisdiction.
+    Â· â Use blended finance to scale EU open-source firms: crowd-in private capital while preserving
+        open licensing and community stewardship.
+
+                                                                                                                 1
+1. Context and problem definition
+The call for evidence correctly frames open source as a strategic lever for competitiveness,
+cybersecurity, and reduced external dependencies. Two barriers deserve special emphasis. First,
+Europeâs dependency is structural. For example, the Commission notes that open-source software is
+deeply embedded in the economy and that the EU faces dependence on non-EU countries in the
+digital sphere. Second, scaling is the bottleneck. Past EU investments delivered strong projects, but
+research and innovation funding alone rarely produces durable maintenance, governance, and
+adoption at scale.
+
+EDIâs perspective, aligned with our November 2025 policy brief, is that the objective should not be to
+replace foreign concentration with a single European champion. The goal is a competitive and
+resilient ecosystem, where control over keys, code, and control planes is distributed to the lowest
+competent level (a digital form of subsidiarity), and where users have credible exit paths across
+implementations.
+
+2. Quick mapping: barriers, measures, instruments
+
+ Barrier                            EDI measure                         EU instrument
+
+ Lock-in and network effects        Procurement scorecard;              Public procurement rules,
+                                    portability and interoperability    guidance, funding conditions
+                                    requirements
+
+ Under-funded maintenance           Multi-year maintainer funding;      Digital Europe, Horizon Europe,
+                                    EU-wide audit and response          shared services
+                                    capacity
+
+ Hard to scale beyond pilots        Conformance labs; reference         EU testbeds, EDICs, PPPs
+                                    implementations; deployment
+                                    support
+
+ Governance capture risk            Minimum governance and              Soft-law standards; eligibility
+                                    transparency criteria for           conditions
+                                    strategic projects
+
+                                                   2
+3. Answers to the consultation questions (Q1 to Q5)
+Q1. Strengths, weaknesses, and barriers (adoption, maintenance, sustainable
+contributions)
+Strengths
+
+    Â· â Large and value-aligned developer communities, with strong public interest orientation and
+        technical expertise.
+    Â· â A track record of EU support that produced credible building blocks (for example NGI, FIWARE,
+        Simpl, RISC-V, and open vehicle software stacks).
+    Â· â Regulatory leadership that can translate into demand for verifiable, auditable, and
+        privacy-preserving solutions.
+
+Weaknesses and barriers
+
+    Â· â Scaling gap: projects often lack long-term maintenance funding, productisation support, and
+        clear deployment pathways.
+    Â· â Procurement and contracting practices that reward incumbency and low headline price, not exit
+        costs, auditability, or long-term resilience.
+    Â· â Concentration and hosting dependencies (code repositories, package registries, CI/CD) that sit
+        outside EU jurisdiction.
+    Â· â Fragmentation across Member States in requirements, certification, and liability expectations,
+        which raises the cost of cross-border adoption.
+    Â· â Governance bottlenecks: unclear decision rights, limited transparency, and capture risk when a
+        single vendor dominates a nominally open project.
+
+Q2. Added value of open source for public and private sectors (with examples)
+Open source reduces lock-in by making interfaces inspectable and by enabling competitive
+re-implementation. It improves security and supply chain transparency through reviewability,
+SBOM-driven dependency management, and faster vulnerability remediation. It also increases strategic
+flexibility because services can be moved, forked, or maintained even if a supplier exits.
+
+Concrete examples include open middleware for European data spaces (Simpl), open and interoperable
+cloud stacks, open hardware ecosystems such as RISC-V for targeted use cases, and open industrial
+platforms such as software-defined vehicle stacks where interoperability lowers supplier concentration
+risk. In the public sector, open source can turn one-off procurements into reusable digital public goods
+across administrations.
+
+Q3. EU-level measures to grow the EU open-source sector and strengthen sovereignty
+and cybersecurity
+Procurement as a scaling lever
+
+    Â· â Introduce an âexit and auditabilityâ scorecard for public procurement and EU-funded
+        deployments, including switching time, key custody, and auditability.
+
+                                                    3
+    Â· â Require open standards and documented migration paths for strategic systems, so open
+        alternatives can compete on equal footing.
+
+Maintenance and security as shared infrastructure
+
+    Â· â Create multi-year maintenance funding for critical dependencies, including dedicated security
+        audits and coordinated vulnerability disclosure.
+    Â· â Stand up an EU capacity for rapid response to critical open-source vulnerabilities used in
+        government and critical sectors.
+
+Testability and interoperability
+
+    Â· â Fund open test suites, reference implementations, and conformance labs for cloud, data
+        spaces, AI tooling, and identity building blocks.
+    Â· â Make conformance results publicly available to reduce due diligence costs for adopters and to
+        reward trustworthy projects.
+
+Governance by design
+
+    Â· â Define minimum governance criteria for strategic projects: transparent roadmaps,
+        multi-stakeholder oversight, reproducible builds, and documented change control.
+    Â· â Tie EU funding eligibility to governance and sustainability plans, not only technical novelty.
+
+Finance and market integration
+
+    Â· â Use blended finance and guarantees to scale EU open-source firms, while preserving open
+        licensing and community stewardship.
+    Â· â Support commercialisation services (legal, compliance, procurement readiness) that help SMEs
+        sell into regulated sectors.
+
+Q4. Priority technology areas (and why)
+    Â· â Cloud and edge infrastructure: highest dependency exposure and strong lock-in dynamics,
+        decisive for data and compute control.
+    Â· â Cybersecurity components and secure supply chain tooling: the foundation for trust, resilience,
+        and vulnerability management.
+    Â· â Open and auditable AI models, tooling, and datasets: to enable European oversight,
+        provenance, and competitive innovation.
+    Â· â Open hardware (including RISC-V ecosystems) where it improves security, flexibility, and
+        industrial competitiveness.
+    Â· â Industrial and automotive digital platforms: Europeâs core economic sectors need
+        interoperable, secure, and upgradeable foundations.
+    Â· â Identity and trust services as cross-cutting enablers for e-government and regulated digital
+        services.
+
+                                                   4
+Q5. Sectors where open source can boost competitiveness and cyber resilience
+    Â· â Public administrations and digital government, including cross-border services and digital
+        public infrastructure.
+    Â· â Healthcare and life sciences, where auditability and security are preconditions for scale.
+    Â· â Energy and mobility, including smart grids, charging networks, and connected vehicles.
+    Â· â Manufacturing and critical supply chains, where interoperability reduces integration costs and
+        strengthens SME participation.
+    Â· â Financial services and payments, where resilience, auditability, and strong change control are
+        essential.
+    Â· â Education and research, where open source accelerates skills, reuse, and innovation diffusion.
+
+4. Monitoring and evaluation (what to measure)
+The Commissionâs strategy will benefit from a small set of operational metrics that track whether
+dependency is actually shrinking and whether open solutions are becoming easier to adopt. We
+suggest a short dashboard, reported annually, that can be used in procurement and programme
+evaluation.
+
+    Â· â Exit and switching time for strategic systems (measured in days and cost bands).
+    Â· â Key custody and operational control (who holds cryptographic keys and who can change
+        system rules).
+    Â· â SBOM coverage and vulnerability management performance for procured software
+        (time-to-patch, disclosure processes).
+    Â· â Sustainability of critical dependencies (maintainer funding continuity, bus factor, governance
+        maturity).
+    Â· â Adoption and reuse in public procurement (number of deployments and cross-border reuse of
+        digital public goods).
+
+5. Closing and offer to engage
+EDI supports the Commissionâs ambition to strengthen open digital ecosystems as a pillar of
+technological sovereignty, competitiveness, and cybersecurity. The measures above are designed to be
+implementable within existing instruments, while shifting incentives toward openness that scales. We
+would welcome the opportunity to discuss pilots and metrics with DG CNECT and DG DIGIT, including
+options to share a longer EDI positioning note where useful.
+
+References (selected)
+    Â· â European Commission (2026). Call for evidence: Towards European open digital ecosystems
+        (Ref. Ares(2026)69111 - 06/01/2026).
+    Â· â European Decentralisation Institute (2025). Rebalancing Europeâs Digital Power:
+        Decentralisation as a practical route to Digital Sovereignty. November 2025.
+    Â· â Synopsys (2024). Open Source Security and Risk Analysis (OSSRA) report, cited in the
+        Commission call for evidence.
+
+                                                  5

@@ -1,0 +1,350 @@
+Ref. Ares(2026)1125858 - 01/02/2026
+
+    EUâs next long-term budget (MFF)
+
+                                       Public consultation
+                                                 Statement
+                Free Software Foundation Europe (FSFE)
+
+With this written statement we provide feedback to:
+
+EU's next long-term budget (MFF) - EU funding for competitiveness,
+EU's next long-term budget (MFF) - EU funding for cross-border educa-
+tion,training and solidarity, youth, media, culture, and creative sectors,
+values, and civil society,
+EU's next long-term budget (MFF) - EU funding for civil protection, pre-
+paredness and response to crises,
+EU's next long-term budget (MFF) - EU funding for the single market, and
+cooperation between national authorities.
+
+Free Software Foundation Europe e.V. (FSFE) â¢ Head office: SchÃ¶nhauser Allee 6/7, 10119 Berlin, Germany
+Phone: +49/30/27595290 â¢ E-mail: office@fsfe.org â¢ Web: http://fsfe.org â¢ President: Matthias Kirschner â¢ Registered: VR
+17030, AG Hamburg
+                                                                                                                         1
+MFF AND STRATEGIC PRIORITIES
+
+    With the MFF âthe Commission aims to create a simpler, more focused,
+and responsive budget that reflects European strategic prioritiesâ. One of
+these priorities is digital and technological sovereignty. To achieve this
+sovereignty, Free Software, also known as Open Source Software, is indis-
+pensable.
+
+WHAT IS FREE SOFTWARE?
+
+    The core principles of Free Software (also known as Open Source) are
+easy to explain: it refers to software that grants everyone the right to
+use, study, share, and improve the programme for any purpose. When a
+licence grants users these four freedoms, the software is considered Free
+Software. In contrast, software that does not fully provide one or more of
+these freedoms is referred to as "proprietary" software. Recognised lists
+of licences are maintained by the Free Software Foundation 1 (FSF), the
+Open Source Initiative2 (OSI), and the Debian Project3.
+
+    In the following text, the term "Free Software" is used, which is com-
+monly synonymous with "Open Source".
+
+DIGITAL AND TECHNOLOGICAL SOVEREIGNTY
+
+    Digital and technological sovereignty means being able to use, modify
+and substitute technologies independently, securely, and with full con-
+trol. Free Software is central to ensuring long-term self-determination,
+transparency, and the ability to act. With Free Software, all necessary
+resources can be procured independently, and new requirements can be
+1   https://www.gnu.org/licenses/license-list.html.en
+2   https://opensource.org/licenses
+3   https://wiki.debian.org/DFSGLicenses
+
+Free Software Foundation Europe e.V. (FSFE) â¢ Head office: SchÃ¶nhauser Allee 6/7, 10119 Berlin, Germany
+Phone: +49/30/27595290 â¢ E-mail: office@fsfe.org â¢ Web: http://fsfe.org â¢ President: Matthias Kirschner â¢ Registered: VR
+17030, AG Hamburg
+                                                                                                                      2
+met quickly.
+
+   Digital and technological sovereignty empowers the state by providing
+solutions that are neither platform- nor device-dependent. A crucial
+aspect is the ability to run software on premise hardware, tailored to spe-
+cific needs, without relying on a single vendor. Early proceedings under
+the Digital Markets Act reveal how far there still is to go: for example,
+Apple smartphone and tablet users are currently unable to install altern-
+ative app stores due to Apple's role as a gatekeeper. Similar lock-in
+mechanisms exist throughout many proprietary ecosystems. By consist-
+ently adopting and procuring open standards, open interfaces, and Free
+Software, these lock-ins can be avoided and bypassed.
+
+   This approach is essential for interoperabilityâboth within public
+administration and in collaboration with external partners. It enables the
+seamless exchange of data, improves cooperation between institutions
+and international partners, and reduces the burden on third-party organ-
+isations and all users of digital technology. Applications must be made
+available platform-independently, allowing them to be used without rely-
+ing on proprietary vendors. This also ensures that users are not forced to
+accept restrictive terms of service, additional usage conditions, or the
+surrender of personal data.
+
+Transparency and Trust
+   Trust in technology plays a crucial role in digitalisation, ensuring public
+acceptance. Transparency, security, and especially the protection of per-
+sonal data processed are key factors in determining whether people
+choose to use a technology or not. Transparent code makes it possible to
+understand how legal requirements in the area of data protection are
+implemented, thereby enabling this trust to be established. Applications
+used in core infrastructure must remain under control. Free Software
+enhances capabilities in IT and strengthens the resilience of IT infrastruc-
+tures.
+
+Free Software Foundation Europe e.V. (FSFE) â¢ Head office: SchÃ¶nhauser Allee 6/7, 10119 Berlin, Germany
+Phone: +49/30/27595290 â¢ E-mail: office@fsfe.org â¢ Web: http://fsfe.org â¢ President: Matthias Kirschner â¢ Registered: VR
+17030, AG Hamburg
+                                                                                                                      3
+Resilient Supply Chains
+   The open nature of Free Software makes it widely accessible and
+widely used. However, this openness can also lead to increasingly com-
+plex supply chains, which pose security challenges. The sheer volume of
+projects means that components are often integrated into new projects,
+which in turn depend on other projects. As a result, security vulnerabilit-
+ies can be difficult to track due to the existence of multiple versions in
+circulation. Additionally, dependencies may arise on projects that are no
+longer maintained or do not meet evolving needs.
+
+   To address this challenge, the FSFE has advocated in the Cyber Resili-
+ence Act (CRA) debate to align legislation with these realities. The intro-
+duction of an exemption for Free Software and the Steward role reflects
+this understanding. During implementation, it is now important to
+provide targeted support wherever support is needed, and to demand
+support where stakeholders build on and benefit from the preliminary
+work of third parties who are not manufacturers. This is also in the state's
+own interest, as the state will inevitably assume various roles within the
+Free Software ecosystemâ e.g. as a Steward and as a Manufacturer. Fur-
+thermore, the mandated Software Bill of Materials (SBOM) will provide
+greater transparency regarding software dependencies, allowing for a
+more precise approach to addressing vulnerabilities and risks. The imple-
+mentation phase of the CRA will therefore be crucial in shaping the future
+of the Free Software ecosystem and determining the roles Europe will
+play within it. The ultimate goal must be to hold those accountable who
+significantly profit from Free Software, while simultaneously ensuring that
+sovereign, independent, and controllable alternatives receive appropriate
+support from both state actors and the market itself. Thus, the MFF
+should reflect this and also contribute to a more secure Free Software
+ecosystem.
+
+Free Software Foundation Europe e.V. (FSFE) â¢ Head office: SchÃ¶nhauser Allee 6/7, 10119 Berlin, Germany
+Phone: +49/30/27595290 â¢ E-mail: office@fsfe.org â¢ Web: http://fsfe.org â¢ President: Matthias Kirschner â¢ Registered: VR
+17030, AG Hamburg
+                                                                                                                      4
+STATUS QUO: LOCK-IN
+
+   The EUâs digital strategy, tech sovereignty and a competitive European
+IT market can only reach its full potential if it systematically focuses on
+Free Software. For this the MFF needs to make sure that public funds are
+allocated efficiently. Software freedom must be consistently supported
+with sustainable, long-term funding. This includes a focus on Micro-enter-
+prises and SME as well as funding for scientific research and innovation.
+Thus the MFF should allow open calls and other means of support like
+sponsorships and a cascade funding system. Also it should reflect focus
+on European values when supporting IT, values that promote privacy,
+security, diversity in opinion and participation, as well as freedom of
+choice in the digital sphere, among others.
+
+   Funding systems like the NGI could lead as example. An impact study
+finds that NGI projects have been immensely positive in providing fund-
+ing and technical support for a diverse range of open projects, and in fos-
+tering an internet ecosystem that respects digital rights, promotes sus-
+tainability, and upholds EU legislation and values. However, NGI is was
+not designed as sustainable, long-term funding opportunity.
+
+   This is a problem in particular because large parts of our infrastructure
+are based on these projects, as they guarantee the necessary independ-
+ence and resilience. Cancelling funding means curtailing our own
+autonomy.
+
+   Public money is therefore more important than ever to support Free
+Software alternatives in internet infrastructure. It is impossible to achieve
+Device Neutrality, and a free and open internet without the public sec-
+torâs commitment to maintaining a vigorous and sustainable ecosystem
+of viable and real-life tested software alternatives that can disentrench
+gatekeepers.
+
+   Dependency on individual proprietary providers hamper sovereignty in
+the realm of digital infrastructures. Proprietary software does not allow
+
+Free Software Foundation Europe e.V. (FSFE) â¢ Head office: SchÃ¶nhauser Allee 6/7, 10119 Berlin, Germany
+Phone: +49/30/27595290 â¢ E-mail: office@fsfe.org â¢ Web: http://fsfe.org â¢ President: Matthias Kirschner â¢ Registered: VR
+17030, AG Hamburg
+                                                                                                                      5
+control over the core systems of our digital infrastructure. Without the
+manufacturer, it is impossible to modify the software. This becomes par-
+ticularly critical in the event of security incidents or the insolvency of the
+provider, leading to an erosion of trust in the state's ability to act in the
+digital sphere. In the day-to-day operations proprietary software proves
+to be an obstacle as well, as it cannot be adapted to specific needs.
+Instead, the software primarily serves the economic interests of the man-
+ufacturer, who may be targeting entirely different markets, rather than
+the strategic and technical objectives of the EU. In proprietary environ-
+ments, interoperability is often limited to the manufacturerâs own ecosys-
+tem. Open standards and open interfaces are largely absent.
+
+   Research indicates that governments and public administrations con-
+tribute up to 27% of software vendorsâ revenue. However, this revenue is
+predominantly generated by proprietary software from large technology
+companies outside Europe. Hyper-scalers act like a magnet, uniting more
+and more services and driving more and more users into vendor lock-ins.
+European companies that rely on Free Software could make a decisive
+difference and enable greater independence, but they often do not gain
+sufficient traction due to a lack of strategic support within the MFF.
+
+   While awareness is growing in Europe that Free Software is essential
+for achieving digital sovereignty, concrete efforts remain too hesitant or
+are entirely absent.
+
+     THE PATH TO DIGITAL AND TECHNOLOGICAL
+     SOVEREIGNTY THROUGH FREE SOFTWARE
+
+   To successfully counteract the proprietary lock-in effects through Free
+Software, a fundamental understanding of its possibilities and unique
+characteristics is essential. The four freedomsâusing the software for
+any purpose, studying and understanding the code, modifying the soft-
+ware, and sharing it as desiredâare guaranteed by any Free Software
+
+Free Software Foundation Europe e.V. (FSFE) â¢ Head office: SchÃ¶nhauser Allee 6/7, 10119 Berlin, Germany
+Phone: +49/30/27595290 â¢ E-mail: office@fsfe.org â¢ Web: http://fsfe.org â¢ President: Matthias Kirschner â¢ Registered: VR
+17030, AG Hamburg
+                                                                                                                      6
+licence. Unlike proprietary software, no public funds need to be spent on
+usage licences. Instead, the EU must focus on tenders, funding pro-
+grammes and procurement for development, maintenance, operation
+and support.
+
+   Free Software is everywhere, used by everyone, and distributed by all
+âfrom billion-dollar corporations to SMEs, non-profit organisations,
+foundations, public administrations, and individuals. The development of
+code is primarily driven by SMEs, industry foundations, and large corpor-
+ations working hand in hand to integrate Free Software components into
+their organisations and products. These components are found in our
+cars, refrigerators, televisions, and state infrastructure. In this process,
+all stakeholders can independently decide which competencies they wish
+to develop for various components. The MFF should                                               therefore also
+ensure that those who benefit from Free Software also contribute, not
+only state actors. Instead of widely substituting, the MFF should focus on
+stimulating and supporting where there are gaps. For this a close connec-
+tion to all relevant stakeholders, in particular civil society actors, is
+needed, allowing oversights and checks and balances. Potential funds
+thus should reflect market realities and make sure that those who benefit
+are also contributing.
+
+PUBLIC MONEY? PUBLIC CODE!
+
+   Many of the advantages mentioned can be leveraged, and most of the
+challenges addressed, if future EU budget strategically aims to promote
+digital and technological sovereignty through Free Software. The principle
+of âPublic Money? Public Code!â must be established as a guiding prin-
+ciple: Code procured or supported with public funds must be made avail-
+able under a Free Software licence, for example, via code.europa.eu.
+Instead of further entrenching dependence on individual vendors, Free
+Software must be supported and procured. It is essential to acquire soft-
+ware that can be adapted to specific needs and that ensures full control
+
+Free Software Foundation Europe e.V. (FSFE) â¢ Head office: SchÃ¶nhauser Allee 6/7, 10119 Berlin, Germany
+Phone: +49/30/27595290 â¢ E-mail: office@fsfe.org â¢ Web: http://fsfe.org â¢ President: Matthias Kirschner â¢ Registered: VR
+17030, AG Hamburg
+                                                                                                                      7
+over digital infrastructuresâalso in the long term. If software is suppor-
+ted or procured that does not meet these criteria, this must be publicly
+justified in writing and audited by the Court of Auditors. By making soft-
+ware available on code.europa.eu, administrations can support, procure,
+customise, and deploy software ad hoc, without lengthy procurement
+processes. This not only helps maintain government operational capabil-
+ity during (IT) crises but also contributes to reducing bureaucracy in pub-
+lic procurement while fostering the European IT market.
+
+   Cross-border collaborations can be leveraged to develop digitally sov-
+ereign alternatives, ultimately leading to medium- and long-term cost
+savings. Free Software is designed with users in mindârather than pro-
+curing proprietary software filled with unnecessary features that are not
+needed, Free Software support and procurement ensures that innovative
+solutions are tailored to actual needs and requirements.
+
+   With the implementation of the Interoperable Europe Act but also when
+reforming the procurement system, it will be crucial to align the MFF as
+well as processes and regulations to genuinely enable and stimulate
+interoperability and cross-border collaboration through open standards
+and interfaces without harming the Free Software ecosystem. Secure,
+innovative technology emerges through collaboration and cooperation.
+
+   Existing financial resources and the EU budget should be strategically
+directed toward Free Software, ensuring sustainable innovation, strength-
+ening Europeâs IT sector, and benefiting society as a whole. Additionally,
+migration plans toward Free Software must be developed from a strategic
+perspective, with viable alternatives built and deployed. Users should be
+actively involved in these efforts via code.europa.eu.
+
+   Finally, establishing alternative solutions strengthens the negotiating
+position in procurement processesâeven when dealing with large com-
+panies that have historically held dominant market positions and used
+them to set prices on their own terms.
+
+Free Software Foundation Europe e.V. (FSFE) â¢ Head office: SchÃ¶nhauser Allee 6/7, 10119 Berlin, Germany
+Phone: +49/30/27595290 â¢ E-mail: office@fsfe.org â¢ Web: http://fsfe.org â¢ President: Matthias Kirschner â¢ Registered: VR
+17030, AG Hamburg
+                                                                                                                      8
+FREE SOFTWARE AS AN OPPORTUNITY FOR SOCIETY
+
+   The consistent pursuit of the âPublic Money? Public Code!â principle,
+the targeted implementation of the Interoperable Europe Act (IEA) and
+the Cyber Resilience Act (CRA), as well as the allocation of resources to
+Free Software, bring spill-over effects that benefit the state, the eco-
+nomy, and society beyond the direct advantages already mentioned.
+Resilient and trustworthy software supports journalists in their work,
+enhances transparency and control, and ensures compliance with legal
+requirements, particularly in areas such as privacy and data protection.
+Free Software can also enable and strengthen participation in the digital
+ageâfor instance, through applications like Consul or Decidim, which
+help integrate citizens into decision-making processes, or by reducing
+barriers and designing programs and services inclusively. Such projects in
+particular require active support, including exploring unconventional
+funding mechanismsâas demonstrated by the City of Munich, which has
+supported Free Software initiatives through sponsorship programmes.
+
+Market effects
+   Studies show that the consistent procurement and investments into
+Free Software leads to an increase in business start-ups and employment
+in the sector, particularly among small and medium-sized enterprises
+(SMEs) in local regions. In addition to strengthening the SME sector, Free
+Software drives innovation and research while enabling young people to
+develop deep technical expertise and a self-determined approach to
+technology from an early age.
+
+Sustainable Education for the Professionals of Tomorrow
+   In the education sector in particular, the focus should not be on
+product training but rather on teaching fundamental technological skills,
+underlying concepts, and the ability to shape technology. This approach
+helps spark interest early on, develop digital competencies, and address
+the long-term shortage of skilled professionals.
+
+Free Software Foundation Europe e.V. (FSFE) â¢ Head office: SchÃ¶nhauser Allee 6/7, 10119 Berlin, Germany
+Phone: +49/30/27595290 â¢ E-mail: office@fsfe.org â¢ Web: http://fsfe.org â¢ President: Matthias Kirschner â¢ Registered: VR
+17030, AG Hamburg
+                                                                                                                      9
+   It is important to prevent students from being forced into the ecosys-
+tems of proprietary manufacturers, with their restrictions and lock-in
+effects, through school policies and the use of proprietary software in
+education. Students should have the freedom to use software of their
+choice for school-related tasksâwithout being forced to accept propriet-
+ary licences or being prevented from installing alternative Free Software
+applications that could enhance productivity and improve learning out-
+comes.
+
+   Schools should be supported in the implementation of a future digital
+education strategy that utilises Free Software as a working tool and is
+aimed at the sovereign use of technology. Extracurricular learning pro-
+grammes of this kind should also be promoted in view of the shortage of
+skilled workers, especially in the municipal sector.
+
+   An EU budget that focuses on Free Software will generate positive spill-
+over effects, fostering expertise and skills development, addressing the
+shortage of skilled workers, and enabling innovation across the European
+Union.
+
+Free Software Foundation Europe e.V. (FSFE) â¢ Head office: SchÃ¶nhauser Allee 6/7, 10119 Berlin, Germany
+Phone: +49/30/27595290 â¢ E-mail: office@fsfe.org â¢ Web: http://fsfe.org â¢ President: Matthias Kirschner â¢ Registered: VR
+17030, AG Hamburg
+                                                                                                                    10

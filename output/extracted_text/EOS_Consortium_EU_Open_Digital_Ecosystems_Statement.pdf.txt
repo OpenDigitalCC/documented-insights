@@ -1,0 +1,211 @@
+Ref. Ares(2026)1196680 - 03/02/2026
+
+Statement of the EOS Consortium
+Call for Evidence: Towards European Open Digital Ecososystems
+
+STATEMENT OF THE EOS CONSORTIUM
+ON THE CALL FOR EVIDENCE
+âTOWARDS EUROPEAN OPEN DIGITAL ECOSYSTEMSâ
+
+Introduction â Who We Are and Why We Respond
+The EOS Consortium (https://eos-consortium.com/) brings together a broad range of European
+open source companies, that design, implement, operate, and maintain open source-based digital
+solutions at scale. Our members include specialised SMEs, established mid-sized IT service
+providers, open source product vendors, platform developers, and public-sector-focused
+integrators, alongside contributors and maintainers of widely used European open source projects.
+
+Through this diversity, the EOS Consortium represents a significant and operationally
+representative part of the European open source industry. Our members are not primarily advocacy
+organisations; they are delivery organisations. They work daily with public administrations, critical
+infrastructure operators, and regulated industries across the European Union, translating open
+source software into secure, reliable, and mission-critical digital services.
+
+We therefore welcome the European Commissionâs Call for Evidence on âTowards European Open
+Digital Ecosystemsâ. We particularly welcome the Commissionâs recognition that open source
+software already forms the backbone of Europeâs digital infrastructure, while economic value
+creation and strategic control often remain fragmented or located outside the Union.
+
+Our contribution focuses deliberately on the economic and practical dimensions of open digital
+ecosystems. We aim to complement existing policy-oriented perspectives with insights from those
+who are responsible for implementation, long-term operation, security, and scaling of open source
+solutions in real-world environments.
+
+Open Source Is Already Critical â But the Market Model Is Incomplete
+Across public administration, industry, healthcare, energy, and research, open source software
+constitutes the majority of the digital stack. Estimates that 70â90% of modern software systems
+rely on open source components align with our membersâ operational experience.
+
+However, while open source is omnipresent, the economic structures supporting it remain
+underdeveloped in Europe. Value is frequently extracted at the level of cloud platforms, proprietary
+service layers, or non-European hyperscalers, while the upstream projects, integration work, and
+operational expertise remain underfunded.
+
+This creates three structural risks for Europe:
+
+First, sustainability risk: critical components depend on voluntary or under-resourced maintenance.
+Second, dependency risk: European administrations and companies rely on open source but lack
+strong European suppliers capable of long-term operation and accountability.
+
+Third, scale-up risk: promising European open source solutions struggle to transition from project-
+based deployments to reusable, market-ready platforms.
+
+The EOS Consortium strongly supports the Commissionâs assessment that research and innovation
+funding alone cannot address these challenges. Open digital ecosystems require industrial policy
+instruments that support the full lifecycle from development to market integration and long-term
+operation.
+
+From Principles to Market Mechanisms
+The European debate on open source has been highly successful in establishing guiding principles
+such as openness, interoperability, and reuse. These principles are widely shared across our
+industry.
+
+What is now required is a systematic shift from principles to market mechanisms.
+
+Open source does not primarily compete on license costs. Instead, competition and value creation
+occur in areas such as:
+â secure and compliant operation,
+â integration into complex legacy environments,
+â guaranteed maintenance, quality assurance and update cycles,
+â cybersecurity processes and incident response,
+â interoperability across organisational and national boundaries,
+â and professional support and training.
+
+If European policy instruments focus only on licensing models or high-level openness requirements,
+they risk missing where real economic and strategic value is created.
+
+Procurement as a Strategic Lever
+Public procurement is the single most powerful lever the European Union and its Member States
+possess to strengthen open digital ecosystems.
+
+From an industry perspective, procurement must evolve in four key ways.
+
+First, the EU Commission should establish clear political framework conditions for the preferential
+procurement of open source software and introduce a clear âopen source by defaultâ rule in
+European public procurement law as part of the current public procurement review. This will
+significantly stimulate the supply side and in turn will lead to more competition and more and
+higher-quality software.
+
+Second, procurement should purchase outcomes, not proprietary licenses. Tender documents
+should focus on measurable requirements such as interoperability, portability, security processes,
+and service levels, rather than on whether a solution is labelled âopen sourceâ or âproprietaryâ. The
+results of publicly funded projects should be made available to others.
+Third, procurement templates should explicitly reflect open source realities. Standard contractual
+clauses for maintenance, security patching, upstream contribution, exit strategies, and vendor
+transition would significantly reduce legal uncertainty and transaction costs for both contracting
+authorities and suppliers.
+
+Fourth, procurement structures should enable European SMEs and consortia to participate
+effectively. Overly large, monolithic contracts often exclude the very companies that possess deep
+open source expertise, while favouring large system integrators that treat open source as a
+commodity input. The EU and its competent authorities should specifically design and promote
+procurement processes in such a way that innovation, continuous development, and forward-
+looking solutions are given greater priority than rigid and complete fulfillment of individual formal
+tender requirements.
+
+Sustainment: The Missing Middle Between Research and Market
+One of the most critical gaps in current European funding structures is the lack of support for
+sustainment.
+
+Between early-stage research projects and fully commercial products lies a phase in which software
+must be hardened, documented, secured, and operationalised. This includes activities such as
+release engineering, security audits, compliance documentation, long-term maintenance planning,
+and community governance.
+
+These activities are essential for reliability and trust, yet they are rarely funded adequately. As a
+result, Europe risks depending on software that is technically open but operationally fragile.
+
+The EOS Consortium therefore strongly recommends the creation of European instruments
+specifically dedicated to open source sustainment. Such instruments could include multi-year co-
+funding for critical projects, match-funding schemes that reward private investment in
+maintenance, and recognition of operational excellence as a funding criterion.
+
+In addition, sustainability must be supported through procurement: Public administrations should
+for example ensure that any software modifications made are also fed back upstream into the
+original software project and that suppliers have the skills and invest into long term maintenance
+and development of the open source software in questions, or â alternatively â have contracts with
+vendors taking over this responsibility.
+
+Scaling European Open Source Businesses
+European open source companies face a structural disadvantage when scaling internationally.
+Traditional growth capital models often do not align well with open source business models based
+on services, subscriptions, support, or dual licensing.
+
+As a result, many successful European open source projects are either acquired by non-European
+actors or struggle to grow beyond a certain size.
+
+To address this, the EU should:
+â support scale-up instruments tailored to open source business models,
+â facilitate access to growth capital that values long-term service revenue and ecosystem
+development,
+â and promote European reference deployments that demonstrate viability at scale.
+
+Reference deployments in areas such as digital identity, data platforms, observability, form
+management, or sovereign workplaces can create market pull and reduce adoption risk for both
+public and private users.
+
+Security, Compliance, and Trust as Industrial Capabilities
+Open source is often associated with transparency and peer review. While these are important
+advantages, security and compliance do not emerge automatically from openness.
+
+In practice, security is the result of funded processes: secure build pipelines, software bill of
+materials (SBOMs), vulnerability management, patch SLAs, and incident response procedures.
+
+European policy should therefore treat security and compliance as industrial capabilities rather
+than abstract attributes. Establishing common minimum requirements for open source security
+processes in procurement and funding programmes would raise the overall maturity of the
+ecosystem and reduce fragmentation across Member States.
+
+Interoperability Must Become Verifiable
+Interoperability is a cornerstone of open digital ecosystems, yet it is often defined in abstract terms.
+
+From an implementation perspective, interoperability becomes effective only when it is testable and
+verifiable. Open standards, reference implementations, and conformance test suites are essential
+tools to reduce ambiguity and prevent lock-in through incompatible interpretations.
+
+The EU can play a key role by supporting the development of such tools and by encouraging their
+use in public procurement and cross-border projects.
+
+European Delivery Capacity as Digital Sovereignty
+Digital sovereignty should not be understood solely in terms of intellectual property or licensing. It
+also depends on Europeâs ability to design, integrate, operate, and evolve digital systems
+independently.
+
+The EOS Consortium represents companies that provide exactly this delivery capacity.
+Strengthening European open digital ecosystems therefore requires investment not only in software
+artifacts, but also in skills, organisational maturity, and operational excellence.
+
+Supporting European open source service providers strengthens resilience, reduces dependency
+risks, and ensures that openness translates into real strategic autonomy. This can be achieved by
+public contracting authorities giving greater weight to local supply capacities or by making local
+capacities a binding requirement.
+
+TOP 6 MEASURES TO STRENGTHEN EUROPEAN OPEN DIGITAL ECOSYSTEMS
+1. Establish an open source by default policy. The standard case in procurement of IT solutions
+should be that all software used is completely available under open source licenses accourding to
+the OSI definition.
+2. Shift funding from âbuildâ to âmaintain, run and improveâ
+ Support sustainment, maintenance, and operational excellence alongside innovation.
+
+3. Procurement that buys outcomes, not licenses
+  Focus on interoperability, security, and service quality through standardised procurement clauses.
+In addition, it should be ensured that the project results are made publicly available and shared with
+relevant stakeholders in order to promote collaborative, efficient, and sustainable innovation
+processes.
+
+4. Scale-up instruments for open source business models
+  Enable growth capital and market access tailored to service-based and open source-native models.
+
+5. European delivery capacity as a pillar of digital sovereignty
+  Invest in skills, operational maturity, and trusted European providers.
+
+6. Make openness verifiable
+ Support standards, reference implementations, and interoperability test suites.
+
+Conclusion
+The EOS Consortium strongly supports the European Commissionâs ambition to strengthen open
+digital ecosystems. From an industry perspective, success will depend on aligning policy objectives
+with economic and operational realities.
+
+Open source is not only a technological choice; it is an industrial ecosystem. By focusing on
+procurement, sustainment, scale-up, and delivery capacity, the European Union can ensure that
+openness translates into resilience, competitiveness, and long-term value creation within Europe.

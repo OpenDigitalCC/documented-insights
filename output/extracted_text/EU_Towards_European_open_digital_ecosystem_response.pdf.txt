@@ -1,0 +1,209 @@
+Ref. Ares(2026)1225866 - 03/02/2026
+
+Feedback for the European Commission initiative âTowards European open digital
+ecosystemsâ
+Justin Lex-HammarskjÃ¶ld
+2026-02-03
+
+Introduction
+I appreciate that the European Comission is taking action on this important issue.
+
+I am an engineer in the IT industry, and I specialize in Cloud Technologies, Developer
+Platforms, and Open-Source. As an IT consultant, I have built cloud infrastructure for many
+public sector and private sector organizations, and I have deep insight into the technical
+decisions made as a consumer of cloud services.
+
+I also have a somewhat unique geopolitical perspective, having been born and raised in the US
+and having worked in the IT industry in both the US and Sweden.
+
+For transparency, I will mention that I am employed by a company that provides EU cloud
+hosting services and open source office software. However, my comments here have not been
+coordinated with my employer. My comments here are entirely my own personal opinions and
+do not represent the views of my employer in any way.
+
+Cloud hosting
+One of the most expensive crises facing the EUâs digital sovereignty is the EUâs dependence on
+US cloud hosting services. Europe must build a strong market for domestic cloud hosting as
+soon as possible, along with concrete incentives in order for EU organizations to be able to
+begin de-risking their hosting situation.
+
+The bare minimum for a hosting provider to be able to host IT services is a foundation of
+compute and data storage. Specifically, hosting providers should provide the capability to run
+Linux and Windows VMs, and managed Kubernetes clusters; They should also provide storage
+in the form of local SSDs, POSIX network file storage, and S3-compatible object storage. This is
+the bare minimum that an IT team will need to be able to run the majority of their IT systems
+without major re-engineering, and the ECâs technical requirements for competent EU cloud
+providers should require capabilities similar to this.
+
+One of the main challenges that EU cloud providers face is the sheer market dominance and
+scale of US cloud providers. They are able to offer strong incentives to new customers such as
+dedicated support staff and special discounts. These new customers invest large amounts of
+engineering time into joining the cloud provider, and then they are unable to switch to other
+cloud providers without investing a similar amount of engineering time again. EU cloud
+providers must outcompete US cloud providers by a large margin in order for companies to
+break out of this lock-in effect.
+
+US cloud providers are also often intentionally designed to be incompatible with other cloud
+vendors, making it more difficult to migrate to another cloud vendor in the future. There are a
+large amount of âproprietary cloud servicesâ, such as proprietary database formats, proprietary
+programming languages and scripting languages, and proprietary computing systems.Â§ Multi-
+cloud technology should be incentivized, to reduce the market advantage and vendor lock-in of
+US cloud vendors. Kubernetes is an example of a multi-cloud technology that is extremely
+portable and offers a universal API that is compatible with virtually every cloud vendor in the
+industry.
+
+There are at least two kinds of cloud hosting products that are hard to replace with open-source
+solutions and are currently dominated by cloud monopolies, these two products are DDOS
+protection and captcha. There are EU and/or open source alternatives for DDOS protection and
+captcha, but Cloudflare and Google are extremely dominant in those markets. These are not
+difficult products to engineer, but they are loss-leader services and there needs to be an EU
+alternative that can compete with the US competitors offering these services below-cost. One
+competitive advantage that an EU competitor could offer over Cloudflare and Google would be
+improved user privacy, as Cloudflare and Google are considered to be unreliable among digital
+privacy advocates. There should be some consideration in developing one or more EU
+alternatives in DDOS protection and captcha.
+
+In general, there are many viable EU vendors in the cloud space, but they need more scale to
+be able to compete with the scale and lock-in effect of the big 3 cloud vendors.
+
+Cloud office software
+The US companies Google and Microsoft have a duopoly on cloud office software. Almost all
+levels of society are dependent on Google or Microsoft for their daily operations, from non-profit
+organizations, to critical businesses, to schools, to state governments and EU bodies. This
+poses a severe, immediate sovereignty risk, as we have seen with US sanctions being used to
+shut off access to Outlook and Github around the world, and most alarmingly the use of
+sanctions to shut off the ICCâs access to their own Outlook account.
+
+Beyond usersâ existing familiarity with the software, one of the competitive advantages that
+Google and Microsoft enjoy when organizations are shopping for office software is that they
+each are a single vendor that provides email, calendar, drive storage, online forms, text chat
+channels, video call, and user directory. Users can choose a single provider without worrying
+about multiple contracts, billing arrangements, or technical integration. Once using Google or
+Microsoft for cloud office software, it is difficult to switch to another vendor, as there can be
+important archives for email, calendar, chat, and project tracking that are difficult/impossible to
+migrate.
+
+There are many EU and open source alternatives to Google and Microsoft that are very
+competitive from a software perspective, but in order for these vendors to be competive, they
+need to be able to compete as a complete package with the office bundles offered by Google
+and Microsoft. These vendors need to be able to offer a one-stop shop with easy data migration,
+and they need marketing and reputation to get private organizations to start considering them
+over the standard Google and Microsoft options. User familiarity and data migration are pain
+points that should be solved.
+In the public sector and critical industries, mere market incentives likely are not proportionate to
+the risk to EU interests. Using Google or Microsoft should not be acceptable for public sector
+and critical industries, due to severe GDPR and national security issues. There must be plans to
+migrate away from Google and Microsoft as soon as possible for all public sector and critical
+industries, along with investment where needed to reduce friction.
+
+Desktop OS
+The Desktop OS market is shifting, and there is already strong competition to Apple and
+Microsoft from Linux. Linux has emerged as a competitive alternative to Windows due to web
+applications, compatibility tools, and Linux improvements. The main challenges to further Linux
+adoption are the incumbency of Windows, not any major technical or competitive limitations.
+
+There are already a meaningful amount of users switching from Windows to Linux, which has
+been accelerated by recent improvement in Linux, and the discontinuation of Windows 10.
+Users have a good incentive to switch to Linux due to its better user experience for general
+usage, and it often has better programming tools for engineers.
+
+However, at the workplace, there is very little reason for organizations to switch from Windows
+to Linux. There are no cost or infrastructural reasons for organizations to switch, and it can be
+harder for IT departments to manage fleets of Linux laptops, and tools may be lacking. Some IT
+security tools required by some industries may not be available for Desktop Linux. Many IT
+technicians often only have Windows experience, and re-training them for Linux is a large
+career barrier that can be time-consuming and stressful. One policy solution to encourage the
+migration away from US-controlled Windows software would be subsidizing IT companies that
+provide managed fleets of Linux laptops for businesses. Such a policy would give a direct
+financial incentive for companies to begin using Desktop Linux, directly reduce businessesâ IT
+costs, and help to grow an ecosystem around enterprise use of Desktop Linux.
+
+Dismantling Windowsâ incumbent advantage for private users still remains challenging. Usersâ
+experience using Desktop Linux in the workspace may be beneficial to increase familiarity with
+Linux. Policy options such as requiring computer hardware sold in the EU to have an option to
+come with Linux pre-installed would also help make Linux more accessible. One challenge with
+such a policy though is that there is little to no Linux support for Apple and Qualcomm
+computers.
+
+Overall, Linux is well-positioned to replace Windows in the EU, but some light incentives for
+users and organizations to switch would help accelerate the process.
+
+Software supply chain
+One risk to the EU, even in areas of IT dominated by EU-based and open-source software, is
+the risk to the EUâs software supply chain. Today, the majority of software downloads come
+from US-based servers. Mobile apps on iOS and Android are almost universally downloaded
+from Apple and Googleâs app stores. Software updates and security updates for Windows and
+MacOS come from US servers. In the IT infrastructure space, nearly all applications are
+distributed as OCI Docker images. The US website, Docker Hub, is by far the largest repository
+for Docker images.
+
+Even if a piece of software is open source and developed in the EU, often that software is
+distributed through US servers, and/or requires software downloaded from US servers to be
+compiled. This is a major concern for software supply-chain security, as state actors could
+compel operators of these servers to inject malware or backdoors.
+
+There is also a large risk that if these software downloads were to stop working, a large amount
+of IT infrastructure would stop working with it, and a large amount of consumer devices would
+no longer receive updates. An extended Docker Hub outage would likely cause major IT
+outages in all sectors of the economy.
+
+It is likely possible to resolve these software supply-chain issues with regulation. The exact type
+software supply chain at risk varies depending on the kind of software, and the end-user for the
+software. Regulation should be considered to mitigate these risks on a per-technology basis.
+
+Smartphones
+Google and Apple have a duopoly on phone and tablet OSes. Android has an open-source
+version called AOSP, but virtually all Android apps are distributed through the Google Play
+store. Furthermore, virtually all Android apps require the use of Google Play Services to run, or
+at least a reverse-engineered reimplementation of it, such as MicroG.
+
+There are currently major GDPR and security concerns with Google Play Services. All
+notifications are sent through Googleâs servers, who can access the full text of all notifications,
+unencrypted. Additionally, Google often records the GPS location of android phones without
+usersâ consent.
+
+There have been some recent improvements in Linux phones as an alternative to Android and
+iOS, but Linux phones are not compatible with existing apps. There is an android compatibility
+layer called Waydroid, but it is still not compatible with many existing Android apps because
+they require Google Play Services. Many banking apps also use Google Play Integrity for
+security checks of the underlying hardware and OS.
+
+Solutions to solve the lack of digital sovereignty in the smartphone market should focus on
+making AOSP more viable for consumers. All smartphones sold in the EU should allow users to
+install AOSP or other open-source software on them, and all Android apps in the EU market
+should be available on alternative EU-based app stores and be compatible with MicroG or
+another application runtime. The EU should also promote development of Linux phones as an
+alternative to AOSP, and the EU should help remove the barriers that prevent Android apps
+from running through compatibility layers like Waydroid on Linux phones.
+
+eIDAS in Sweden and BankID
+Finally, I want to bring some light to a major digital sovereignty issue in Sweden. In Sweden,
+digital identification, including eIDAS, is largely controlled by Finansiell ID-Teknik BID AB
+(âBankIDâ), which has a near complete monopoly on digital identification. There are little to no
+alternatives for important digital tasks such as filing taxes, making secure payments under
+PSD2 rules, using online banking, and using digital mailboxes. This online consultation page
+only supports Freja and BankID for identification in Sweden. On many other online services,
+only BankID is supported for identification.
+
+BankID is a private company jointly owned by the banking industry, and as such they donât
+seem to have a requirement to make their societally-critical service accessible to all Swedes.
+The problem with this is that BankID has security requirements that requires a smartphone that
+uses software controlled by the US. Either a iOS smartphone or an Android smartphone is
+needed to use BankID, and it is not possible to use an open-source or EU-based alternative. It
+is not possible to use the open-source AOSP version of android, as the application is only
+available on the Google Play app store, and for security reasons, requires Googleâs proprietary
+software programs, Google Play Services and Google Play Integrity.
+
+There must be remedies to require critical sectors to remove their digital sovereignty risks. It is
+not possible for Europe to de-risk from non-EU IT systems when some critical actors refuse to
+allow de-risking. Issues like this means that digitalization can often increase digital sovereignty
+risks, instead of reducing them. If the EU successfully replaces US credit card payment
+networks with an ECB or national payment system, but that system still depends on proprietary
+US software like Android, we have not significantly reduced the external vulnerability risk of our
+payment systems. Digitalization half-measures wonât solve digital sovereignty.
+
+Conclusion
+I hope that I have been able to provide some insight and urgency on the state of the IT industry
+and open-sourceâs role in it. Again, I appreciate that the European Commission is taking action
+on this important issue, and as an IT engineer, I look forward to being part of the IT industryâs
+efforts to improve the situation.

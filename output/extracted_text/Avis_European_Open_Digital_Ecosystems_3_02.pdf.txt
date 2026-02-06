@@ -1,0 +1,94 @@
+Ref. Ares(2026)1213053 - 03/02/2026
+
+                Contribution to the "Open Digital Ecosystem" Initiative
+
+                                                                                           January 2026
+
+Introduction: A Commitment to Technological Openness
+Mobivia, European leader in automotive maintenance and repair (Norauto, Midas, ATU, etc.),
+welcomes this European Commission initiative. We strongly support investments in an Open Source
+software-defined vehicle (SDV) core stack, particularly through projects such as the Chips Joint
+Undertaking.
+
+For Mobivia, this initiative is an essential lever to ensure EU technological sovereignty, strengthen
+digital trust and software architecture security, and unlock the value-creation potential of data - all
+while preserving a competitive aftermarket in the face of closed proprietary ecosystems.
+
+1. Value Added of Open Source for the Automotive Sector
+The adoption of a common open-source foundation offers major strategic advantages:
+    ââ Innovation and Competitiveness: By leveraging open standards, Europe can foster the
+       emergence of innovative services (predictive maintenance, energy management) developed
+       by a wide range of stakeholders, rather than just vehicle manufacturers (OEMs).
+    ââ Cyber-resilience and Trust: Unlike "black box" solutions, an open-source environment
+       based on standardized APIs allows for transparent auditing of security protocols, reinforcing
+       the confidence of both users and regulators.
+    ââ Technical Neutrality: Open source would help pivot away from the exclusive proprietary
+       "Extended Vehicle" model, where third-party players remain entirely dependent on
+       manufacturer-controlled infrastructures.
+
+2. Barriers to Adoption and Structural Weaknesses
+Despite the potential of open source, several critical hurdles remain in current vehicle architectures:
+    ââ Architectural Lock-in: Manufacturers currently act as "Gatekeepers." Without an open
+       on-board application platform, third parties cannot run their own algorithms on-board, creating
+       a massive market asymmetry.
+    ââ Exclusion of Strategic Data: Currently, up to 99% of data remains within the vehicle without
+       being exported. Critical indicators (failure prediction, battery State of Health - SoH) are often
+       classified as proprietary "inferred data," placing them outside the scope of the Data Act and
+       depriving independent players of high-tech added value.
+    ââ Cybersecurity as a Pretext: UN Regulation No. 155 is sometimes invoked to justify
+       discriminatory practices that restrict interface access. Mobivia calls for these deviations to be
+       documented to ensure that security does not become a tool for commercial lock-in.
+
+3. Mobiviaâs Recommendations for Concrete Implementation
+To ensure the Commission's initiative achieves its objectives, Mobivia advocates for the following
+actions:
+
+A. Guaranteeing "Functional Equivalence"
+
+The European SDV core stack must allow independent operators to access the same computing
+resources and interfaces as the manufacturers' authorized networks. Since third parties cannot yet
+produce their own on-board intelligence, they must be able to use the vehicle's native diagnostic and
+predictive capabilities.
+
+B. Promoting "Open Platforms" and Standardized APIs
+Europe must mandate convergence toward open APIs. This would:
+    ââ Mutualize technical access costs for SMEs.
+    ââ Guarantee the portability of maintenance history.
+    ââ Ensure cybersecurity relies on universal, audited protocols (such as OAuth2) rather than
+       opaque proprietary barriers.
+
+C. Ensuring Human-Machine Interface (HMI) Neutrality
+
+Exclusive control of the dashboard screen allows manufacturers to capture customers at critical
+moments (e.g., "Fault detected, visit your official dealer"). An open-source ecosystem must guarantee
+neutral, non-discriminatory information to preserve the consumer's freedom of choice.
+
+D. Strengthening Supervision and Transparency
+
+The implementation of this core stack must be accompanied by a monitoring authority capable of
+auditing access cost structures and sanctioning abuses of dominant positions with deterrent penalties
+(modeled after the GDPR).
+
+4. Conclusion
+Investing in an open-source core stack for software-defined vehicles is a historic opportunity for
+Europe. By breaking down proprietary silos, the Commission can create a high-performance digital
+ecosystem where data serves European excellence, innovation, and service development. This will
+ensure the interoperability of on-board and remote software architectures, data security, consumer
+interest protection, fair competition, the Right to Repair, and the long-term viability of independent
+operators. Mobivia stands ready to contribute its technical expertise to make this project an
+operational reality.
+
+Contacts
+LÃ©a DEGARDIN - Director of European Affairs - ldegardin@mobivia.com
+StÃ©phane DERVILLE - Technical Director & Technology Transition - sderville@mobivia.com
+
+About Mobivia
+Mobivia, a family-owned European leader in automotive equipment, maintenance, and repair, serves
+over 30 million customers with useful, accessible, innovative, and sustainable products and services.
+Its portfolio includes vehicle maintenance, repair, and equipment brands (Norauto, Auto5, ATU, Midas,
+Carter-Cash), professional distribution (Synchro Diffusion, Exadis, Vroomly, Dentmaster), online sales
+(Bythjul, Skruvat, DÃ¤ckskiftarna), circular economy initiatives (iWip, Black-Star), and autotech
+investment (Via ID).
+In 2024, Mobivia generated â¬3.8 billion in turnover from ~2,000 centers in 16 countries, supported by
+23,000 employees committed to humanist values and social/environmental responsibility.
+For more information: www.mobivia.com

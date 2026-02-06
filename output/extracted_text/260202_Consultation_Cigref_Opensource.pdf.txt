@@ -1,0 +1,104 @@
+Ref. Ares(2026)1164769 - 02/02/2026
+
+                                   â 
+                        Cigref's contribution
+             to the European Commission's consultation
+                     on open digital ecosystems
+
+Cigref, representing major French companies and public administrations, shares the Commission's
+findings on the crucial role of Open Source Software (OSS) in digital resilience. For our members,
+digital resilience is the ability to realistically control their future in order to secure their growth and
+create sustainable value.
+
+Cigref members make extensive use of open source components, particularly at the heart of their
+infrastructures. However, these technologies are still under-represented in business software and
+productivity applications, even though they offer significant potential for strengthening the
+competitiveness of the European digital industry.
+
+In this regard, Cigref has high expectations:
+
+â Greater visibility for industrial-grade open-source solutions that are secure, interoperable,
+compliant with European regulations and maintained over time (European strategic Magic
+quadrant-type presentation)
+
+â A long-term European open source industrial and technological strategy must cover the entire
+software cycle, relying on active developer communities to maintain and evolve solutions according
+to market needs. It must also provide for the organisation of development and a hosting
+infrastructure for digital commons and open source solutions supported by the European Union or
+Member States. The EDIC Digital Common could provide a suitable framework at European level,
+provided that major public and private contractors are closely involved in its development.
+
+â Acculturation to the mindset and use of open source
+
+                                                                                                    Page 1 sur 3
+
+21 avenue de Messine, 75008 Paris | TÃ©l. : + 33 1 56 59 70 00 | Courriel : cigref@cigref.fr | www.cigref.fr
+â The emergence of world-class European champions to enable companies to consume open source
+solutions as state-of-the-art, compliant and secure products.
+
+Question 1 â Strengths, weaknesses and barriers to adoption and maintenance
+
+In terms of strengths, OSS benefits from proven technical maturity, dynamic developer ecosystems
+in Europe and a natural alignment with EU values (transparency, interoperability). It is the driving
+force behind disruptive innovations (cloud, AI, big data).
+
+In terms of weaknesses and barriers, there is a lack of visibility, which requires a catalogue of
+industrial-grade solutions, such as the âEuropean Strategic Magic Quadrantâ.
+
+    â¢   Strategic maturity: Less than half of organisations have an OSS strategy or an OSPO,
+        hindering compliance and supply chain management.
+
+    â¢   Fragmentation: Lack of EU-wide suppliers, fragmented funding and critical dependencies on
+        platforms such as GitHub.
+
+    â¢   Perception: Persistent concerns about security, compliance and the legal complexity of
+        licences.
+
+Question 2 â Added value of open source solutions for the public and private sectors
+
+OSS guarantees control over dependencies and reversibility. Its transparency improves auditability
+and cybersecurity (SBOM, provenance). Beyond innovation, it allows for the pooling of development
+costs and promotes the creation of collaborative ecosystems rather than closed customer-supplier
+relationships. Finally, it is a major lever for CSR (extending the life of equipment) and a key factor in
+attracting talent for younger generations.
+
+                                                                                                  Page 2 sur 3
+
+21 avenue de Messine, 75008 Paris | TÃ©l. : + 33 1 56 59 70 00 | Courriel : cigref@cigref.fr | www.cigref.fr
+Question 3 â Concrete measures at EU level to support the sector
+
+Cigref recommends:
+
+    1. A clear European governance involving end users to prioritise strategic building blocks.
+
+    2. The industrialisation of the supply chain and support for the EDIC Digital Common as a
+        framework for hosting digital commons.
+
+    3. Support for an ecosystem of publishers and maintainers capable of transforming code into
+        finished and secure products.
+
+    4. The adaptation of public procurement practices to open source and the launch of large-scale
+        training/acculturation programmes, starting in higher education.
+
+Question 4 â Priority technology areas
+
+Efforts must focus on areas that are highly critical and generate dependencies:
+
+    â¢   AI and software engineering: The agent-based AI revolution must benefit the European
+        open source development industry.
+
+    â¢   Alternatives to monopolies: Support private/public co-financing initiatives or contribute to
+        efforts to create alternatives to dominant software solutions (e.g. TOSIT's work).
+
+Question 5 â Sectors where increased use can strengthen competitiveness and cyber resilience
+
+While OSS is already at the heart of infrastructure, it must now establish itself in business software
+and productivity applications. It is in this application segment, still dominated by non-European
+proprietary solutions, that the greatest potential lies for strengthening the competitiveness and
+sovereignty of the European digital industry.
+
+                                             ________________
+
+                                                                                                  Page 3 sur 3
+
+21 avenue de Messine, 75008 Paris | TÃ©l. : + 33 1 56 59 70 00 | Courriel : cigref@cigref.fr | www.cigref.fr

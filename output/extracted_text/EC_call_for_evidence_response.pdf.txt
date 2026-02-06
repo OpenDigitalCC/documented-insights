@@ -1,0 +1,422 @@
+Ref. Ares(2026)1225268 - 03/02/2026
+
+The R Foundation for Statistical Computing, an Austria-based non-profit organisation
+working in the public interest, oversees the development and maintenance of free software
+in the R environment for statistical computing and graphics (https://www.R-project.org).
+The R Project provides a programming language and platform for all types of data analyses.
+Thousands of contributors from all over the world collaborate in this project.
+
+Initially founded as an academic project 30 years ago, R became the lingua franca for
+statistical computing and is broadly used in data-driven enterprises, such as the
+pharmaceutical industry, governmental and non-governmental organisations, as well as in
+R&D in general.
+
+Since mid-2025, the R Foundation receives financial support from the German
+Sovereign Tech Fund (https://www.sovereign.tech/de/tech/r-project).
+
+The following response was prepared in consultation with members of the R Foundation
+(https://www.r-project.org/foundation/members.html). We also made an informal call for
+input via our social media channels and incorporated information from several R users that
+responded, notably Wolfgang Huber (European Molecular Biology Laboratory and co-
+founder of the Bioconductor project) and members of the R Validation Hub
+(https://app.pharmar.org/).
+
+1. What are the strengths and weaknesses of the EU open-source sector? What are the main
+barriers that hamper (i) adoption and maintenance of high-quality and secure open source;
+and (ii) sustainable contributions to open-source communities?
+
+Strengths:
+
+The EU is a major player in the global open-source sector, hosting many open-source
+software projects and contributors. The R project is one example of this: a third of the core
+development team are in the EU, the non-profit R Foundation that supports the project is
+seated in Austria, and R is one of the few projects with a package repository hosted in the
+EU (also Austria, https://nesbitt.io/2026/01/28/the-dependency-layer-in-digital-
+sovereignty.html).
+
+The EU open-source sector has been at the forefront of the "Public money, public code"
+movement - even if not formal supporters of the campaign by the Free Software Foundation
+Europe (https://publiccode.eu/en/), this philosophy is prominent in EU institutions,
+encouraging use of Open Source Software (OSS), and support for the development and
+release of code/software under an open-source license.
+
+The use and development of OSS has been a catalyst for academic collaboration and
+knowledge exchange between academia, industry and the third sector. Within the R
+community we see this, for example, through the R Foundation facilitated *useR!*
+conference, which attracts several hundred attendees across sectors and has been held 11
+times in the EU.
+The broader EU open-source community is diverse and active, as evidenced by conferences
+such as FOSDEM, held for over 25 years in Belgium and this year attracting >8,000
+participants. Such events help us to learn from other OSS projects and keep informed about
+relevant issues.
+
+EU member states have also been active in the Research Software Engineering movement,
+for example, the first non-UK RSE association was launched in Germany, with several other
+EU associations following (https://society-rse.org/international-rse-organisations/). While
+research software is not necessarily open-source, this is often the case, and the R project
+and wider R ecosystem (including community-developed add-on packages) have been a
+beneficiary of funding coming as a result of this movement.
+
+Weaknesses:
+
+Many open-source projects with a substantial footing in the EU - either via their
+development and governance or via their userbase - are critically underfunded and facing a
+sustainability crisis. The R project has been fortunate to secure funding and investment in
+the short term (1-2 years), but faces significant uncertainty in the medium to long term.
+
+Main barriers that hamper the adoption and maintenance of high-quality and secure open-
+source:
+
+R users within companies or institutions can face barriers due to internal IT policies. For
+example, the R Foundation often receives requests to fill in a Third-Party Risk Management
+Form, Voluntary Product Accessibility Template or other vendor assessment. Since we are
+not a vendor and do not have the resources to handle such requests, we refuse them, but
+this may prevent some users from adopting R.
+
+Main barriers that hamper maintenance of high-quality and secure open-source:
+
+Many EU business and public institutions (including academic institutions) are "free-riders"
+in their use of open-source software. Since R is not sold as a commercial product and the R
+Foundation does not provide any form of support contract, we don't have a direct
+mechanism for users to fund the maintenance of R. A small number of organisations donate
+money or infrastructure to the R Foundation and a small number of businesses are
+members of the R Consortium, a USA-based 501(c) that supports R and the wider R
+ecosystem. However, many institutions are not able to make donations, and we have no
+interest in providing a commercial product or support contract. There have been some
+efforts to provide trickle-down automated funding for dependencies, e.g. thanks.dev
+(https://thanks.dev/), ecosyste.ms (http://ecosyste.ms/), stackaid.us
+(https://www.stackaid.us/), DRIPS (https://www.drips.network/) - however, currently, R
+cannot benefit from any of these as it does not fit into the framework of how dependencies
+are identified. Some funding schemes require the OSS to be hosted on GitHub, which we do
+not use directly. Some depend on measures of criticality which misrepresent R (e.g. the
+OpenSSF Criticality Score https://github.com/ossf/criticality_score, which used a GitHub
+mirror that does not fully represent the activity of the project), or miss R (e.g. FOSSEPS
+https://interoperable-europe.ec.europa.eu/collection/fosseps/open-source-work-2021-
+funded-isa2), which recorded RStudio 366 times, but R only twice despite R being an
+essential dependency of that third-party IDE). Some research funders are prepared to fund
+development or maintenance due to the criticality of the software in their country, but
+require a project lead based at an academic institution in their country to receive the funds,
+which is not always possible.
+
+What are the main barriers that hamper sustainable contributions to open-source
+communities?
+
+The development and maintenance of R is largely a voluntary endeavour. This includes
+unpaid, personal time as well as community/professional service within paid employment,
+e.g. as part of an academic's research time. The questions of "why?" and "how?" people
+contribute to the base system have been studied by Fox (2009, DOI:10.32614/RJ-2009-014).
+There are many motivations for voluntary activities (to satisfy a sense of obligation, to do
+intrinsically rewarding work, to contribute to the broader public good), but Fox identified
+the "how?" as the key issue. Contributors are invariably users first. Factors explaining the
+adoption of R include the package system (simple extensibility), communication (via version
+control, email lists, and personal meetings), platform independence, and its free nature. The
+latter especially helped bring R into the university education quickly. While users may be
+motivated to contribute, sustainable maintenance and development require the ability to
+commit long-term. As the freedom and security of academic positions diminish, and the
+maintenance of base R becomes less about statistical innovation and more about
+robustness, efficiency, security, keeping up-to-date with changes in dependencies and
+operating systems, etc., core development as an academic side-project is not a sustainable
+model.
+
+In addition, it takes time and effort to establish an on-ramp to contribution, to ensure a
+sustainable flow of people moving from ad-hoc to more sustained contributor. A lack of
+documentation, novice-friendly tools, training and mentoring can all hamper sustainable
+contribution.
+
+2. What is the added value of open source for the public and private sectors? Please provide
+concrete examples, including the factors (such as cost, risk, lock-in, security, innovation,
+among others) that are most important to assess the added value.
+
+R, being free software, gives its users the freedom to explore how computations are
+performed in every necessary detail. Access to this information is crucial for faster
+innovation (standing on the shoulders of giants and being able to learn from the best),
+quality assurance (ensuring correctness of results), and long-term reproducibility (assessing
+analyses done a long time ago). The large pool of add-on packages for specialised
+analyses (currently > 23'000 packages hosted on https://CRAN.R-project.org) with
+standardised installation procedures across all major platforms allows users to deliver high-
+quality data products and implement even very complex analyses quickly and reliably.
+
+R is used by several public agencies, where open-source is particularly valued for improving
+transparency and enabling digital sovereignty. Some examples: European Centre for Disease
+Prevention and Control, Istituto Nazionale di Statistica, Statistics Portugal, Statistics
+Denmark, Institut national d'Ã©tudes dÃ©mographiques, Institut national de la statistique et
+des Ã©tudes Ã©conomiques, EUROCONTROL (the European Organisation for the Safety of Air
+Navigation), European Marine Observation and Data Network.
+
+OSS provides the ability for data providers or data users to develop customised software to
+extract, analyse and report on this data, where no commercial software exists or where
+commercial software is inaccessible due to cost. This can apply, for example, to public data
+or data generated by a scientific instrument. In the R world, several such tools are collated
+by rOpenSci: https://ropensci.org/.
+
+OSS is an essential pillar of open science. For example, in biological science, progress is
+driven by what can be measured: innovations in instrumentation require progress in
+analytical methods, which are disseminated via both research papers and scientific
+software. Having a developed, open-source culture enables biologists to move faster, be
+more productive and more innovative than fields with a closed-source culture, which tends
+to lead to dead ends and silos. OSS avoids vendor lock-in and reduces the costs of
+conducting research. The Bioconductor project (https://www.bioconductor.org/) is a
+collection of peer-reviewed, interoperable, open-source R packages for bioinformatics,
+which is a great example of OSS underpinning open science.
+
+OSS also enables the prevalent distributed funding and management model of science,
+where scientists in many institutes, countries, and companies work together in a âscientific
+fieldâ (in contrast to research in legal and economic monoliths such as large corporations).
+
+Over the past ~5 years, the pharmaceutical industry has been replacing the proprietary
+programming language SAS with R, particularly in clinical reporting to the European Medical
+Agency (EMA). This move has prompted a groundswell of open-source collaboration across
+the industry that was non-existent when using SAS. Today, the pharmaceutical industry is
+converging and collaborating on shared open-source packages that deliver the core
+regulatory reporting needs, including standardised clinical data processing
+(https://github.com/pharmaverse/sdtm.oak), standardised clinical analysis
+(https://github.com/pharmaverse/admiral/) and collaborating on software validation
+(https://github.com/pharmaR). In addition to the immediate cost savings by eliminating
+software licenses, there are significant savings due to the synergistic effects of the industry
+moving to open-source as a whole: the adoption of open-source tools has resulted in
+reduced costs associated with redundant in-house software development, reduced costs of
+onboarding new analysts and developers to custom in-house tools and improved security by
+making industry tools more transparent and auditable. In addition, it has led to innovation
+in analytic methods due to OSS providing the freedom to modify and build on the software.
+
+Furthermore, health authorities benefit from pharmaceutical companies adopting open
+science practices. They are better able to reproduce analyses using shared, open-source
+tools and are better suited to troubleshoot any discovered inconsistencies. Where
+previously health authorities needed to learn each organisationâs proprietary tooling, the
+use of open-source software has prompted a standardisation of tooling, reducing the
+amount of organisation-specific knowledge needed to review an analysis.
+3. What concrete measures and actions may be taken at EU level to support the
+development and growth of the EU open-source sector and contribute to the EUâs
+technological sovereignty and cybersecurity agenda?
+
+Free software development crucially relies on a secure infrastructure for project
+communication, software deployment, unit testing, and hosting of dedicated
+services. Together with several universities and other organisations, the R Foundation
+provides and maintains its own IT infrastructure for such services instead of relying on
+services offered by commercial enterprises. Offering reliable, secure, and stable hosting and
+communication services, as well as access to computing environments for software testing
+and building, would help contributors to the R Project to concentrate more on software
+development and maintenance.
+
+As a beneficiary of investment from the Sovereign Tech Agency, we welcome the call for an
+EU Sovereign Tech Fund (https://eu-stf.openforumeurope.org/) that can secure and
+maintain critical open-source software. It is important that there are long-term sources of
+funding for open-source projects and that all states benefiting from open-source contribute
+to such funding.
+
+Any EU funding schemes for OSS must have a light-weight application process, recognising
+that developers, software foundation personnel and other project contributors are often
+volunteering their time, and have limited capacity for project scoping and grant writing. We
+note that many open-source projects, like R, are global endeavours and as such we
+encourage broad inclusion of countries where beneficiaries and partners may be located.
+Non-EU countries that contribute significantly to the R project include (in alphabetical
+order): Australia, India, Switzerland, the UK, the USA, and New Zealand.
+
+We would like to see the development of mechanisms by which users of OSS, in both the
+public and private sectors, contribute to open-source. We note that some projects view the
+Cyber Resilience Act as a potential opportunity for sustainable funding of OSS, e.g. through
+third-party voluntary security attestations (https://github.com/orcwg/cra-
+attestations/blob/main/proposals/gen-two-tier-approach.md). This is unlikely to benefit R:
+the CRA only applies to commercial products built on OSS: R is not a commercial product
+itself (the R Foundation is not a "manufacturer") and only a handful of businesses directly
+build commercial products on top of R, so there is minimal scope to offer support contracts
+to manufacturers as an "Open Source Steward". There might be scope to monetise support
+for "consumers": organisations that use R to analyse data and create data products, but this
+would require massive investment on our side, and we have no expertise in this area. A
+potential approach may be for an organisation to offer such services to OSS projects - act as
+an intermediary between OSS projects and consumers (users), with the money raised
+shared between the umbrella organisation at the OSS project.
+
+As a software project rooted in academia, we welcome innovative approaches to academic
+institutions supporting OSS. There are many directions this could take:
+â¢   Creation of national or European Research Software Institutes, where OSS
+    developers and other project members (e.g. community managers, developer
+    advocates, package repository managers, ...) might hold regular or honorary
+    positions, potentially globally remote. This would provide job security for OSS
+    contributors, provide a way to access research or other types of funding and
+    could also provide a way to share legal, financial and technical infrastructure
+    across OSS projects. Short-term roles (developer-in-residence type positions)
+    might be used for mentoring advanced contributors. The FutuRSI initiative is
+    working towards a national research software institution in Germany
+    https://www.futursi.de/.
+â¢   Creation of Open Source Program Offices within universities. This could again
+    provide a base for contributors to large-scale national/international projects, as
+    well as support for local academics using and developing OSS as part of their
+    research and/or teaching. The OSPO at Trinity College Dublin is one EU example
+    (https://projects.research-and-innovation.ec.europa.eu/en/research-
+    area/industrial-research-and-innovation/eu-valorisation-policy/knowledge-
+    valorisation-platform/repository/university-open-source-programme-office).
+â¢   Funding for research software engineering support for maintenance of existing
+    research software. The UK Medical Research Council recently piloted parallel
+    awards to support the maintenance of research software nominated by
+    successful grant applicants (https://www.ukri.org/opportunity/better-methods-
+    better-research/). Such awards directly acknowledge the criticality of software
+    and aim to distribute funding with minimal bureaucracy. It would be good to see
+    similar parallel awards incorporated in EU grant funding.
+â¢   Funding or research software engineering support for development of existing
+    research software. It is often possible to get funding for the development of new
+    research software (e.g. an add-on R package), but there are no resources building
+    on existing work. This is a disincentive to collaboration and the development of
+    high-quality, reliable OSS.
+â¢   Funding for scientific software development academic positions, similar to the
+    Simons Foundation Scientific Software Research Faculty Award in the USA
+    (https://www.simonsfoundation.org/grant/scientific-software-research-faculty-
+    award/). This would raise the profile of work related to research software within
+    academia.
+â¢   Promoting good practices across academia for recognising OSS as a research
+    output. This might include:
+        o Funding for open access journals covering research software (e.g. the R
+            Journal, which is published by the R Foundation and the Journal of
+            Statistical Software, which publishes OSS and corresponding reproducible
+            scholarly articles)
+        o Clearer policies/incentives encouraging academic credit for research
+            software outputs. Research evaluation and promotion procedures should
+            include research software as a performance metric. Developing
+            guidelines, like those written at Monash University Business School
+            (attached), could help other institutions implement workable policies.
+        o Clearer policies/incentives encouraging academic institutions to treat
+            research software as a scholarly work, like a research article or teaching
+                  material, for which academics own the IP. Many universities have policies
+                  that assign the IP to the university, largely because they view software as
+                  a potential money-making opportunity and not a public good.
+
+Sustainable OSS projects do not only rely on the development of code but also on writing
+technical documentation, systems administration, financial administration, community
+engagement, event organisation, translation, accessibility and security assessment, among
+other tasks. It is important that funding and other support are available to OSS projects to
+fulfil these tasks.
+
+The EU should provide platforms to make models/guidelines, e.g., for regulatory purposes,
+easily available. For example, the European Food Safety Authority has the R4EU platform
+(https://www.efsa.europa.eu/en/science/tools-and-resources).
+
+If any studies are commissioned to research OSS within the EU, or to define measurements
+of criticality, it is essential that OSS projects impacted by the research are consulted. We
+request that we be informed of such studies to ensure that R is not unfairly excluded or
+misrepresented.
+
+4. What technology areas should be prioritised and why?
+
+When policy-makers are considering information or digital technology on a grand scale, it is
+tempting to focus on broadly-used technologies, e.g. supporting the open internet or open
+desktop. This can overlook more specialised technologies and applications that nevertheless
+play a critical role in the public and private sectors, such as R.
+
+In general, creating a culture and environment in which free software projects can flourish
+and contributors can put their time to good use, seems more beneficial than a top-down list
+of projects, areas, or tasks to be prioritised.
+
+That said, technology that is or would be of wide benefit to OSS projects should be a strong
+candidate for support. An example is ForgeFed (https://forgefed.org/), which aims to
+federate across software forges, providing the networking and collaboration benefits of a
+centralised platform, while allowing OSS projects to host their own forges and maintain
+digital sovereignty.
+
+In addition, the EU should support OSS projects to meet high accessibility standards and
+support localisation efforts so that everyone can benefit from the four freedoms of OSS (the
+freedom to run the software; the freedom to study and change it; the freedom to
+redistribute; and the freedom to distribute modified versions).
+
+5. In what sectors could an increased use of open-source lead to increased competitiveness
+and cyber resilience?
+
+The primary, secondary, and tertiary education systems should exclusively use and provide
+free software for learning, training, and research. Allowing the next generation to take
+ownership and responsibility for the free software environment is the least expensive and
+most efficient way to increase competence, competitiveness, and resilience. Projects
+helping schools and universities to achieve this goal are candidates for prioritisation.
+ Monash Research Software Standards
+ 8 October 2025
+
+The Faculty treats high quality open source software as a research output and awards points accordingly.
+This is consistent with international trends to recognize and support research software development (Anzt
+et al., 2020; Barba et al., 2019; Doerr et al., 2019; Druskat, 2019; SFDORA, 2012).
+
+Evaluation committee
+A peer evaluation committee will consist of a rotating group of discipline experts from within and external to
+the Monash Business School. The Panel Chair will be delegated by the Deputy Dean Research. The committee
+will obtain at least one review from an anonymous and external reviewer, or at least two reviews if the
+submission includes no previous peer review.
+In its evaluation, the committee will consider the following issues:
+  â¢ Where a software output implements a method proposed in a paper by the same author, the software
+    should be assessed as to what it contributes beyond the methodology in the paper.
+  â¢ Software that is maintained and developed over many years and many versions may be granted addi
+    tional points over time. There must be at least three years between submissions relating to the same
+    software project.
+  â¢ The comments of the external reviewer(s).
+The committee may award 0â3 points for each submission, taking account of comparable quality standards
+for journal articles.
+If a committee member has a conflict of interest (e.g., s/he has co authored the software submission), the
+remaining committee members will consider the relevant submission.
+The committee will provide brief reasons for its decision.
+
+Submissions
+Submissions to the committee should include the following:
+  â¢ Evidence of previous peer review if any, such as acceptance on CRAN or via ROpenSci.
+  â¢ The full source code in a version controlled repository such as GitHub.
+  â¢ The scope of the developerâs contribution. For pre existing software, include information about the state
+    of the project before the contribution, and the state afterward, include links to the relevant code diff/
+    pull request(s).
+  â¢ Evidence of user facing and/or developer facing documentation.
+  â¢ For pre existing software, provide evidence of: (a) new features (e.g., a new method to do something the
+    software could not do before); (b) improvement of general features (e.g., improved memory management
+    or linear algebra code used throughout the project); and/or (c) ongoing maintenance (e.g., upgrading
+    documentation, responding to users on discussion forums, dealing with bug fixes, updates to conform
+    to changes in software infrastructure and standards, etc.).
+  â¢ Testimonials from feature users (for added features) OR developers (for low level improvements).
+
+                                                      1
+Monash Research Software Standards                                                                             2
+
+Guidelines
+Method documentation If the software implements a previously published method/model/algorithm,
+please provide citations to the relevant literature. If the software implements previously unpublished
+methods, they need to be described in the software documentation to the same level that would be required
+for a journal publication.
+Generalisability The Australian Research Data Commons Ltd (2022) provides a 3 level classification of
+research software.
+  1. âAnalysis codeâ is typically the code associated with a research paper that allows the results to be
+     reproduced.
+  2. âPrototype toolsâ provide a general implementation of a method/model/algorithm that can be used for
+     a wide range of applications.
+  3. âResearch software infrastructureâ provides a general platform that allows others to build prototype
+     tools.
+In general, analysis code is unlikely to be awarded research points. We expect that research software submis
+sions that are awarded points are likely to be either prototype tools or contributions to research software
+infrastructure.
+Code documentation s a minimum, we would expect each user facing function to be fully documented with
+arguments explained, and examples provided. Even better would be an additional vignette describing the full
+workflow for an analysis using the software. Having the code documentation available online is desirable;
+this can be done using providers such as GitHub pages, readthedocs or Mintlify.
+User impact We are looking for evidence that the software is useful to other researchers, not just to the
+authors and their collaborators. Such evidence may be in the form of user testimonials, download statistics,
+and forks/stars on GitHub, for example.
+Releases and versioning t is important that the software is version controlled, and that users of the software
+can cite a specific version, released on a specific date. One way to do this is to use the GitHub release system.
+See Making software citable for some further suggestions.
+Bug reports and contributions Provide a mechanism for handling bug reports or software contributions.
+If using GitHub, this can be done via GitHub issues and GitHub pull requests respectively. Other version
+control platforms have similar facilities.
+Long-term development Are there plans to continue to develop the software with additional features, or
+just to provide bug fixes?
+Governance How is the software managed? Who are the maintainers? For larger projects, the âMinimum
+Viable Governanceâ tool from GitHub may be appropriate.
+Monash Research Software Standards                                                                           3
+
+Bibliography
+Anzt, H., Bach, F., Druskat, S., LÃ¶ffler, F., Loewe, A., Renard, B. Y., Seemann, G., Struck, A., Achhammer,
+   E., Aggarwal, P., Appel, F., Bader, M., Brusch, L., Busse, C., Chourdakis, G., Dabrowski, P. W., Ebert,
+   P., Flemisch, B., Friedl, S., â¦ Weeber, R. (2020). An Environment for Sustainable Research Software in
+   Germany and Beyond: Current State, Open Challenges, and Call for Action. Corr. https://arxiv.org/abs/
+   2005.01469
+Australian Research Data Commons Ltd. (2022, ). A National Agenda for Research Software. https://doi.org/
+   10.5281/zenodo.6378082
+Barba, L. A., BazÃ¡n, J., Brown, J., Guimera, R. V., Gymrek, M., Hanna, A., Heagy, L., Huff, K. D., Katz, D. S.,
+   Madan, C., Moerman, K. M., Niemeyer, K., Poulson, J. L., Prins, P., Ram, K., Rokem, A., Smith, A. M.,
+   Thiruvathukal, G. K., Thyng, K. M., â¦ Yehudi, Y. (2019). Giving software its due through community-driven
+   review and publication.
+Doerr, A., Rusk, N., Vogt, N., Strack, R., Tang, L., & Arunima, S. (2019). Giving software its due. Nature
+   Methods, 16(207).
+Druskat, S. (2019, ). How to make software fit in research citation graphs. Rseconuk 2019 - 4th Conference of
+   Research Software Engineering.
+SFDORA. (2012). San Francisco Declaration on Research Assessment. http://sfdora.org/

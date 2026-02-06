@@ -1,0 +1,116 @@
+Ref. Ares(2026)1142940 - 02/02/2026
+
+Supporting References
+Attachment to EU Call for Evidence: Towards European Open Digital Ecosystems
+
+1. About the Open Source Development Network
+(OSDN)
+Project Website:
+https://hochschuledigital-niedersachsen.de/osdn
+
+Parent Initiative â Hochschule.digital Niedersachsen (HdN):
+https://hochschuledigital-niedersachsen.de/
+
+Key Facts:
+
+      Funding: â¬5.07 million (2024â2028)
+
+      Project Lead: Leibniz University Hannover
+
+      Platforms supported: Moodle, ILIAS, Stud.IP, Opencast, OERSI
+
+      Consortium: Multiple Lower Saxony universities collaborating on shared infrastructure
+
+2. External Recognition
+European University Association â Digital Sovereignty Report (2024)
+The EUA explicitly cites Hochschule.digital Niedersachsen as a successful model for digital
+sovereignty in higher education:
+
+   "A more radical solution to digital sovereignty would be that universities develop their own
+   solutions based on a common developer community and open-source software. [...] In
+   Germany, for example, this is done by creating an open-source ecosystem in Lower Saxony
+   (Hochschule.digital Niedersachsen)."
+
+Source: https://eua-dtm.eu/framework-conditions/digital-sovereignty/
+
+3. EU Studies and Policy Context
+Fraunhofer ISI / OpenForum Europe â Impact Study (2021)
+Commissioned by the European Commission. Key findings:
+
+      OSS contributes â¬65â95 billion to EU GDP
+
+      Cost-benefit ratio of 1:4 for OSS investments
+
+      10% increase in OSS contributions â 0.4â0.6% additional GDP
+
+      Recommendation: "Promote Open Source education in higher education institutions"
+
+Full Report: https://digital-strategy.ec.europa.eu/en/library/study-about-impact-open-source-soft
+ware-and-hardware-technological-independence-competitiveness-and
+
+Commission Summary: https://digital-strategy.ec.europa.eu/en/news/commission-publishes-stu
+dy-impact-open-source-european-economy
+4. Digital Commons EDIC
+The recently launched Digital Commons European Digital Infrastructure Consortium (DC-EDIC)
+aligns with OSDN's mission. OSDN welcomes engagement with DC-EDIC frameworks.
+
+DC-EDIC Launch Announcement:
+https://digital-strategy.ec.europa.eu/en/news/digital-commons-edic-launches-advance-europes-t
+echnological-sovereignty
+
+Commission Decision establishing DC-EDIC:
+https://digital-strategy.ec.europa.eu/en/news/commission-launch-digital-commons-edic-support-
+sovereign-european-digital-infrastructure-and
+
+5. Market Data: Open Source in Higher Education
+DACH Region â Peer-Reviewed Study (Belz et al., 2024)
+
+A comprehensive security study scanned 888 LMS instances across 529 universities in Germany,
+Austria, and Switzerland (September 2023). Key findings:
+
+      98% market share for open-source LMS (Moodle, ILIAS, Stud.IP combined)
+
+      Germany breakdown: Moodle 69%, ILIAS 16%, Stud.IP 10%
+
+      Only 7 different LMS products found in active use across DACH region
+
+      Open-source LMS dominance has been stable since at least 2022
+
+Source: Belz, A.-M., Suleder, J., & Mayer, A. (2024). Sicherheit von Lernmanagement-Systemen an
+tertiÃ¤ren Bildungseinrichtungen in der DACH-Region. In: Wendzel, S. et al. (Hrsg.): SICHERHEIT
+2024, Lecture Notes in Informatics (LNI), Gesellschaft fÃ¼r Informatik, Bonn 2024, S. 173-188. DOI:
+10.18420/sicherheit2024_011
+
+European Market Context:
+
+      Moodle is the leading LMS across Europe (exact percentages vary by source and
+      methodology)
+
+      Open-source solutions dominate continental European higher education
+
+      Commercial LMS (Canvas, Blackboard) have stronger presence in UK, Benelux, and Nordic
+      countries
+
+Source: ListEdTech/Phil Hill market analysis (subscription service); various secondary sources
+
+6. Related EU Initiatives
+EU Digital Education Action Plan:
+https://education.ec.europa.eu/focus-topics/digital-education/action-plan
+
+European Universities Initiative:
+https://education.ec.europa.eu/education-levels/higher-education/european-universities-initiativ
+e
+Open Education Resources â EU Policy:
+https://education.ec.europa.eu/focus-topics/digital-education/action-plan/action-6
+
+7. Contact
+Christian Friedrich
+Spokesperson & Strategic Advisor, OSDN
+Email: friedrich@zqs.uni-hannover.de
+Mobile: +49 176 205 755 86
+
+Project Lead:
+Cornelis Kater
+Email: OSDN@zqs.uni-hannover.de
+
+Document prepared: January 2026

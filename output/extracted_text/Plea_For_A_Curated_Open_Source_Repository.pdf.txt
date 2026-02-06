@@ -1,0 +1,95 @@
+Ref. Ares(2026)223431 - 09/01/2026
+
+Plea for a European Curated Open Source Repository
+
+Proposal
+Set up a European Curated Open Source Repository1 which:
+    â¢ identifies which open source software is considered vital for building Digital Sovereignty
+    â¢ setup a publicly available repository from where anyone can obtain the software. This
+        includes the source, as well as binaries and artifacts to utilize the software
+    â¢ setup that the source, which is usually obtained from upstream sources,
+        â¦ is validated
+        â¦ tested for security issues (i.e. introduction of deliberate or accidental vulnerabilities,
+            hidden back-doors etc.)
+        â¦ binaries built from source by the repository for security reasons
+        â¦ if needed added artifacts to facilitate usage (i.e. provide deployment configurations etc.)
+    â¢ setup support in such a way that this organisation can provide (security) patches if needed,
+        add features considered beneficial for EU (preferably Upstream) and if needed take of
+        maintenance and further development if needed
+    â¢ do this in such a way that it will avoid disturbing business models of upstream providers
+        unless needed
+
+This will enable
+European (and other) organisations to utilise the software in the Repo and be ensured of:
+    â¢   security: be ensured that source is validated and the binaries have not been tampered with
+    â¢   viability of the software: mitigation for the risk of abandon-ware
+This will allow European organisations, both public and commercial, to focus on how to build
+products and services with them in stead of having each organisation having to mitigate the risks
+themselves of simply accept them.
+
+Explanation
+The components to build a cloud platform are to a very large degree available in Open Source
+projects. Nonetheless when doing due diligence in selecting these components risks exist that are
+often not that easy to mitigate by individual organisations.
+These risks include:
+
+    â¢   Abandon-ware: no longer supported by software
+        â¦ Company backed open source may stop providing the software via a Open Source
+           license for various reasons (examples exist such as Minio)
+        â¦ Some key software have only a few volunteer contributors that may cease to maintain
+           the software
+        â¦ Companies may increasingly restrict features to no free/open source licenses
+
+As the source is Open Source, it is technically possible to fork2 the software and start maintaining
+the software yourself. If software is popular enough, when software is abandoned often new
+
+1 Repository: https://en.wikipedia.org/wiki/Software_repository
+2   Forking: https://en.wikipedia.org/wiki/Fork_(software_development)
+volunteers appear. A clear example is how LibreOffice was forked from Open Office when the
+ownership of Open Office changed.
+However this is not that easy and even if this happens, it will take time before this yields results. A
+central repository that has the capability to support the software, including supplying emergency
+patches if upstream cannot or will not do this timely as well as take over if needed will effectively
+be an insurance against this.
+
+   â¢   Low trust in main contributors due to geopolitics.
+       â¦ Although the source is available and can be checked, the binaries distributed may differ
+          unless you build yourself
+       â¦ Source is updated often, running security checks on changes requires work
+   â¢   Supply Chain attacks. This is unfortunately a real threat where bad actors sometimes are
+       capable to inject malware even if the contributors themselves are trustworthy.
+
+There is very interesting and software which can be of vital importance available open source.
+Technically each organisation can for security reasons obtain the source of the software and
+updates, validate this and build the software to be used, thereby avoiding the risk that malware that
+is not part of the published source is secretly included in the binaries. However this takes effort and
+it is much more efficient if a central repository which can be trusted does this.
+
+Example Bitnami
+Bitnami (https://bitnami.com/) is a good example of such a repository. It was an available to all
+repository which provides similar services. It also shows the risks of a commercial offering, after
+being acquired by Broadcom it is no longer free. So it also demonstrates that this service can be
+revoked which means adding risk.
+
+The benefits
+This enables organisations, both in the EU and outside of the EU, to reliably to utilise the
+components and focus on building products and services. By taking away this burden it can
+accelerate development.
+This is an example of something where it is beneficial when this offered by the EU. The effort is the
+same whether you supply it for one country or the EU/the rest of the world.
+
+Prevent undermining business models of upstream developers
+It should be noted that it should not be the intention to compete with the upstream developers.
+Especially when the software is mainly developed by a company, the repository runs the risk of
+being detrimental for the business model of that company. Therefore the business model should be
+taken into account. If the upstream company relies on providing support, users should be directed to
+the upstream company for support. Often advanced features require a paid for license etc.
+In principal no competing services should be offered.
+If done properly it can be beneficial for the companies to have their software adopted. They can use
+it as selling point that software is considered valuable and can be trusted.
+
+Additional activities
+The organisation behind such a repository can deploy additional activities such as providing
+funding for Open Source initiatives with a strong EU footprint, such as the contributors being
+largely based in the EU or for software of strategic importance for EU cloud providers. Other
+activities to foster a European Open Source community can be deployed.

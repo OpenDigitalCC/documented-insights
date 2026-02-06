@@ -1,0 +1,302 @@
+Merci Ã  la Commission europÃ©enne pour avoir lancÃ© cette consultation sur les Ã©cosystÃ¨mes            numÃ©riques
+                                                                                       Ref. Ares(2026)1225267 - 03/02/2026
+ouverts europÃ©ens. En tant que citoyen europÃ©en travaillant sur Internet, je suis particuliÃ¨rement attentif
+aux enjeux des usages de l'internet et de son impact sur nos sociÃ©tÃ©s. Je suis promoteur du logiciel libre
+qui vÃ©hicule des valeurs de partage et de progrÃ¨s Ã©quitable. Je me fÃ©licite que la commission d'y intÃ©resse
+pour assurer lâindÃ©pendance technologique de l'Europe et assurer son dÃ©veloppement Ã©conomique.
+J'espÃ¨re qu'elle utilisera aussi le logiciel libre comme un levier pour rÃ©duire les inÃ©galitÃ©s, briser les
+monopoles et garantir une technologie au service du bien commun.
+Dans le document ci-joint, je rÃ©ponds aux cinq questions de la consultation avec mes rÃ©flexions du
+moment. Les actions que je propose pour la prochaine stratÃ©gie europÃ©enne pour un Ã©cosystÃ¨me
+numÃ©rique ouvert incluent, entre autres, la crÃ©ation dâun fonds souverain europÃ©en pour financer des
+projets Open Source Ã  fort impact, la rÃ©forme des marchÃ©s publics (principe Â« argent public = code public
+Â»), et la crÃ©ation dâun cadre dâarbitrage sur les licences Open Source pour sÃ©curiser l'Ã©cosystÃ¨me libre et
+la crÃ©ation de logiciels ouvertement compatibles avec le RGPD ou le DSA.
+Bonne lecture.
+Alix Guillard
+
+La stratÃ©gie europÃ©enne pour un Ã©cosystÃ¨me
+numÃ©rique ouvert
+Quelles sont les forces et les faiblesses du secteur des solutions
+Open Source de lâUE ?
+Forces du secteur des solutions Open Source dans lâUE
+Un Ã©cosystÃ¨me dynamique et une expertise technique reconnue
+LâUnion europÃ©enne abrite lâun des plus grands Ã©cosystÃ¨mes de communautÃ©s de dÃ©veloppeurs Open
+Source au monde, caractÃ©risÃ© par une expertise technique solide et une culture collaborative bien ancrÃ©e.
+Une industrie liÃ©e Ã  lâOpen Source a pu Ã©merger, notamment grÃ¢ce Ã  la commande publique. Certains
+Ãtats membres ont mÃªme mis en place des programmes dâinternalisation des ressources en Open Source
+pour garantir leur autonomie sur leurs outils.
+
+Un rÃ´le exemplaire des institutions publiques
+Les institutions europÃ©ennes et nationales ont progressÃ© dans leur adoption du Open Source, jouant un
+rÃ´le dâexemple. Cependant, cette transition reste inÃ©gale : des pays hÃ©sitent encore, tous les services
+publics nâont pas encore achevÃ© leur mutation, et des rÃ©sistances persistent, parfois difficiles Ã 
+comprendre. MÃªme dans des pays pionniers comme la France, oÃ¹ la loi encourage la prioritÃ© au Open
+Source pour les marchÃ©s publics, son application nâest pas vraiment effective.
+
+Un marchÃ© europÃ©en Ã  fort potentiel
+LâUE est souvent dÃ©crite comme le plus grand marchÃ© mondial pour le mobile en termes de valeur, avec
+un taux de pÃ©nÃ©tration supÃ©rieur Ã  la moyenne mondiale. Cependant, contrairement aux Ãtats-Unis ou Ã  la
+Chine, la fragmentation culturelle et juridique entre les pays limite lâÃ©mergence dâune offre unifiÃ©e,
+expliquant en partie la prÃ©dominance des produits et des rÃ©seaux sociaux amÃ©ricains ou chinois.
+Des sources de financement qui se diversifient
+Le financement du logiciel Open Source a longtemps Ã©tÃ© un dÃ©fi en raison de ses modÃ¨les Ã©conomiques
+singuliers, qui limitent la captation directe de valeur marchande. Cependant, les initiatives se multiplient
+pour soutenir son dÃ©veloppement, avec des sources de financement de plus en plus variÃ©es :
+- Financement interne
+Certaines entreprises ont compris que libÃ©rer leurs applications payantes pour rÃ©pondre Ã  un besoin
+spÃ©cifique peut leur permettre de les amÃ©liorer Ã  moindre coÃ»t, en sâappuyant sur une communautÃ© de
+contributeurs. Bien que prometteuse, cette approche reste marginale et nÃ©cessite une culture dâentreprise
+plus ouverte Ã  lâOpen Source. La Commission europÃ©enne a montrÃ© la voie aus administrations en
+internalisant certains services critiques, rÃ©duisant ainsi la dÃ©pendance aux solutions propriÃ©taires et
+encourageant lâautonomie numÃ©rique.
+- Capital-risque et fonds dÃ©diÃ©s
+AprÃ¨s la bulle Internet des annÃ©es 2000, le capital-risque avait dÃ©laissÃ© le logiciel Open Source.
+Aujourdâhui, des fonds spÃ©cialisÃ©s Ã©mergent, comme OpenCore Ventures ou OSS Capital, qui misent sur
+le modÃ¨le Open Core pour convaincre les investisseurs de la rentabilitÃ© des projets Open Source.
+Seulement, de nombreuses startups adoptant ce modÃ¨le finissent par fermer leur code pour protÃ©ger leur
+avantage commercial, ce qui va Ã  lâencontre de lâesprit initial du logiciel libre. Un fonds souverain
+europÃ©en dÃ©diÃ©, axÃ© sur le dÃ©veloppement local et lâautonomie numÃ©rique, serait nÃ©cessaire pour ancrer
+durablement les initiatives de logiciels libres dans lâÃ©cosystÃ¨me europÃ©en.
+- Crowdfunding et modÃ¨les participatifs
+Des modÃ¨les comme le crowdfunding par souscription (ex. : Framasoft ayant crÃ©Ã© Mobilizon et Peertube)
+ou lâinitiative Copie Publique dÃ©montrent que le public et les entreprises sont prÃªts Ã  financer les logiciels
+quâils utilisent. Ces approches permettent de crÃ©er un lien direct entre les utilisateurs et les dÃ©veloppeurs,
+tout en assurant une certaine pÃ©rennitÃ©. En rejoignant ces mouvements, la Commission pourrait renforcer
+son rÃ´le dâexemplaritÃ© et encourager dâautres acteurs publics et privÃ©s Ã  contribuer.
+- Subventions publiques et programmes ciblÃ©s
+La Commission europÃ©enne a lancÃ© l'initiative NGI-Zero, qui finance des projets de logiciels Open
+Source sur dossier. Ce dispositif, bien que modeste, fonctionne efficacement pour soutenir lâinnovation.
+Ces financements sont limitÃ©s et ne couvrent rarement les coÃ»ts rÃ©currents (hÃ©bergement, sÃ©curitÃ©,
+accessibilitÃ©, promotion), essentiels Ã  la pÃ©rennitÃ© des projets. Par exemple, NGI-Zero a financÃ© une
+fonctionnalitÃ© pour Mobilizon, mais lâassociation porteuse doit assumer seule les frais dâhÃ©bergement.
+NGI-zÃ©ro propose Ã©galement des services annexes (accessibilitÃ©, sÃ©curitÃ©), mais ceux-ci sont encore
+insuffisamment promus et soutenus. Une meilleure visibilitÃ© et un Ã©largissement de ces aides pourraient
+renforcer leur impact.
+
+Faiblesses et obstacles
+Captation de la valeur Ã©conomique par des acteurs non europÃ©ens
+MalgrÃ© des communautÃ©s actives, ce sont souvent les gÃ©ants technologiques non europÃ©ens qui captent la
+valeur Ã©conomique gÃ©nÃ©rÃ©e par lâOpen Source, crÃ©ant des monopoles et limitant les retombÃ©es pour les
+entreprises locales. Cela est liÃ© Ã  la fragmentation du marchÃ© europÃ©en, mais aussi Ã  la posture prÃ©datrice
+de certaines grandes entreprises. Les violations de licences Open Source (comme le non-respect de la
+GPL) restent frÃ©quentes et rarement sanctionnÃ©es, en raison de lâasymÃ©trie des moyens entre les petites
+structures Open Source et les grands groupes multinationaux. Lâexemple du procÃ¨s EntrâOuvert contre
+Orange, remportÃ© aprÃ¨s prÃ¨s de 20 ans, illustre cette difficultÃ© Ã  faire respecter les droits, usant les acteurs
+du Open Source sans empÃªcher les contrevenants de tirer profit de leurs agissements. Une procÃ©dure
+dâarbitrage de type UDRP permettrait peut-Ãªtre de rÃ©gler ce genre de problÃ¨mes.
+DifficultÃ©s Ã  passer Ã  lâÃ©chelle et Ã  sÃ©curiser les infrastructures
+LâOpen Source peine parfois Ã  rivaliser avec les grandes applications commerciales mondiales, faute
+dâinvestissements suffisants pour le passage Ã  lâÃ©chelle, le durcissement des critÃ¨res de sÃ©curitÃ©, ou
+lâadaptation juridique et marketing. Ce dÃ©licat passage Ã  lâÃ©chelle nâest pas encore maÃ®trisÃ© dans
+lâÃ©cosystÃ¨me Open Source, et les structures restent des TPE et ETI. Il serait bÃ©nÃ©fique de crÃ©er des
+dispositifs spÃ©cifiques pour aider les projets Open Source Ã  franchir le cap de lâindustrialisation,
+notamment en finanÃ§ant des activitÃ©s annexes comme lâhÃ©bergement, la sÃ©curitÃ©, et la promotion ou le
+marketing.
+
+Une timiditÃ© juridique des acteurs de lâOpen Source
+Les communautÃ©s Open Source excellent techniquement, mais souffrent souvent dâun dÃ©ficit en expertise
+juridique et en stratÃ©gie de promotion, essentielles pour dÃ©fendre et valoriser leur travail.
+Lâexpertise juridique
+Les entreprises de lâÃ©cosystÃ¨me Open Source ont une forte culture ingÃ©nieriale et sont rarement Ã©quipÃ©es
+juridiquement pour rÃ©pondre aux grands appels dâoffres publics. Ã lâinverse, les grandes entreprises
+habituÃ©es des marchÃ©s publics ont une culture juridique forte, mais peinent Ã  capter la culture de lâOpen
+Source. TrÃ¨s souvent, leur vision de lâOpen Source se cantonne au librewashing sans capitaliser sur les
+Ã©conomies rÃ©alisables grÃ¢ce Ã  lâappartenance Ã  la communautÃ©. La Commission devrait rÃ©flÃ©chir Ã  un
+accompagnement des structures pour renforcer lâexpertise juridique des entreprises Open Source et
+transmettre la culture Open Source chez les grands cabinets de conseils et dâingÃ©nierie. Une autre
+approche serait dâadapter les marchÃ©s IT Ã  lâOpen Source pour quâils prennent en compte la force de la
+communautÃ© Open Source et quâils contraignent le contractant Ã  capitaliser sur ce qui est coproduit pour
+ce marchÃ©. Il est peut-Ãªtre aussi envisageable dâoffrir un cadre simplifiÃ© aux marchÃ©s dâappels dâoffres en
+veillant Ã  ne garder que les dispositifs luttant contre la corruption. Un travail dans ce sens pourrait aboutir
+Ã  un rÃ¨glement europÃ©en rÃ©gissant les appels dâoffres publics sur le modÃ¨le de ce qui se fait dÃ©jÃ  pour les
+budgets au-delÃ  de 140 000 euros.
+Le manque dâintÃ©rÃªt pour le marchÃ©
+Les projets Open Source naissent souvent dâun besoin technique oÃ¹ lâutilisateur est le dÃ©veloppeur. LâidÃ©e
+de marchÃ© est souvent ignorÃ©e ou dÃ©laissÃ©e. Dans la communautÃ© Open Source, le marketing est souvent
+associÃ© Ã  la publicitÃ©, perÃ§ue comme une communication mensongÃ¨re. Or, lâOpen Source est une posture
+attachÃ©e Ã  la vÃ©ritÃ© (le code fait foi). De fait, le marketing est souvent dÃ©laissÃ©. Pourtant, ce domaine est
+celui qui permet au logiciel de trouver son public et de sâadapter pour rÃ©pondre aux besoins des
+utilisateurs. Identifier la demande par des Ã©tudes de marchÃ© est un travail dÃ©laissÃ© dans le monde du Open
+Source. Câest Ã  nouveau un domaine oÃ¹ il serait bÃ©nÃ©fique dâaider les entreprises et les projets Open
+Source.
+Le marketing pour lâOpen Source peut aussi sâinspirer de la culture Open Source et de son mode de
+dÃ©veloppement en Â« bazar Â». Cela permettrait de rivaliser avec les grandes applications grand public
+multinationales.
+
+Quelle est la valeur ajoutÃ©e des solutions Open Source pour les
+secteurs public et privÃ© ?
+Ci-dessous je donne quelques exemples concrets, incluant les principaux facteurs (coÃ»t, risques,
+verrouillage technologique, sÃ©curitÃ© et innovation) permettant dâÃ©valuer cette valeur ajoutÃ©e.
+RÃ©duction des coÃ»ts et optimisation budgÃ©taire
+Lâadoption de logiciels Open Source permet de rÃ©duire le coÃ»t total de possession (TCO) en Ã©vitant les
+licences coÃ»teuses et les politiques tarifaires opaques. La migration de la gendarmerie nationale (France)
+a permis Ã  lâinstitution dâÃ©conomiser 2 millions dâeuros par an dÃ¨s 2005. Cependant, ce genre de
+migration a un coÃ»t et doit Ãªtre prÃ©parÃ© longtemps Ã  lâavance avec les fournisseurs et les personnels pour
+Ãªtre efficace. Le secteur industriel voit aussi dans le logiciel Open Source une maniÃ¨re dâoptimiser ses
+coÃ»ts de recherche et dÃ©veloppement. Par exemple, RTE dÃ©veloppe ses projets en Open Source pour
+partager avec ses pairs et partenaires les coÃ»ts et les bÃ©nÃ©fices de ses solutions mÃ©tier.
+
+Ãviter le verrouillage technologique (vendor lock-in)
+Acheter une solution Open Source permet, en thÃ©orie, de ne pas Ãªtre dÃ©pendant dâun partenaire vendant
+une solution privatrice. Un utilisateur de Dolibarr peut utiliser lâapplication en SaaS via la sociÃ©tÃ© qui
+porte le logiciel, mais aussi via de nombreuses autres entreprises de service. Il peut aussi dÃ©cider
+dâinternaliser cette compÃ©tence et lâutiliser on-site. Encore une fois, ce bÃ©nÃ©fice nâest rÃ©el quâavec une
+bonne prÃ©paration : le fournisseur ne doit pas uniquement fournir le code et la documentation, mais aider
+Ã  construire une communautÃ© autour de son produit.
+
+SÃ©curitÃ© et transparence
+Les solutions Open Source offrent une transparence totale du code, permettant une auditabilitÃ© accrue et
+une dÃ©tection plus rapide des vulnÃ©rabilitÃ©s. Cela est crucial pour les secteurs sensibles comme la santÃ© ou
+la dÃ©fense, mais essentiel dÃ¨s lors que les donnÃ©es personnelles sont concernÃ©es. Câest souvent le cas du
+secteur public, qui gÃ¨re de nombreuses donnÃ©es sensibles. Dans ces cas, lâOpen Source devrait Ãªtre
+requis. Les rÃ©centes rumeurs affectant WhatsApp, prÃ©tendant que les conversations sont accessibles par
+les employÃ©s de Meta, font naÃ®tre le doute. Cela montre quâune application ne peut pas offrir de garantie
+de sÃ©curitÃ© et de confidentialitÃ© sans code ouvert. Lâapplication Signal, dont le code est ouvert et a Ã©tÃ©
+auditÃ©, peut garantir que ce genre de fuite nâexiste pas. LâEstonie a construit son administration sur le
+numÃ©rique. Dans une recherche de confiance, lâadministration a commencÃ© Ã  ouvrir le code de ses
+solutions. Cela a permis de motiver le renforcement de la sÃ©curitÃ© des donnÃ©es, mais surtout de renforcer
+la confiance des citoyens dans leur administration.
+
+Innovation et compÃ©titivitÃ©
+LâOpen Source favorise lâinnovation collaborative et lâÃ©mergence de start-ups qui bÃ©nÃ©ficient toutes dâun
+socle commun de briques Open Source pour construire leurs nouveaux services numÃ©riques. La
+compÃ©titivitÃ© est encouragÃ©e par la disponibilitÃ© de ces briques logicielles sur lesquelles tout le monde
+peut construire.
+
+Les limites
+Lâensemble des avantages ci-dessus sont connus et documentÃ©s. Il convient, pour en bÃ©nÃ©ficier, de
+travailler les changements en amont et de ne pas altÃ©rer les principes du logiciel libre qui en font sa force.
+Les bonnes pratiques sont maintenant connues et devraient Ãªtre promues.
+Dâautres obstacles subsistent Ã  une adoption plus large du logiciel libre : manque de financements
+durables, dÃ©pendance rÃ©siduelle Ã  des solutions propriÃ©taires (comme Microsoft 365 dans certaines
+administrations), et difficultÃ© Ã  mobiliser suffisamment de contributions europÃ©ennes pour rivaliser avec
+les gÃ©ants du net.
+Quelles mesures concrÃ¨tes peuvent Ãªtre prises au niveau de lâUE
+pour soutenir le dÃ©veloppement et la croissance du secteur des
+solutions Open Source de lâUE et contribuer aux objectifs de lâUE
+en matiÃ¨re de souverainetÃ© technologique et de cybersÃ©curitÃ© ?
+LâUnion europÃ©enne se trouve Ã  un carrefour dÃ©cisif : concilier innovation technologique, souverainetÃ©
+numÃ©rique et protection des droits fondamentaux. Certaines voix, notamment celles de grands acteurs
+industriels, plaident pour un assouplissement des rÃ©glementations europÃ©ennes, arguant que celles-ci
+freinent lâinnovation. Pourtant, la simplification administrative ne doit pas se faire au dÃ©triment du bien-
+Ãªtre collectif. Les dispositifs comme le RÃ¨glement gÃ©nÃ©ral sur la protection des donnÃ©es (RGPD), le
+Digital Services Act (DSA) et le Digital Markets Act (DMA) sont des Ã©quilibres justes, qui protÃ¨gent les
+citoyens tout en encadrant lâinnovation. Les affaiblir reviendrait Ã  laisser les gÃ©ants du numÃ©rique
+exploiter les plus vulnÃ©rables, au mÃ©pris des valeurs europÃ©ennes. Renforcer ces cadres, plutÃ´t que les
+affaiblir, est une prioritÃ©. Le logiciel libre peut aider.
+Voici quelques pistes concrÃ¨tes pour soutenir le dÃ©veloppement et la croissance du secteur des solutions
+Open Source de lâUE :
+
+ProtÃ©ger et promouvoir les valeurs europÃ©ennes
+    â¢ Maintenir et renforcer le RGPD, le DSA et le DMA en encourageant les Ãtats membres Ã  appliquer
+      ces rÃ¨gles, renforcer les contrÃ´les et sanctionner ci besoin.
+    â¢ Faire Ã©merger et mettre en avant les solutions Open Source qui respectent ces principes et
+      permettent de sây conformer (identification claire des donnÃ©es personelles pour le RGPD,
+      audidabilitÃ© des algorithmes pour le DSA). Cela permet de promouvoir une vision europÃ©enne du
+      numÃ©rique, centrÃ©e sur lâhumain et les droits fondamentaux.
+Soutenir financiÃ¨rement lâinnovation Open Source et souveraine
+    â¢ CrÃ©er un fonds souverain europÃ©en : InspirÃ© de la Banque des Territoires en France, ce fonds
+      pourrait financer le passage Ã  lâÃ©chelle des solutions libres et locales, en ciblant les projets Ã  fort
+      impact pour lâautonomie numÃ©rique.
+    â¢ Soutenir une plateforme de financement participatif : Sur le modÃ¨le de lâinitiative Copie Publique,
+      les entreprises utilisant des logiciels libres pour rÃ©pondre Ã  des appels dâoffres europÃ©ens
+      pourraient Ãªtre tenues dây contribuer financiÃ¨rement.
+Structurer lâÃ©cosystÃ¨me des solutions Open Source
+    â¢ Renforcer la Fondation NGI-Zero : Lui allouer plus de moyens pour rÃ©pondre aux besoins annexes
+      des projets Open Source (hÃ©bergement local, soutien juridique, marketing) et faciliter leur essor.
+    â¢ CrÃ©er un cadre dâarbitrage sur les licences Open Source, implÃ©mentÃ© par les Ãtats membres ou les
+      groupements industriels, ce mÃ©canisme permettrait de rÃ©soudre les conflits et de sÃ©curiser les
+      projets.
+    â¢ AccÃ©lÃ©rer la migration vers le libre : Poursuivre la migration des administrations europÃ©ennes vers
+      des solutions Open Source, et crÃ©er un espace dâÃ©change europÃ©en pour partager les bonnes
+      pratiques, les solutions et accompagner les acteurs publics dans leur transition.
+RÃ©former les marchÃ©s publics pour favoriser lâinnovation locale
+    â¢ Adapter les rÃ¨gles des appels dâoffres : Permettre aux petites structures (startups, PME) de
+      rÃ©pondre plus facilement, en simplifiant les procÃ©dures et en valorisant les solutions Open Source.
+    â¢ Appliquer le principe Â« argent public = code public Â» : Rendre systÃ©matique la publication en
+      Open Source des codes financÃ©s par des fonds publics, sauf exception justifiÃ©e.
+    â¢ Favoriser l'Ã©change et la mise en communautÃ© entre administrations semblables dans les diffÃ©rents
+      pays de l'Union.
+Promouvoir une culture europÃ©enne du logiciel Open Source
+    â¢ Organiser des campagnes de sensibilisation : Mettre en lumiÃ¨re les succÃ¨s des solutions Open
+      Source europÃ©ennes (comme Odoo, Nextcloud, Mastodon ou Matrix) pour inspirer dâautres
+      projets.
+    â¢ IntÃ©grer lâOpen Source dans les programmes Ã©ducatifs : Former les futurs dÃ©veloppeurs et
+      dÃ©cideurs aux enjeux de la souverainetÃ© numÃ©rique et des licences Open Source.
+
+Quels domaines technologiques devraient Ãªtre prioritaires et
+pourquoi ?
+La plupart des dÃ©bats sur les prioritÃ©s technologiques europÃ©ennes mettent en avant lâintelligence
+artificielle, la santÃ© ou lâindustrie de la dÃ©fense. Ces secteurs sont effectivement stratÃ©giques et font
+lâobjet dâune compÃ©tition internationale intense. Cependant, lâapport des Ã©cosystÃ¨mes Open Source Ã  ces
+domaines nâest pas un facteur dÃ©terminant pour assurer un leadership europÃ©en. Cela ne signifie pas que
+la Commission doit ignorer ces secteurs, mais plutÃ´t quâelle devrait concentrer ses efforts sur des
+domaines oÃ¹ lâOpen Source et les Ã©cosystÃ¨mes ouverts peuvent jouer un rÃ´le transformateur, en brisant
+des monopoles et en rÃ©duisant les dÃ©pendances critiques.
+Les secteurs fermÃ©s par des monopoles : des cibles prioritaires
+L'impact des Ã©cosystÃ¨mes numÃ©riques ouverts peut Ãªtre significatif dans les secteurs actuellement
+verrouillÃ©s par des acteurs dominants, qui exploitent des technologies Open Source tout en imposant des
+couches propriÃ©taires pour capter les utilisateurs. Trois domaines se distinguent :
+    â¢ Les systÃ¨mes dâexploitation : ContrÃ´lÃ©s par quelques acteurs qui abusent de leur position pour
+      contrÃ´ler leur marchÃ©
+    â¢ Les Ã©cosystÃ¨mes mobiles : Un duopole domine le marchÃ©, avec des modÃ¨les fermÃ©s et une
+      dÃ©pendance extrÃªme aux acteurs amÃ©ricains et asiatiques.
+    â¢ Les solutions dâhÃ©bergement cloud : Les gÃ©ants amÃ©ricains captent la majoritÃ© du marchÃ©, malgrÃ©
+      lâexistence de services europÃ©ens compÃ©titifs.
+Lâimposition de standards ouverts et dâinteropÃ©rabilitÃ© dans ces secteurs pourrait inflÃ©chir ces monopoles.
+La prÃ©sence d'outils libres aux capacitÃ©s comparables permettrait de casser ces monopoles et favoriser
+lâÃ©mergence dâalternatives europÃ©ennes durables.
+
+Le mobile : une prioritÃ© absolue
+LâEurope possÃ¨de le plus grand marchÃ© mobile du monde (en valeur) et maÃ®trise les technologies
+nÃ©cessaires, pourtant elle est totalement absente du marchÃ© des systÃ¨mes dâexploitation et de la
+distribution logicielle mobile, dominÃ©s par des acteurs amÃ©ricains, tandis que la fabrication des terminaux
+est asiatique. Cette dÃ©pendance reprÃ©sente un dÃ©ficit commercial abyssal et un risque majeur pour
+lâautonomie des utilisateurs (particuliers et entreprises). Favoriser un Ã©cosystÃ¨me mobile ouvert europÃ©en
+permettrait de rÃ©duire cette dÃ©pendance, crÃ©er des emplois et de la valeur locale, et offrir une alternative
+alignÃ©e sur les valeurs europÃ©ennes (protection des donnÃ©es, transparence).
+
+Le cloud : un enjeu de souverainetÃ©
+Le marchÃ© du cloud est aujourdâhui dominÃ© par les acteurs amÃ©ricains (Azure, AWS, Google Cloud), qui
+captent une clientÃ¨le mondiale grÃ¢ce Ã  des effets de rÃ©seau et des Ã©cosystÃ¨mes fermÃ©s. Pourtant, ces
+solutions sont soumises Ã  une loi extraterritoriale (Cloud Act) incompatible avec le rÃ¨glement europÃ©en
+RGPD. Pour rivaliser, lâUE devrait :
+    â¢ Pour les systÃ¨mes gÃ©rant des donnÃ©es personnelles ou sensibles, une politique de prÃ©fÃ©rence
+      communautaire sâimpose pour respecter le cadre protecteur europÃ©en. La crÃ©ation de briques
+      logicielles libres et auditÃ©es, assurant la sÃ©curitÃ© et la redondance des donnÃ©es, aiderait Ã  renforcer
+      la transparence des solutions et la confiance des utilisateurs.
+    â¢ Au-delÃ  de la dÃ©fense du cadre lÃ©gal europÃ©en, lâUE devrait veiller Ã  encourager lâinnovation pour
+      faire Ã©merger des alternatives europÃ©ennes innovantes comparables Ã  des acteurs comme Netlify
+      ou Vercel, qui combinent simplicitÃ© et performance.
+    â¢ LâEurope accuse aussi un retard dans le marchÃ© des CDN et le dÃ©veloppement dâoutils Open
+      Source pour cette activitÃ© pourrait aider Ã  lâÃ©mergence et la croissance dâacteurs europÃ©ens
+      capables de rivaliser avec Akamai ou Cloudflare.
+
+La sÃ©curitÃ© et la protection des donnÃ©es : un socle europÃ©en
+La vie privÃ©e et la sÃ©curitÃ© des donnÃ©es sont des prÃ©occupations centrales pour lâUE. Les secteurs de la
+santÃ©, de lâadministration et de lâÃ©ducation doivent pouvoir sâappuyer sur des solutions Open Source
+solides et sÃ©curisÃ©es, alignÃ©es sur les exigences europÃ©ennes (RGPD, etc.). Cet effort doit Ãªtre continu
+pour mieux rÃ©sister aux cyberattaques et promouvoir des modÃ¨les technologiques respectueux des droits
+fondamentaux. Un autre secteur pourrait Ãªtre dÃ©veloppÃ© : celui de la gestion du risque et du traitement des
+donnÃ©es. Le RGPD serait mieux acceptÃ© par les entreprises sâil disposait de logiciels Open Source pour
+assister leurs dÃ©lÃ©guÃ©s Ã  la protection des donnÃ©es.
+
+Dâautres pistes Ã  explorer
+Ces prioritÃ©s ne sont pas exhaustives. Dâautres domaines pourraient bÃ©nÃ©ficier dâune approche ouverte
+avec le soutien de la Commission, comme :
+    â¢ LâInternet des objets (IoT) et les systÃ¨mes embarquÃ©s, oÃ¹ lâOpen Source peut garantir
+      transparence et sÃ©curitÃ©.
+    â¢ Les solutions industrielles comme lâautomatisation et la robotique, oÃ¹ lâEurope est en position de
+      challenger et ne doit pas se laisser distancer.
+    â¢ Les plate-formes de rÃ©seaux sociaux pourraient inclure des algorythmes qui sont auditables by
+      design pour se conformer au DSA
+    â¢ Les infrastructures de communication (rÃ©seaux, messagerie).
+    â¢ Les outils collaboratifs (alternatives aux suites bureautiques propriÃ©taires).
+
+Dans quels secteurs lâutilisation accrue des solutions Open Source pourrait-elle
+renforcer la compÃ©titivitÃ© et la cyber-rÃ©silience ?
+Cette question a dÃ©jÃ  Ã©tÃ© abordÃ©e dans les rÃ©ponses prÃ©cÃ©dentes. Lâutilisation accrue de solutions libres
+peut renforcer la compÃ©titivitÃ© en contribuant Ã  briser les monopoles comme les systÃ¨mes dâexploitation,
+les Ã©cosystÃ¨mes mobiles, lâhÃ©bergement cloud ou les CDN. Il faut pour cela faciliter la mise en place de
+projets libres sâattaquant Ã  ces secteurs et soutenir les acteurs dans leur passage Ã  lâÃ©chelle.

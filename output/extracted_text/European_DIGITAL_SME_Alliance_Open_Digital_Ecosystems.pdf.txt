@@ -1,0 +1,126 @@
+Ref. Ares(2026)1223877 - 03/02/2026
+
+              Towards European Open Digital Ecosystems
+                European DIGITAL SME Alliance - Call for Evidence
+
+The European DIGITAL SME Alliance, representing over 45,000 tech small and medium
+enterprises across Europe, welcomes the efforts in creating a cohesive strategy that supports
+the role of open source technologies, especially in an effort to strengthen Europeâs tech
+sovereignty. Open source can be, as highlighted by the European Commission DG-DIGIT
+Report, a driver to attain digital sovereignty in Europe. However, this approach should be
+promoted under the condition that the strategy avoids creating grounds for an exclusive model
+rather than a balanced and diversified market of digital solutions made-in-Europe.
+
+Please find below an initial response by DIGITAL SME on the European Open Digital
+Ecosystems Strategy. A full response will be published after further consultations with
+its members.
+
+Strengths, weaknesses and barriers to open-source adoption
+The growth and diffusion of open-source ecosystems can create a positive impact for startups
+and SMEs, as it reduces costs and accelerates the development of new products by building
+on the foundation of open-source code. OSS can provide the possibility to start innovation
+from a safer and more structured code base, allowing European companies to focus on product
+diversification and to enhance their market offer. This is particularly beneficial for technology
+development in small and medium enterprises, as it would enable them to accelerate the initial
+development phase and make more effective use of their internal resources.
+
+At the same time, most EU-produced open-source code seems to be currently exploited by
+extra-EU entities, most notably big tech. For instance, those companies often apply a range of
+
+     +32 2893 0235                                       VAT: BE0899786252
+     https://digitalsme.eu                               office@digitalsme.eu
+     Rue Marie ThÃ©rÃ¨se 21, 1000 Brussels, Belgium        EU Transparency Reg.: 082698126468-52
+business strategies, which consists of first building a product compatible with an open
+standard, then layering on proprietary extensions that create incompatibilities, and finally
+letting market dominance turn those extensions into the new de facto standard, marginalising
+everyone who did not adopt them. Such practices can affect European digital sovereignty and
+limit the EUâs influence over its digital infrastructure.
+
+For these reasons, DIGITAL SME supports the efforts to boost European open source, but at
+the condition that this does not entail the risk of implicitly hindering the majority of the market
+of tech solutions made-in-Europe which European SMEs and startups populate with
+proprietary software and services.
+
+Added value of open source
+The strategy, if correctly implemented and complemented by targeted measures, with high
+priority to be placed on the measures boosting Cloud and AI capacity in the EU, as anticipated
+in light of the upcoming Cloud and AI Development Act, could contribute to European tech
+sovereignty. It would do so by delivering the following outcomes:
+
+   â    Reduce vendor lock-in. Open-source code, as a public good, prevents dependency on
+        single vendors technologies: OSS, for instance, allow European public and private
+        customers to switch providers more easily and retain full control over their data and
+        systems. This reduces the risk of vendor lock-in, strengthens strategic autonomy, and
+        supports the development of a competitive and resilient European homegrown
+        ecosystem.
+   â    Improve suppliersâ diversification. Boosting the diffusion of open-source products is
+        one option to promote better diversification of suppliers, keeping in mind that the issue
+        of control and development of the technology in the EU remains the most critical aspect
+        to ensure the sovereignty of a digital solution.
+
+     +32 2893 0235                                          VAT: BE0899786252
+     https://digitalsme.eu                                  office@digitalsme.eu
+     Rue Marie ThÃ©rÃ¨se 21, 1000 Brussels, Belgium           EU Transparency Reg.: 082698126468-52
+Concrete actions and priority areas
+Ensure fair market competition. Policies supporting open source do not erase the market
+challenges that European companies face, such as the network effects and market dominance
+exercised by big companies, and high coordination and administrative costs. The Open Digital
+Ecosystems Strategy should level the playing field and provide for a robust policy framework,
+and structured financing and investments ecosystems, so that also SME-led initiatives can
+succeed in scaling up.
+
+Focus on long-term maintenance. The strategy should not limit financing and support for
+developers to the early stages, as the main bottlenecks for SMEs in open source lie in long-
+term code maintenance, governance costs, and security updates. Without support during
+scaling and the medium to long-term, the ability of SMEs to expand and commercialise their
+products would be significantly constrained.
+
+Combine the Open Digital Ecosystems Strategy with targeted interoperability measures.
+To ensure that coding systems can work seamlessly together, the open-source strategy should
+be complemented by coherent and targeted industrial policy measures, which together can
+effectively promote better interoperability. This is particularly relevant in critical sectors such
+as artificial intelligence and cloud computing, where long-term interoperability and data
+portability are essential to maintain efficiency of products while ensuring an open and
+competitive market.
+
+Guarantee high cybersecurity standards. Open source can enhance transparency,
+auditability and resilience, while enabling SMEs to build and scale solutions on shared and
+trusted components. EU action should focus on the sustainability and security of open-source
+software across its entire lifecycle, in line with the CRA and NIS2.
+
+Areas of application. Priority should be given to tech areas that are both strategic for
+European tech sovereignty and close to market needs, such as AI, cybersecurity tools, software
+
+     +32 2893 0235                                        VAT: BE0899786252
+     https://digitalsme.eu                                office@digitalsme.eu
+     Rue Marie ThÃ©rÃ¨se 21, 1000 Brussels, Belgium         EU Transparency Reg.: 082698126468-52
+device frameworks, cloud and edge services, digital identity and trust technologies, and IoT
+software.
+
+    -      Artificial intelligence: open source is critical because AI development relies heavily on
+           large, shared datasets. European SMEs often lack the resources to develop proprietary
+           AI models from scratch. By leveraging open-source AI, they could implement advanced
+           machine learning solutions faster and reduce costs.
+    -      Digital public infrastructure. Open source can have a key role to promote
+           interoperability and more transparency, essential because many public contracts and
+           cross-border services require integration with standardized platforms, for instance e-
+           government services, digital identity and sensitive data exchange infrastructures. Using
+           open-source solutions could allow European operators to reduce dependence on non-
+           European systems, which can be costly and produce lock-in effects.
+
+Conclusion
+European DIGITAL SME Alliance supports the Commissionâs initiative to create a cohesive
+strategy for European Open Digital Ecosystems, at the condition that this does not become
+exclusive of portions of the existing market. DIGITAL SME supports the boost of made-in-
+Europe solutions in AI, digital public infrastructure and all the critical tech layers that are key
+to attain tech sovereignty, including via open-source solutions, to reduce vendor lock-in and
+foster better interoperability.
+
+DIGITAL SME particularly looks forward the publication of the Tech Sovereignty Package, and
+in particular the Cloud and AI Development Act, its core pillar, as a crucial opportunity to cut
+the dependency on extra-EU hyperscalers and boost European homegrown alternative
+solutions.
+
+        +32 2893 0235                                       VAT: BE0899786252
+        https://digitalsme.eu                               office@digitalsme.eu
+        Rue Marie ThÃ©rÃ¨se 21, 1000 Brussels, Belgium        EU Transparency Reg.: 082698126468-52

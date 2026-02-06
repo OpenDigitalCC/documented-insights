@@ -1,0 +1,277 @@
+Ref. Ares(2026)1222886 - 03/02/2026
+
+   Mozilla Submission to the European
+  Commissionâs Call for Evidence on the
+European Open Digital Ecosystem Strategy
+
+About Mozillaâ                                                                                                    2
+I. The Value of Open Sourceâ                                                                                      2
+     Competition and contestability across the web and AIâ                                                        3
+     Sovereignty, resilience and securityâ                                                                        4
+II. Challenges Faced by the Open Source Ecosystemâ                                                                5
+III. Policy Recommendationsâ                                                                                      6
+
+About Mozilla
+Mozilla welcomes the opportunity to contribute to the European Commissionâs Call for Evidence
+on the European Open Digital Ecosystem Strategy.
+
+Mozilla is a global community working together to build a better internet. For over 25 years, we
+have championed an open, accessible internet where choice, interoperability, privacy and security
+are fundamental rather than optional features. Mozilla is a family of open source projects,
+companies, philanthropic projects, research labs and a venture fund that all sit under the Mozilla
+umbrella. This diverse experience and leading technical expertise, combined with our non-profit
+mission and the centrality of the browser and browser engine to the web, give us a unique vantage
+point on the growth and evolution of digital ecosystems. Mozilla maintains the Firefox browser,
+used by millions of Europeans as their window to the web. Firefox runs on Mozillaâs Gecko browser
+engine, which is one of only three major browser engines left â alongside Googleâs Blink and
+Appleâs WebKit â and that has put us at the heart of web development and standards for the last
+two decades.
+
+In line with its mission to sustain an open and accessible web, Mozilla is now aiming to bring more
+openness to artificial intelligence (AI) as it increasingly becomes part of tools and technology
+that people rely on each day â including the web. In March 2023, we invested $30m in Mozilla.ai,
+an R&D lab creating tools to help developers tune open source large AI models so that they are
+more reliable. Through the Mozilla Corporation, weâre integrating AI into our existing products to
+ensure that users are offered choice and agency, and weâre investing in new AI-enabled products.
+Backed by the Mozilla Foundation, Mozillaâs philanthropic arm, the Mozilla Data Collective is
+rebuilding the AI data ecosystem with communities and what they want at its core. The platform
+supports data that is properly licensed, clearly sourced, and offered by its creators on their terms
+- whether that be for remuneration or fully open licensed - and everything in between. â
+
+For more information, please contact Tasos Stampelos (tstampelos@mozilla.com).
+
+                                                                                                                  1
+I. The Value of Open Source
+Mozilla strongly believes that free and open software promotes the development of the internet
+as a public resource. Europe is a hub of open source activity, and many developers and open
+source projects are based in the EU. In many Member States, free or low-cost university education
+allows students to contribute to open-source projects during their studies, rather than having to
+prioritize parallel full-time work. This supports early engagement, skills development, and
+long-term sustainability of open-source communities. This gives the EU an incredibly strong
+foundation to build from to champion open source software and capitalize on its many benefits.
+
+According to a European Commission study (2021), organizations in the EU invested about â¬1
+billion in open-source software only in 2018, with an estimated impact on the European economy
+of between â¬65 and â¬95 billion. The same study highlights that open source contributes
+significantly to the EU's GDP. At Mozilla, we are strong believers that building in the open and
+running a successful business are not contradictions, but that openness is a real differentiator
+and potential driver of economic growth in Europe. The auditability of open source software
+allows businesses to make informed decisions rather than having to trust the inscrutable
+products of providers offering proprietary software. At the same time, commercialization should
+not be the single goal of any policy initiative aimed at strengthening the open source ecosystem.
+Many open source components serve as essential building blocks and infrastructure across the
+entire tech stack, ensuring its security and integrity â often while being developed and
+maintained by volunteer developers without being monetized. So while strengthening the
+business opportunities available to the open source community is important, it is also crucial to
+provide sufficient and sustainable funding to support open source projects as essential and
+non-commercial digital infrastructure.
+
+At the beginning of this EU mandate, we called for an updated EU Strategy on Open Source. We
+welcome the European Commission's support over the past years in open-source projects and
+software development. With its 2020-2023 Open Source Software Strategy, the EUâs executive
+has shown its commitment to promoting the development of open-source software solutions, and
+we commend the Commission for reviewing and renewing the strategy at this critical moment for
+furthering European digital sovereignty, competitiveness and cybersecurity. We share the view of
+the Commission that the open-source sector is of critical importance for achieving these goals,
+and believe that embracing open source will help Europe build towards greater resilience in a
+sustainable and equitable way that promotes the openness of the web.
+
+Competition and contestability across the web and AI
+
+Mozilla has long promoted a decentralized, open, and interoperable internet. Our story started in
+1997 with Netscape Navigator, the original consumer browser and a popular browser of the 1990s.
+In a historic move for competition, Netscape publicly released its new browser engine (called
+"Gecko") under an open source license to enable others to verify, improve, and freely reuse its
+source code in their own products. Although Netscape â faced with anticompetitive tactics from
+Microsoft with its own browser, Internet Explorer â did not last after its acquisition by AOL, the
+stewards of Gecko created the nonprofit Mozilla Foundation with a mission to preserve the open
+internet and to continue working on open source browser technology. This resulted in the launch
+of Firefox, which would soon bring Microsoftâs browser monopoly to an end. Sine then, others
+have forked the Firefox codebase and used the Gecko browser engine to create new browsers
+with different features. The most well known example is Tor, an anonymity browser frequently
+used by journalists and human rights activists.
+
+Given our history, we strongly believe that open source is a key driver of innovation, competition
+and fair and contestable markets. Today, Gecko is one of only three major browser engines, and
+the browser engine landscape is highly concentrated. When engine diversity declines, so does the
+
+                                                                                                     2
+practical ability to challenge dominant business models or introduce alternative, and better,
+security and privacy solutions.
+
+If control over browser engines were concentrated in the hands of a small number of vertically
+integrated companies, especially those that also operate AI assistants, search engines, and
+advertising businesses, policy improvements around competition, transparency, and user choice
+would become significantly harder to achieve. Those companies would have both the ability and
+incentive to optimize engine capabilities for their own services, limit interoperability for
+third-party tools, or steer defaults in ways that route even more user data into their own
+ecosystems. Maintaining an independent engine also lowers barriers for others. Smaller browser
+developers that do not want to rely on Googleâs Chromium stack can build on Gecko, helping
+sustain a more pluralistic and competitive browser ecosystem. Engine diversity at this
+foundational layer ensures that innovation, including in AI-powered browsing experiences, is
+shaped by multiple actors and multiple visionsârather than dictated by a single dominant
+platform.
+
+In the same way that competition among browser engines has enabled innovation across the web,
+access to open source AI strengthens innovation, competition, and safety. The Linux Foundation, in
+a 2025 study, has found 89% of organizations using AI already rely on open models. Open source
+keeps costs down, supports interoperability, and gives SMEs and startups the freedom to
+innovate without being at the mercy of platform decisions by a handful of companies. Without
+open source, organizations' spending on AI deployments would be 3.5 times higher on average.
+Most crucially, for startups building on top of open-sourced LLMs, they can scale without
+structural dependencies and fear that their business models could be jeopardized by a change in
+Terms of Service from a provider.
+
+Open source also drives competition among developers. When companies must compete against
+freely available alternatives, they face pressure to deliver better performance, lower prices, and
+more flexible terms. This dynamic has played out repeatedly in software markets â open source
+alternatives force proprietary vendors to improve offerings or lose market share. As AI market
+concentration accelerates, with the rise of agentic AI systems posing new threats as existing
+gatekeepers position themselves to control key access points for future innovation, enablers of
+competition ,such as open sourc,e become even more important.
+
+Sovereignty, resilience and security
+
+For Mozilla, digital sovereignty is not about technological isolation or replacing one dependency
+with another. It is about ensuring that Europe retains meaningful capacity to understand, shape,
+deploy, and govern the digital infrastructure on which its economy, public services, and
+democratic life increasingly depend. Open source software, independent browser engines, and
+open AI ecosystems are essential enablers of that capacity.
+
+At the infrastructure layer, diversity and openness reduce structural dependencies. When critical
+digital functions are mediated by a small number of proprietary stacks controlled by a handful of
+actors, the ability of policymakers, regulators, developers, and users to exercise real choice is
+constrained in practice, regardless of formal regulatory powers. By contrast, open source
+components allow public authorities, researchers, businesses, and civil society to inspect how
+systems work. This creates verifiable trust: open source stacks can be audited, tested, and
+scrutinized, rather than requiring blind trust in opaque systems. By allowing developers to pursue
+forks that meet local needs, improve and build on the work of others, open source enables
+interoperable, open source also invites interoperability and innovation. Thus, openness
+strengthens technological capacity through pluralism rather than concentration.
+
+Resilience follows directly from this diversity. Monocultures at foundational layers create
+systemic risk: a single vulnerability, commercial failure, or unilateral change in terms can cascade
+across entire ecosystems. A more pluralistic landscape of engines, libraries, and AI models
+
+                                                                                                       3
+enables faster collective response to incidents and supports continuity when individual suppliers
+exit the market or change direction. For users and organizations, this also means operational
+resilience and continuity: the ability to switch providers or products without losing functionality,
+data, or security guarantees.
+
+Security is also strengthened by openness, when paired with appropriate processes and
+resources. Open source software is auditable by design: vulnerabilities can be discovered,
+documented, and fixed by a broad community rather than only by a single vendor. Independent
+browser engines and open AI models make it possible for researchers and regulators to examine
+how data flows, how safeguards are implemented, and how new capabilities affect users. This
+transparency enables evidence-based security assurance and accountability, rather than security
+claims that cannot be independently verified. It is a prerequisite for credible oversight and
+informed risk management.
+
+As browsers become a primary interface for AI-powered functionality, sovereignty, resilience, and
+security considerations become even more tightly coupled. Browser engines increasingly mediate
+how AI systems access web content, how user data is exposed or protected, and how new
+AI-driven capabilities are integrated into everyday workflows. If this layer is controlled by a few
+vertically integrated companies that also operate their own AI assistants, cloud platforms, and
+advertising businesses, dependencies risk becoming entrenched at exactly the point where future
+digital value and control are concentrated. Sustaining independent, open engines and open AI
+ecosystems therefore serves not only competition and user choice, but also customer control,
+operational continuity, and long-term resilience in case dominant services are withdrawn or
+materially changed.
+
+II. Challenges Faced by the Open Source
+Ecosystem
+Despite the success and uptake of open-source software in Europe, many critical open-source
+software projects lack sustainable funding and support. Funded research projects often fail to
+gain critical momentum after the funding period has ended. We have heard from our community
+that traditional funding models sometimes force open-source projects toward premature
+commercialization, or force them to achieve sustainability through volunteer effort alone. Many
+project maintainers essentially volunteer their time without compensation, alongside other
+full-time roles. As mentioned above, commercialization is also not an appropriate goal or strategy
+for every source project, and many critical open source components contribute to economic
+growth indirectly without beckoning commercialization themselves. Both public financial and
+community-driven support is therefore necessary to ensure the long-term sustainability of open
+source projects.
+
+One area which would especially benefit from sustainable support is the participation of the open
+source community in standard-setting bodies. Participating in the work of these bodies requires
+significant time investment and expertise, prerequisites not easy to meet for many open source
+projects and developers. However, the participation is crucial to ensure the representation of
+public interest perspectives, as well as cross-regional harmonization to enable global
+interoperability.
+
+Besides the lack of stable funding for open source projects, and especially for maintaining critical
+open source infrastructure, the European open source ecosystem continues to navigate a complex
+regulatory landscape that often does not take the specific needs and challenges of open source
+projects into account. This should not be construed as an ask for less regulation, but a serve as
+reminder that regulatory requirements that are feasible to implement for large commercial
+organizations often pose massive barriers for open source projects, especially those run and
+maintained by volunteers. Where possible, lawmakers should scrutinize legislative initiatives in
+
+                                                                                                       4
+regard to their impact on the open source ecosystem and whether they risk creating new barriers
+for open source projects.
+
+Besides regulatory models designed with large commercial entities in mind, legal uncertainty is a
+major obstacle for open source projects. In relation to open-source AI, research by McKinsey
+shows that compliance uncertainty is a major barrier to open-source AI adoption. Looking at the
+ongoing negotiations of the Digital Omnibus and the AI Omnibus, we want to highlight the need to
+increase, rather than undermine, legal certainty. We recognize and agree with the European
+Commissionâs motivation to reduce unnecessary administrative burdens and improve
+predictability, especially for organizations trying to comply in good faith across the Digital Single
+Market. But simplification must be judged by outcomes. Changes that reopen foundational
+definitions, create new carve-outs, or weaken the enforceability of European law amount to
+deregulation and risk producing the opposite of what the omnibus package intends: more legal
+uncertainty, more fragmentation in practice, and more disputes about when the GDPR applies at
+all.
+
+Regulation can also play a critical role in leveling the playing field for the open source sector. The
+EUâs competition tools have already proven essential to proponents of open-source adoption.
+Mozillaâs early experiences with the Digital Markets Act (DMA) proves the positive impact of
+regulatory intervention to ensure markets are fairer and contestable. Since the DMA gave users
+the ability to more easily choose between browsers, Firefox has seen 100% growth in daily iOS
+users across the EU, and high retention rates. The DMA has further potential to intervene to the
+benefit of open-source software and open-source AI.
+
+III. Policy Recommendations
+To leverage the benefits of openness, strengthen the open source ecosystem and address
+challenges faced by the community, the European Digital Ecosystem strategy should lay the
+groundwork to implement the following recommendations.
+
+   1.â Facilitate the public procurement of open source and open source AI solutions. This
+       requires the adjustment of tendering processes and templates to better account for open
+       source technologies and reduce administrative obstacles for open source vendors, rather
+       than structurally favoring proprietary technology. The benefits of open source should be
+       systematically considered with regard to independence, resilience, cost savings, and
+       interoperability as part of the procurement process.
+   2.â Prioritize the creation of an EU Sovereign Tech Fund to fund the development and
+       maintenance of critical open source infrastructure and open source building blocks of
+       strategic value. Allocate funding to incubate, develop, and maintain an open source AI
+       stack.
+   3.â Support the mainstreaming of open source requirements in research and innovation
+       funding, e.g. through the upcoming Multiannual Financial Framework of the European Union
+       and appropriate funds such as the European Competitiveness Fund and Horizon Europe and
+       its successors.
+   4.â Facilitate the mainstreaming of open source requirements in public administrations and
+       authorities. Support the development and maintenance of Open Source Program Offices in
+       the public sector to advocate for the uptake of open source internally, and support
+       developers and maintainers of open source projects in regard to navigating compliance
+       needs.
+   5.â Introduce an open source check to ensure that new legislative and non-legislative
+       initiatives reflect the strategic value of open source and consider potential compliance
+       and implementation challenges for open source projects.
+   6.â Facilitate the consistent involvement of the open source community in relevant legislative
+       and commitology processes, and mobilize funding and institutional support to enable open
+       source developers and maintainers to engage in standards setting bodies.
+
+                                                                                                         5
+7.â Support Member States in identifying levers to grow open source talent, including through
+    anchoring open source in STEM education, both formal and informal, creating safe
+    pathways for migration, and enabling the cross border exchange of students, researchers
+    and scientists.
+8.â Consider accompanying the Open Digital Ecosystem Strategy with a dedicated open
+    source AI strategy to support credibly open alternatives across the AI stack, thereby
+    strengthening European competitiveness, reducing strategic dependencies, and investing
+    into economic prosperity, security, resilience, and global influence.
+
+                                                                                                6

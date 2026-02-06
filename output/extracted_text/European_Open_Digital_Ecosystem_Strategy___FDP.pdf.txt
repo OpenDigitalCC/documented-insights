@@ -1,0 +1,2155 @@
+Ref. Ares(2026)844105 - 25/01/2026
+
+Call for evidence âEuropean Open Digital Ecosystem Strategyâ
+
+ToC
+1. What are the strengths and weaknesses of the EU open-source sector? What are the
+main barriers that hamper (i) adoption and maintenance of high-quality and secure open
+source; and (ii) sustainable contributions to open-source communities? ..................... 3
+  1. Diagnosis: Strengths and Weaknesses of the EU Open Source Sector ................... 3
+  2. Main Barriers to Adoption and Maintenance (i)..................................................... 7
+  3. Main Barriers to Sustainable Contribution (ii)....................................................... 8
+2. What is the added value of open source for the public and private sectors? Please
+provide concrete examples, including the factors (such as cost, risk, lock-in, security,
+innovation, among others) that are most important to assess the added value. ............. 9
+  Cost Savings and Economic Efficiency ................................................................... 9
+  Freedom from Vendor Lock-in .............................................................................. 10
+  Security and Transparency ................................................................................... 10
+  Innovation and Interoperability ............................................................................ 11
+  Risk Mitigation .................................................................................................... 11
+  Concrete Implementation Examples .................................................................... 11
+  Assessment Framework ...................................................................................... 12
+3. What concrete measures and actions may be taken at EU level to support the
+development and growth of the EU open-source sector and contribute to the EUâs
+technological sovereignty and cybersecurity agenda? ............................................... 12
+  Solutions to the weaknesses described in Chapter 1 ............................................. 15
+  Cross-Cutting Implementation Principles ............................................................. 26
+4. What technology areas should be prioritised and why? for europe to be sovereing? . 27
+  Tier 1: Quick Wins â High Feasibility, Immediate Impact ......................................... 27
+  Tier 2: High Strategic Priority â Moderate Feasibility, Critical for Sovereignty ............ 28
+  Artificial Intelligence Infrastructure and Models .................................................... 29
+  Open source alternative landscape: ..................................................................... 30
+  Cybersecurity Tooling and Supply Chain Security .................................................. 31
+  Tier 3: Strategic Long-Term â High Complexity, Transformative Potential .................. 32
+     Edge Computing and Industrial IoT .................................................................... 32
+     Digital Payments Infrastructure (Digital Euro)..................................................... 33
+     Cross-Cutting Enablers .................................................................................... 34
+
+     digitalpoland.org / fundacja digitalpoland / KRS: 0000678161 / NP. 9452208732
+                       StÄpiÅska 22/30, 00-739, Warszawa, Polska
+5. In what sectors could an increased use of open source lead to increased
+competitiveness and cyber resilience? .................................................................... 34
+  1. Automotive: Software-Defined Vehicles (SDV) ................................................... 35
+     Competitiveness Benefits ................................................................................ 35
+     Cyber Resilience Benefits ................................................................................ 36
+     EU Policy Support ............................................................................................ 36
+     Recommended actions: ................................................................................... 36
+  2. Public Administration and Digital Government Services ..................................... 37
+     Competitiveness Benefits ................................................................................ 37
+     Cyber Resilience Benefits ................................................................................ 37
+     Strategic Implementation Framework ............................................................... 38
+     Recommended actions: ................................................................................... 38
+  3. Healthcare: Electronic Health Records and Medical Interoperability ................... 38
+     Competitiveness Benefits ................................................................................ 39
+     Cyber Resilience Benefits ................................................................................ 39
+     Recommended actions: ................................................................................... 40
+  4. Financial Services: Open Banking and Financial Infrastructure ........................... 40
+     Competitiveness Benefits ................................................................................ 40
+     Cyber Resilience Benefits ................................................................................ 41
+     Recommended actions: ................................................................................... 42
+  5. Energy: Smart Grid and Critical Infrastructure.................................................... 42
+     Competitiveness Benefits ................................................................................ 42
+     Cyber Resilience Benefits ................................................................................ 43
+     Recommended actions: ................................................................................... 44
+  6. Telecommunications: 5G Open RAN and Network Infrastructure ........................ 44
+     Competitiveness Benefits ................................................................................ 44
+     Cyber Resilience Benefits ................................................................................ 45
+     Recommended actions: ................................................................................... 46
+  Cross-Sectoral Priorities...................................................................................... 46
+
+     digitalpoland.org / fundacja digitalpoland / KRS: 0000678161 / NP. 9452208732
+                       StÄpiÅska 22/30, 00-739, Warszawa, Polska
+1. What are the strengths and weaknesses of the EU
+open-source sector? What are the main barriers that
+hamper (i) adoption and maintenance of high-quality and
+secure open source; and (ii) sustainable contributions to
+open-source communities?
+1. Diagnosis: Strengths and Weaknesses of the EU Open Source
+Sector
+A. Strengths
+
+   â¢     High-Calibre Talent Pool & Developer Community: The EU is home to one of the
+         world's largest, most active, and highly skilled communities of open source
+         contributors. European developers are disproportionately represented in core
+         infrastructure projects (e.g., Linux kernel, embedded systems). European organizations
+         recognize open source as essential for digital sovereignty, with 69% believing OSS
+         adoption increases productivity and creates opportunities for advancing AI projects
+         and reducing vendor dependency.
+
+   â¢     Technical excellence in strategic domains: European open-source projects have
+         achieved strong positions in critical areas including high-performance computing, edge
+         computing, cloud infrastructure, and cybersecurity. EU-funded initiatives like Next
+         Generation Internet, FIWARE, and the Digital Commons European Digital Infrastructure
+         Consortium demonstrate proven capability to develop world-class open technologies
+
+   â¢     Regulatory & Value Alignment: The inherent transparency and auditability of OSS
+         align perfectly with European values and regulatory frameworks, specifically GDPR, the
+         AI Act, and the Cyber Resilience Act (CRA). OSS is the only viable mechanism to
+         guarantee the "security by design" and digital sovereignty that EU policy mandates.
+
+   â¢     Strong Research & Industrial Base: Through programs like Horizon Europe, the EU
+         excels at funding early-stage innovation. Furthermore, Europe leads in industrial
+         engineering (automotive, manufacturing, robotics). This creates a natural "home turf"
+         advantage for OSS in Industrial IoT, Edge Computing, and open hardware (e.g., RISC-V).
+
+   â¢     Emerging Political Will: Initiatives like the NGI (Next Generation Internet) and the
+         recognition of Digital Commons as a strategic asset demonstrate a shifting political
+         mindset towards supporting open infrastructure.
+
+B. Weaknesses
+
+       digitalpoland.org / fundacja digitalpoland / KRS: 0000678161 / NP. 9452208732
+                         StÄpiÅska 22/30, 00-739, Warszawa, Polska
+â¢     The "Valley of Death" in Commercialization: While Europe is excellent at funding
+      research (creating code), it fails at funding commercialization (building products). There
+      is a chronic lack of growth capital for OSS scale-ups compared to the US, leading to
+      European innovations being acquired or monetized by non-EU tech giants.
+
+â¢     Lack of strategic maturity: the Linux Foundation Europe's 2025 research revealed that
+      66% of European organizations lack a formal open-source strategy and 78% have not
+      implemented an open-source program office (OSPO). This strategic immaturity
+      hampers coordination, investment decisions, and systematic contribution to open-
+      source ecosystems.
+
+â¢     Institutional Vacuum and Lack of Policy Coordination (The OSPO Gap): There is a
+      critical absence of Open Source Program Offices (OSPOs) at the national and
+      regional levels across many Member States. While some pioneers exist, there is no
+      pan-European network to harmonize OSS policies. Impact: This leads to a "fragmented
+      sovereignty" where each country reinvents the wheel. Without a central mandate or
+      coordinated strategy at the EU level, best practices for OSS governance, licensing, and
+      security remain siloed, preventing the emergence of a unified European digital market.
+
+â¢     Absence of a "Public Money, Public Code" Mandate: There is currently no legal
+      obligation for the public sector to publish software developed with taxpayer funds into
+      public repositories. Impact: Vast amounts of high-quality code developed for local or
+      national administrations remain "dark" (proprietary or hidden). This lack of
+      transparency prevents other Member States from reusing existing solutions, leading to
+      massive financial waste and missed opportunities for cross-border interoperability.
+
+â¢     Fragmented Collaboration: The "Snowdrop" Syndrome: Cooperation between
+      countries on shared codebases is the exception, not the rule. While there are promising
+      "snowdrops" (early signs of spring) such as the Architecture Reference Framework
+      (ARF) for the EUDI Wallet or the EDIC for Digital Commons, these remain isolated
+      projects rather than a standard operational model. Impact: Instead of building a
+      "European Tech Stack," Member States continue to procure 27 different versions of
+      similar systems, failing to achieve the economies of scale that would allow EU
+      solutions to compete with global tech giants.
+
+â¢     Procurement Bias and Systemic Exclusion (The "Brand Name" Trap): Public
+      procurement often features explicit or implicit bias toward proprietary vendors. As
+      highlighted in the 2025 Instrat Foundation report, it is a common (and detrimental)
+      practiceâfor example, in Polandâto specify brand names like Microsoft or Google in
+      Terms of Reference (SWIZ/SIWZ) for cloud services or office suites. Impact: This
+      creates an uneven playing field where OSS is effectively excluded from the start. It
+      cements dependency on non-EU vendors and prevents local OSS-based companies
+      from competing for public contracts, even when their solutions are more cost-effective
+      and secure.
+    digitalpoland.org / fundacja digitalpoland / KRS: 0000678161 / NP. 9452208732
+                      StÄpiÅska 22/30, 00-739, Warszawa, Polska
+â¢     Educational Dependency: The "Classroom-to-Cloud" Pipeline: Open source
+      literacy is missing from school curricula. Instead of teaching students vendor-neutral
+      computational logic, many Member States subsidize the adoption of Microsoft 365 or
+      Google Workspace in schools. Impact: This creates early-age "vendor lock-in," training
+      the next generation of workers to be proficient only in specific proprietary tools. It
+      stifles the development of a culture of "openness" and prevents students from
+      understanding the underlying mechanics of the technology they use.
+
+â¢     Chronic Underfunding of the "Human Infrastructure" (Volunteers): There are no
+      dedicated EU-wide funds to support the individual maintainers and volunteer
+      communities who uphold critical digital infrastructure. Impact: Since critical libraries
+      are often maintained by unpaid developers in their spare time, the ecosystem is fragile.
+      Without financial support for these "human foundations," Europe risks burn-out among
+      its top talent and increased security vulnerabilities in its supply chain.
+
+â¢     Lack of IT Spending Transparency and Procurement Inventory: Most Member States
+      lack a centralized, transparent inventory of IT assets, software licenses, and digital
+      procurement spending. There is no unified "IT budget line" at the national level,
+      meaning that even top government officials often do not know the total expenditure on
+      proprietary software versus open solutions. Case Study & Impact: In Poland, it was
+      only in 2025 that the SIST (System Inwentaryzacji SystemÃ³w Teleinformatycznych)
+      gained proper legal standing to track and report IT systems and procurement.
+      Previously, neither the Prime Minister nor the Ministry of Finance could accurately state
+      the total national spend on IT.
+
+â¢     Lack of Scale-up Funding and Competitive Challenges (The AI Gap): The EU lacks
+      aggressive, open-competition funding models for scaling high-potential projects. Unlike
+      Indiaâs "Bhashini" or other sovereign AI initiatives, Europe does not yet have enough
+      large-scale, open challenges to build and scale foundational models (like LLMs) or core
+      infrastructure. Impact: European OSS projects stay "small" or "academic." Without
+      "winner-takes-most" style support for the best open-source projects, the EU will
+      continue to lose the race in emerging fields like Generative AI to heavily subsidized or
+      venture-backed foreign entities.
+
+â¢     The "Silo" Problem: This lack of inventory extends to State-Owned Enterprises
+      (SOEs) and local governments, where each entity procures hardware and software in
+      isolation. This leads to:
+
+         o   Duplication of costs: Paying for the same license multiple times across
+             different departments.
+
+         o   Inability to aggregate demand: Without a clear inventory, countries cannot use
+             their "buyer power" to negotiate better terms or mandate Open Source
+             alternatives.
+
+    digitalpoland.org / fundacja digitalpoland / KRS: 0000678161 / NP. 9452208732
+                      StÄpiÅska 22/30, 00-739, Warszawa, Polska
+            o   Strategic Blindness: It is impossible to manage a transition to technological
+                sovereignty when the "as-is" state of dependency is not even measured.
+
+   â¢     Fragmentation of the Ecosystem: The EU OSS landscape is characterized by small,
+         scattered SMEs and individual contributors. It lacks the large "anchor tenants", a
+         massive technology companies that, in the US or China (big tech), provide the funding,
+         infrastructure, and full-time personnel to maintain critical open source projects.
+
+   â¢     Infrastructure Dependency: European OSS development largely relies on non-EU
+         infrastructure (e.g., GitHub/Microsoft, AWS, GitLab). This creates a paradox where the
+         code is open, but the platforms hosting, building, and distributing it are controlled by
+         external jurisdictions, posing a risk to sovereignty.
+
+   â¢     Value capture outside Europe: A fundamental weakness is that much of the
+         economic value generated by European open-source communities flows outside the
+         EU, often benefiting large technology companies headquartered elsewhere. While
+         European developers contribute substantially to the global digital commons (which
+         underpins 70-90% of all code in the digital economy), commercialization and
+         ecosystem monetization predominantly occur beyond EU borders.
+
+2. Main Barriers to Adoption and Maintenance (i)
+
+The following barriers hinder the widespread adoption of high-quality, secure OSS, particularly
+in the public sector and critical industries:
+
+   â¢     Procurement Inertia and Vendor Lock-in:
+
+            o   Public procurement processes are historically designed for proprietary
+                licensing models ("buying a box") rather than service-based models ("funding
+                development/support").
+
+            o   Legacy vendor lock-in creates high switching costs. Many public administrators
+                perceive "nobody gets fired for buying [Dominant Proprietary Vendor]" as a
+                safer route, despite the long-term strategic risk.
+
+   â¢     The "Productization Gap" (Code vs. Product):
+
+            o   There is a distinction between excellent code and an enterprise-ready product.
+                Many EU OSS projects lack professional documentation, defined Service Level
+                Agreements (SLAs), user-friendly interfaces, and legal indemnity.
+
+            o   Without a business entity to provide liability guarantees (crucial under the new
+                Cyber Resilience Act), risk-averse organizations hesitate to adopt community-
+                run projects.
+
+   â¢     The "Tragedy of the Commons" in Security Maintenance:
+
+       digitalpoland.org / fundacja digitalpoland / KRS: 0000678161 / NP. 9452208732
+                         StÄpiÅska 22/30, 00-739, Warszawa, Polska
+            o   Critical OSS infrastructure is often maintained by unpaid volunteers. There is a
+                systemic lack of funding for maintenance (bug fixes, security patches,
+                refactoring) as opposed to new features.
+
+            o   This underfunding creates security vulnerabilities (e.g., Log4j scenario) which
+                damages the reputation of OSS regarding safety and reliability.
+
+3. Main Barriers to Sustainable Contribution (ii)
+
+For the ecosystem to thrive, consumption must be balanced with contribution. Currently, the
+following barriers prevent this cycle:
+
+   â¢     The "Free-Rider" Problem:
+
+            o   Large commercial entities often consume OSS components to build proprietary
+                products without contributing back to the upstream projects (neither code nor
+                funding). This extractive model exhausts maintainers and threatens project
+                longevity.
+
+   â¢     Lack of Organizational Maturity (OSPOs):
+
+            o   Few European public bodies or traditional industries have established Open
+                Source Program Offices (OSPOs). Without these dedicated units,
+                organizations lack the legal policies, technical workflows, and cultural mandate
+                to allow their employees to contribute code back to the community.
+
+   â¢     Legal and Bureaucratic Uncertainty:
+
+            o   In the public sector, contributing code developed with public funds is often
+                hindered by unclear intellectual property (IP) regulations or fears of "state aid."
+                There is a lack of a clear "Public Money, Public Code" default mechanism that
+                legally mandates and simplifies the release of government-funded software.
+
+   â¢     Misaligned Incentives in Funding:
+
+            o   Grant systems often prioritize "novelty" over "sustainability." It is easier to get
+                EU funding to write a new framework than to maintain and secure an existing
+                widely-used library, discouraging long-term stewardship.
+
+2. Main Barriers to Adoption and Maintenance (i)
+   â¢     Procurement Inertia and Vendor Lock-in:
+
+            o   Public procurement processes are historically designed for proprietary
+                licensing models ("buying a box") rather than service-based models ("funding
+                development/support").
+
+       digitalpoland.org / fundacja digitalpoland / KRS: 0000678161 / NP. 9452208732
+                         StÄpiÅska 22/30, 00-739, Warszawa, Polska
+            o   Legacy vendor lock-in creates high switching costs. Many public administrators
+                perceive "nobody gets fired for buying Dominant Proprietary Vendor" as a safer
+                route, despite the long-term strategic risk.
+
+   â¢     The "Productization Gap" (Code vs. Product):
+
+            o   There is a distinction between excellent code and an enterprise-ready product.
+                Many EU OSS projects lack professional documentation, defined Service Level
+                Agreements (SLAs), user-friendly interfaces, and legal indemnity.
+
+            o   Without a business entity to provide liability guarantees (crucial under the new
+                Cyber Resilience Act), risk-averse organizations hesitate to adopt community-
+                run projects.
+
+   â¢     The "Tragedy of the Commons" in Security Maintenance:
+
+            o   Critical OSS infrastructure is often maintained by unpaid volunteers. There is a
+                systemic lack of funding for maintenance (bug fixes, security patches,
+                refactoring) as opposed to new features.
+
+            o   This underfunding creates security vulnerabilities (e.g., Log4j scenario) which
+                damages the reputation of OSS regarding safety and reliability.
+
+3. Main Barriers to Sustainable Contribution (ii)
+For the ecosystem to thrive, consumption must be balanced with contribution. Currently, the
+following barriers prevent this cycle:
+
+   â¢     The "Free-Rider" Problem:
+
+            o   Large commercial entities often consume OSS components to build proprietary
+                products without contributing back to the upstream projects (neither code nor
+                funding). This extractive model exhausts maintainers and threatens project
+                longevity.
+
+   â¢     Lack of Organizational Maturity (OSPOs):
+
+            o   Few European public bodies or traditional industries have established Open
+                Source Program Offices (OSPOs). Without these dedicated units,
+                organizations lack the legal policies, technical workflows, and cultural mandate
+                to allow their employees to contribute code back to the community.
+
+   â¢     Legal and Bureaucratic Uncertainty:
+
+            o   In the public sector, contributing code developed with public funds is often
+                hindered by unclear intellectual property (IP) regulations or fears of "state aid."
+                There is a lack of a clear "Public Money, Public Code" default mechanism that
+                legally mandates and simplifies the release of government-funded software.
+
+       digitalpoland.org / fundacja digitalpoland / KRS: 0000678161 / NP. 9452208732
+                         StÄpiÅska 22/30, 00-739, Warszawa, Polska
+   â¢     Misaligned Incentives in Funding:
+
+            o   Grant systems often prioritize "novelty" over "sustainability." It is easier to get
+                EU funding to write a new framework than to maintain and secure an existing
+                widely-used library, discouraging long-term stewardship.
+
+2. What is the added value of open source for the public
+and private sectors? Please provide concrete examples,
+including the factors (such as cost, risk, lock-in, security,
+innovation, among others) that are most important to
+assess the added value.
+Open source software delivers substantial added value across both public and private sectors
+through multiple interconnected dimensions: cost efficiency, strategic autonomy, security
+transparency, innovation acceleration, and risk reduction. The value proposition varies by
+context but consistently outweighs proprietary alternatives when assessed holistically.
+
+Cost Savings and Economic Efficiency
+   â¢     Direct license cost reduction: Open source eliminates recurring license fees that can
+         consume 20-40% of public sector IT budgets. The City of Barcelona's migration to open
+         source technologies aimed to redirect 70% of its software budget toward open source
+         solutions by 2019, enabling reinvestment in local IT talent and custom development
+         rather than vendor payments. Research shows that cost savings and faster
+         development are the top benefits companies report from open source adoption.
+   â¢     Avoided duplication and reuse efficiency: When public administrations share open
+         source code, they eliminate redundant development efforts. A single solution can be
+         deployed across multiple jurisdictions with customization, rather than each entity
+         procuring bespoke systems. Studies on open data (a related concept) demonstrate that
+         making research outputs openly available can save up to 9% of project costs by
+         preventing unnecessary data collection and facilitating efficient reuse. Labour cost
+         savings from data sharing and curation range from two to over twenty times the
+         operational costs of maintaining shared repositories.
+   â¢     Increased GDP and startup formation: Economic modeling indicates that a 10%
+         increase in open source contributions could raise EU GDP by 0.4-0.6% and generate
+         over 600 new startups, demonstrating macroeconomic value beyond individual project
+         savings.
+
+       digitalpoland.org / fundacja digitalpoland / KRS: 0000678161 / NP. 9452208732
+                         StÄpiÅska 22/30, 00-739, Warszawa, Polska
+Freedom from Vendor Lock-in
+  â¢     Reduced strategic dependency: Proprietary software creates dependency through
+        data formats, APIs, and integration ecosystems that make switching costly or
+        technically infeasible. Open source provides access to source code, enabling
+        organizations to maintain, modify, and migrate systems independently. Organizations
+        can self-host critical components or switch service providers without losing
+        functionality, whereas proprietary solutions typically bind customers to single vendors
+        through technical and contractual restrictions.
+  â¢     Portability and multi-cloud flexibility: Open source technologies like Kubernetes
+        enable workloads to run across different cloud providers with minimal changes,
+        supporting multi-cloud and hybrid strategies that prevent single-provider dependency.
+        The World Bank notes that governments can "fast-track the delivery of services" using
+        core open source systems as public goods, with value-added services developed
+        independently by government or third parties since specifications and code are public.
+  â¢     Concrete example: EUDI Wallet: The EU Digital Identity Wallet's Architecture
+        Reference Framework (ARF) is developed as open source specifically to ensure
+        interoperability, security, and privacy across all 27 Member States. This prevents any
+        single vendor from controlling the European digital identity infrastructure and enables
+        each country to implement solutions compatible with the shared framework while
+        maintaining sovereignty over their systems.
+
+Security and Transparency
+  â¢     Supply chain visibility: Open source enables transparency in the software supply
+        chain, allowing organizations to identify dependencies, audit code, and verify security
+        properties. The EU's FOSSA (Free and Open Source Software Auditing) initiative has
+        conducted security audits of open source projects used in EU technology
+        infrastructure, identifying and correcting vulnerabilities that strengthen cybersecurity
+        across Europe.
+  â¢     Rapid vulnerability response: When security issues are discovered in open source
+        software, the entire community can contribute to fixes, and patches can be deployed
+        without waiting for vendor release cycles. Organizations are not dependent on
+        proprietary vendors' priorities or timelines for addressing critical vulnerabilities.
+  â¢     Compliance with emerging regulation: The Cyber Resilience Act, AI Act, and
+        Interoperable Europe Act emphasize openness, standards, and transparencyâ
+        requirements naturally aligned with open source approaches. Open source facilitates
+        compliance with Software Bill of Materials (SBOM) requirements and security baseline
+        standards mandated by these frameworks.
+
+      digitalpoland.org / fundacja digitalpoland / KRS: 0000678161 / NP. 9452208732
+                        StÄpiÅska 22/30, 00-739, Warszawa, Polska
+Innovation and Interoperability
+
+  â¢     Accelerated development cycles: Companies report faster development as a primary
+        benefit of open source because they can build on existing, tested components rather
+        than developing from scratch. Investment in open source through programs like
+        Horizon 2020 has stimulated innovation in key areas including artificial intelligence,
+        cybersecurity, and cloud computing.
+  â¢     Enhanced interoperability: Open source adoption has improved interoperability
+        between systems across EU public administration, facilitating collaboration and data
+        exchange between Member States. Open standards and open APIs reduce integration
+        friction and enable ecosystem-wide compatibility that proprietary solutions typically
+        obstruct through deliberate incompatibility.
+  â¢     Community-driven improvement: The collaborative development model means that
+        improvements and innovations contributed by any user benefit the entire ecosystem.
+        Public sector organizations can pool resources to enhance shared solutions rather than
+        each paying vendors separately for similar feature requests.
+
+Risk Mitigation
+
+  â¢     Business continuity assurance: With access to source code, organizations are
+        protected against vendor bankruptcy, acquisition, product discontinuation, or strategic
+        pivots. If a commercial open source provider becomes unavailable, organizations can
+        maintain systems independently or contract alternative service providers.
+  â¢     Reduced procurement risk: Traditional procurement often goes over budget and over
+        time. Open source solutions available as public goods reduce procurement complexity
+        and provide replicability, allowing governments to avoid "reinventing the wheel" and
+        reduce consultant procurement costs.
+  â¢     Geopolitical resilience: Europe's reliance on external proprietary technology creates
+        geopolitical vulnerabilities, as demonstrated when GitHub blocked developers in
+        sanctioned countries from accessing repositories. European-funded open source
+        components provide strategic autonomy and reduce exposure to externally imposed
+        standards or access restrictions.
+
+Concrete Implementation Examples
+
+  â¢     Germany's Sovereign Tech Fund: since 2022, Germany's Sovereign Tech Fund has
+        allocated over â¬24.6 million to support more than 60 open source projects globally,
+        focusing on maintenance, security, and resilience of open digital base technologies.
+        This model demonstrates public sector investment in critical infrastructure that
+        benefits the entire ecosystem while maintaining security and transparency
+        requirements.
+  â¢     Estonia's X-Road: Estonia uses X-Road, an open source data exchange layer
+        connecting public and private services across institutions. In 2024, Estonia released all
+        state-developed software under open licenses, exemplifying "public money, public
+        code" principles and enabling reuse by other nations.
+
+      digitalpoland.org / fundacja digitalpoland / KRS: 0000678161 / NP. 9452208732
+                        StÄpiÅska 22/30, 00-739, Warszawa, Polska
+   â¢     MOSIP Digital Identity: The Modular Open Source Identity Platform, developed in India
+         and adopted in Morocco, the Philippines, and Ethiopia, demonstrates how fully open
+         source platforms can be modular, adaptable, and deployed across diverse contexts
+         without vendor lock-in.
+   â¢     SIST (in Poland) - Implementing systems like SIST (2025) allows the state to inventory
+         its IT assets. Using OSS for such inventories prevents the state from paying for
+         redundant proprietary licenses across different ministries.
+   â¢
+   â¢     Barcelona's Digital Sovereignty Initiative
+         Barcelona's comprehensive migration to open source aimed to help local IT talent by
+         outsourcing to local SMEs and hiring 65 developers for custom needs, demonstrating
+         how open source supports local economic development while reducing vendor
+         dependency. The city joined the European "Public Money, Public Code" campaign,
+         becoming a flagship municipal example.
+
+Assessment Framework
+
+When evaluating open source value, the most important factors are:
+
+   â¢     Total cost of ownership (not just initial licensing but long-term maintenance, exit costs,
+         and opportunity costs of lock-in)
+   â¢     Strategic autonomy (ability to control roadmap, maintain systems independently, and
+         avoid dependency)
+   â¢     Security and auditability (transparency of supply chain, speed of vulnerability response,
+         compliance capability)
+   â¢     Innovation velocity (speed of development, access to ecosystem improvements,
+         interoperability enabling composition)
+   â¢     Risk exposure (vendor continuity risk, geopolitical risk, procurement risk, technical
+         debt from proprietary formats)
+
+3. What concrete measures and actions may be taken at
+EU level to support the development and growth of the
+EU open-source sector and contribute to the EUâs
+technological sovereignty and cybersecurity agenda?
+1. Legislative and Policy Actions
+
+   â¢     "Open Source First" in Public Procurement: Mandate that all EU-funded software
+         projects (at the Commission and Member State level) default to Open Source. Any
+         choice of proprietary software must require a "Sovereignty Impact Assessment"
+         explaining why an open alternative was not viable. Amend EU public procurement
+         directives (2014/24/EU and 2014/25/EU) to establish an explicit "Open Source First"
+         principle, requiring procurement authorities to default to open source solutions unless
+       digitalpoland.org / fundacja digitalpoland / KRS: 0000678161 / NP. 9452208732
+                         StÄpiÅska 22/30, 00-739, Warszawa, Polska
+      a suitable alternative is demonstrably unavailable with transparent justification. This
+      aligns with the European Interoperability Framework's emphasis on open standards
+      and interoperability as mandatory criteria. Procurement specifications must prohibit
+      brand-name requirements and compatibility criteria that create de facto vendor lock-
+      in. Instead, tenders should specify functional requirements, adherence to open
+      standards (as defined by EIF), and interoperability obligations that enable multi-vendor
+      competition.
+â¢     Mandatory Software Bill of Materials (SBOM): Leverage the Cyber Resilience Act
+      (CRA) to require all software vendors selling to the EU public sector to provide a
+      machine-readable SBOM. This increases transparency and rewards OSS projects that
+      already follow high security standards.
+â¢     Establishment of a European OSPO Network (EN-OSPO): Create a formal
+      coordination body for Open Source Program Offices across Member States. This
+      network would harmonize licensing, security audits, and contribution policies, ensuring
+      that a developer in Poland and a developer in France can easily collaborate on a
+      "European Tech Stack." Strengthen and formalize the EU OSPO Network, which
+      currently connects 13 organizations across 8 Member States to share best practices
+      on open source strategy and implementation. Each Member State should establish a
+      national-level Open Source Programme Office with dedicated staff, budget, and
+      ministerial-level reporting to coordinate policy, procurement, and capacity building.
+      The Commission's OSPO, established in November 2020, should serve as the
+      coordination hub providing: standardized governance frameworks and templates;
+      training and certification programs for public sector open source managers; shared
+      legal and licensing guidance; and regular policy alignment conveying among national
+      OSPOs. This network should explicitly support the transition from isolated pilots to
+      shared, scalable infrastructure.
+â¢     Mandate "Public Money, Public Code" Across EU Institutions - Establish EU-wide
+      regulation requiring that software developed with public funding be released under
+      open source licenses by default, with narrow and transparent exceptions. This should
+      apply to: all EU-funded research and innovation projects; software commissioned by
+      national, regional, and local administrations; and digital public services and platforms.
+      Estonia's 2024 policy to release all state-developed software under open licenses
+      provides a concrete model. Member States should be required to publish code in
+      accessible public repositories (ideally on European-hosted infrastructure) with
+      appropriate documentation, rather than simply making code "available on request"
+â¢     Address Legal Uncertainty and Licensing Concerns - Provide clear guidance on
+      intellectual property, licensing, and liability frameworks for public sector open source
+      participation, addressing the concerns that 31% of organizations cite legal issues and
+      24% fear IP leakage as barriers to contribution. Establish safe harbors for public
+      employees contributing to open source projects within their official duties, clarifying
+      that such contributions do not create personal liability or unauthorized transfer of
+      government IP.
+â¢     Expand the EU-FOSSA (Free and Open Source Software Auditing) framework and
+      bug bounty programs, which currently operate under a four-year â¬7.7 million contract
+      with YesWeHack. The scope should cover all open source components identified as
+      critical dependencies for EU institutions and Member State infrastructure, not just
+      Commission-deployed software. Establish a continuous security assessment pipeline
+
+    digitalpoland.org / fundacja digitalpoland / KRS: 0000678161 / NP. 9452208732
+                      StÄpiÅska 22/30, 00-739, Warszawa, Polska
+         with dedicated resources for prompt remediation, recognizing that identifying
+         vulnerabilities without funding fixes creates technical debt.
+
+2. Financial and Structural Support
+
+   â¢     Establish a "European Sovereign Tech Fund" (ESTF): Modelled after Germanyâs
+         successful Sovereign Tech Fund, the EU should provide direct, long-term funding for
+         the maintenance of critical OSS libraries. This is not for "innovation" but for "digital
+         roadworks"âfixing bugs, improving security, and ensuring the stability of the
+         infrastructure that the EU economy relies on. Create a dedicated EU Sovereign Tech
+         Fund with a minimum budget of â¬350 million over seven years, modeled on Germany's
+         successful Sovereign Tech Fund which has allocated â¬24.6 million to over 60 critical
+         open source projects. Unlike traditional research funding, this fund should prioritize
+         maintenance, security hardening, and ecosystem resilience rather than innovation
+         prototypes. The fund should support infrastructure-layer technologies that are difficult
+         to monetize commercially but provide essential underpinning for digital services
+         across public and private sectors.
+   â¢     Open Source "Scale-up" Vouchers: Create a dedicated funding stream within the EIC
+         (European Innovation Council) specifically for OSS startups to "productize" their
+         code (e.g., funding for documentation, UI/UX, legal compliance, and marketing) to
+         cross the "valley of death."
+   â¢     Incentivizing Private Contribution: Provide tax incentives or R&D credits for EU
+         companies that allow their employees to contribute back to upstream OSS projects
+         during working hours. This addresses the "free-rider" problem and strengthens the
+         "human infrastructure."
+   â¢     Expand and Reorient Horizon Europe and Digital Europe Programme: Redirect
+         significant portions of Horizon Europe and Digital Europe Programme funding from
+         early-stage prototypes toward "valley of death" bridgingâindustrialization,
+         certification readiness, market integration support, and long-term maintenance of
+         successful projects. The Next Generation Internet (NGI) initiative has successfully
+         funded grassroots open source across all Internet layers from hardware to
+         applications, but needs enhanced pathways to scale proven solutions into production
+         deployment. Create dedicated funding lines for: security audits and vulnerability
+         remediation; SBOM generation and supply chain tooling; interoperability testing and
+         certification support; community governance capacity building; and documentation
+         and localization to support cross-border adoption.
+
+3. Infrastructure and Capacity Building
+
+   â¢     Sovereign Hosting & Development Infrastructure: Invest in a European Federated
+         Code Repository (a sovereign alternative to GitHub). This platform should be hosted
+         on Gaia-X compliant infrastructure within the EU to ensure that European code, CI/CD
+         pipelines, and developer data are protected from extra-territorial jurisdictions.
+   â¢     "Grand Challenges" for Open AI and Hardware: Launch massive, mission-oriented
+         competitions for open-source foundational models (LLMs) and open hardware (RISC-
+         V). Like Indiaâs "Bhashini" initiative, the EU should fund the creation of datasets and
+         models that are released as Digital Commons.
+
+       digitalpoland.org / fundacja digitalpoland / KRS: 0000678161 / NP. 9452208732
+                         StÄpiÅska 22/30, 00-739, Warszawa, Polska
+   â¢     Leverage the Digital Commons EDIC as Implementation Vehicle - The Digital
+         Commons European Digital Infrastructure Consortium (DC EDIC), launched in
+         December 2025 with France, Germany, the Netherlands, and Italy as founding
+         members, provides the legal and governance framework to pool resources across
+         Member States for strategic open source components. The Commission should
+         position DC EDIC as the primary vehicle for: multi-country co-investment in shared
+         digital building blocks; long-term governance and maintenance of common platforms;
+         provision of technical and legal expertise as "one-stop shop"; and creating clear
+         pathways from research projects (like Digital Europe Programme outputs) to
+         European-wide deployment. Additional Member States (Luxembourg, Slovenia) are
+         joining, with Poland and Belgium as observers, demonstrating momentum that should
+         be accelerated through dedicated Commission support and co-funding.
+   â¢     Facilitate Multi-Country Code Collaboration Mechanisms - Build on pioneer
+         initiatives like the EUDI Wallet Architecture Reference Framework (ARF) and Digital
+         Commons EDIC to create systematic frameworks for cross-border code collaboration.
+         Establish: templates for multi-country governance and intellectual property sharing;
+         co-funding mechanisms allowing Member States to pool resources on shared
+         components; and technical infrastructure for collaborative development with
+         appropriate access control and accountability.
+
+4. Education and Talent
+
+   â¢     Erasmus for OSS Contributors: Establish a fellowship program for young European
+         developers to work full-time on critical OSS projects for 6-12 months, fostering a new
+         generation of "Sovereignty Engineers."
+   â¢     Educational Reform: Integrate "Open Source Literacy" into the European Digital
+         Competence Framework (DigComp). Move away from vendor-specific certifications
+         in schools toward neutral, open-standard skills.
+   â¢     Create Open Source Competence Centers and Training Programs - Establish
+         regional competence centers providing: technical assistance for public
+         administrations adopting open source; governance and community management
+         training; security assessment and hardening services; and integration and
+         customization support. These centers should bridge the gap between community-
+         driven projects and enterprise deployment requirements that administrations demand.
+   â¢     Integrate open source software, licensing, and community participation into
+         formal education curricula from secondary through university levels, replacing the
+         current practice where educational institutions standardize on proprietary suites
+         (Microsoft 365, Google Workspace) that create lifetime dependency.
+
+Solutions to the weaknesses described in Chapter 1
+
+1. The "Valley of Death" in Commercialization
+
+Problem: Europe excels at funding research but fails to support the critical transition from
+open source projects to viable commercial products and scale-ups, leading to value capture
+by non-EU entities.
+
+       digitalpoland.org / fundacja digitalpoland / KRS: 0000678161 / NP. 9452208732
+                         StÄpiÅska 22/30, 00-739, Warszawa, Polska
+Solutions:
+
+   â¢     Create a dedicated Open Source Scale-Up Fund
+         Establish a â¬500 million "Open Source to Market" fund explicitly targeting the
+         commercialization phase, separate from Horizon Europe's research focus. This fund
+         should provide: growth capital (â¬2-10 million tranches) for proven open source
+         projects with clear European strategic value; go-to-market support including business
+         model development, sales enablement, and channel partnerships; regulatory
+         compliance assistance (certifications, SBOM generation, security audits); and
+         technical product management to transform community code into enterprise-ready
+         solutions.
+   â¢     Establish Public-Private Partnerships (PPPs) with "Anchor Customer"
+         Commitments
+         Structure PPPs where EU institutions and Member States commit to multi-year
+         procurement contracts for promising European open source solutions, providing
+         revenue certainty that attracts private co-investment. The Digital Commons EDIC
+         should serve as the coordinating vehicle, with Member States pre-committing budget
+         for shared solutions in strategic domains (identity, secure communication, cloud
+         infrastructure).
+   â¢     Link EU Investment Funds to Open Source Criteria
+         Require that InvestEU, European Investment Bank (EIB), and national development
+         banks include open source investment criteria in their technology portfolios. Create
+         specific investment vehicles for open source business models (dual-licensing, open-
+         core, services, support) with risk assessment frameworks adapted to these models
+         rather than traditional SaaS metrics.
+   â¢     Foster European Tech Giants as "Anchor Tenants"
+         Incentivize large European corporations (Siemens, SAP, Bosch, Ericsson, Dassault
+         SystÃ¨mes) to establish or expand open source divisions with dedicated maintainer
+         teams for strategic components, similar to how US tech giants employ thousands of
+         open source developers. Provide tax incentives or procurement preferences for
+         companies that employ full-time open source maintainers and contribute strategically
+         important code under permissive licenses.
+
+2. Lack of Strategic Maturity and the OSPO Gap
+
+Problem: 66% of European organizations lack formal open source strategy; 78% have no
+OSPO, hampering systematic engagement with open source ecosystems.
+
+Solutions
+
+   â¢     Mandate OSPOs in All Public Sector Entities Above Threshold Size
+         Require that all EU institutions, national ministries, regional governments above 5
+         million population, and SOEs with >500 employees establish a formal Open Source
+         Program Office with dedicated staff and budget. Define minimum OSPO functions:
+         internal policy development and compliance; community engagement and contribution
+         governance; procurement guidance and vendor evaluation; security monitoring and
+         vulnerability management; and training and capacity building.
+
+       digitalpoland.org / fundacja digitalpoland / KRS: 0000678161 / NP. 9452208732
+                         StÄpiÅska 22/30, 00-739, Warszawa, Polska
+   â¢     Strengthen the EU OSPO Network as Coordination Hub
+         Expand the EU OSPO Network beyond its current 13 organizations across 8 Member
+         States to include all 27 Member States plus Iceland, Norway, Switzerland. The
+         Commission's OSPO should provide: standardized OSPO maturity models and self-
+         assessment tools; comprehensive training programs and certification for OSPO
+         professionals; template policies, governance frameworks, and legal guidance; and
+         quarterly coordination meetings with published action plans and accountability
+         metrics.
+   â¢     Integrate OSPO Requirements into EU Digital Decade Targets
+         Make OSPO establishment and open source adoption measurable indicators within
+         the Digital Decade Policy Programme 2030, similar to how 5G coverage and digital
+         skills are tracked. Member States should report annually on: number and capacity of
+         OSPOs established; percentage of public sector software procurement that is open
+         source; code published under "Public Money, Public Code" principles; and full-time
+         equivalent (FTE) developers employed in open source maintenance.
+   â¢     Provide EU Co-Funding for National OSPO Establishment
+         Allocate â¬50 million through the Digital Europe Programme for 50% matched funding
+         to Member States establishing national OSPOs, with additional support for training,
+         tooling, and first-year operating costs. Tie funding to delivery milestones: published
+         national open source strategy; operational OSPO with minimum 5 FTE staff; first code
+         releases to public repositories; and first cross-border collaboration initiated.
+
+3. Absence of "Public Money, Public Code" Mandate
+
+Problem: No legal obligation for public sector to release publicly funded software, resulting in
+massive code duplication and wasted taxpayer money.
+
+Solutions
+
+   â¢     Adopt EU-Wide "Public Money, Public Code" Regulation
+         Enact binding EU regulation requiring that all software developed with public funds
+         (EU, national, regional, local) be released under approved open source licenses (EUPL,
+         GPL, MIT, Apache 2.0) by default. Model on Estonia's 2024 policy releasing all state
+         software under open licenses. Permit narrow exceptions only for: genuine national
+         security concerns (requiring ministerial approval and public justification); pre-existing
+         third-party IP (which should be minimized through procurement terms); and temporary
+         delays (maximum 12 months) for security hardening before publication.
+   â¢     Create European Public Code Repository Infrastructure
+         Establish an official EU public code registry (building on the Open Source Observatory
+         and Joinup platforms) where all publicly funded software must be published with
+         standardized metadata: functional description and use cases; license and contribution
+         guidelines; security attestation and SBOM; deployment documentation and
+         dependencies; and contact points for reuse support. Provide automated ingestion from
+         national repositories and GitHub/GitLab, with quality gates ensuring minimum
+         documentation standards.
+   â¢     Make Code Publication a Condition for EU Funding
+         Amend Horizon Europe, Digital Europe Programme, and all relevant funding
+
+       digitalpoland.org / fundacja digitalpoland / KRS: 0000678161 / NP. 9452208732
+                         StÄpiÅska 22/30, 00-739, Warszawa, Polska
+         instruments to make open source publication a mandatory deliverable, with final
+         payments contingent on code release. Include code quality metrics (documentation,
+         test coverage, security scan results) as evaluation criteria, not just publication.
+   â¢     Implement Progressive Enforcement with Transition Support
+         Phase in requirements over 24 months: Year 1 (2026-2027): All new procurement
+         contracts must include open source publication clauses; existing systems must
+         conduct IP audits to identify publishable components. Year 2 (2027-2028): 50% of
+         new development published within 6 months of completion; publication tracking
+         systems operational in all Member States. Year 3+ (2028+): Full enforcement with
+         financial penalties for non-compliance; annual public reporting of code publication
+         volumes.
+   â¢     Provide dedicated technical assistance and legal support for administrations
+         transitioning to open publication, addressing IP concerns and contract negotiation with
+         suppliers resistant to openness.
+
+4. 4. Fragmented Collaboration: The "Snowdrop" Syndrome
+
+Problem: Cross-border code collaboration remains exceptional rather than systematic; 27
+Member States procure duplicate solutions instead of building shared infrastructure.
+
+Solutions
+
+   â¢     Scale the Digital Commons EDIC as Primary Collaboration Vehicle
+         Accelerate Digital Commons EDIC membership to all 27 Member States by end of
+         2026, transforming it from 4 founding members (France, Germany, Netherlands, Italy)
+         to the standard mechanism for multi-country digital infrastructure. Provide EDIC with:
+         â¬200 million annual operating budget from Commission and Member State
+         contributions; legal templates for IP sharing, governance, and cost allocation across
+         countries; technical infrastructure for collaborative development (repositories, CI/CD,
+         security scanning); and dedicated program management for priority use cases.
+   â¢     Identify and Prioritize 10 "European Tech Stack" Components
+         Through the EDIC, jointly select and commit to 10 foundational components for
+         mandatory cross-border collaboration based on strategic importance and duplication
+         cost: digital identity and authentication (building on EUDI Wallet ARF); secure
+         messaging and collaboration platforms; document management and case workflow
+         systems; geospatial services and address registries; payment and invoice processing
+         infrastructure; AI/ML infrastructure (model registry, training platforms, inference);
+         cybersecurity tooling (SIEM, threat intelligence, incident response); cloud
+         orchestration and FinOps tooling; open data platforms and API management; and e-
+         procurement and public tender systems.
+   â¢     For each component, establish: lead Member State(s) with existing capability; co-
+         funding formula based on population and GDP; governance board with technical and
+         policy representation; and 3-year roadmap with deliverables and KPIs.
+   â¢     Create "Coalitions of the Willing" Framework
+         Not all initiatives require all 27 Member States simultaneously. Establish streamlined
+         processes for subsets of countries to collaborate on shared code with explicit
+         pathways for others to join later. Use enhanced cooperation mechanisms under EU
+
+       digitalpoland.org / fundacja digitalpoland / KRS: 0000678161 / NP. 9452208732
+                         StÄpiÅska 22/30, 00-739, Warszawa, Polska
+           treaties to enable groups of at least 9 Member States to proceed with shared
+           development funded through Digital Europe Programme or Connecting Europe Facility.
+     â¢     Mandate Interoperability and Reusability Assessments
+           Before any Member State or EU institution procures or develops new software above
+           â¬1 million, require a mandatory "check first" assessment: Are existing open source
+           solutions available in other Member States? Can requirements be met by
+           extending/customizing existing European code? Would other countries benefit from a
+           shared solution? If proceeding alone, must commit to developing as open source for
+           future reuse.
+
+5.       Procurement Bias and the "Brand Name" Trap
+
+Problem: Public procurement systematically excludes open source through brand-name
+specifications (e.g., "Microsoft 365" in Polish tenders) and evaluation criteria favoring
+proprietary incumbents.
+
+Solutions
+
+     â¢     Prohibit Brand-Name Specifications in EU Public Procurement
+           Amend EU Procurement Directives 2014/24/EU and 2014/25/EU to explicitly prohibit
+           specifications that name proprietary products or create de facto brand requirements
+           through compatibility criteria. Violations should trigger: automatic tender nullification
+           upon challenge; financial penalties for contracting authorities; and personal liability for
+           procurement officers approving non-compliant tenders.
+     â¢     Following the Polish Instrat Foundation 2025 report highlighting systematic
+           Microsoft/Google brand specifications, mandate procurement transparency: all
+           tenders above â¬100,000 must be published in machine-readable format with
+           automated compliance checking for brand-name violations.
+     â¢     Implement "Open Source First" as Binding Principle
+           Establish legal presumption favoring open source: contracting authorities must
+           evaluate open source alternatives first and document reasons if selecting proprietary
+           solutions. Create three-tier justification requirements: Tier 1 (<â¬500k): Simple
+           declaration that open source was considered; Tier 2 (â¬500k-â¬5M): Detailed technical
+           comparison showing open source inadequacy; Tier 3 (>â¬5M): Independent technical
+           review and ministerial approval for proprietary selection.
+     â¢     Publish annual "proprietary procurement registers" naming authorities that repeatedly
+           select proprietary solutions, creating transparency and accountability.
+     â¢     Develop Standardized Open Source Evaluation Frameworks
+           Create EU-wide evaluation criteria specifically designed for open source that replace
+           traditional vendor-focused metrics: Replace "vendor financial stability" with
+           "community health metrics" (contributor diversity, commit frequency, issue resolution
+           time). Replace "vendor support SLAs" with "ecosystem maturity" (availability of
+           multiple service providers, documentation quality, user base size). Replace
+           "proprietary certifications" with "security posture" (audit history, vulnerability
+           disclosure practices, SBOM quality). Replace "single-vendor solution" with
+           "interoperability and portability" (adherence to open standards, migration cost
+           assessment).
+
+         digitalpoland.org / fundacja digitalpoland / KRS: 0000678161 / NP. 9452208732
+                           StÄpiÅska 22/30, 00-739, Warszawa, Polska
+   â¢     The European Commission should publish reference evaluation matrices for common
+         procurement categories (office suites, cloud infrastructure, identity management,
+         collaboration tools) with mandatory minimum weights for openness criteria.
+   â¢     Establish EU Framework Agreements for Open Source Services
+         Create pre-competed framework agreements for support, customization, integration,
+         and maintenance services around major open source platforms (LibreOffice,
+         Nextcloud, Kubernetes, PostgreSQL, etc.). Member States and institutions can call off
+         these frameworks without new tenders, dramatically reducing procurement friction
+         and creating sustainable revenue for European service providers.
+   â¢     Framework providers must commit to upstream contribution (minimum 20% of
+         development effort contributed back to community projects) ensuring that public
+         procurement strengthens rather than fragments the ecosystem.
+
+6. Educational Dependency: The "Classroom-to-Cloud" Pipeline
+
+Problem: Schools standardize on Microsoft 365/Google Workspace, creating lifelong vendor
+lock-in and failing to teach open source principles.
+
+Solutions
+
+   â¢     Mandate Open Source Options in Educational Procurement
+         Require that all educational institution procurement for digital learning platforms
+         includes at least one evaluated open source alternative (Moodle, Nextcloud,
+         LibreOffice, ONLYOFFICE). Make cost-benefit analyses mandatory that include: total
+         lifecycle costs including data egress and vendor switching costs; data sovereignty and
+         privacy implications under GDPR; pedagogical impact on teaching transferable vs.
+         vendor-specific skills; and long-term dependency risks and exit costs.
+   â¢     Procurement selecting proprietary platforms must demonstrate superior pedagogical
+         outcomes, not just administrative convenience.
+   â¢     Create "Digital Sovereignty" Curriculum Requirements
+         Integrate open source principles, open standards, and digital commons concepts into
+         mandatory ICT curricula at secondary and university levels across all Member States.
+         Students should learn: fundamental concepts (licensing, collaboration models,
+         version control, community governance); practical skills (contributing to open projects,
+         using open development tools); and critical thinking about technology sovereignty,
+         vendor dependency, and digital rights.
+   â¢     Certify that graduation requirements include demonstrable open source contribution
+         (bug fix, documentation, translation, etc.) for ICT-focused programs.
+   â¢     Fund "Open Source in Education" Infrastructure and Support
+         Allocate â¬100 million through Erasmus+ Digital and Creative Europe for: development
+         of open educational resources (OER) and teaching materials about open source;
+         training programs for teachers on open platforms and pedagogical approaches;
+         technical support infrastructure helping schools deploy and maintain open solutions
+         (Nextcloud, Moodle, LibreOffice, Jitsi); and student competitions and hackathons
+         focused on contributing to European open source projects.
+   â¢     Showcase Success Stories and Create Peer Pressure
+         The Commission should publish annual rankings of Member States by "educational
+
+       digitalpoland.org / fundacja digitalpoland / KRS: 0000678161 / NP. 9452208732
+                         StÄpiÅska 22/30, 00-739, Warszawa, Polska
+         open source adoption rate" with case studies from leaders, creating competitive
+         dynamics and knowledge sharing. Highlight cost savings and pedagogical benefits
+         achieved by pioneering regions (Barcelona's model of using open source to support
+         local IT talent).
+
+7. Chronic Underfunding of Volunteer Infrastructure
+
+Problem: Critical open source infrastructure maintained by unpaid volunteers without
+sustainable support, creating security vulnerabilities and burnout.
+
+Solutions
+
+   â¢     Establish EU Maintainer Fellowship Program
+         Create a â¬50 million annual "European Open Source Maintainer Fellowship" providing
+         direct financial support (â¬60-100k/year) to individual maintainers of critical
+         infrastructure. Selection criteria: components identified as critical dependencies in
+         European public infrastructure; active maintenance with demonstrated community
+         impact; maintainer commitment to security best practices and timely vulnerability
+         response; and willingness to mentor new contributors. Start with 100 fellowships in
+         Year 1, scaling to 500 by Year 3, modeled on Germany's Sovereign Tech Fund
+         approach.
+   â¢     Fund Community Infrastructure and Governance
+         Beyond individual maintainers, support the organizational infrastructure of open
+         source communities: governance development (transition from BDFL to foundation
+         models, conflict resolution, decision processes); community moderation and code of
+         conduct enforcement; documentation, localization, and accessibility improvements;
+         and contributor onboarding programs and mentorship.Provide grants of â¬50-200k to
+         established communities (Apache Foundation, Linux Foundation, Eclipse Foundation,
+         FSFE) specifically for European community health and governance capacity building.
+   â¢     Create "Maintenance Bonds" in Procurement
+         When public sector entities use open source components, require that 5-10% of the IT
+         budget be allocated to maintenance bonds supporting upstream projects. These funds
+         flow to foundations or directly to maintainers through transparent allocation
+         mechanisms based on dependency analysis (which components are actually used and
+         how critical they are). This creates sustainable, usage-based funding rather than one-
+         time grants, aligning incentives between users and maintainers.
+   â¢     Recognize Open Source Contribution in Career Frameworks
+         Establish that open source contributions count formally toward: career progression in
+         public sector ICT roles (similar to academic publications); university tenure and
+         promotion decisions for computer science faculty; and professional certification and
+         continuing education requirements for software engineers. Create a European "Open
+         Source Contributor Registry" where contributions are verified and can be referenced in
+         job applications, procurement bids, and funding applications, solving the "invisible
+         labor" problem.
+
+       digitalpoland.org / fundacja digitalpoland / KRS: 0000678161 / NP. 9452208732
+                         StÄpiÅska 22/30, 00-739, Warszawa, Polska
+8. Lack of IT Spending Transparency and Procurement Inventory
+
+Problem: No centralized visibility into national IT spending, software licenses, or vendor
+dependencies, preventing strategic planning and buyer power aggregation.
+
+Solutions
+
+   â¢     Mandate National IT Asset and Spending Registries
+         Require all Member States to establish and maintain comprehensive, real-time IT
+         asset registries covering: all software licenses and subscriptions (proprietary and open
+         source support contracts); hardware infrastructure and cloud consumption; vendor
+         relationships and contract terms (including lock-in clauses); and total cost of
+         ownership and renewal schedules. Build on Poland's SIST (System Inwentaryzacji
+         SystemÃ³w Teleinformatycznych) model, which gained legal standing in 2025 after
+         years of limited visibility. Provide EU technical assistance and reference architecture
+         for countries without existing systems.
+   â¢     Create EU-Wide IT Spending Dashboard
+         Aggregate national registries into an EU-level dashboard (anonymized/aggregated for
+         sensitive details) showing: total public sector spending on proprietary vs. open source
+         software across EU; market concentration (percentage of budget going to top 5
+         vendors); dependency hotspots (single-vendor dependencies affecting multiple
+         Member States); and procurement efficiency (cost variations for similar solutions
+         across countries). Publish annually as part of Digital Decade reporting, creating
+         political visibility and accountability.
+   â¢     Implement Federated Procurement Intelligence
+         Use registry data to enable coordinated procurement strategies: identify common
+         needs across multiple Member States for joint procurement; detect opportunities to
+         aggregate demand for better negotiating position; reveal duplication where countries
+         are paying separately for identical solutions; and inform prioritization for European
+         alternative development (where spending on external vendors is highest). The Digital
+         Commons EDIC should operate a "procurement intelligence unit" providing Member
+         States with strategic analysis and negotiation support.
+   â¢     Extend Transparency to State-Owned Enterprises
+         SOEs often represent massive IT spending outside government direct control. Mandate
+         that all SOEs above 500 employees report IT assets and spending to national registries
+         with same detail as government departments. This is particularly critical in sectors like
+         energy, transport, and telecommunications where SOEs operate critical infrastructure.
+         Make registry reporting a condition for SOEs accessing state subsidies, guarantees, or
+         preferential procurement.
+
+9. Lack of Scale-Up Funding and Competitive Challenges (The AI Gap)
+
+Problem: Europe lacks aggressive, open-competition funding models for scaling high-
+potential projects, particularly in strategic areas like AI where India and others are advancing
+rapidly.
+
+Solutions
+
+       digitalpoland.org / fundacja digitalpoland / KRS: 0000678161 / NP. 9452208732
+                         StÄpiÅska 22/30, 00-739, Warszawa, Polska
+   â¢     Launch "European Open Source Grand Challenges"
+         Create â¬200 million annual "Grand Challenge" program modeled on DARPA and
+         India's sovereign AI initiatives, with open competitions for: foundational open AI
+         models (multilingual LLMs competitive with GPT/Claude); European AI infrastructure
+         (training platforms, model registries, inference optimization); cybersecurity critical
+         components (quantum-safe cryptography, supply chain security tools); sovereign
+         cloud platforms (alternatives to hyperscalers with European data residency); and
+         industrial digitalization platforms (automotive software stacks, smart manufacturing
+         middleware). Structure as milestone-based funding: Initial grants (â¬500k-2M) for proof
+         of concept awarded to 10-20 teams per challenge. Scale-up funding (â¬5-20M) for top
+         3 performers achieving technical milestones. Production deployment support (â¬20-
+         50M) for winner with clear path to European-wide adoption.
+   â¢     Prioritize Open Models in AI Act Implementation
+         As the AI Act enters force, provide regulatory advantages and funding preferences for
+         open source AI: faster conformity assessment for open models with transparent
+         training data and architecture; reduced compliance burden (documentation
+         requirements partially satisfied by code transparency); public procurement
+         preferences for open models in public sector AI deployments; and innovation sandbox
+         access and technical support from AI Office for open source developers. Commission
+         should fund development of open reference implementations for high-risk AI systems,
+         demonstrating compliance pathways and reducing barriers.
+   â¢     Create European AI Commons Infrastructure
+         Invest â¬500 million in shared infrastructure specifically for European AI open source
+         ecosystem: compute resources (GPU/TPU clusters accessible to researchers and
+         startups for training); model registries and versioning (European-hosted MLOps
+         infrastructure); datasets and benchmarks (multilingual, culturally diverse European
+         datasets under clear licenses); and evaluation and safety testing infrastructure (red-
+         teaming, bias testing, performance benchmarking). Operate through EuroHPC Joint
+         Undertaking, extending existing supercomputing infrastructure specifically for open AI
+         development.
+   â¢     Establish "Open Source Unicorn" Target
+         Set explicit policy goal of creating 10 European open source "unicorns" (â¬1B+
+         valuation) by 2030 in strategic sectors, with dedicated support including: venture
+         capital co-investment (EU matching private funding 1:1 for open source business
+         models); procurement guarantees (multi-year contracts providing revenue certainty);
+         technical partnership with research institutions and existing players; and talent access
+         (simplified visa and hiring processes for critical roles). Track progress publicly as part
+         of Digital Decade targets, creating accountability and visibility.
+
+10. Fragmentation of the Ecosystem and Lack of "Anchor Tenants"
+
+Problem: European open source landscape dominated by small, scattered SMEs and
+individuals, lacking large corporate anchor tenants that fund critical maintenance like US tech
+giants.
+
+Solutions
+
+       digitalpoland.org / fundacja digitalpoland / KRS: 0000678161 / NP. 9452208732
+                         StÄpiÅska 22/30, 00-739, Warszawa, Polska
+   â¢     Incentivize Corporate Open Source Investment
+         Create tax incentives (R&D tax credits, accelerated depreciation) specifically for:
+         employing full-time open source maintainers contributing to strategic European
+         projects; operating open source program offices with upstream contribution
+         mandates; sponsoring open source foundations and community infrastructure; and
+         releasing internal tools as open source under permissive licenses. Target European
+         industrial champions (Siemens, Bosch, SAP, Ericsson, Schneider Electric, Thales) with
+         specific open source contribution targets tied to public sector contracts and EU
+         funding eligibility.
+   â¢     Create "Open Source Obligations" in State Aid and Public Contracts
+         Make meaningful open source contribution a condition for: companies receiving state
+         aid or industrial subsidies above â¬10M; vendors winning public contracts above â¬20M
+         (minimum 10% of contract value dedicated to upstream open source contribution);
+         and participation in EU funding programs (Chips JU, KDT JU, Digital Europe
+         Programme). This creates systematic demand for corporate open source investment
+         rather than relying on voluntary goodwill.
+   â¢     Foster European Open Source Consortia
+         Support formation of industry consortia co-investing in shared open source
+         infrastructure within sectors: automotive (software-defined vehicle platforms,
+         AUTOSAR alternatives); telecommunications (Open RAN, core network components);
+         manufacturing (Industry 4.0 middleware, digital twin platforms); and finance (payment
+         infrastructure, regulatory compliance tools). Provide EU co-funding (50% matched by
+         industry) and antitrust safe harbors for collaborative development, modeled on
+         successful consortia like Linux Foundation projects.
+   â¢     Attract Global Anchor Tenants with European Operations
+         While building European champions, pragmatically engage non-EU tech companies
+         with significant European presence (Microsoft, Google, Amazon, Meta) by: requiring
+         substantial European open source investment as condition for operating data centers
+         in EU; mandating that European R&D centers contribute to European open source
+         priorities; and creating incentives to establish European open source foundations with
+         genuine EU governance. Make clear that market access depends on strengthening, not
+         extracting from, European digital infrastructure.
+
+11. Infrastructure Dependency
+
+Problem: European open source development relies on non-EU infrastructure
+(GitHub/Microsoft, AWS, GitLab), creating sovereignty risks even when code is open.
+
+Solutions
+
+   â¢     Build European Open Source Infrastructure Stack
+         Invest â¬300 million in comprehensive European-hosted infrastructure for the open
+         source lifecycle: source code management (European-hosted GitLab/Gitea instances
+         with federation to GitHub); artifact registries (container, package, and binary
+         repositories for all major ecosystems); CI/CD platforms (scalable build and test
+         infrastructure with European compliance); security scanning and SBOM generation
+         (integrated vulnerability analysis and supply chain tooling); and code signing and
+
+       digitalpoland.org / fundacja digitalpoland / KRS: 0000678161 / NP. 9452208732
+                         StÄpiÅska 22/30, 00-739, Warszawa, Polska
+         attestation (trusted infrastructure for release verification). Operate under transparent,
+         multi-stakeholder governance (public sector, foundations, private providers) ensuring
+         both sovereignty and interoperability with global platforms.
+   â¢     Establish "Code.Europa.EU" as Central Discovery Platform
+         Create authoritative European registry for open source projects that integrates with but
+         is independent of GitHub/GitLab: federated identity (single sign-on across European
+         open source infrastructure); project discovery (searchable metadata, reuse guidelines,
+         security attestations); contribution pathways (clear instructions for getting involved,
+         governance information); and compliance tooling (license checking, security scanning,
+         SBOM generation as free services). Build on existing Joinup and OSOR platforms,
+         upgrading to modern, developer-friendly UX.
+   â¢     Fund "Mirror and Migrate" Resilience Program
+         Provide funding for systematic mirroring of critical European open source projects from
+         external platforms to European infrastructure: automated synchronization maintaining
+         GitHub/GitLab as primary while ensuring European copies; documented migration
+         procedures for rapid switch if external platforms become unavailable; and regular
+         testing of migration pathways (annual exercises simulating platform loss). This
+         provides resilience without forcing immediate, disruptive migration from established
+         platforms where communities already exist.
+   â¢     Require European Infrastructure for Public Sector Code
+         New "Public Money, Public Code" regulation should mandate that code developed
+         with public funds be published on European infrastructure, with mirroring to
+         GitHub/GitLab permitted but not required. This ensures that public code remains
+         accessible regardless of external platform policies or geopolitical tensions.
+
+12. Value Capture Outside Europe
+
+Problem: Economic value from European open source development is predominantly
+captured by non-EU companies through commercialization, services, and cloud hosting.
+
+Solutions
+
+   â¢     Implement "Right to European Value Capture" Framework
+         Create policy framework ensuring that when European open source is
+         commercialized, Europeans benefit proportionally: public procurement preferences
+         for European service providers supporting European open source projects;
+         requirement that major open source cloud services (managed Kubernetes, databases,
+         AI platforms) offered in EU include European service provider options; and revenue
+         sharing or contribution requirements for non-EU companies commercializing EU-
+         funded open source (minimum 20% of EU revenue reinvested in European
+         development).
+   â¢     Build European Open Source Services Sector
+         Dedicate â¬100 million to developing competitive European services companies around
+         strategic open source: training and certification programs creating qualified workforce;
+         sales and marketing support helping European SMEs compete for enterprise contracts;
+         partnership facilitation connecting service providers with users and technology
+         vendors; and quality certification (European open source service provider standards
+
+       digitalpoland.org / fundacja digitalpoland / KRS: 0000678161 / NP. 9452208732
+                         StÄpiÅska 22/30, 00-739, Warszawa, Polska
+         ensuring professional delivery). Target creation of 50 European companies with >50
+         employees each providing enterprise-grade open source services by 2028.
+   â¢     Mandate Upstream Contribution in Commercial Use
+         When companies (EU or non-EU) commercialize open source in European market,
+         require meaningful upstream contribution: for cloud services built on open source
+         (managed PostgreSQL, Kubernetes, etc.): 10% of engineering effort contributed
+         upstream; for products embedding open source components: security improvements
+         and bug fixes contributed back; for AI models trained on open data/code: model
+         weights and training approaches released under open licenses. Enforce through
+         combination of procurement requirements (for public sector) and potential regulatory
+         obligations (for private sector commercial use above revenue thresholds).
+   â¢     Create European Open Source Venture Capital
+         Establish â¬200 million European Open Source Venture Fund (within InvestEU
+         framework) specifically backing European open source business models: investment
+         criteria adapted to open source economics (community health, downstream adoption,
+         contribution velocity vs. traditional SaaS metrics); patient capital with longer time
+         horizons recognizing open source value creation patterns; and strategic guidance
+         connecting portfolio companies with public sector customers and EU funding
+         opportunities.
+
+Cross-Cutting Implementation Principles
+
+Coordination and Accountability
+Establish a high-level "European Open Source Strategy Council" chaired by the Commission
+and including Member State ministers responsible for digital affairs, meeting quarterly to:
+review progress on all initiatives with published scorecards; resolve coordination challenges
+and bottlenecks; and commit new resources and political support as needed.
+
+Phased Timeline with Clear Milestones
+
+   â¢     2026 (Foundation Year): Legal frameworks adopted, funding mechanisms
+         established, OSPO network expanded, infrastructure procurement initiated
+   â¢     2027 (Deployment Year): First code publications under new mandates, procurement
+         reforms enforced, initial scale-up funding awarded, infrastructure operational
+   â¢     2028-2030 (Scale Year): Full enforcement of all measures, measurable impact on
+         dependency reduction, European open source companies reaching scale, Digital
+         Decade targets met
+
+Measurement and Transparency
+All initiatives must include quantified success metrics published in annual "State of European
+Open Source" report: percentage of public IT budget spent on open source (target: 40% by
+2030); number of active OSPOs and full-time maintainers employed; lines of code published
+under public funding mandates; European open source companies reaching >â¬10M revenue
+(target: 200 by 2030); and reduction in critical dependencies on non-EU proprietary platforms
+(measured by spend and technical components).
+
+       digitalpoland.org / fundacja digitalpoland / KRS: 0000678161 / NP. 9452208732
+                         StÄpiÅska 22/30, 00-739, Warszawa, Polska
+This comprehensive approach addresses each identified weakness with concrete, actionable
+measures that collectively transform Europe's open source ecosystem from fragmented
+potential into coordinated strategic capability.
+
+4. What technology areas should be prioritised and why?
+for europe to be sovereing?
+Europe should prioritize technology areas based on a strategic matrix evaluating: dependency
+risk (current reliance on US/China Big Tech), feasibility of open source replacement
+(maturity of alternatives), economic impact (spending volume and lock-in costs), strategic
+value (criticality for sovereignty), and ecosystem readiness (European capability to deliver).
+Below is a prioritized framework organized from "quick wins" to "long-term strategic
+investments.
+
+Tier 1: Quick Wins â High Feasibility, Immediate Impact
+
+Productivity Suites (Office 365 / Google Workspace Replacement)
+
+Why prioritize: This represents one of the easiest and most impactful replacements with
+mature open source alternatives already deployed successfully across Europe.
+
+Current dependency: Microsoft Office 365 and Google Workspace dominate European public
+and private sectors, creating massive recurring costs, data exposure, and vendor lock-in from
+classroom to boardroom.
+
+Open source solution: LibreOffice, ONLYOFFICE, and Collabora Online provide feature-
+comparable alternatives with proven enterprise deployment. Denmark's Ministry of Digital
+Affairs began replacing Microsoft Office 365 with LibreOffice in summer 2025, with half of
+employees transitioning immediately and full adoption by autumn 2025. The initiative is
+explicitly framed as "reducing dependence on foreign tech providers" and "reinforcing
+government control over public digital infrastructure".
+
+Feasibility assessment:
+
+   â¢     Technical maturity: LibreOffice has 20+ years development, full Microsoft format
+         compatibility, and enterprise support from European vendors (Collabora, CIB,
+         Alfresco)
+   â¢     Migration complexity: Low to moderate; primarily training and workflow adjustment
+         rather than technical barriers
+   â¢     Cost savings: Elimination of per-seat licensing fees (typically â¬10-20/user/month)
+         translates to millions in annual savings for large administrations
+   â¢     Ecosystem support: Extensive European service provider network for
+         implementation, training, and support
+
+Recommended actions:
+
+       digitalpoland.org / fundacja digitalpoland / KRS: 0000678161 / NP. 9452208732
+                         StÄpiÅska 22/30, 00-739, Warszawa, Polska
+   â¢     Mandate "Office Suite Replacement Roadmaps" for all EU institutions and Member
+         State administrations by Q4 2026
+   â¢     Create â¬50 million EU fund for migration support (technical assistance, training,
+         change management)
+   â¢     Develop standardized interoperability testing ensuring seamless document exchange
+         between open and proprietary formats
+   â¢     Prohibit new Microsoft 365/Google Workspace procurement in public sector starting
+         2027, with phase-out of existing contracts by 2029
+
+Expected impact: 30-50% reduction in productivity software spending; elimination of major
+data sovereignty concern; demonstration effect encouraging broader open source adoption.
+
+Tier 2: High Strategic Priority â Moderate Feasibility, Critical for
+Sovereignty
+
+Cloud Infrastructure (AWS / Azure / Google Cloud, Huawei Cloud, Alibaba Cloud
+Alternatives)
+
+Why prioritize: Cloud infrastructure represents the foundational layer determining control
+over all digital services, with massive current spending flowing to US hyperscalers and
+significant geopolitical vulnerability.
+
+Current dependency: European organizations rely overwhelmingly on AWS, Microsoft Azure,
+and Google Cloud, creating exposure to US CLOUD Act jurisdiction, potential service
+interruption during geopolitical tensions, and technical lock-in through proprietary services.
+Even "sovereign cloud" offerings from US hyperscalers (AWS European Sovereign Cloud,
+Azure sovereign zones) remain under ultimate US parent company control.
+
+European alternatives and open source foundation:
+
+Full EU Sovereign Providers:
+
+   â¢     OVHcloud (France): Europe's largest independent cloud provider with full-stack
+         IaaS/PaaS built on OpenStack
+   â¢     Scaleway (France): Developer-centric cloud with strong GPU/AI infrastructure focus
+   â¢     Hetzner (Germany): Cost-efficient, high-performance infrastructure
+   â¢     T-Systems/Open Telekom Cloud (Germany): Government and enterprise
+         compliance specialization
+   â¢     Exoscale (Switzerland/Austria): Privacy-focused infrastructure
+
+Key advantage: These providers operate entirely under EU jurisdiction, eliminating CLOUD
+Act exposure and simplifying GDPR compliance. Most are built on open standards
+(OpenStack, Kubernetes) rather than proprietary APIs, reducing lock-in compared to
+hyperscaler-specific services.
+
+Feasibility assessment:
+
+       digitalpoland.org / fundacja digitalpoland / KRS: 0000678161 / NP. 9452208732
+                         StÄpiÅska 22/30, 00-739, Warszawa, Polska
+   â¢     Technical capability: European providers offer mature IaaS and increasingly capable
+         PaaS, suitable for most workloads
+   â¢     Feature gap: Advanced managed services (serverless, specialized databases, AI/ML
+         platforms) lag US hyperscalers
+   â¢     Migration complexity: High for workloads deeply integrated with AWS/Azure
+         proprietary services; moderate for container-based or standards-compliant
+         architectures
+   â¢     Cost competitiveness: Often price-competitive or superior for compute/storage;
+         potential premium for specialized services
+
+Hybrid strategic approach:
+Given that "local cloud providers still offer few viable alternatives for organizations focused on
+European digital sovereignty" in all use cases, adopt a tiered strategy:
+
+   1. Mandate EU providers for sensitive workloads: Government services, critical
+      infrastructure, personal data processing, and defense/security applications must use
+      full EU sovereign providers
+   2. Support open source cloud orchestration: Invest heavily in European development of
+      Kubernetes, OpenStack, and cloud-native tooling enabling multi-cloud portability
+   3. Fund European PaaS maturity: Close the managed services gap through targeted
+      development of open source alternatives to AWS Lambda, DynamoDB, etc.
+   4. Establish procurement preferences: Weight evaluation criteria toward sovereignty,
+      open standards, and portability rather than pure feature breadth
+
+Recommended actions:
+
+   â¢     â¬500 million investment in European cloud provider capability enhancement (managed
+         services, edge infrastructure, developer tooling)
+   â¢     Mandate that 60% of public sector cloud spending go to full EU sovereign providers by
+         2028
+   â¢     Fund development of "cloud portability toolkit" based on Kubernetes and open
+         standards enabling easy migration between providers
+   â¢     Support GAIA-X federated infrastructure model enabling data exchange and workload
+         portability across European providers
+
+Expected impact: Reduction of US hyperscaler market share in sensitive sectors from ~70%
+to <30% by 2030; increased European cloud provider revenue enabling reinvestment;
+enhanced resilience against geopolitical service interruption.
+
+Artificial Intelligence Infrastructure and Models
+
+Why prioritize: AI represents the defining technology of the coming decades; current
+dominance by US Big Tech (OpenAI/GPT, Google/Gemini, Anthropic/Claude) creates
+existential dependency risk.
+
+Current dependency: European organizations increasingly rely on proprietary US AI models
+accessed via API, creating multiple vulnerabilities: model behavior controlled externally with
+
+       digitalpoland.org / fundacja digitalpoland / KRS: 0000678161 / NP. 9452208732
+                         StÄpiÅska 22/30, 00-739, Warszawa, Polska
+potential censorship or bias injection; training data and techniques opaque, preventing audit
+and compliance verification; service continuity dependent on commercial/geopolitical factors;
+and intellectual property generated using these tools subject to complex licensing terms.
+
+Open source alternative landscape:
+
+European initiatives:
+
+   â¢     OpenEuroLLM: EU-funded fully open source model supporting 35 European
+         languages, launched February 2025 under Digital Europe Programme
+   â¢     Mistral (France): Leading European AI company releasing open models (Mistral Large,
+         Mixtral) competitive with GPT-3.5/4
+   â¢     Bielik AI (Poland): leading polish LLM and SLM open source initiativie
+   â¢     Aleph Alpha (Germany): Sovereignty-focused AI with European training data and on-
+         premises deployment
+
+Global open models with European deployment:
+
+   â¢     Meta LLaMA 3: Highly capable open weights model enabling fine-tuning and local
+         deployment
+   â¢     DeepSeek-R1, Falcon, Salamandra: Increasingly competitive alternatives
+
+Strategic framework for AI sovereignty:
+
+ Dimension      Big Tech Models                     Open Source Models
+ Transparency   Black-box, limited explainability   Full model weights and code, auditability
+ Sovereignty    US jurisdiction, license change     EU-based, aligned with data sovereignty
+                risk
+ Cost           Pay-per-token, escalates with       Infrastructure investment, predictable costs
+                usage
+ Customization Limited fine-tuning options          Full fine-tuning and adaptation capability
+ Security       Enterprise SLAs but external        Requires internal discipline but controllable
+                control
+ Regulatory fit GDPR/AI Act compliance complex      Easier to align with transparency
+                                                    requirements
+
+Feasibility assessment:
+
+   â¢     Technical maturity: Open models increasingly competitive with proprietary
+         alternatives for many use cases; gap narrowing rapidly
+   â¢     Infrastructure requirement: Significant compute investment needed for training and
+         inference; Europe has capacity through EuroHPC
+   â¢     Expertise availability: Strong European AI research community but needs retention
+         and scaling support
+   â¢     Economic viability: Initial infrastructure cost substantial but eliminates ongoing API
+         fees and enables value capture
+
+Recommended actions:
+       digitalpoland.org / fundacja digitalpoland / KRS: 0000678161 / NP. 9452208732
+                         StÄpiÅska 22/30, 00-739, Warszawa, Polska
+   â¢     â¬1 billion European Open AI Initiative: Fund development, training, and deployment
+         of open foundation models across key domains (multilingual LLMs, code generation,
+         scientific computing, industrial applications)
+   â¢     Mandate open models in public sector: Public administration AI applications must
+         use auditable open models by default, with proprietary alternatives requiring explicit
+         justification
+   â¢     Establish European AI infrastructure: Expand EuroHPC Joint Undertaking capacity
+         specifically for AI training and inference, providing subsidized access to European
+         researchers and companies
+   â¢     Support AI Act compliance tooling: Fund open source tools for model transparency,
+         bias testing, and conformity assessment specifically designed for open models
+   â¢     Create "European AI Commons": Central registry of open models, datasets,
+         evaluation benchmarks, and training recipes
+
+Hybrid approach: "Host open-source LLMs on EU-based or on-prem infrastructure. Keep Big
+Tech LLMs for high-scale or niche needs, balancing scale and control". Public sector and
+sensitive applications mandate open models; less critical use cases permit commercial APIs
+with contractual safeguards.
+
+Expected impact: Reduction of dependency on US AI services; enhanced AI Act compliance
+through transparency; European AI industry growth; preservation of fundamental research
+capability independent of commercial gatekeepers.
+
+Cybersecurity Tooling and Supply Chain Security
+
+Why prioritize: Cybersecurity is the foundation enabling all other digital sovereignty; open
+source provides transparency essential for trustworthiness but requires systematic support.
+
+Current situation: "More than half the critical infrastructure codebases analyzed depends on
+open source", yet systematic support for security auditing, vulnerability management, and
+secure development practices remains fragmented.
+
+EU-FOSSA model: The EU Free and Open Source Software Auditing project initiated in 2014
+demonstrated successful model for identifying and remediating vulnerabilities in critical open
+source components. The project received explicit endorsement in the EU Cybersecurity Act,
+establishing "promotion of Security by Design principle, including contributing to Free and
+Open Source Software by financing security audits".
+
+Priority areas:
+
+   1. Supply chain security tooling: SBOM generation, dependency analysis, vulnerability
+      tracking aligned with Cyber Resilience Act requirements
+   2. Security Operations Center (SOC) platforms: SIEM, threat intelligence, incident
+      response tools (alternatives to Splunk, CrowdStrike)
+   3. Cryptography and secure communication: Post-quantum cryptographic libraries,
+      secure messaging infrastructure
+   4. Identity and access management: Open source alternatives to Okta, Azure AD
+
+       digitalpoland.org / fundacja digitalpoland / KRS: 0000678161 / NP. 9452208732
+                         StÄpiÅska 22/30, 00-739, Warszawa, Polska
+Recommended actions:
+
+   â¢     Permanent EU-FOSSA funding: â¬30 million annually for continuous security auditing
+         of critical open source components
+   â¢     EU Sovereign Tech Fund cybersecurity stream: Dedicated funding for maintenance
+         and security hardening of infrastructure-layer components
+   â¢     Cyber Resilience Act compliance support: Open source tools and guidance
+         specifically addressing CRA Article 25 voluntary attestation for FOSS
+   â¢     European Cybersecurity Competence Centre integration: Coordinate open source
+         security with ECCC mission, ensuring alignment between research, standards, and
+         operational security
+
+Expected impact: Strengthened security posture of European digital infrastructure; reduced
+reliance on US-based security vendors; enhanced ability to audit and verify security
+properties; demonstration of open source security advantages.
+
+Tier 3: Strategic Long-Term â High Complexity, Transformative Potential
+Edge Computing and Industrial IoT
+
+Why prioritize: Edge computing represents the physical infrastructure layer for industrial
+digitalization, autonomous systems, and real-time applications where European industrial
+strength can translate to digital advantage.
+
+Strategic opportunity: "Europe's Potential in Edge Computing: Supporting Industrial
+Innovation" study indicates strong European growth potential in Industrial IoT, with
+Commission investments exceeding â¬250 million since 2021 specifically targeting Cloud-
+Edge-IoT continuum.
+
+European advantage: Strong industrial base in automotive, manufacturing, energy, and
+logistics provides natural deployment context for edge solutions. The "Open Source Way to EU
+Digital Sovereignty & Competitiveness" thematic roadmap specifically highlights European
+open source cloud, edge, and IoT technologies as key enablers.
+
+Priority investments:
+
+   â¢     Open source edge orchestration platforms (alternatives to AWS IoT Greengrass, Azure
+         IoT Edge)
+   â¢     Industrial IoT protocols and middleware supporting OT/IT convergence
+   â¢     Edge AI inference optimization and model deployment tools
+   â¢     Time-sensitive networking and deterministic communication stacks
+
+Recommended actions:
+
+   â¢     â¬200 million investment through Horizon Europe for pilot actions on Digital Platforms
+         for Cloud-Edge-IoT
+
+       digitalpoland.org / fundacja digitalpoland / KRS: 0000678161 / NP. 9452208732
+                         StÄpiÅska 22/30, 00-739, Warszawa, Polska
+   â¢     Integration with automotive and manufacturing ecosystems through Chips Joint
+         Undertaking
+   â¢     Support for open source communities and SMEs in edge computing through Digital
+         Europe Programme
+
+Expected impact: European leadership in industrial edge computing; enabling competitive
+advantage in Industry 4.0 and smart manufacturing; reduced dependency on US cloud-centric
+architectures.
+
+Digital Payments Infrastructure (Digital Euro)
+
+Why prioritize: Payment infrastructure represents fundamental economic sovereignty;
+current reliance on US-based card networks (Visa, Mastercard) and payment processors
+creates strategic vulnerability.
+
+Digital Euro opportunity: The European Central Bank's digital euro project provides once-in-
+generation opportunity to establish public digital payment infrastructure as democratic
+alternative to private systems.
+
+Open source imperative: "The core infrastructure underpinning the Digital Euro â i.e., the
+services and software used and provided by the European Central Bank and the other banks of
+the Eurosystem â must be developed as open source software in order to ensure
+transparency and avoid dependencies on external vendors".
+
+Critical requirements:
+
+   â¢     Privacy preservation: Replicate cash-like privacy characteristics with limited
+         identification requirements and strict limits on data storage/sharing
+   â¢     Open source infrastructure: Full transparency of ECB and Eurosystem software
+         enabling public audit and preventing vendor lock-in
+   â¢     Interoperability: Seamless integration with existing and emerging European payment
+         solutions including stablecoins and tokenized deposits
+   â¢     Collaborative ecosystem: Joint pan-European payments acceptance infrastructure
+         bringing together public and private actors
+
+Recommended actions:
+
+   â¢     Mandate open source development for all Digital Euro core infrastructure components
+   â¢     Establish public consultation and transparency processes for technical architecture
+         decisions
+   â¢     Create developer-friendly APIs enabling third-party innovation while preserving privacy
+         and security
+   â¢     Integrate with broader European digital identity infrastructure (EUDI Wallet) for
+         privacy-preserving authentication
+
+       digitalpoland.org / fundacja digitalpoland / KRS: 0000678161 / NP. 9452208732
+                         StÄpiÅska 22/30, 00-739, Warszawa, Polska
+Expected impact: Strategic autonomy in payment infrastructure; reduced dependence on US
+card networks; privacy-preserving digital payment alternative; foundation for broader financial
+sector digitalization.
+
+ Technology Area           Feasibility   Dependency   Economic      Strategic Timeline
+                                         Risk         Impact        Priority
+ Productivity Suites       Very High     Medium       High          Tier 1    2026-2027
+ Cloud Infrastructure      Medium-       Very High    Very High     Tier 2    2026-2029
+                           High
+ AI Models &               Medium        Very High    Very High     Tier 2      2026-2030
+ Infrastructure
+ Cybersecurity Tooling     High          High         High          Tier 2      2026-2028
+ Edge/Industrial IoT       Medium        Medium       Medium-       Tier 3      2027-2031
+                                                      High
+ Digital Payments          Low-          Very High    Very High     Tier 3      2027-2032
+                           Medium
+
+Cross-Cutting Enablers
+
+Regardless of specific technology area, several horizontal capabilities are essential:
+
+   1. Identity and Access Management: EUDI Wallet provides foundation; expand to
+      enterprise IAM use cases
+   2. Data Sovereignty Infrastructure: European data spaces, sovereign data exchanges,
+      privacy-enhancing technologies
+   3. Open Standards and Interoperability: Aggressive standardization preventing
+      proprietary lock-in across all domains
+   4. Developer Tooling: European-hosted CI/CD, package registries, code repositories
+      reducing infrastructure dependency
+
+5. In what sectors could an increased use of open
+source lead to increased competitiveness and cyber
+resilience?
+Implementation Prioritization
+
+ Sector                  Competitiveness Cyber Resilience         Implementation     Priority Tier
+                         Impact          Impact                   Readiness
+ Public                  Very High       High                     High               Tier 1
+ Administration
+ Automotive (SDV)        Very High         Medium-High            Medium-High        Tier 1
+ Healthcare              High              Very High              Medium             Tier 2
+ Financial Services      High              High                   Medium-High        Tier 2
+ Energy/Smart Grid       Medium-High       Very High              Medium             Tier 2
+ Telecommunications      Medium-High       High                   Medium             Tier 3
+
+     digitalpoland.org / fundacja digitalpoland / KRS: 0000678161 / NP. 9452208732
+                       StÄpiÅska 22/30, 00-739, Warszawa, Polska
+The sectors offering highest combined competitiveness and cyber resilience benefits
+through open source adoption are public administration (immediate procurement
+leverage, market creation, and cross-border reuse) and automotive (European
+industrial strength facing software transformation requiring collaborative development
+models).
+
+pen source adoption can transform competitiveness and cyber resilience across
+multiple sectors by reducing vendor dependencies, enabling rapid innovation, improving
+security transparency, and creating interoperable ecosystems. Below are the sectors
+where increased open source use delivers the highest strategic value for Europe.
+
+1. Automotive: Software-Defined Vehicles (SDV)
+Why Open Source is Critical: The automotive industry is undergoing fundamental
+transformation from hardware-centric to software-defined vehicles, where up to 90% of
+innovation now occurs in software. European automotive manufacturers face intense
+competition from software-native companies (Tesla) and tech giants entering the market
+(Apple, Chinese EV manufacturers with advanced software integration).
+
+Competitiveness Benefits
+Accelerated development through shared infrastructure: Open source enables
+collaboration on "non-differentiating" softwareâmiddleware handling communication,
+authentication, diagnostics, and core vehicle functions that don't provide competitive
+advantage but are essential and costly to develop. In June 2025, major German
+automotive players including ZF signed a declaration to intensify cooperation on open
+source software specifically for these components.
+
+ZF's Senior Manager Gunther Bauer explained: "A significant portion of a vehicle's
+software is not directly visible to drivers and doesn't offer manufacturers a competitive
+edge. Such software modules can be developed collaboratively by multiple
+manufacturers and suppliers within an open ecosystem". This community-driven
+approach often results in foundational software that is "more powerful and reliable than
+isolated proprietary code".
+
+Cost efficiency and resource reallocation: By sharing development of commodity
+layers through open source, manufacturers can redirect engineering resources toward
+differentiating featuresâuser experience, autonomous driving algorithms, brand-
+specific interfacesâwhere competitive advantage actually exists. The Android model
+demonstrates this approach: hardware specialists collaborate on foundational software
+with standardized interfaces, while competing intensely on final user-facing features.
+
+Ecosystem participation and standard-setting: Organizations participating in open
+source automotive ecosystems (SOAFEE, Eclipse SDV Working Group, COVESA) gain
+influence over emerging standards and early access to shared innovations. "Those who
+
+    digitalpoland.org / fundacja digitalpoland / KRS: 0000678161 / NP. 9452208732
+                      StÄpiÅska 22/30, 00-739, Warszawa, Polska
+join early can help shape the standards," Bauer noted, explaining ZF's motivation for
+active open source engagement.
+
+Leveling the playing field: Open source "champions a shared ecosystem for the
+Software-Defined Vehicle, levelling the playing field for all involvedâwhether
+established OEMs, Tier 1, 2, or 3 suppliers, or emerging software companies". This
+prevents tech giants from capturing the entire value chain and enables European
+suppliers to remain competitive.
+
+Cyber Resilience Benefits
+Security through transparency: Open source automotive software enables security
+auditing by manufacturers, suppliers, and independent researchers, identifying
+vulnerabilities before deployment rather than relying solely on proprietary vendor
+assurances.
+
+Rapid vulnerability response: Community-driven development enables faster
+identification and patching of security issues across the entire automotive ecosystem,
+rather than each manufacturer independently discovering and fixing the same problems.
+
+Supply chain visibility: Open source facilitates Software Bill of Materials (SBOM)
+generation and dependency tracking, critical for meeting emerging automotive
+cybersecurity regulations and managing supply chain risks.
+
+EU Policy Support
+The European Commission's "Vehicle of the Future" initiative specifically aims to
+enhance competitiveness of EU software-defined vehicles industry, recognizing open
+source as essential enabler. The Chips Joint Undertaking funds open source automotive
+platforms as strategic priority.
+
+Recommended actions:
+   â¢     Mandate open source for non-differentiating vehicle software in EU-funded
+         automotive projects
+
+   â¢     Establish European automotive open source competence center providing
+         shared infrastructure, testing, and certification
+
+   â¢     Create procurement preferences for vehicles using open, interoperable software
+         architectures
+
+   â¢     Fund European alternatives to proprietary automotive operating systems
+         (competing with Android Automotive)
+
+       digitalpoland.org / fundacja digitalpoland / KRS: 0000678161 / NP. 9452208732
+                         StÄpiÅska 22/30, 00-739, Warszawa, Polska
+2. Public Administration and Digital Government Services
+Why Open Source is Critical: Public administration represents Europe's largest IT
+buyer, with purchasing power to shape markets and create sustainable open source
+ecosystems. Digital government services are foundational infrastructure determining
+citizens' relationship with the state and enabling broader digital economy.
+
+Competitiveness Benefits
+Market creation for European SMEs
+Open source public administration platforms create competitive markets for
+implementation, customization, support, and integration services that European SMEs
+can access without competing against entrenched proprietary vendors. This contrasts
+with proprietary ecosystems where "only the vendor who owns the IP can provide
+services".
+
+As Linux Foundation Europe notes: "Governments actively seek commercial open
+source software for needs that could benefit multiple administrations; public sector
+encourages commercialization of solutions built for their needs; procurement insists on
+true open source software and adherence to open standards; a competitive, open
+market for solutions is maintained". This approach "leverages the scale and incentives
+that make proprietary software vendors successful while maintaining the transparency,
+interoperability, and freedom from vendor lock-in that open source provides".
+
+Cross-border reuse and efficiency
+Open source enables administrations to share solutions across jurisdictions,
+dramatically reducing redundant development and procurement costs. Estonia's X-
+Road data exchange layer, released as open source, has been adopted by Finland,
+Iceland, and other nations, demonstrating scalable public infrastructure.
+
+Innovation acceleration
+Open source platforms enable rapid iteration and experimentation with new service
+delivery models without lengthy procurement cycles or vendor negotiation. Developers
+can build on existing platforms, creating vibrant ecosystems of third-party services.
+
+Technological sovereignty
+Public money funding open source creates strategic assets controlled by European
+public sector rather than enriching foreign vendors. This supports EU digital sovereignty
+goals by ensuring critical government infrastructure remains under European control.
+
+Cyber Resilience Benefits
+Reduced attack surface through transparency
+Open source government software enables security auditing by public, academic, and
+private sector researchers, creating "many eyes" review that proprietary systems cannot
+match.
+
+    digitalpoland.org / fundacja digitalpoland / KRS: 0000678161 / NP. 9452208732
+                      StÄpiÅska 22/30, 00-739, Warszawa, Polska
+Independence from vendor security practices
+Administrations can independently patch vulnerabilities or hire third parties for security
+hardening rather than depending on proprietary vendor timelines and priorities.
+
+Interoperability enabling resilience
+Open standards and interfaces inherent in open source allow administrations to
+maintain redundant systems and failover capabilities across different implementations,
+preventing single points of failure.
+
+Continuity of operations
+Open source ensures that governments can maintain critical systems even if original
+vendors exit the market, are acquired, or face sanctions/restrictions.
+
+Strategic Implementation Framework
+OpenFuture's submission on Public Digital Infrastructure identifies three priority areas:
+
+   1. Digitalization of government services: Adopt open source and interoperable
+      solutions guided by "public money, public code," using strategic procurement to
+      shape markets and reduce proprietary dependency
+
+   2. Business digital transformation: Make support for digital adoption conditional
+      on contributions to technological sovereignty and open ecosystems
+
+   3. Skills development: Emphasize transferable skills in open technologies rather
+      than reinforcing proprietary vendor dependence
+
+Recommended actions:
+   â¢     Mandate open source first for all government digital services (case management,
+         citizen portals, data platforms)
+
+   â¢     Create pan-European library of reusable government open source components
+         with technical support
+
+   â¢     Establish "GovTech Open Source" accelerator connecting public sector needs
+         with European developers
+
+   â¢     Require open source and open standards in all EU Digital Europe Programme-
+         funded government projects
+
+3. Healthcare: Electronic Health Records and Medical Interoperability
+Why Open Source is Critical: Healthcare systems face critical challenges of
+interoperability, data portability, vendor lock-in, and cybersecurity threats while
+managing sensitive patient data across fragmented organizational boundaries.
+
+       digitalpoland.org / fundacja digitalpoland / KRS: 0000678161 / NP. 9452208732
+                         StÄpiÅska 22/30, 00-739, Warszawa, Polska
+Competitiveness Benefits
+Interoperability and data exchange
+Open source health information systems based on open standards (openEHR, FHIR)
+enable seamless data exchange across providers, regions, and national borders.
+OpenEHR provides "an open platform where both the software and the information
+models for interoperability are widely available for any organization that wants to adopt
+them".
+
+This increases resilience by "allowing health organizations to choose open source
+options or proprietary openEHR-based platforms if they require extended functionality.
+Additionally, in the event of a critically compromised system, the information layer still
+can be used by replacing the software layer since the underlying data representation
+formalism is the same".
+
+Accessibility in resource-constrained settings
+GNU Health has been "designed with the ideas of interoperability and accessibility. The
+GNU Health Federation facilitates the integration of individuals and heterogeneous
+health informatic systems into a regional or national health network". The federated
+network permits nationwide health networks "while ensuring the continuity of
+operations at the local nodes, a key factor in areas where the Internet network
+connectivity is sub-optimal".
+
+Customization for specialized needs
+Healthcare organizations turn to open source for "much-needed customization, system
+interoperability, and fewer concerns around vendor lock-in than commercial, off-the-
+shelf software". Open source enables tailoring to specific clinical workflows, regulatory
+requirements, and integration with specialized medical devices.
+
+Cost reduction
+Elimination of per-user licensing fees for EHR systemsâoften hospitals' largest software
+expenseâenables reinvestment in clinical care and digital health innovation.
+
+Cyber Resilience Benefits
+Vulnerability management and security transparency
+Open source enables "regular bug fixes from the vast open-source developer
+community" and allows organizations to independently verify security properties.
+However, this requires discipline: "healthcare organizations must maintain an accurate
+inventory of components and prioritize swift software updates".
+
+SBOM requirements driving accountability
+FDA mandates for Software Bills of Materials in medical devices will "help healthcare
+organizations identify potential vulnerabilities faster. That improved visibility will enable
+better risk management of open-source components". The mandate "shifts secure
+
+     digitalpoland.org / fundacja digitalpoland / KRS: 0000678161 / NP. 9452208732
+                       StÄpiÅska 22/30, 00-739, Warszawa, Polska
+development and effective open-source management from a best practice to a
+requirement" and will "help improve open-source software security over time".
+
+Ransomware resilience
+"Digital health systems suffer from an upward trend in data breaches, with thousands of
+patient records compromised by different types of cyberattacks," including devastating
+ransomware attacks. Open source architectures with distributed data storage and
+federation models enable faster recovery and limit impact compared to monolithic
+proprietary systems.
+
+Security-by-design approaches
+Open source projects can "adapt their designs to more resilient architectures including
+the security-by-design and zero trust approaches in order to deal with future cyber
+risks", implementing modern security paradigms more rapidly than legacy proprietary
+systems.
+
+Operational Requirements
+
+Healthcare organizations must implement robust governance: "establishing governance
+oversight policies, implementing automated open-source dependency tracking, and
+integrating open-source management into their software development lifecycles". This
+includes maintaining accurate component inventories and prioritizing rapid updates.
+
+Recommended actions:
+   â¢     Fund European open source EHR platforms (openEHR, GNU Health) for EU-wide
+         deployment
+
+   â¢     Mandate FHIR and open standards for all health data exchange funded through
+         EU health programs
+
+   â¢     Create European health data interoperability testing and certification based on
+         open standards
+
+   â¢     Support cybersecurity tooling specifically for healthcare open source
+         (vulnerability scanning, SBOM generation, security testing)
+
+4. Financial Services: Open Banking and Financial Infrastructure
+Why Open Source is Critical: Financial services face regulatory mandates for open
+APIs (PSD2, open banking), increasing cyber threats, and intense competition from
+fintech challengers.
+
+Competitiveness Benefits
+Accelerated innovation and time-to-market
+Financial institutions use open source to "maintain their competitive edge. By adopting
+and contributing to open source technologies, firms can significantly reduce operational
+
+       digitalpoland.org / fundacja digitalpoland / KRS: 0000678161 / NP. 9452208732
+                         StÄpiÅska 22/30, 00-739, Warszawa, Polska
+costs, accelerate development timelines, and gain access to a vast pool of talent". Open
+source involvement serves as "a powerful recruiting tool in an increasingly competitive
+talent market".
+
+The Linux Foundation's FINOS (Fintech Open Source Foundation) 2025 Roadmap notes
+that open source creates "a ripple effect in the industry, driving greater innovation and
+making open source involvement a competitive necessity rather than a niche interest".
+
+Compliance as competitive advantage
+Open banking regulations require secure data sharing through standardized APIs.
+Institutions with strong compliance frameworks "can quickly adapt to new
+developments as the regulatory landscape evolves. This allows them to embrace
+opportunities ahead of less-prepared rivals by offering services that meet current
+customer needs and comply with new mandates".
+
+Open source facilitates compliance through transparent implementation of regulatory
+requirements and shared development of Common Cloud Controls and security
+frameworks.
+
+Market expansion potential
+Juniper Research projects open banking payments will surge from $57 billion in 2023 to
+over $330 billion by 2027, with "Europe gets it right, however, open finance has the
+potential to become an essential competitive advantage for its financial services
+sector".
+
+Enhanced customer trust
+"By prioritizing data protection and privacy, banks show they are committed to
+safeguarding client information" through transparent, auditable open source
+implementations. With 47% of consumers using at least three fintech apps, "there is
+clearly a strong expectation for secure and compliant data-sharing practices".
+
+Cyber Resilience Benefits
+Improved security posture through collaboration
+"The collaborative nature of open source development leads to more robust, well-tested
+code that can withstand" financial sector security requirements. Open source projects
+like FINOS's Common Cloud Controls help "financial institutions address compliance
+challenges while maintaining robust security frameworks".
+
+Rapid vulnerability response
+Open source enables financial institutions to collectively address security threats rather
+than each organization independently discovering and remediating the same
+vulnerabilities.
+
+API security and authentication
+Open banking's reliance on APIs creates heightened cybersecurity risk: "As financial
+
+    digitalpoland.org / fundacja digitalpoland / KRS: 0000678161 / NP. 9452208732
+                      StÄpiÅska 22/30, 00-739, Warszawa, Polska
+data becomes more accessible through APIs, there is a heightened risk of data breaches
+and fraud". Open source API security frameworks and authentication protocols enable
+transparent security verification that proprietary alternatives cannot provide.
+
+Reduced vendor concentration risk
+Financial sector reliance on a few large technology vendors creates systemic risk. Open
+source diversifies the technology supply chain and prevents single vendor failures from
+cascading across the industry.
+
+Strategic Considerations
+
+Security concerns remain paramount: "Financial institutions and third-party providers
+must implement robust security measures to protect sensitive customer information
+and ensure compliance with regulatory standards". This requires investment in security
+expertise and governance frameworks specifically for open source.
+
+Recommended actions:
+   â¢     Support FINOS and European financial services open source foundations
+
+   â¢     Mandate open standards for all financial APIs and data exchange formats
+
+   â¢     Fund open source implementation of Payment Services Directive (PSD2/PSD3)
+         requirements
+
+   â¢     Create European open source alternatives to proprietary core banking systems
+
+   â¢     Establish "FinTech Open Source" certification for security and regulatory
+         compliance
+
+5. Energy: Smart Grid and Critical Infrastructure
+Why Open Source is Critical: Energy systems face unprecedented challenges from
+renewable integration, distributed energy resources, climate-driven disruptions, and
+sophisticated cyber threats targeting critical infrastructure.
+
+Competitiveness Benefits
+Grid modernization and flexibility
+Smart grid technologies including "smart meters, sensors, and automated controls
+improve grid monitoring, fault detection, and response times". Open source enables
+innovation in grid management software without vendor lock-in, allowing utilities to
+rapidly adopt emerging technologies.
+
+Distributed Energy Resource (DER) integration
+"Integrating renewable energy sources, such as solar and wind, along with energy
+storage systems diversifies energy supply and enhances grid flexibility". Open source
+
+       digitalpoland.org / fundacja digitalpoland / KRS: 0000678161 / NP. 9452208732
+                         StÄpiÅska 22/30, 00-739, Warszawa, Polska
+platforms enable interoperability across diverse DER technologies and manufacturers,
+preventing fragmentation.
+
+Cost optimization through data-driven decision making
+Integrated Grid Planning (IGP) uses "data-driven decision making with advanced
+analytics and forecasting for grid investments and operations," creating "a flexible
+framework that adapts to emerging technologies and changing energy needs". Open
+source analytics platforms enable utilities to leverage best-in-class algorithms without
+proprietary analytics vendor lock-in.
+
+Infrastructure investment efficiency
+"Upgrading physical components of the grid, such as transmission lines, substations,
+and transformers" requires massive capital investment. Open source software
+maximizes return on hardware investments by enabling continuous software
+improvement without recurring licensing costs.
+
+Cyber Resilience Benefits
+Security-by-design for critical infrastructure
+The SUCCESS (Securing Critical Energy Infrastructures) project emphasizes "security by
+design approach and placing resiliency and survivability in focus, a new joint design of
+Energy Infrastructure and ICT". Open source enables transparent security architecture
+review impossible with proprietary systems controlling critical infrastructure.
+
+End-node security through innovation
+SUCCESS proposes "New-generation Open Real-time smart Meter (NORM) as a key
+building block" to "secure the end nodes of the energy system while providing innovative
+services in a customer centric grid". Open source smart meter firmware enables
+independent security auditing and rapid vulnerability patching.
+
+Cloud-based resilience and virtualization
+"At systems level, a cloud-approach, based on double virtualization, is proposed" for
+energy infrastructure. Open source cloud platforms (OpenStack, Kubernetes) provide
+flexibility to move critical workloads across infrastructure providers during disruptions or
+cyber attacks.
+
+Cybersecurity protocol strengthening
+"Strengthening cybersecurity protocols to protect the grid from cyber-attacks and
+ensure the integrity of critical infrastructure" is essential. Open source security tools
+enable continuous monitoring and threat detection without dependence on proprietary
+security vendors that may face conflicts of interest.
+
+Rapid recovery from disruptions
+Grid resilience requires "ability to withstand and recover from disruptions, ensuring a
+continuous supply of electricity". Open source enables utilities to maintain alternative
+
+    digitalpoland.org / fundacja digitalpoland / KRS: 0000678161 / NP. 9452208732
+                      StÄpiÅska 22/30, 00-739, Warszawa, Polska
+control systems and rapidly reconfigure operations during cyber incidents or physical
+disruptions.
+
+Recommended actions:
+   â¢     Fund European open source smart grid platforms (SCADA alternatives, DER
+         management systems)
+
+   â¢     Mandate open standards for grid communication protocols (preventing
+         proprietary fragmentation)
+
+   â¢     Support open source cybersecurity tools specifically for operational technology
+         (OT) environments
+
+   â¢     Create European "Energy Infrastructure Open Source" consortium pooling utility
+         investment
+
+   â¢     Require security-by-design and open source principles in all EU energy
+         infrastructure funding (Connecting Europe Facility, Innovation Fund)
+
+6. Telecommunications: 5G Open RAN and Network Infrastructure
+Why Open Source is Critical: Telecommunications infrastructure represents critical
+national infrastructure with acute geopolitical sensitivities around vendor
+trustworthiness (Huawei restrictions), combined with technology transition to software-
+defined, virtualized architectures.
+
+Competitiveness Benefits
+Disaggregation enabling vendor diversity
+Open RAN architecture "allows operators to build upon the capabilities enabled by 5G"
+through disaggregation, breaking the integrated vendor model that historically locked
+operators into single suppliers (Ericsson, Nokia, Huawei). This creates opportunities for
+European component vendors and software specialists to compete in previously closed
+ecosystems.
+
+Accelerated innovation and deployment
+"Open RAN supported by cloud-based services will increase the speed with which
+operators can install software and operating system security patches". Open interfaces
+enable rapid integration of new capabilities without waiting for monolithic vendor
+release cycles.
+
+Cost reduction and flexibility
+Disaggregated architecture allows operators to select best-in-class components and
+mix hardware from cost-effective suppliers with advanced software from specialists,
+optimizing total cost of ownership.
+
+       digitalpoland.org / fundacja digitalpoland / KRS: 0000678161 / NP. 9452208732
+                         StÄpiÅska 22/30, 00-739, Warszawa, Polska
+Small operator empowerment
+Open RAN "will be particularly important to small rural carriers, who may have more
+limited resources to dedicate to upgrading and patching network" infrastructure. Open
+source lowers barriers to entry and reduces dependence on expensive proprietary
+support contracts.
+
+Cyber Resilience Benefits
+Edge-focused security analytics
+"Open RAN allows operators to shift the security capabilities closer to the edge of the
+network and stop attacks closer to the source". Open interfaces enable "distributing
+security analytics throughout the network and moving RAN monitoring to the edge. This
+creates opportunities to create edge-focused analytics that speed the detection and
+prevention of network attacks, threats, and vulnerabilities".
+
+Rapid vulnerability response
+Open RAN enables operators to "minimize the amount of time a vulnerability is in the
+network" through rapid software updates, particularly critical for small carriers with
+limited resources.
+
+DDoS prevention at the edge
+"Rapid detection and response can enable efficient and more secure support of mobility
+services, especially IoT services by more effectively preventing DDoS attacks on the RAN
+by rogue mobile devices". Distributed security analytics allows sharing insights
+"between the RAN and core, as well as between different RAN locations".
+
+Best-in-class security integration
+"Open RAN will allow operators to integrate best-in-class security platforms with open
+interfaces," enabling specialized security vendors to provide advanced protection rather
+than relying solely on network equipment vendor security capabilities.
+
+Network-level security measures
+Critical protections include "encryption to protect data, authentication protocols to
+verify the identity of users and devices, and access controls to prevent unauthorized
+access to network resources". Open source implementations enable transparent
+verification of these security properties.
+
+Ongoing monitoring and management
+"Continuous security monitoring and management processes" are essential. Open RAN
+architectures facilitate integration of advanced security orchestration and automation
+tools.
+
+Risk Mitigation Requirements
+
+"Securing 5G's open RAN architecture is a critical challenge that requires careful
+planning and the implementation of robust security measures". The "open and
+
+    digitalpoland.org / fundacja digitalpoland / KRS: 0000678161 / NP. 9452208732
+                      StÄpiÅska 22/30, 00-739, Warszawa, Polska
+virtualized nature of 5G networks, as well as the increasing reliance on software and
+network functions, can create new vulnerabilities and potential threats".
+
+Essential measures include "secure communication protocols, strong authentication
+and access controls, and regular software and firmware updates". A "risk-based
+approach" must guide security architecture decisions.
+
+Recommended actions:
+   â¢     Fund European Open RAN ecosystem development (O-RAN Alliance
+         participation, European component vendors)
+
+   â¢     Support open source 5G core network implementations (Open5GS, free5GC)
+
+   â¢     Create European security certification for Open RAN components
+
+   â¢     Mandate open interfaces in all EU-funded telecommunications infrastructure
+
+   â¢     Establish European "Sovereign 5G" reference architecture based on open source
+         components
+
+Cross-Sectoral Priorities
+Several technology domains benefit multiple sectors simultaneously:
+
+Identity and Access Management: EUDI Wallet foundation extends to healthcare
+(patient identity), finance (banking authentication), energy (smart meter access),
+telecommunications (subscriber management), and government (citizen services)
+
+Cybersecurity Foundations: Supply chain security, vulnerability management, security
+monitoring, and incident response benefit all critical infrastructure sectors
+
+Data Interoperability: European data spaces for mobility, health, energy, and finance all
+require open standards and interoperable platforms
+
+Cloud and Edge Infrastructure: All sectors increasingly rely on cloud and edge
+computing; European sovereign alternatives provide cross-sectoral foundation
+
+       digitalpoland.org / fundacja digitalpoland / KRS: 0000678161 / NP. 9452208732
+                         StÄpiÅska 22/30, 00-739, Warszawa, Polska
+digitalpoland.org / fundacja digitalpoland / KRS: 0000678161 / NP. 9452208732
+                  StÄpiÅska 22/30, 00-739, Warszawa, Polska

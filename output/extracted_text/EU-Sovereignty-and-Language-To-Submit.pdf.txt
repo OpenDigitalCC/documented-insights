@@ -1,0 +1,262 @@
+Ref. Ares(2026)1225845 - 03/02/2026
+
+     European Sovereignty Begins with Language
+     Open-Core and the 28th Regime: How Venture Capital Rebrands Control
+
+     1. Digital Sovereignty and Open-Source Infrastructure
+     European sovereignty is eroded through the loss of control over the digital infrastructure on which
+     Europe depends. Open-source software is central to that infrastructure: publicly funded, widely
+     shared, and foundational to everything from cybersecurity to cloud computing. Europe is now
+     investing enormous resources into strengthening European open-source ecosystems precisely
+     because they are strategic digital commons. But open-source strengthens sovereignty only if it
+     remains genuinely open over the long term - not merely in name, but in governance, forkability, and
+     institutional independence.
+
+     Digital sovereignty means that Europeâs core institutions - courts, ministries, healthcare systems,
+     identity infrastructure - can function without dependence on foreign platform providers who can
+     impose unilateral conditions. When the digital backbone of society is controlled outside Europe,
+     sovereignty becomes contingent rather than real.
+
+     This is no longer only a software question. The same logic now applies directly to arti cial
+     intelligence: the debate over âAI sovereigntyâ is again about whether foundational models,
+     infrastructure, and companies will remain under European control, or whether Europe will become
+     structurally dependent on US-controlled platforms and capital pipelines.
+
+     In this context, the struggle is almost never presented as an open attack on European sovereignty. It
+     is waged indirectly, through language. US-based venture capital actors shape the conceptual terrain
+     by coining terms that sound neutral - or even benevolent - while quietly rede ning what is
+     considered normal, desirable, or inevitable. In doing so, they shift expectations and institutional
+     outcomes in ways that consolidate control.
+
+     When Europeans adopt Silicon Valleyâs vocabulary uncritically, they can end up supporting
+     arrangements that undermine Europeâs long-term autonomy without fully recognizing what is being
+     ceded. The rst step is seeing clearly. This essay examines two such linguistic maneuvers: âopen-
+     coreâ and âWe want a Regulationâ.
+
+     2. âOpen-Coreâ: The Rebranding of Proprietary Capture
+     âOpen-coreâ is not a neutral descriptive term. It is a term coined and promoted by US-based venture
+     capital actors as a replacement for the older language of freemium - a word that is no longer
+     fashionable, and that more clearly signaled what was happening.
+
+     The purpose of this rebranding is straightforward: to âopen-source washâ a business strategy that
+     gradually moves open-source projects in the direction of proprietary software, ultimately shifting
+     control over European-created - and often European-funded - digital infrastructure into the hands of
+     venture-backed US-aligned intermediaries.
+fi
+                                                                       fi
+                                                                                fi
+          This is not merely a licensing debate. It is one of the main ways European-funded open-source
+          challengers are prevented from becoming durable competitors to Microsoft, Google, or Amazon.
+          Once weakened or enclosed, the European open-source projects become easy to acquire,
+          marginalize, or dismantle - thus reinforcing US platform dominance.
+
+          The traditional open-source business model is simple: give away the software, sell the services.
+          Revenue comes through hosting, support contracts, consultancy, or SaaS deployment. The code
+          remains open, the ecosystem remains forkable, and the community retains real leverage.
+
+          Open-core, by contrast, combines the open-source service model with freemium enclosure
+          strategies. Newly developed functionality begins to move behind an âenterpriseâ paywall, while
+          normal usage is quietly rede ned as âenterprise usage.â In practice, this restriction often starts with
+          seemingly minor limitations: Single Sign-On, administrative tooling, or caps on the number of users
+          or seats a system can support. Over time, more and more essential functionality becomes closed.
+
+          Crucially, this process is rarely abrupt. It happens slowly - typically only after a European open-
+          source project has accepted venture funding, after adoption has grown, and after switching costs
+          have accumulated. The standard defense offered by venture capital is familiar: âIf open-core were
+          truly harmful, users would fork the project, and the community would leave.â But this ignores how
+          enclosure actually works. Forking is not costless, and these changes do not occur dramatically. They
+          occur gradually.
+
+          Open-source projects compromised by VC incentives âboil the frogâ:
+
+                â¢   the proprietary portion grows year by year,
+
+                â¢   enterprise licensing becomes steadily more expensive,
+
+                â¢   and the forkable codebase becomes increasingly incomplete.
+
+          At rst, the paywall seems minor and the license cost seems manageable. Many users do not think it
+          is a big deal. But over time, the balance shifts: the licensing costs become expensive and the closed-
+          source code creates vendor lock-in.
+
+          Eventually, users and developers face a trap:
+
+                â¢   the open branch is no longer suf cient,
+
+                â¢   the original fully open-source version is outdated and risky,
+
+                â¢   migration is painful,
+
+                â¢   and data export tools are frequently broken - maybe by design.
+
+          By the time the pain becomes undeniable, years have passed. Enough open-source code has been
+          removed, rewritten, and placed under proprietary license that what remains in the âopenâ branch is
+          no longer suf cient to fork into a viable alternative. Disgruntled developers are no longer forking a
+          project - they are being forced into an almost total rewrite. And because so many European-funded
+          open-source projects are eventually pulled into venture capital pipelines, it feels nearly impossible
+          to nd permanently open-source alternatives.
+
+          A second argument supporting âopen-coreâ is offered by US venture capitalists and their European
+          ecosystem allies: âIt is not in our interest to close an open-source license on a project. There would
+          be an uproar -the community would fork the project and weâd be left with nothing.â
+fi
+     fi
+           fi
+                             fi
+                                  fi
+     But this argument is a distraction. Venture capital does not need to close the existing open-source
+     codebase in order to subvert the project. The real control point is the licensing of new code. The
+     strategy is not sudden closure. It is gradual enclosure. Venture actors understand perfectly well that
+     boiling the frog works, while abrupt relicensing does not.
+
+     These narratives persist because they provide European tech founders with a feeling of safety and
+     alignment as they step into VC deals. And founders who have already accepted venture capital often
+     continue repeating them, because adopting the US-created framing reduces cognitive dissonance
+     about decisions that cannot easily be undone.
+
+     This is why steward ownership matters. Steward ownership is a governance structure in which
+     voting rights are structurally separated from pro t rights, so that control remains with long-term
+     stewards rather than exit-driven investors. In many steward-owned models, golden shares also
+     provide veto rights over key governance operations, such as mergers and acquisitions, dividend
+     extraction, or changes to mission and purpose in company statutes.
+
+     Only by placing durable asset locks on corporate governance can open-source infrastructure - often
+     publicly funded in Europe, and foundational to European digital sovereignty - be prevented from
+     being gradually captured and enclosed by venture-backed incentives. Steward ownership is not a
+     niche idealist preference. It is a sovereignty mechanism. And this is precisely why US-based
+     venture capital actors so desperately want to prevent it from becoming a European norm.
+
+     3. Narrative Capture of European Company Law
+     A similar linguistic maneuver is now unfolding in European startup and scale-up policy. The
+     European Commission is currently developing a new cross-border legal form for European startups
+     and scale-ups: the so-called 28th Regime. Its purpose is straightforward: to make it easier for
+     European companies to scale within Europe, rather than reincorporating in Delaware. This initiative
+     was requested by Ursula von der Leyen and motivated in part by the Mario Draghi report, which
+     called for greater resilience and competitiveness of the EU economy.
+
+     The European Parliamentâs draft of the 28th Regime, written by Dutch Rapporteur RenÃ© Repasi,
+     importantly included both:
+
+       â¢    steward ownership
+
+       â¢    and employee ownership
+
+     as governance mechanisms intended to strengthen Europeâs long-term economic autonomy.
+
+     Enter a broader set of US-backed and US-aligned venture capital actors - including European VC
+      rms whose funds are often signi cantly dependent on American Limited Partner capital - together
+     with ecosystem partners who are actively shaping how the 28th Regime is framed, discussed, and
+     ultimately written.
+
+     It is important to be clear: not everyone involved is acting in bad faith. Many founders, investors,
+     and policymakers sincerely believe that Europe needs the strongest and fastest possible instrument,
+     and they view certain legal and governance choices as necessary to avoid fragmentation. The
+     rhetoric is often genuinely motivated.
+fi
+                           fi
+                                          fi
+One of the clearest examples is the current push for DG JUST to rewrite the 28th Regime as a
+Regulation rather than a Harmonizing Directive.
+
+On paper, this sounds attractive. The rhetoric is seductive:
+
+  â¢    âWe donât want a second-best solution.â
+
+  â¢    âA directive will be too slow.â
+
+  â¢    âEurope needs a speedboat regulation, not a bureaucratic compromise.â
+
+These arguments are not frivolous. They re ect real frustration with Europeâs slow scaling
+environment, and a sincere desire to make Europe more competitive.
+
+But the political reality is the opposite. The 28th Regime will likely never survive the legislative
+process as a Regulation. Despite the signi cant majority in the European Parliament supporting
+Repasiâs draft, conservative parties across Europe are deeply suspicious of anything that centralizes
+corporate law in Brussels. A Regulation would take control away from the 27 member states, violate
+subsidiarity, and provoke precisely the backlash that would cause the entire initiative to be
+politically shot down.
+
+This is where structural incentives matter. Even when some advocates are acting out of conviction,
+other actors embedded in transatlantic venture pipelines have incentives that are not fully aligned
+with a sovereignty-preserving outcome. Anything that makes Europe a more attractive place for
+startups and scale-ups to remain incorporated - rather than relocating to Delaware - runs directly
+against US venture capitalâs structural incentives.
+
+Venture capitalists also do not want governance innovations such as steward ownership or employee
+ownership to become easier. They want European companies to remain acquirable, absorbable, and
+ultimately IP extractable - so that European-funded innovation can be folded into US-controlled
+corporations and capital structures.
+
+This is why aligned ecosystem partners are pushing to strip steward ownership and employee
+ownership provisions out of the 28th Regime altogether. The rhetorical framing is familiar:
+
+  â¢    âWe donât want extra bells and whistles.â
+
+  â¢    âWe need to simplify and streamline.â
+
+  â¢    âGovernance constraints will slow implementation.â
+
+  â¢    âLetâs focus on what founders really need.â
+
+But these are not neutral technical preferences. Steward ownership and employee ownership are not
+decorative additions. They are precisely the structural mechanisms that would prevent the 28th
+Regime from becoming yet another pipeline for venture-backed extraction.
+
+Once again, the struggle begins in language: whoever de nes the frame controls the outcome.
+
+4. Sovereignty Requires Structural Clarity
+                              fi
+                                   fl
+                                              fi
+     These two dynamics are not separate. Open-core is a micro-level mechanism: it weakens Europeâs
+     ability to sustain independent digital infrastructure by gradually enclosing the very open-source
+     projects that could have become European competitors. The Regulation vs. Harmonizing Directive
+     discussion is a macro-level mechanism: it attempts to shape the legal and institutional environment
+     so that European rms remain structurally dependent on the same venture-driven pipeline. In both
+     cases, the outcome is the same: Europe loses the capacity to govern its own digital foundations, and
+     the eld is cleared for continued dominance by US Big Tech.
+
+     The consequences of this dependence are no longer theoretical. Microsoft reportedly restricted
+     access to Of ce365 services for of cials connected to the International Criminal Court during
+     investigations related to Gaza - demonstrating how quickly legal and diplomatic institutions can
+     become vulnerable when their core infrastructure runs through US platforms. In the Netherlands,
+     the acquisition of Solvinity, a rm involved in managing critical digital government infrastructure
+     such as DigiD, illustrates how easily strategic European digital capacity can be absorbed into larger
+     corporate ecosystems. Even the infrastructure of open software collaboration itself is no longer
+     neutral: GitHub, the worldâs largest open-source code platform, was acquired by Microsoft, placing
+     the coordination layer of the digital commons inside a US corporate ecosystem.
+
+     These are not edge cases. They are clear and current warnings: European sovereignty is not
+     compatible with structural dependence on foreign-controlled digital chokepoints.
+
+     What emerges is a broader pattern:
+
+          â¢        language is blurred,
+
+          â¢        extraction is rebranded as innovation,
+
+          â¢        and Europeans are invited to participate in their own loss of control.
+
+     Whether through âopen-coreâ or âWe want a Regulationâ structural power hides behind benign
+     vocabulary. Europeâs autonomy is weakened not through open confrontation, but through rhetoric
+     that makes enclosure sound like openness, and capture sound like progress.
+
+     The lesson is simple. European sovereignty - digital, economic, and institutional - cannot rest on
+     branding, good intentions, or abstract commitments to âinnovation.â It requires durable structures:
+     open-source infrastructure that remains genuinely open over time, and ownership models such as
+     steward ownership that align control with long-term stewardship rather than short-term extraction.
+
+     These linguistic maneuvers persist because they work. The task now is not merely to critique them,
+     but to see through them, name them clearly, and build European institutions that cannot be governed
+     from elsewhere. The rst step is clarity. The next is sovereignty.
+
+     Europe must be able to say plainly: we want open source, not open-core. And we want Steward
+     Ownership in the 28th Regime. The question is not whether Europe will innovate. The question is
+     whether European innovation will remain European - or whether it will continue to be enclosed,
+     acquired, and subordinated inside US-controlled capital and cloud empires.
+fi
+     fi
+              fi
+                    fi
+                             fi
+                                  fi

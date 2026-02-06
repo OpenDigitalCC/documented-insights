@@ -1,0 +1,397 @@
+Ref. Ares(2026)1217171 - 03/02/2026
+
+                                 RTEâs feedback
+  Towards European Open Digital Ecosystems
+                                   February 3rd, 2026
+
+        Open source is not only an extremely efficient way to develop software
+and share intellectual property: it is a philosophy that empowers individuals,
+fosters collaboration, and drives additive innovation. By embracing collective
+intelligence and transparency, and by pooling efforts and skills, open source enables
+us to build better, more secure, and more sustainable technology. It breaks down
+barriers, accelerates learning, and federates contribution for the benefit of all
+stakeholders.
+RTE believes that its corporate mission as a Transmission System Operator, and its
+transformation to meet tomorrowâs energy challenges, can only be achieved efficiently
+through open-source collaboration.
+For these reasons, RTE welcomes and strongly support the European                                             1
+Commission's initiative to address strategic issues related to open-source
+ecosystem.
+
+        Since 2019, RTE has taken a proactive role in the growth of an open-
+source ecosystem in the energy sector, notably as founding and strategic
+member of LF Energy (https://lfenergy.org/). RTE has published its open-source
+manifest, (https://opensource.rte-france.com). RTE has also endorsed the Open
+Source       United      Nations    Principles     since    March    2025  (see
+https://unite.un.org/en/news/sixteen-organizations-endorse-un-open-source-
+principles).
+RTEâs strategic participation in open-source ecosystems combines direct involvement
+in projects (taking proactive roles in technical governance), procurement of âdirectedâ
+open-source software services (steering the use of collaborative open-source
+technologies and upstream contributions) and active role in the governance of
+foundations (i.e. LF Energy) and in advocacy. The aim is to build a surrounding
+cutting-edge ecosystem that can deliver core-business digital assets and
+innovation, while guaranteeing long-term sustainability and resilience.
+Hence, RTE shares the Commissionâs statement that âA strong and developed open-
+source sector can effectively contribute to further EU innovation and accelerate
+standardisation, strengthening the EUâs international competitiveness, preserving its
+
+                                                                                           1
+                                                          Towards European Open Digital Ecosystems
+
+    sovereignty, and ensuring its continuous economic prosperity, security, resilience and
+    global influenceâ.
+
+    RTE develops its workforce for R&D and industrializes production-grade open-
+    source digital assets â addressing core needs in power system management,
+    grid planning, and asset management â via robust ICT teams. While essential,
+    these require Service Level Agreements (SLAs, Levels 1â4) procured from
+    experienced Digital Service Providers. They should demonstrate their capacity to
+    contribute Upstream to open source for bug fixes, functional and technical evolutions
+    or urgent vulnerability. If public procurement actors move massively to open-source in
+    the coming years, these players could be European champions of Digital Public Goods.
+    An improved version of the EU open-source catalogue could be a compass to create
+    a synchronous demand creating offer from Digital Service Providers to the market. This
+    improvement could be a matrix like this one:
+
+2
+
+       Figure 1: Matrix of common digital needs in the EU verticals and administrations
+     In this improved version of the EU OSS catalogue, we would first assess the maturity levels
+      of available products and ecosystems (LF Energy, Eclipse SDV, OpenRail Association, â¦)
+    across relevant horizontals and verticals, and second, evaluate the maturity of Digital Service
+     Providers publicly conducting upstream development for those products. This virtuous circle
+    would also help prevent maintainer burnout among volunteers facing widespread adoption of
+                                            their products.
+
+                RTE RÃ©seau de Transport dâÃlectricitÃ© â¢ www.rte-france.com â¢ @rte_france
+                                                      Towards European Open Digital Ecosystems
+
+Strengths and Weaknesses of the EU open-
+source sector
+The open-source sector has several strengths that should be recognised
+ï¸ Based on RTE's experience, six main forces characterise OSS, which can be summarised
+  in six words: interoperability, durability, modularity, cost-efficiency, innovation, community.
+
+ï The first and foremost strength of the open-source sector is interoperability. The
+  open-source approach makes it possible to achieve the interoperability
+  promised by standards by getting competitors to work together. This is a decisive
+  and strategic advantage in avoiding vendor lock-in, which places users in a
+  position of dependence on the supplier.
+
+ï In the global IT ecosystem, the open-source community stands out for its genuine
+  focus on durability through documentation and technical debt management.
+  An open-source ecosystem simply cannot be viable if it is not rigorously
+  documented. It is an unavoidable condition for the ecosystem to grow. Regarding
+  the current open-source community, the documentation is technically and
+  functionally sound, which makes the community highly accessible and allows
+  certain objects to stand the test of time for decades (Linux Kernel, Apache http web              3
+  server, GNU C Compiler (GCC), â¦). We will also demonstrate the impact of
+  inadequate documentation on cost-efficiency (figure 2 to 4).
+
+ï The open-source sector also provides remarkable modularity of digital services
+  and code. A striking example of this is the âPowSyBlâ (Power Systems Blocks)
+  project. This open-source library written in Java, dedicated to electrical grid
+  modelling, visualisation and simulation has continuously improved in terms of
+  documentation and technical and functional consistency for nearly 15 years. This
+  project, initially co-funded by European research and innovation programs (iTesla
+  - FP7-ENERGY-2011-1 H2020), has demonstrated the modular capabilities of the
+  open-source approach and its relevance for the analysis and operation of the
+  electricity system.
+
+ï These models also deliver long-term cost-efficiency. When common business
+  needs exist, a unilateral approach to closed source digital assets is completely
+  counterproductive. However, open-source projects are generally carried out by
+  several parties, which allows for significant cost savings through pooling
+  resources.
+
+            RTE RÃ©seau de Transport dâÃlectricitÃ© â¢ www.rte-france.com â¢ @rte_france
+                                                          Towards European Open Digital Ecosystems
+
+      Figure 2: Cost capitalization â buying closed source out of the shelf from vendors
+      In Public or Private Procurement, when a client decides to buy a product to answer its
+    business needs, he is not buying to capitalize on its digital asset. He is renting a commodity
+     to a third party (vendor) which do capitalize on its own asset (without sharing value). The
+                        client cannot change easily the situation in the long run.
+
+4
+
+           Figure 3: Cost capitalization â making closed source for your own needs
+      In Public or Private Procurement, when a client decides to make its own digital asset to
+         answer its own business need, inadequate documentation and/or technical debtâ
+      exacerbated by workforce turnoverâforces companies to restart from scratch, incurring
+    costly reverse-engineering of legacy code. Money spent before the last investment phase is
+                                              losses.
+
+                RTE RÃ©seau de Transport dâÃlectricitÃ© â¢ www.rte-france.com â¢ @rte_france
+                                                       Towards European Open Digital Ecosystems
+
+         Figure 4: Cost capitalization â making open source for common needs
+In Public or Private Procurement, buying development, support, evolution of an open-source
+product already existing or deciding to produce it through an open-source community, ensure
+   robust documentation, modular architecture, and proactive technical debt management,
+ offering a shared capitalization for itself and an entire market. It also offers interoperability,
+    common implementation of standards, transparency, traceability, freedom of choice for
+  providers in an open concurrency, additive innovation for R&D&I phases, talent attraction
+                                         and retention, â¦
+
+ï In a challenging economic climate, the open-source sector is also demonstrating
+                                                                                                      5
+  the power of innovation. The speed of innovation in open source is a proven fact.
+  In particular, thanks to a much more flexible intellectual property regime, open-
+  source solutions are able to reach time-to-market more quickly.
+
+ï Finally, the open-source sector relies on a genuine community, which constitutes
+  an unequivocal strength. Betting on open-source means betting on the motivation
+  of a committed and skilled community. It is also a strategic challenge to move
+  from being a âtenant of digital commoditiesâ through the use of digital services to
+  becoming an investor in European skills in this field and Digital Public Goods
+  available for the entire world.
+
+By building on these strengths, the European Commission's strategy for open digital
+ecosystems can truly leverage this approach to serve its strategic objectives. It must
+also remain aware of the weaknesses that characterise the sector.
+
+             RTE RÃ©seau de Transport dâÃlectricitÃ© â¢ www.rte-france.com â¢ @rte_france
+                                                         Towards European Open Digital Ecosystems
+
+    The open-source sector also has weaknesses that need to be addressed.
+    ï¸ Broadly speaking, the OSS suffers from three main weaknesses linked to the proper
+      understanding of the chain of roles and accountability, weak adoption of consistent
+      procurement practices, and reputation concerns.
+
+    ï The first weakness is the lack of common understanding of how open-source
+      collaborations operate and how to take into account the absence of direct chain
+      of accountability. Special care must be taken when regulating open source. A
+      good example to follow is how the Cyber Resilience Act has been adjusted to
+      cope with this issue. Furthermore, the intrinsically decentralized and horizontal
+      structure of the open-source ecosystem, with numerous foundations and other
+      open-source project governance structures, raises the question of appropriate
+      representation towards public authorities and policy making.
+
+    ï Another weakness is the low adoption of procurement practices that leverage
+      open-source ecosystems. Under French case law (Conseil dâEtat, decision
+      nÂ°350431, September 30th, 2011), it is possible to award a public contract for open-
+      source software by specifically naming a solution without contravening the principle
+      of non-discrimination. Due to its intrinsic link with innovation, open source thrives
+      on competition, and public procurement law should therefore promote this
+      stimulation of open source through competition.
+6
+    ï Finally, the open-source sector suffers from several prejudices linked to its
+      reputation and misconceptions, which must be combated. Widespread
+      discourse on open-source, especially in environments that are not at the forefront
+      of IT, aims to portray this software as less secure, non-industrial-grade,
+      unsuitable for turnkey purchase, even though such claims have not been proven
+      to date.
+
+    Barriers still hamper adoption and maintenance of high-quality and secure open-
+    source, and sustainable contributions to open-source communities
+
+          The open-source ecosystem is currently facing structural challenges, notably a
+    shortage of resources and limited capacity for outsourcing. In response, the
+    development of Found Digital Services /Providers is emerging as a key lever to
+    address these constraints.
+    This shift requires moving away from traditional daily rateâbased business
+    models and instead prioritizing long-term investment in the maintenance and
+    sustainability of open-source software (OSS).
+
+               RTE RÃ©seau de Transport dâÃlectricitÃ© â¢ www.rte-france.com â¢ @rte_france
+                                                         Towards European Open Digital Ecosystems
+
+Added-value of open-source for the public and
+private sectors
+As the French Transmission System Operator, and a public sector organisation,
+RTE is committed to open-source collaboration, for the benefit of its critical
+activities to the energy transition.
+
+       In the software world, open source has become a dominant strategy. Eventually,
+this license enabled an outstandingly efficient governance framework for
+collaborative software development across business organizations. Major
+software companies realized in the 2000s that they could leverage these licenses to
+organize their software strategies around remarkably efficient collaborations by pooling
+the development effort of software technology components that meet shared needs,
+hence enabling additive innovation and simultaneous gains in costs, time to market,
+and quality.
+Due to this efficiency, the model spread in the software technology and cloud
+sector, and then into industrial verticals such as telecommunications and
+automotive. This occurred under the aegis of foundations such as The Linux
+Foundation, which provide a neutral and proven governance framework to organize
+collaborations, build trust among investing partners, and establish state-of-the-                        7
+art software development practices (cybersecurity, etc.).
+
+      Thus, open source is a powerful driver of innovation, interoperability, and digital
+sovereignty. At RTE, we believe collaboration is key to resilience and efficiency.
+The grid of tomorrow should not be built within black boxes1; shared standards
+and joint developments are essential to meet our digital roadmaps and keep
+pace with the energy transition.
+For RTE, the expected benefits of this open-source sector development are:
+    ï   An acceleration by reusing what exists and sharing efforts, allowing for faster
+        and cheaper software development,
+    ï   Industrial-grade software with improved                    modularity,     interoperability,
+        evolutivity, and shorter release time cycles,
+    ï   Cutting-edge technological and business model innovation,
+    ï   Access, through collaboration, to wider and more diverse skills and
+        viewpoints,
+    ï   Reduced vendor lock-in or customer-specific approaches that impede
+        velocity and cost-efficiency.
+
+1 OSS is helping cyber crises management (source: ANSI), modeling interpretation, bug reproducibility,
+
+AI, â¦
+
+             RTE RÃ©seau de Transport dâÃlectricitÃ© â¢ www.rte-france.com â¢ @rte_france
+                                                         Towards European Open Digital Ecosystems
+
+    These convictions are materialised through concrete collaborative initiatives:
+    The example of the Linux Foundation Energy.
+
+          In early 2018, RTE took the gamble that the open-source model could be
+    transposed to the energy sector and decided to start a collaboration with Shuli
+    Goodman at The Linux Foundation. This collaboration led to the creation of Linux
+    Foundation Energy (LF Energy) in early 2019. Since then, RTE has played a
+    leading role in the foundation as a Strategic Member.
+    LF Energy is a member-funded non-profit organization whose purpose is to accelerate
+    the energy transition through collaboration on open-source technologies and
+    standards.
+    LF Energy serves as an independent, neutral steward for transparently governed open-
+    source technologies and standards that serve as the trustworthy, secure digital
+    foundation for grid modernization and modern energy services.
+
+          It was within the LF Energy that the PowSyBl (Power Systems Blocks) project
+    came into being. This project consists of an open-source library for power system
+    modelling, visualization, and simulation
+    Initially developed by RTE, PowSyBl was open sourced in 2019 under LF Energy
+8   and now serves a wide range of users across Europe. In 2025, the project transitioned
+    to be hosted under Linux Foundation Europe (LF Europe), in continued partnership
+    with LF Energy, to support its next phase of growth.
+    Today, PowSyBl has become a cornerstone of Europeâs energy system. It is now
+    actively used by Transmission System Operators such as RTE and Elia; by Regional
+    Coordination Centers including Baltic RCC, CORESO, TSCNET, and SeleneCC; by
+    vendors like Artelys, AIA, and Power Info; and by research institutions such as
+    CRESYM and NEON Research.
+    PowSyBl illustrates whatâs possible when stakeholders collaborate instead of
+    duplicating effort. By investing in shared infrastructure, TSOs and regional
+    coordination centers (RCCs) across Europe avoid vendor lock-in, improve
+    interoperability, and retain control over core technologies.
+
+       ï¸ More information about LF Energy and PowSyBl: PowSyBl â A Community-Led
+         Open Source Project for European Grid Sovereignty - LF Energy
+
+               RTE RÃ©seau de Transport dâÃlectricitÃ© â¢ www.rte-france.com â¢ @rte_france
+                                                     Towards European Open Digital Ecosystems
+
+Concrete measures at EU-level to the
+development of the EU open-source sector
+       RTE broadly support the statement that âThe strategy should complement
+existing and forthcoming regulatory measures with policy and funding measures,
+including public-private partnerships, covering the full open-source life cycle â from
+development to maintenance and sustainability and market integration â across critical
+sectorsâ.
+We would like to emphasise on the need to onboard technology end-users,
+including industry verticals such as energy, in the design and governance of the
+short and mid-term initiatives and actions.
+For instance, the launch of the European Digital Infrastructure Consortium for
+Digital Commons is a promising initiative to join forces and scale up. We suggest
+to reflect a model that would enable open-source programs from sectorial ecosystems
+to coordinate with such initiatives.
+The stake is to ensure a convergence between the common digital infrastructures
+supported by the public initiatives and those trusted and favoured by digital
+technology end-users in the private sector. This would ensure a higher
+consolidation of efforts, reduced fragmentation and higher impact from policy and
+                                                                                                9
+funding.
+Digital technology end-users are taking on an increasingly proactive role in the open-
+source ecosystem. In the energy sector for instance, the European power grid
+operators RTE and Alliander play a leading role in the governance of the LF
+Energy foundation (https://lfenergy.org/). Another example is the French
+association TOSIT (https://tosit.fr/) gathering major digital technology end-users in
+France with the aim to support the emergence and uptake of open-source solutions
+and best practices.
+
+       RTE also believes that the strategy should promote the active participation
+of European stakeholders in cutting-edge open-source collaborations with
+global scope and hosted at foundations. Such active participation entails increased
+contributions with leadership role in the governance, both at technical and
+strategic levels.
+The stake is to leverage the power of global communities (instead of reinventing EU
+flavours of same technologies), hence achieving the growth of the EU open-source
+sector and contributing to the EUâs technological sovereignty at a lower cost and higher
+pace.
+A condition for success may be to strengthen interactions with foundations in
+relation with policymaking in order to ensure that the policies and practices in these
+
+           RTE RÃ©seau de Transport dâÃlectricitÃ© â¢ www.rte-france.com â¢ @rte_france
+                                                           Towards European Open Digital Ecosystems
+
+     global collaborations are aligned with EUâs expectations. They are key actors to
+     complete the matrix (Figure 1) and the revised EU open-source catalogue.
+     Promotion of vertical industry associations like ENTSOE or EU-DSO entities
+     could serve as an effective lever to support open-source initiatives.
+
+         An unprecedented European initiative was launched last year jointly by
+         French and German Governments with the creation of the Digital
+         Resilience Index (DRI/IRN), a strategic governance tool designed to support
+         technological sovereignty. Available from 2026 onward, the index aims to
+         provide Europe with a concrete reference framework to restore its digital
+         autonomy by assessing digital dependencies and vulnerabilities. The French
+         association will switch to AISBL status before end of 2026. All produced
+         content is open source and will be translated in different languages (see:
+         https://thedigitalresilience.org/). Some partners of the European Union
+         (UK, Japan, India) already mention their interest to adopt it.
+         Methodologically, the analysis is based on a set of quantitative criteria that
+         objectively measure the level of independence of an organizationâs
+         information system across three distinct scales: national, European, and
+         extra-European. Among these criteria, particular attention is paid to the
+10       degree of openness, defined as the extent to which critical digital systems
+         rely on open technologies such as open-source software, open data, and
+         open standards.
+
+     RTEâs recommendations:
+
+     ï¸ Recognise and promote the value of open-source initiatives and digital collaboration
+       for strategic sectors, particularly the energy transition. Support related projects, notably
+       through funding programmes that enable these projects to take shape and keep pace.
+
+     ï¸ Work towards facilitating and fostering open-source ecosystems at European level
+       involving all stakeholders concerned by the programmes. Promote the active
+       participation of European stakeholders in cutting-edge open-source collaborations with
+       global scope and hosted at foundations and governance structures whose policies and
+       practices are aligned with EUâs expectations.
+
+     ï¸ Recognise the importance of having a structure/model for the policy representation
+       of the open-source ecosystem, capable of engaging dialogue with public authorities
+       and private actors, in the common interest of pursuing strategic objectives such as digital
+       sovereignty, cybersecurity, or energy transition through digital collaboration.
+
+                 RTE RÃ©seau de Transport dâÃlectricitÃ© â¢ www.rte-france.com â¢ @rte_france
+                                                      Towards European Open Digital Ecosystems
+
+ï¸ Ensure that all stakeholders are included in these joint structures, particularly in their
+  governance, to ensure that open-source development remains connected to the practical
+  realities of project developers.
+
+ï¸ Enhance public procurement with a guidance to an open-source solutions first approach
+  aiming either the existing EU open-source catalogue content (improved version) or
+  contribution to complete it with new offer through a collaborative work.
+
+ï¸ Ask any research deliverable funded by Europe to be Open Source, Open Science,
+  Open Data, Open Standard, Open-Source AI (OSI definitions) by default.
+
+                                              ***
+
+     RTE (RÃ©seau de Transport dâÃlectricitÃ©) is the French electricity transmission
+     system operator (TSO), managing over 105,000 km of high and extra-high voltage
+     lines and more than 50 interconnections with neighboring European countries.
+     RTE ensures the balance between electricity supply and demand every second of
+     the day to guarantee Franceâs electricity security of supply. Drawing on its expertise
+     and central role in the electricity system, RTE conducts forward-looking studies
+     designed to inform governmental decisions.
+     At European level, RTE actively collaborates with its TSO counterparts within the           11
+     ENTSO-E association, some of whose missions stem from mandates given by the
+     European legislator.TSOâs roles in each EU country has been progressively defined
+     in the Energy packages. Their creation is the consequence of the opening up of
+     electricity markets by directive 96/92/EC.
+
+                                     Contact: Julien KELLER (julien.keller@rte-france.com)
+
+            RTE RÃ©seau de Transport dâÃlectricitÃ© â¢ www.rte-france.com â¢ @rte_france

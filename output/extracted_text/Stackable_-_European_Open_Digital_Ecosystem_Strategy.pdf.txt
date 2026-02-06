@@ -1,0 +1,169 @@
+Ref. Ares(2026)933814 - 27/01/2026
+
+Stackable Contribution to the Call for
+Evidence: Towards European Open
+Digital Ecosystems
+Context / About Stackable
+Stackable GmbH is a 20 person company based in Germany that builds and commercially
+supports a fully open source data platform. Our software is used across finance, public sector,
+and industrial environments globally.
+
+We therefore respond from the perspective of a handsâon open source producer and
+maintainer, not as a policy or advocacy organisation. We are also engaged in the Expert Group
+on Cybersecurity of Products with Digital Elements (E03967) as well as CEN/CENELEC and
+advocate for SMEs and open source where we can.
+
+Our perspective on open source
+We do not treat open source as a separate category (as it is sometimes portrayed) of software,
+nor primarily as a costâsaving tool. We treat it as a software property or feature that enables
+specific (highly valuable) behaviours:
+
+   ââ Improved debuggability: Full visibility into and access to the codebase makes
+      diagnosing and fixing issues easier.
+   ââ Reduced vendor lock-in: Users can maintain, extend, or fork the software without
+      dependence on a single vendor.
+   ââ Sovereignty: Long-term viability does not depend on external parties and especially not
+      on the continued existence of a single vendor.
+   ââ Autonomy and agency: The ability to understand, modify, and evolve the software
+      independently, with confidence in oneâs own capacity to do so.
+
+It is important to stress that open source is not primarily a cost-saving argument. It absolutely
+can be under some circumstances but it is not a main driver.
+
+Open source should be understood as digital infrastructure and a shared digital commons. It
+forms the foundation on which further economic activity can happen and thrive. Open source
+can drive innovation and economic growth. Like physical infrastructure, this shared foundation
+requires continuous maintenance and investment.
+Questions from the Call for Evidence
+
+What are the strengths and weaknesses of the EU open source
+sector?
+
+Strengths
+
+  ââ Regulation: The Cyber Resilience Act is the first regulatory framework for cybersecurity
+     in software - this includes provisions for open source software and components. The EU
+     is leading here.
+  ââ Support infrastructure: Sovereign Tech Fund, NLnet, Digital Commons EDIC, FSFE,
+     Eclipse Foundation, APELL and others show how successful support for open source
+     financially or otherwise can look like and work and how we can learn from each other.
+  ââ Diverse ecosystem: Europeâs open source ecosystem is not dominated by a handful of
+     big/global players. Instead, we have tens of thousands of small and specialised but
+     successful companies (mostly SMEs) and projects, which increases overall resilience.
+  ââ Active community: Europe is home to a large community of developers involved in
+     important open source projects. It is also host to important conferences and events (e.g.
+     FOSDEM).
+  ââ Values: Many open source values align perfectly with the values baked into the EU:
+     openness, transparency, sovereignty, privacy and more.
+
+Weaknesses
+
+  ââ Marketing/Sales budgets: The downside of a diverse ecosystem is that the multitude of
+     small vendors do not have budgets as big as those of the incumbent proprietary
+     vendors.
+  ââ Fragmented landscape: No obvious âbig playersâ makes procurement decisions harder.
+  ââ Usability/UX: Some openâsource solutions lag behind proprietary counterparts in UX,
+     often due to chronic underfunding rather than technical limits.
+         ââ Proprietary software has been funded by the public and private sector for
+            decades.
+  ââ Missing infrastructure: Still dependent on proprietary platforms like GitHub as well as
+     CDNs and hyperscalers where no established alternative exists.
+         ââ In some cases it is hard to overcome the network effects.
+
+(i) What are the main barriers that hamper(i) adoption and maintenance of
+high-quality and secure open source?
+   ââ Public and private procurement: Public and private procurement often follow outdated
+      rules and concepts which show a lack of understanding of how the open source world
+      works (There are no âlicensesâ to buy, what do I pay for?).
+   ââ Playing it safe: âNo one has ever been fired for buying Xâ.
+           ââ This leads to choosing familiar proprietary solutions even when superior open
+               alternatives exist.
+   ââ Itâs free: Open source is still often equated with âzero costâ and is sometimes incorrectly
+      perceived as lower quality or unsupported software.
+   ââ Accessibility constraints: Some open source software was not designed from the start
+      with accessibility requirements and regulations in mind.
+   ââ Missing support structure: Many organisations also lack internal structures (such as
+      Open Source Program Offices) to manage dependencies, contributions, and long-term
+      responsibility.
+
+(ii) What are the main barriers that hamper sustainable contributions to
+open source communities?
+
+   ââ Competition âanxietyâ: Some companies fear that contributing upstream benefits direct
+      competitors.
+   ââ Internal policies: Legal and compliance policies and uncertainties lead to a ban on
+      contributions.
+   ââ Itâs free: If something is perceived as free and low-value, organisations struggle to justify
+      paying for contributions or maintenance.
+
+What is the added value of open source for the public and private
+sectors?
+Most of these points have already been mentioned elsewhere:
+
+   ââ   Reduced lockâin and switching risk
+   ââ   Transparency and auditability, improving security and compliance
+   ââ   Shared knowledge base and easier skills transfer
+   ââ   More predictable longâterm costs compared to licenseâdriven pricing
+
+Concrete examples from our business
+We provide a fully open source data platform that can be used to store, analyse, visualise, and
+process data. It is used by both the public and private sectors. We have had many projects
+funded by individual customers, which then immediately benefit users around the world.
+
+A concrete example where open source is beneficial can be seen in various smart city projects
+in Germany. Where publicly funded projects chose proprietary technologies, municipalities often
+had to shut them down after funding ran out. This did not happen, at least not to the same
+degree, with open source projects. These projects also enable forms of citizen science by
+allowing members of the public to contribute at the local level, strengthening democratic
+participation.
+
+We increasingly see customers worried about geopolitical or commercial decisions by foreign
+actors leading to sudden loss of access to critical infrastructure, and therefore actively looking
+for open alternatives.
+
+What concrete measures and actions may be taken at EU level to
+support the development and growth of the EU open source
+sector and contribute to the EUâs technological sovereignty and
+cybersecurity agenda?
+
+   ââ Lead by example: EU institutions should prioritise open source solutions in their own
+      operations, even where migration is difficult. This is difficult, but achievable.
+   ââ Procurement reform: The Public Procurement Directive should explicitly recognise the
+      benefits of open source and, where appropriate, prioritise it.
+   ââ Recognise open source as a public good throughout the EU: This helps avoid
+      situations where it is unclear whether open source work qualifies as a public good or
+      non-profit activity (e.g. the Matrix situation in Germany).
+   ââ Set realistic expectations: Open source alternatives cannot match decadesâfunded
+      proprietary products without sustained investment. We need to start investing today.
+
+What technology areas should be prioritised and why?
+
+   ââ   Core digital infrastructure (code hosting, repositories, collaboration platforms etc.)
+   ââ   Real alternatives to the hyperscalers
+   ââ   Identity, access management, and security tooling
+   ââ   Public sector workplace and collaboration software (e.g. office alternatives) so the public
+        sector can lead by example
+
+In what sectors could an increased use of open source lead to
+increased competitiveness and cyber resilience?
+
+We believe all sectors can benefit from open source. In particular:
+
+   ââ Critical infrastructure
+   ââ Public sector
+   ââ Healthcare
+   ââ   Finance
+   ââ   Energy
+   ââ   Manufacturing
+   ââ   Education
+
+Summary
+We thank the Commission for the opportunity to provide input into its future strategy. We believe
+open source can and should play a crucial role for Europe. It is a powerful tool to achieve
+sovereignty and resilience, and it also gives Europe an opportunity for economic growth by
+building new businesses on open source and establishing itself as a global leader.
+
+At Stackable, weâre always open to dialogue with the Commission and we invite you to reach
+out to us should we be able to help.
+
+Thank you!

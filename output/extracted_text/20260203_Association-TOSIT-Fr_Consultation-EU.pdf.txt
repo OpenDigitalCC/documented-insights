@@ -1,0 +1,88 @@
+Ref. Ares(2026)1225868 - 03/02/2026
+
+Propositions de l'Association TOSIT
+https://tosit.fr
+
+Ce que nous devons collectivement faire (approche "grands utilisateurs")
+1.CrÃ©er un radar technologique souverain (alternative Ã  Gartner/Forrester)
+â¢ Constat : L'Open Source communautaire n'a pas de puissance commerciale/marketing. Les
+  analystes traditionnels ignorent l'Open Source, puisque leur modÃ¨le est de payer pour Ãªtre
+  Ã©valuÃ©. Des catalogues Open Source existent mais sont dispersÃ©s. Chez, TOSIT nous consoli-
+  dons la rÃ©alitÃ© d'utilisation des logiciels par nos membres.
+â¢ Action : Co-construire un catalogue commun basÃ© sur la rÃ©alitÃ© de la production. Un Radar /
+  Cadran pragmatique de l'open source construit Ã  partir de l'Ã©tat de l'art dans les grandes
+  organisations : c'est ce que nous faisons chez TOSIT. Par ailleurs, nous partageons une grille
+  commune d'Ã©valuation des caractÃ©ristiques Open Source des logiciels : communautÃ©, licence,
+  sÃ©curitÃ©, ecosystÃ¨me de support (MCO, MCS) et de dÃ©veloppement...
+2.Industrialiser le co-financement de roadmaps" (crowdfunding B2B)
+â¢ Constat : Le rejet de l'Open Source est souvent dÃ» Ã  des trous fonctionnels (missing features).
+  Pourtant on peut aisÃ©ment la faire complÃ©ter : il suffit que les utilisateurs corporate soient
+  capables de formuler un backlog, le faire chiffrer puis le financer. C'est une logique de circuit
+  court, agile, "du consommateur au producteur ", qui rÃ©pond "au juste besoin".
+â¢ Actions :
+   â¢ TOSIT Fr a rÃ©ussi Ã  mener la dÃ©marche besoins communs > roadmap > chiffrage >
+     cofinancement. Cette dÃ©marche pourrait Ãªtre dÃ©multipliÃ©e Ã  l'Ã©chelle EuropÃ©eene.
+   â¢ L'UE doit nous aider Ã  promouvoir l'Ã©mergence d'autres TOSIT dans les Ã©tats membres.
+   â¢ l'UE doit nous aider Ã  financer en abondant nos co-financements.
+3.Renverser le modÃ¨le de formation (limiter le vendor lock-in)
+â¢ Constat : Les Ã©tudiants sont formÃ©s sur des technologies propriÃ©taires qui sont le plus souvent
+  gratuites/offertes au monde de l'Ã©ducation et aux Ã©tudiants ... C'est le dÃ©but d'un cercle vicieux
+  :
+   â¢ la nouvelle gÃ©nÃ©ration acquiÃ¨re des compÃ©tences sur le monde propriÃ©taire, en particulier
+     les certifications ;
+   â¢ la nouvelle gÃ©nÃ©ration est gÃ©nÃ©ralement appÃ©tente aux technologies Open Source mais ce
+       n'est pas enseignÃ© ;
+   â¢ faute d'enseignement, les ESN spÃ©cialisÃ©es ont du mal Ã  trouver des profils compÃ©tents sur
+     les logiciels libres ;
+   â¢
+    les organisations qui veulent pivoter ont du mal Ã  trouver des ESN spÃ©cialisÃ©es capables
+    de les aider, sur l'intÃ©gration, la migration et le cycle de vie.
+â¢ Actions :
+   â¢ Dans toutes les disciplines qui utilisent un logiciel propriÃ©taire dans leur formation, l'UE
+     peut elle imposer d'avoir systÃ©matiquement une formation sur une alternative Open Source
+     (exemple : Suite Adobe <=> Gimp, Scribus, Inkscape, Blender , PostgreSQL/MariaDB <=>
+     Oracle/SQL Server)
+   â¢ L'UE peut promouvoir formations complÃ¨tes spÃ©cialisÃ©es sur l'Open Source (dÃ©veloppe-
+     ment, business plan, conformitÃ© juridique des liences...) et des options Ã  ajouter aux
+     mastÃ¨res numÃ©riques existants.
+
+Ce que l'UE doit faire pour aider (leviers politiques et rÃ©glementaires)
+4.Adapter le Code des MarchÃ©s Publics
+â¢ Constat : En tant qu'organisation soumise aux marchÃ©s publics en France, si je souhaite
+  acheter une prestation de dÃ©veloppement de "feature" pour complÃ©ter un logiciel Open
+  Source, je dois faire un appel d'offre (AO) dÃ©s un seuil de quelques 10aine de milliers d'euros,
+  alors que les sachants sont clairement identifiÃ©s via les contributions, voire unique. Ces
+  AO sont un frein pour ces sociÃ©tÃ©s expertes, souvent de petites tailles, qui ne sont pas
+  dimensionnÃ©es pour rÃ©pondre aux exigences de ces AO.
+â¢ Action : Assouplir les rÃ¨gles du MarchÃ© Public lorsqu'il s'agit d'acheter des "features" qui
+  seront libÃ©rÃ©es dans une licence Open Source.
+5.Structurer la reprÃ©sentation des grands utilisateurs" (Corporate Users groups / passage Ã 
+l'Ã©chelle du modÃ¨le TOSIT)
+â¢ Constat : L'UE Ã©coute les Ã©diteurs (lobbies propriÃ©taires) et les fondations de code (Eclipse,
+  Linux), mais les entreprises utilisatrices finales sont peu audibles.
+â¢ Actions : Aider au dÃ©veloppement d'Ã©quivalents europÃ©ens de groupes comme le TOSIT pour
+  crÃ©er un interlocuteur reprÃ©sentatif du Corporate User capable de peser sur les directives
+  (comme le Cyber Resilience Act).
+6.CrÃ©er un statut fiscal "Investisseur en Communs NumÃ©riques"
+â¢ Actions : Favoriser l'Ã©mergence d'entitÃ©s de type "Fondation de Bien Commun" Ã©ligibles au
+  mÃ©cÃ©nat ou Ã  la dÃ©fiscalisation. Une entreprise qui dÃ©tache des dÃ©veloppeurs sur un projet
+  d'intÃ©rÃªt gÃ©nÃ©ral devrait pouvoir dÃ©duire cet effort, Ã  l'instar du CrÃ©dit ImpÃ´t Recherche (CIR),
+  mais ciblÃ© Open Source.
+7.Garantir un "droit au fork" et la continuitÃ© de service
+â¢ Constat : La volatilitÃ© des licences, qui implique un risque juridique et financier, un risque de
+  vendor lock-in, et une fragmentation de l'Ã©cosystÃ¨me (forking). Exemples de terraform, redis,
+  elasticsearch, mongodb...
+â¢ Actions : CrÃ©er un fonds de garantie europÃ©en pour soutenir la maintenance des "Forks
+  de survie" lorsque des briques critiques pour les services publics europÃ©ens deviennent
+  soudainement propriÃ©taires
+8.Financer la sÃ©curitÃ© et la supplychain logicielle (en lien avec le cyber resilience act)
+â¢ Constat : Le Cyber Resilience Act impose des contraintes lourdes aux mainteneurs Open
+  Source, avec un risque de les dÃ©courager.
+â¢ Actions : Financer des audits de sÃ©curitÃ© et des programmes de bug bounty sur les infra-
+  structures critiques de l'UE, pour dÃ©charger les mainteneurs bÃ©nÃ©voles de cette responsabilitÃ©
+  juridique et financiÃ¨re.
+9.Mutualiser les infrastructures de forge
+â¢ Actions : Soutenir une infrastructure souveraine europÃ©een pour l'hÃ©bergement du code et
+  des modÃ¨les d'IA (alternative publique et commune Ã  Github et Huggingface), pour Ã©viter que
+  le code source europÃ©en ne soit soumis aux conditions d'utilisation et Ã  l'embargo potentiel
+  de plateformes extra-europÃ©ennes.

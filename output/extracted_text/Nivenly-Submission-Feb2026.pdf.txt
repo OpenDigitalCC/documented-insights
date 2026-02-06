@@ -1,0 +1,61 @@
+Ref. Ares(2026)1225471 - 03/02/2026
+
+About Nivenly
+Nivenly's mission is to support underrepresented technologists through democratic governance and open source infrastructure. As part of our ongoing organizational development,
+we have recently re-assessed which jurisdiction would best support this work. Nivenly is the legal entity for the Hachyderm Mastodon instance, which is the 14th largest instance on
+the Fediverse with ~10k monthly active users.
+
+Why We're Responding To This CfE
+The US federal funding landscape for open source software has shifted in 2025. New grant conditions now extend beyond specific funded projects to cover all organizational
+activities. Several foundations, including the Python Software Foundation and The Carpentries, have withdrawn from NSF funding rather than accept terms that conflicted with their
+missions. Current federal funding requirements do not align with Nivenly's operational model. This is a strategic consideration rather than a barrierâNivenly has not relied on federal
+fundingâbut it factors into our long-term planning.
+
+The European Union has moved in a different direction, expanding investment in open source infrastructure while maintaining diversity and inclusion as policy priorities. Germany's
+Sovereign Tech Fund has issued significant grants to foundations including GNOME. NLnet and Next Generation Internet programs continue funding ecosystem work. The EU's
+European Diversity Charters, European Diversity Month, and Women in Digital initiatives reflect an institutional commitment to inclusive technology development. The EU Cyber
+Resilience Act formally recognizes "open source stewards" and creates demand for governance and security work. For organizations whose missions include supporting
+underrepresented communities, EU funding mechanisms appear to be increasingly accessible.
+
+Given these factors, Nivenly is evaluating European jurisdiction as part of our organizational development. This reflects a strategic assessment of where we can best serve our
+community and sustain our mission.
+
+Barriers To Moving To Europe
+As soon as we began this evaluation, a fundamental challenge presented itself immediately: unlike the United States, the European Union lacks a harmonized corporate or non-profit
+structure. Thus, any migration pathway for a US-based open source software foundation like us begins with a search for favorable European jurisdictions into which to incorporate.
+
+Two major foundations have established EU entities: the Eclipse Foundation and the Linux Foundation. We chose to focus on Eclipse's approach, as Eclipse executed a full
+migration rather than establishing a subsidiary entity. Our desired end state mirrors theirs: a single European organization.
+
+Our initial strategy was to leverage existing precedent to reduce the scope of research required. Rather than evaluating every available non-profit structure across multiple
+jurisdictions, we intended to adopt a proven model and adapt it to our needs.
+
+This approach proved unsuitable for an organization of our scale. The Belgian AISBL structure that serves Eclipse well carries legal and accounting overhead that is disproportionate
+for a smaller foundation. Once the AISBL was ruled out, we found ourselves conducting the broader research we had hoped to avoidâmapping the legal landscape across European
+jurisdictions and evaluating various non-profit entity types against our organizational requirements.
+
+How The Commission Can Help
+The primary challenge we have encountered is navigating jurisdictional complexity in an unfamiliar landscape. Understanding the various legal entity types available in each country
+âtheir regulatory requirements, governance implications, and operational constraintsâand then mapping these against Nivenly's existing structure to identify a suitable match has
+proven extraordinarily time-intensive.
+
+Legal expertise in this domain is similarly difficult to access. Building relationships with attorneys who specialize in open source foundation law under European jurisdictions requires
+significant time and financial investment. The fragmented nature of European law compounds this challenge: counsel qualified to advise on Belgian AISBL formation cannot advise
+on German structures such as a Stiftung (as used by The Document Foundation) or GmbH (as used by Mastodon gGmbH and the Sovereign Tech Agency).
+
+This dynamic creates a resource asymmetry. Large organizations can dedicate substantial resources to solving their individual needs. Smaller entities must crowdsource knowledge
+and expertise to achieve equivalent outcomesâyet no centralized resource currently exists to facilitate this.
+
+Several interventions would meaningfully address these barriers.
+
+First, the Commission could develop guidance specifically for open source projects and foundations navigating European legal structures. This guidance should identify which entity
+typesâboth non-profit and for-profitâare relevant to the ecosystem, specify which jurisdictions offer them, and outline applicable regulations. The guidance should be graduated in
+scope, addressing the needs of single-project entities through large foundations managing project portfolios. It should also include the nuanced differences between these types as
+they vary by country in ways that can be significant.
+
+Critically, this guidance should include estimated costs for establishing each entity type. Budget-constrained projects and smaller foundations could then make informed decisions
+and proceed with confidence, rather than depleting limited resources on exploratory legal consultations.
+
+Second, the Commission could support the development of umbrella legal entities designed for open source. Such structures would reduce barriers to entry for emerging projects
+and communities in Europe. Given that open source development is inherently internationalâcontributors and maintainers are distributed globallyâumbrella organizations align
+naturally with how this ecosystem actually functions.

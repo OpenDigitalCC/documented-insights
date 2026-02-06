@@ -1,0 +1,51 @@
+Ref. Ares(2026)1150761 - 02/02/2026
+
+Tor Projectâs feedback:
+
+How to secure cybersecurity in open source projects:
+Strong cybersecurity for open source is a combination of two things: (1) investment in
+maintenance of the stack, and (2) investment in innovation. To encourage both of these
+areas, the EU can:
+    ââ Invest in addressing technical debt, maintenance of open source solutions, and in
+        securing supply chain weaknesses: https://www.sovereign.tech/ and
+        https://www.opentech.fund/funds/free-and-open-source-software-sustainability-fund/
+        are great examples of funds that prioritize these areas of investments.
+    ââ Invest in academic research and transitioning that research to practice:
+            ââ Foster the interest of the academic community in researching the security of
+                open source solutions by investing in this type of research work.
+            ââ Create funds that will support open source solutions to implement defence
+                mechanisms proposed by this research (transitioning into practice).
+    ââ Create specific incentives for open source solutions to adopt cutting-edge security
+        such as post-quantum cryptography to futureproof encryption.
+
+Importance of supporting open source digital rights tools to further security of
+EU tech sovereignty initiatives with local business and public sector:
+Open source digital rights tools is a technology sector that doesnât receive the same type of
+investment as other sectors.
+
+However, innovation in areas of privacy and cybersecurity often comes from digital rights
+projects. Take Signal as an example, not only Signal is a tool used by millions in the private
+and public sectors, but its protocol has also been adopted by other private tools from the
+industry: WhatsApp, Messenger, Google Chat, Skype, and so on. Another example is Tor
+Browser, which is now the base for Mullvad Browser, a privacy browser offered by the
+Swedish company Mullvad.
+
+There is a proposal for a Europe Digital Rights Fund
+[https://miaan.org/the-european-union-needs-a-digital-rights-fund/], which would be a great
+mechanism to invest in innovative open source digital rights tech that chooses privacy and
+security by design. This will help create and maintain gold-standard software that protects
+the digital rights of its users, as well as create the privacy and security building blocks for
+other technology.
+
+While thinking locally you must understand that open source is global:
+and therefore supporting community contributor engagement and management activities to
+improve the health of volunteer contributor communities and the quality of their contributions
+must also be a global effort that considers global context.
+
+The strength of open source maintenance and innovation is its diverse community. The
+nature of open source communities is borderless. And itâs important to include that in the
+strategy. Recognize that some projects might have contributors from other regions or some
+solutions might depend on open sources developed from other regions. While thinking of
+financial incentive for open source that can boost the development of local solutions for
+Europe, it is important to also have flexibility to embrace the spirit of open source
+collaboration that will expand to regions outside of Europe.

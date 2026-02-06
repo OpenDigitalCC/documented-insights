@@ -1,0 +1,74 @@
+Ref. Ares(2026)1118099 - 31/01/2026
+
+   Strengthening EU digital sovereignty by ending discrimination against open source and
+                                       enforcing existing law
+
+--- 1. General support for the initiative
+
+I strongly welcome the âEuropean Open Digital Ecosystem Strategyâ as a long-overdue step to
+secure EU technological sovereignty. As an entrepreneur active in IT since 1995 and in agriculture
+since 2003, I have consistently supported free/libre and open source software (FLOSS) as an
+alternative to proprietary solutions controlled by companies subject to the US Cloud Act. If the EU
+wants real digital sovereignty, it should begin by ending the structural discrimination that open
+source users and developers currently face in the EU market.
+
+--- 2. Stop tied sales of proprietary operating systems on PCs
+
+A first, obvious measure is to end the systematic tying of proprietary operating systems (mainly
+Microsoft Windows) to almost all PCs sold in the EU. - Today, around 99% of PCs offered to
+consumers in the EU are sold with a pre-installed proprietary OS, with no practical option to refuse
+the OS and no transparent price signal. - Consumers should always be able to: - Refuse the
+proposed OS licence, - Buy the same hardware without an OS licence, - See clearly separated prices
+for hardware, OS licence, and any bundle. This is not technically complicated: - Retailers could
+simply keep the OS unactivated and not provide a licence key when the OS is refused. - No
+uninstallation is needed; the consumer just does not pay for the licence and cannot activate it. - As
+with a 5kg bag of carrots where both total price and price per kilo must be displayed, the OS licence
+price and the hardware price should both be displayed, including for a â¬500ââ¬2,500 computer.
+Linked sales of this kind are not tolerated in other markets in the EU internal market; it is difficult
+to find another example where such de facto forced bundling is accepted. Enforcing basic
+competition and consumer law here would be a cost-free and powerful step towards digital
+sovereignty.
+
+--- 3. Enforce the software exclusion: eradicate software patents in Europe
+
+A second essential measure is to bring the European Patent Office (EPO) back in line with the
+European Patent Convention (EPC) and to give legal certainty that software as such is not
+patentable in Europe. - The EPC clearly provides that software, like literary works, is protected by
+copyright, not by patents. - The EPOâs practice of granting âcomputer-implemented inventionâ
+patents is, in substance, an attempt to bypass this rule. If âsoftware implemented on a computerâ is
+patentable, then âa novel text implemented in a bookâ could also be treated as a patentable
+invention, which is absurd. The current drift towards software patents creates a permanent threat
+over open source developers: - A single court decision aligned with the EPOâs practice could be
+used as a âkill switchâ against open source projects using standard algorithms or interfaces. - The
+push by US-based closed-source lobbies (backed by some EU corporate allies) for a highly
+centralised patent court increases this risk: convincing a small number of judges in one central court
+is far easier than trying to convince many national courts that the EPC should be re-interpreted
+against its clear wording and intention. The EU should: state unambiguously that software as such is
+not patentable under EU law and that the EPO will cease its malpractice. It should then publicise
+that developing open-source software in the EU is safe, and that developers are protected from
+patent lawyers funded by GAFAM or by patent trolls, thereby attracting more major open-source
+players to Europe.
+
+--- 4. Going further
+
+These two measures require no funding and no complex implementation; they are simply a
+straightforward application of the relevant laws and conventions that safeguard free competition in
+a free market. In genuinely free markets, Linux is the standard (it runs on 100% of the Top500
+supercomputers and over 96% of the top one million web servers) because, in addition to being a
+sovereign choice, Linux is more efficient, free of charge, more secure, less demanding in terms of
+hardware, and easier to administer at scale. These two steps merely end the current bias in favour of
+closed, proprietary software subject to foreign legal control. If you wished to go further and actively
+promote open source and digital sovereignty, here are a few ideas: phase out proprietary software in
+EU institutions, stop using non-interoperable file formats, and require hardware manufacturers to
+allow purchasers full control over their devices if they so choose (in particular Android or iOS
+devices once they no longer receive updates).
+
+--- 5. Ready to help
+
+I am an engineer (graduated from Polytechnique Brussels and Mons), owner of several companies
+mainly in IT and agriculture, and I am ready to meet anyone in the EU institutions who is genuinely
+interested in ending discrimination against open-source, sovereign solutions in favour of US or
+Chinese closed solutions. I have time and passion backed by my technical and business experience
+ready to help. I speak French, English (with a strong accent), and a few words of Dutch and Italian.
+Thank you so much for finally showing some interest in defending EU interests rather than US
+GAFAM profits. You should come and see what happens at FOSDEM in Brussels. Forza Europe!

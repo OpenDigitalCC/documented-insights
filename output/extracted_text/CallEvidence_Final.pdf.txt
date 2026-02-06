@@ -1,0 +1,283 @@
+Ref. Ares(2026)1155398 - 02/02/2026
+
+1. What are the strengths and weaknesses of the EU open-source
+sector? What are the main barriers that hamper
+(i) adop>on and maintenance of high-quality and secure open source;
+and (ii) sustainable contribu>ons to open-source communi>es?
+The EU open-source sector benefits from a robust developer and research ecosystem that
+actively contributes to major global open-source projects, supported by open science and open
+access policies. Europe also shows strong coordination capacity: European OSS infrastructure
+initiatives such as those reflected in the ECS SRIA and RISC-V roadmaps demonstrate the
+ability to align research, industry and public actors around shared technological priorities and
+open standards, positioning open source as a lever for interoperability, sovereignty and long-
+term resilience. In addition, Europe has demonstrated legal and policy capacity to design EU-
+law-aligned OSS instruments, such as the EUPL, which is particularly suited to certain public-
+sector contexts.
+
+However, the main weaknesses are structural rather than technical.
+
+Weaknesses
+
+   â¢   Structural dependence on short-term, project-based funding (e.g. research grants and
+       pilots), with limited capacity for long-term maintenance, security and evolution beyond
+       project lifecycles.
+
+   â¢   Fragmented or unclear governance and stewardship, often left to temporary consortia
+       that adopt conservative, low-commitment strategies.
+
+   â¢   Limited adoption engineering, including insufficient tooling, packaging, documentation
+       and integration into dominant global ecosystems.
+
+   â¢   Weak alignment between OSS outputs and public procurement or industrial deployment
+       pathways.
+
+   â¢   Heavy reliance on non-EU platforms and infrastructure (e.g. GitHub/GitLab, CI/CD
+       pipelines, container registries, cloud services), raising risks for resilience and European
+       digital sovereignty.
+
+A major barrier to both sustainability and community contribution and adoption is Europeâs:
+
+   â¢   structural shortage of non-profit associations with the mandate and capacity to establish
+       robust governance models, ensure long-term maintenance of OSS codebases, and attract
+       sustained public and private investment (including follow-up investment for Horizon-
+       funded outputs). While notable exceptions existâsuch as Linux Foundation Europeâ
+       these remain insufficient given the scale and diversity of Europeâs OSS landscape.
+â¢   poor ecosystem incentives, network effects around dominant licences, and weak
+    governance and sustainability mechanisms, as shown by the limited uptake of the EUPL,
+    illustrate that adoption barriers are not primarily legal. Addressing these barriers requires
+    stronger aggregating structures and long-term support mechanisms, including the
+    promotion of new non-profit OSS associations through publicâprivate partnerships and the
+    strengthening of sectoral organisations (e.g., energy, mobility, health, manufacturing) to
+    coordinate contributions from industry and academia, reduce fragmentation, and provide
+    credible frameworks for long-term funding.
+2. What is the added value of open source for the public and private
+sectors? Please provide concrete examples, including the factors (such
+as cost, risk, lock-in, security, innova>on, among others) that are most
+important to assess the added value.
+
+Open source creates significant added value for both public and private sectors by enabling
+interoperability, reducing dependency on proprietary vendors, lowering switching costs, fostering
+innovation, and strengthening transparency and security.
+    â¢ For public administrations, open source supports auditability, long-term control over
+       critical digital assets, and cross-border reuse of publicly funded solutions.
+    â¢ For private actors, particularly SMEs and start-ups, it lowers entry barriers to complex
+       value chains and enables innovation on top of shared, non-competitive infrastructure.
+
+Concrete examples illustrate how this value materialises in practice.
+
+   â   Common European Data Spaces, where reusable open-source components from
+       initiatives such as the Eclipse Dataspace Components, reduce implementation costs, limit
+       fragmentation, and lay the foundations for the development of interoperable European
+       sovereign data-sharing ecosystems;
+   â   Open geospatial standards acceptance and implementation are strengthened through
+       tools such as PygeoAPI and Zoo-project, which widen the OGC standards suite and
+       enable added-value, scalable applications;
+   â   In cloud and storage environments, open APIs like the S3 interface are supported by open-
+       source implementations such as MinIO, reduce vendor lock-in while preserving
+       compatibility with dominant ecosystems;
+   â   Open source also underpins core digital infrastructure through widely used technologies
+       such as RabbitMQ for messaging, GitLab for collaboration, and container ecosystems
+       including Docker Engine, Kubernetes, and related components that form the backbone of
+       modern computing.
+
+These technologies reduce operational risk, accelerate innovation cycles, and improve security
+through transparency and collective code review. OSS can significantly reduce vendor lock-in
+while promoting the adoption and evolution of open standards, creating clear added value for
+both public and private sectors. It enables shared ownership of core digital infrastructure, lowers
+switching costs, and increases interoperability. A concrete example:
+
+   â¢   as Linux Foundation Energyâs Everest (https://lfenergy.org/projects/everest/) demonstrate
+       how open-source implementations of standards (e.g. OCPP, ISO 15118) enable vendor-
+       neutral electric vehicle charging infrastructure, reducing lock-in, accelerating market
+       adoption, and supporting fair competition while ensuring that publicly funded infrastructure
+       remains interoperable and future-proof.
+Recent cases such as DeepSeek further show that the added value of open source extends
+beyond cost savings to include market-shaping power and deployment sovereignty. By releasing
+open weights and enabling local hosting, fine-tuning and reuse, adoption expanded from simple
+âuseâ to integration and downstream innovation, allowing de facto standards to emerge.
+
+In practice, four factors are decisive when assessing added value:
+
+   â¢   legal reusability (licensing that enables reuse),
+   â¢   integration readiness (compatibility with existing stacks),
+   â¢   performance transparency (credible benchmarks and documentation),
+   â¢   deployability (on-premise and cloud options).
+
+However, the European experience also highlights a recurring limitation: open source is often
+promoted without an explicit architecture for value creation, governance and risk control. Licences
+alone do not ensure adoption, sustainability or resilience. Open source delivers lasting public and
+private value only when combined with services, deployment capacity, governance structures,
+maintenance mechanisms, and clearly defined access and usage conditions. Without these
+elements, economic and strategic value frequently materialises outside Europe, despite
+European investment in the underlying technologies.
+3. What concrete measures and ac>ons may be taken at EU level to
+support the development and growth of the EU open-source sector
+and contribute to the EUâs technological sovereignty and
+cybersecurity agenda?
+To unlock the full potential of open source in support of Europeâs technological sovereignty and
+cybersecurity objectives, EU action must move beyond funding the creation of open artefacts and
+address the full lifecycle of open digital infrastructure. Experience from European OSS initiatives
+and recent adoption cases shows that coordination and R&D funding alone are insufficient to
+ensure adoption, sustainability and value retention. Concrete measures are therefore required to
+strengthen governance, reduce structural dependencies, support long-term maintenance and
+enable real deployment at scale.
+
+Treat strategic OSS as European digital public infrastructure (lifecycle, not projects)
+
+   â¢   Dedicated funding streams for OSS development and maintenance that resulted from
+       EU funding mechanisms such as FP9-FP10. Shift from project-bound outputs to lifecycle
+       funding: maintenance, security updates, bug fixing, documentation, industrialisation,
+       release engineering, CI/CD hardening, and community management (including beyond
+       the grant period).
+   â¢   Require post-project stewardship with clear ownership, accountability and transition
+       funding (12â24 months) to avoid âend-of-grantâ abandonment.
+   â¢   Use industry co-funding mechanisms where appropriate to reinforce sustainability.
+
+Governance as a mandatory deliverable in infrastructure calls
+
+   â¢   For calls aiming to build digital infrastructure, require an explicit Open Source Strategy +
+       Governance Plan upfront (not left to consortia).
+   â¢   Promote durable stewardship models (e.g., trusted non-profit associations / sectoral
+       organisations) to reduce fragmentation and coordinate long-term contributions.
+   â¢   Strengthen and leverage existing organisations (e.g., Linux Foundation Europe) and
+       support sectoral governance structures (energy, mobility, health, manufacturing).
+   â¢
+
+Fund âadoption-first open releasesâ and reduce adoption friction
+
+   â¢   Explicitly fund adoption engineering as eligible cost: packaging, tooling, integration into
+       dominant ecosystems, reference deployments, deployment recipes, and developer
+       experience.
+   â¢   Require rigorous evaluation and reproducible reporting, alongside documentation that
+       enables third-party reuse.
+   â¢   Recognise that value capture often occurs downstream (deployment, services,
+       certification, sector-specific solutions) and adjust instruments accordingly.
+Sovereign European tooling and platforms for the OSS lifecycle
+
+   â¢   Invest in reliable, resilient and cost-effective European cloud infrastructures,
+       including federated deployment models (âEuropean cloud of cloudsâ logic).
+   â¢   Provide and actively disseminate European-made tools supporting the OSS lifecycle
+       (development, collaboration, maintenance, deployment).
+   â¢   Reduce reliance on non-EU platforms by strengthening EU-aligned alternatives and
+       ecosystems (e.g., Forgejo, Codeberg), while keeping interoperability with global tooling.
+   â¢   Build European capabilities for repositories, CI/CD, registries and distribution
+       infrastructure as strategic dependencies.
+
+Cybersecurity-by-design for OSS (compliance, SBOM, provenance)
+
+   â¢   Establish EU-level baseline requirements for OSS security and compliance, including:
+          o SBOM/provenance expectations,
+          o vulnerability disclosure/handling processes,
+          o security hardening and long-term patching.
+   â¢   Support shared European infrastructure for compliance and security services, and link
+       these requirements to funding and procurement.
+
+OSS-aware procurement and public-sector absorption
+
+   â¢   Align public procurement and public-sector pilots with EU-funded OSS so that solutions
+       are adopted, sustained and improved in real operational settings.
+   â¢   Use procurement criteria that value governance, maintenance commitments, security
+       processes and interoperabilityâensuring publicly funded infrastructure remains reusable
+       and future-proof.
+
+Strategic dependency mapping and targeted investment
+
+   â¢   Identify widely used OSS dependencies in critical sectors (energy, health, government,
+       finance), including dependencies on non-EU software and platforms.
+   â¢   Fund alternatives and continuity plans through trusted governance structures and long-
+       term investment models.
+
+Avoid licence-centric policy; enable strategy-centric licensing
+
+   â¢   The EUPL experience shows that creating or promoting a specific European licence is not
+       sufficient to drive adoption.
+   â¢   EU action should not prescribe a single licence; instead, require projects to justify licensing
+       choices strategically (reuse, governance, sustainability) and ensure compatibility with
+       intended deployment and ecosystem goals.
+
+Support secure decentralised and privacy-preserving infrastructures
+
+   â¢   Encourage experimentation and scaling of distributed, privacy-preserving internet
+       infrastructure as part of the cybersecurity and sovereignty agenda (e.g., decentralised
+       architectures with encryption and trust mechanisms), particularly for sensitive domains
+       such as AI and health.
+
+Address dual-use / sensitive contexts with layered controls
+
+   â¢   Recognise that licences alone do not address dual-use or export-control constraints.
+   â¢   Promote governance and contractual/access layers (service terms, deployment controls,
+       stewardship) to manage risk while keeping core components open where appropriate.
+4. What technology areas should be priori>sed and why?
+A primary concern is Europeâs reliance on non-EU platforms for software collaboration and
+distribution. Developing and promoting European-based open-source infrastructures for code
+hosting, CI/CD, registries, and community coordination is essential to improve resilience and
+autonomy.
+
+Another priority, in line with the European Chips Act, is to prioritise open-source chip design and
+Electronic Design Automation (EDA) tools, which are important for Europeâs long-term
+competitiveness in semiconductor innovation, education, and industrial capacity.
+
+A greater focus on developer experience and sustainability tooling is also needed, particularly
+on solutions that reduce the cost of producing and maintaining high-quality software
+documentation. Tools that keep documentation aligned with evolving codebases, architectures,
+and deployment environments can significantly improve OSS adoption and long-term
+maintainability.
+
+Finally, a strategic priority is the development of a European Cloud of Clouds: a federated,
+interoperable, and trusted cloud ecosystem aligned with Gaia-X and EOSC to support public
+services, research, and defence needs, and to strengthen Europeâs digital sovereignty by
+reducing dependence on non-EU providers.
+5. In what sectors could an increased use of open source lead to
+increased compe>>veness and cyber resilience?
+An increased use of open source can significantly enhance competitiveness and cyber resilience
+in sectors where interoperability, long lifecycles, transparency and control over critical digital
+assets are essential. In these domains, open source reduces vendor lock-in, enables shared
+development of non-competitive components, improves auditability and security, and strengthens
+Europeâs ability to deploy and evolve technology locally.
+
+Energy and critical infrastructures are a prime example. Open-source implementations of widely
+used standards (e.g. IEC 61850, IEC 60870-5-104, CIM, OCPP, ISO 15118) enable
+interoperability across grid operators, EV charging operators, DER aggregators and industrial
+users. The Linux Foundation Energy ecosystem illustrates this impact, with projects such as
+SOGNO (https://lfenergy.org/projects/sogno/) for open distribution management systems and the
+Semantic Energy Framework (https://lfenergy.org/projects/semantic-energy-framework-sef/)
+enabling semantic interoperability across smart homes, buildings, grids and IoT. By sharing
+foundational components, organisations can focus investment on differentiation rather than
+rebuilding the same infrastructure, improving resilience and competitiveness.
+
+Industry, manufacturing and mobility (including automotive and robotics) also benefit strongly
+from open source due to long-lived systems and complex supply chains. Open-source stacks
+enable multi-vendor integration, reduce systemic risk and support fair competition. In electric
+mobility, the EVerest stack (https://lfenergy.org/projects/everest/) provides a vendor-neutral
+implementation of EV charging standards, accelerating adoption while ensuring publicly funded
+infrastructure remains interoperable and future-proof.
+
+Public administration and GovTech benefit from open source where transparency, auditability and
+long-term control of digital services are required. OSS enables cross-border reuse of public-sector
+solutions, reduces lock-in and strengthens trust, particularly when combined with governance and
+sustained maintenance. Similarly, regulated and security-sensitive sectors such as health and
+finance can leverage open source to improve interoperability and local deployment control,
+provided that compliance, security and governance practices are enforced.
+
+High-performance computing (HPC), cloud and digital infrastructure are strategic areas where
+open source underpins core components of modern computing stacks. Increased European
+control over these layers supports federated, interoperable infrastructures and reduces
+dependency on non-EU platforms, strengthening cyber resilience. Recent cases such
+as DeepSeek further illustrate the importance of open source in contexts requiring controlled
+deployment and local adaptation, where open releases can enable ecosystem formation and de
+facto standardisation beyond simple âuseâ.
+Beyond these areas, open source is also impactful in open-source hardware and
+semiconductors (including RISC-V and open EDA tools), which are increasingly important for
+industrial competitiveness, education and supply-chain security; in ocean-related
+sectors (fisheries, marine energy, biodiversity monitoring and tourism), where interoperable
+platforms support sustainable innovation; in space-related sectors, improving robustness and
+collaboration in mission-critical systems; and in agriculture, where open digital tools support
+productivity and sustainability in rural economies. Research, education, transport and
+logistics also benefit from open platforms that accelerate skills development and support
+interoperable, resilient infrastructures.
+
+Across all these sectors, the benefits of open source are not automatic. Competitiveness and
+cyber resilience increase only when OSS is combined with sustained governance, long-term
+maintenance, security practices and deployment capacity. Without these elements, reliance on
+open source may shift risks rather than reduce them, underscoring the need to treat OSS as long-
+term digital infrastructure rather than a short-term project outcome.

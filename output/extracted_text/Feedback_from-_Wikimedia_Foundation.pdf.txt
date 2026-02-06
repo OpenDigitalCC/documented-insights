@@ -1,0 +1,266 @@
+Ref. Ares(2026)1225631 - 03/02/2026
+
+Wikimedia Foundation Contribution to the
+European Commission Call for Evidence:
+Towards European Open Digital Ecosystems
+
+The Wikimedia Foundation welcomes the European Commissionâs initiative to develop
+a strategic approach towards open digital ecosystems.
+
+We are the nonprofit organization that hosts open-source-powered free knowledge
+projects such as Wikipedia, Wikimedia Commons, Wikidata, and others, and supports
+the volunteer communities that create, govern, and curate these projects in the public
+interest. For over 20 years, the Foundation has contributed to the development of
+MediaWiki, the free and open-source software (OSS) behind the Wikimedia projects.
+This open-source software makes it possible to distribute the contentâe.g., text,
+images, data, media filesâthat hundreds of thousands of volunteers contribute monthly
+to our projects, free of charge and free to use under Creative Commons licenses. In
+addition, the Foundation facilitates the contribution of code and other technical input
+from a global community of volunteers. For the Wikimedia Foundation, the open digital
+ecosystem encompasses the open-source software, the volunteer contributor
+community who build on the software, as well as the freely licensed content that they
+share and sustain.
+
+Wikipedia is the worldâs largest free and open encyclopedia, accessed more than 15
+billion times every month by readers from around the world seeking knowledge. In
+2025, Wikipedia and Wikidata were recognized by the Digital Public Goods Alliance
+(DPGA) as digital public goods: open-source software, data, AI models, standards and
+content created for the public interest that can help achieve the Sustainable
+
+                                                                                            1
+Development Goals and improve the lives of billions of people worldwide. These two
+repositories of open knowledge are of significant global importance and impact, and
+are powered by open-source software and content that volunteers develop and
+contribute from across the world, including in the European Union.
+
+During more than 20 years of building and maintaining the technical infrastructure and
+supporting the volunteer community required to advance the Wikimedia projects, we
+have seen how open source contributes not only to technological development and
+information integrity, but also to resilience, transparency, and trust in the digital
+sphere. This submission aims to contribute evidence and perspectives on the role of
+open source as part of a broader digital public infrastructure ecosystem. It highlights
+the importance of openness in supporting technological capacity and information
+integrity, as well as in enabling a thriving and sustainable digital commons that serve
+the public interest alongside economic and innovation objectives.
+
+1. What are the strengths and weaknesses of the EU open-source sector?
+What are the main barriers that hamper (i) adoption and maintenance of
+high-quality and secure open source; and (ii) sustainable contributions to
+openâsource communities?
+
+Strengthening the EU open-source sector
+
+The strengths of the EU open source sector include certain legal and policy frameworks
+that enable the development of the open source ecosystem, and serving as the home to
+several important and foundational open-source software projects. The intermediary
+liability protections within the e-Commerce Directive are one such example. The EUâs
+interest in technological independence and resilience fosters development of open
+
+                                                                                     2
+technologies and software that support the digital commons: digital resources,
+including content, that belong to and can be used by everyone.
+
+Barriers in the EU open source sector
+
+Barriers include regulatory compliance burdens that are often designed for
+well-resourced commercial software providers, but which disproportionately affect
+non-commercial, open-source software projects and the volunteer contributors and
+small organisations that sustain them as these often do not have the legal departments
+or compliance budgets which the design of the regulatory compliance assumes.
+
+In addition, many of these large, commercial providers make heavy use of the
+resourcesâe.g., datasets, content, code scriptsâthat are created and shared by the
+open source ecosystem. Data and content in the public domain are often used by
+commercial providers to create closed product ecosystems with better resourcing that
+directly compete with the open source entities from which they drew. Without a
+marketplace model that rewards a commitment to open source development, the result
+is a commercial field that crowds out sustainment pathways intended to grow the
+projects and volunteer communities that underpin the open source ecosystem.
+
+Finally, despite multiple efforts (for example: the Open Source Program Offices or
+OSPOs; the EU Sovereign Tech Fund [EU-STF]; the European Digital Infrastructure
+Consortium [EDIC]), there is not yet sufficient funding to build, develop and maintain
+the infrastructure required to sustain the abundance of open source projects in Europe.
+
+2. What is the added value of open source for the public and private
+sectors? Please provide concrete examples, including the factors (such as
+
+                                                                                      3
+cost, risk, lock-in, security, innovation, among others) that are most
+important to assess the added value.
+
+Open source as a driver of European technological capacity
+
+A thriving open source sector is essential for European technical resilience. It helps
+develop technical skills in the region required to advance innovations such as
+cybersecurity resilience, and provides crucial ingredients for commercial technological
+development and investments. On the commercial side, open source is a force
+multiplier that enables Europe to do more with less.
+
+A Linux Foundation report measuring the economic value of open source found
+Fortune 500 company respondents listed three key benefits of using open-source
+software: cost savings, faster development speed, and open standards and
+interoperability (p. 11). Cost savings were attributed to lower total cost of ownership
+and higher productivity, which are easy to understand considering that respondents
+estimated the use of proprietary solutions, including support and maintenance, would
+have cost four times or more than the investment required for open-source software (p.
+14).
+
+These report findings align with our own experiences. Our selections of Debian, PHP,
+and MariaDB have allowed Wikipedia and other Wikimedia projects to flourish and
+endure for 25 years, and have also enabled us to steer their future independently of the
+whims of commercial software vendors. For example, the Wikimedia Foundation took
+over the maintenance of an essential open source collaboration tool, Phabricator, when
+a commercial provider exited the market. Investing in open-source software has also
+nurtured a community of contributors who have developed significant technical
+expertise to the extent that they can advise the Foundationâs product and technology
+innovations. As explained earlier, our own MediaWiki software regularly benefits from
+
+                                                                                      4
+volunteer contributionsâi.e., code and other technical inputâthat add functionality
+and capability as well as help maintain the software.
+
+Such independence is critical for a European Union facing significant geopolitical and
+economic pressures on its digital infrastructure. Investment in the open source
+ecosystem    advances   digital resilience because it can secure infrastructure
+independence as well as create the local talent necessary to continue to drive
+innovation and independence without sending big checks to large foreign companies.
+
+Finally, a robust open source ecosystem is foundational for the existence of a
+flourishing digital commons, and that digital commons provides core open source
+building blocks that help EU companies develop their technology stacks. A robust open
+source ecosystem is characterized by a growing base of active contributors, sufficient
+funding, and is supported by a diverse community with the skills required to advance
+software and content quality by dealing with issue management, release processes,
+continuous integration, and contribution guidelines. When these conditions are in
+place, European companies and innovators can learn from, reuse, and adapt open
+source components from the digital commons such as openly licensed programming
+language and data repositories, as well as media and research reports. These conditions
+require governments to actively invest in the digital commons by encouraging the use
+of Creative Commons and other similar licenses, freely and openly distributing their
+own works and any publicly funded works, and providing public interest platforms and
+open-source software with the necessary liability and copyright exemptions.â
+
+Sustaining a healthy open source ecosystem requires a flourishing digital commons and
+championing of European values
+
+                                                                                     5
+Investment in a flourishing digital commons, when underpinned by a clear
+commitment to European valuesâincluding human rights, cultural diversity,
+transparency, and privacyâis an investment in essential infrastructure for the
+European open digital ecosystem.
+
+Digital infrastructure should be based on open source so that the digital commons built
+on it can thrive and contribute to reinforcing EU technological resilience and cultural
+values. Free and open knowledge projects like Wikipedia and Wikidata have the
+capacity to help maintain information integrity thanks to their distributed and
+human-led content creation and moderation processes.
+
+The volunteer communities behind the Wikimedia projects collaborate primarily along
+linguistic lines rather than national borders. This distributed governance model
+enables sustained scrutiny, transparent editorial processes, and the use of reliable
+sourcing standards, contributing to the provision of neutral and verifiable information
+at global scale. Such an approach has proven resilient to false and misleading
+information, and is at the core of the reliability of the information on Wikipedia, since
+volunteer contributors are able to collectively identify, contextualize, and address
+coordinated manipulation efforts through open discussion and consensus-building.
+Open source contributions and collaboration improve security through transparency as
+vulnerabilities can be detected and fixed more effectively than in closed, opaque
+systems. This is as true for false information in open source text as it is for
+vulnerabilities in code.
+
+At the same time, the multilingual structure of the Wikimedia model promotes cultural
+and linguistic diversity by enabling communities to document knowledge in their own
+languages and cultural contexts, helping safeguard pluralism online.
+
+                                                                                       6
+Together, these characteristics illustrate how digital public goods can reinforce trust,
+resilience, and diversity in the information ecosystem, while providing shared
+infrastructure that supports Europeâs broader digital autonomy and democratic
+objectives. Open source can make knowledge infrastructure more resilient, secure, and
+trustworthy, at the same time as they reduce costs and stimulate innovation.
+
+3. What concrete measures and actions may be taken at EU level to
+support the development and growth of the EU open-source sector and
+contribute to the EUâs technological sovereignty and cybersecurity
+agenda?
+
+Recognition of open source technology as a distinct public good, apart and separate
+from other categories of software and their corresponding regulation, can create the
+foundation for broader public support of open source. Recognition and support of
+important public institutions that rely on open source technology, such as Wikipedia,
+can help to connect public investment in open source infrastructure with the general
+publicâs experience of digital goods and services.
+
+Commercial entities that use open-source software should be incentivized to contribute
+back to the open source ecosystem, whether by opening up their own software or
+contributing to the projects that are critical to the success of these commercial entities:
+for example, through procurement processes that reward meaningful open source
+participation and contribution. This responsibility should not rest on the goodwill of
+companies. Continued and additional support for foundational open infrastructure
+technologies remains key to providing a healthy ecosystem of alternatives and choices.
+More choices creates better software in the entire marketplace, both open source and
+commercial. â
+
+                                                                                         7
+â
+Regarding the heavy use and potential exploitation of the digital commons and open
+knowledge by commercial actors training proprietary large language models (LLM), the
+EU can promote incentive structures that enable fair and sustainable compensation for
+resources created by the open source ecosystem that in turn benefit commercial aims.
+Fair compensation can be both financial and strategic. Strategic initiatives can include
+requirements to highlight the sources of content from which closed large language
+model systems benefit, as well as supporting the growth of the community of volunteer
+contributors to open source projects across the EU.
+
+Financial initiatives should not take the form of complicated copyright licensing
+schemes that make sharing information online less accessible, but instead should find
+other ways to recognize and compensate for the outsized burden commercial use can
+put on these resources compared to private use. Wikimedia Enterprise is one example
+of a fair compensation system that encourages commercial entities to give back.
+Through Enterprise, the Foundation is able to offer contracts that benefit commercial
+entities like Pleias via higher volume data access, service level agreements,
+product-specific features, and open partnership work. These contracts do not diminish
+public availability of the Wikimedia projectsâ resources, and they provide remuneration
+for the level of data access that companies of Pleiasâ size and scope require.
+
+4. What technology areas should be prioritised and why?
+
+Prioritize technology that provides and promotes greater access to software tools and
+systems and that helps to safeguard and assure such systems. The greatest strength of
+open source is that it offers the opportunity for innovation to everyone. Security in
+well-supported open source projects is enhanced over private commercial software,
+
+                                                                                      8
+because there are more opportunities to inspect the code, find problems, and get fixes
+from contributors in the open source community. More participants in open source
+create innovations that benefit everyone: the general public, government agencies,
+nonprofit institutions, and commercial enterprises.
+
+5. In what sectors could an increased use of open source lead to increased
+competitiveness and cyber resilience?
+
+Cyber resilience is important at all levels of the technology stack, and so a
+multi-pronged effort is crucial. For the Wikimedia projects, cyber resilience includes
+tools that help us defend our infrastructure against Distributed Denial of Service (DDoS)
+attacks and indiscriminate scraping by content reusers, and also the tools that we use
+and provide to administrators in order to protect user privacy as well as freedom of
+contribution, and to defend and maintain the quality of information on the projects. In
+addition, tools that fight false and misleading information are critical for public
+knowledge consumption.
+
+Conclusion
+
+Open source plays a critical role in shaping a digital ecosystem that is resilient, secure,
+and oriented toward the public interest. As the European Union advances its
+technological independence and cybersecurity agenda, policies that recognise the
+structural value of open digital infrastructure will be essential to ensuring long-term
+sustainability, interoperability, and trust.
+
+                                                                                         9
+The Wikimedia Foundation encourages the European Commission to place open source
+and open digital infrastructure at the centre of its strategic vision. Doing so will help
+ensure that Europeâs digital future is competitive and innovative, while remaining
+firmly grounded in openness, collaboration, and the public interest.
+
+                                                                                      10

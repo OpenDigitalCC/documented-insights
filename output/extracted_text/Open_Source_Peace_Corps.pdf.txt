@@ -1,0 +1,275 @@
+Ref. Ares(2026)1085934 - 30/01/2026
+
+                          Open Source Peace Corps
+
+                                      Anthony Lissot
+
+                                     January 30, 2026
+
+Contents
+
+1 Motivation                                                                                      2
+
+2 Concept                                                                                         2
+
+3 Responsibilities                                                                                3
+
+4 Clients                                                                                         3
+
+5 Volunteers                                                                                      4
+  5.1   Why would citizens want to volunteer? . . . . . . . . . . . . . . . . . . . . .           4
+        5.1.1   It is a Historic Moment for the EU. . . . . . . . . . . . . . . . . . . .         4
+        5.1.2   Career Opportunities . . . . . . . . . . . . . . . . . . . . . . . . . . .        4
+        5.1.3   Professional Qualification . . . . . . . . . . . . . . . . . . . . . . . .        5
+        5.1.4   Entry-level Experience . . . . . . . . . . . . . . . . . . . . . . . . . .        5
+
+6 Projects                                                                                        5
+  6.1   Installing Linux . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      5
+  6.2   Migration to Open Source Apps . . . . . . . . . . . . . . . . . . . . . . . . .           5
+  6.3   Local Cloud . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       5
+  6.4   Local AI . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      5
+  6.5   Software RAIDS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          6
+  6.6   Turn-key Solutions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        6
+  6.7   Compiled Software . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         6
+
+7 Expenses of the Parent Organisation                                                             6
+
+8 Summary                                                                                         7
+
+                                               1
+   This is a proposal to create an "Open Source Peace Corps" â an institution to vet
+and deploy volunteers who help small European organisations make the transition to open
+source or EU-controlled software.
+
+1    Motivation
+
+We are in the future. Without digital sovereignty, there is no sovereignty of any kind, at
+least, not for long.
+    The ICCâs Chief Prosecutor, Karim Khan, managed to attract the ire of the Trump
+administration in 2024 for issuing arrest warrants for Benjamin Netanyahu and Yoav Gal-
+lant in connection with war crimes and crimes against humanity. When Microsoft then
+denied Khan access to his email account, it sent a warning to EU officials that their policy
+decisions may be tolerated, but not unconditionally tolerated. Trump is willing to use
+US tech companies as instruments of his political will, and at least Microsoft, producer of
+Europeâs dominant operating system, is willing to obey.
+   In 2025, the European Commission ordered Google to perform structural changes as
+an anti-trust measure. Google refused.
+    Under the US CLOUD Act of 2018, data hosted inside the EU by a US company, or any
+company that has a legal presence in the US, is subject to US law. This is in clear conflict
+with the EUâs GDPR. And yet, the EU is seemingly incapable of enforcing its own law,
+presumably because it lacks sufficient domestic cloud capability to replace the capability
+it stands to lose.
+    The European Commission has historically shown reluctance to tax foreign financial
+and IT services, even where it has a mind-boggling trade deficit. The fear is that it should
+lose access to those services during any trade dispute which involves them.
+    Foreign tech companies have free access to the EU information highways, which have
+been used to sow misinformation that directly targets the integrity of the EU. Elon Musk,
+head of the social media platform X (formerly twitter) has openly called for the abolition
+of the EU. Yet, EU leaders continue to use that platform in their official capacities. This
+is a mind-blowing level of submission.
+    Conclusion: The EU has a sovereignty crisis. It risks becoming a Guam, an unincor-
+porated territory of the US: It may make its own laws, as long as those laws do not annoy
+the US.
+
+2    Concept
+
+In 1961, at the height of the cold war, the US created the Peace Corps. Volunteers were
+invited to work in third world countries to improve the living standards of the residents.
+While the project was attributed humanitarian goals by its creators, it was primarily a non-
+military means for the US to expand its sphere of influence and to push back encroachments
+by the Soviet Union.
+   The proposal here is to create a "PC Corps," which would be an EU-level administrative
+body responsible for coÃ¶rdinating volunteers, along with responsibility for a few limited
+areas of oversight and funding. Volunteers on the ground would provide tech support for
+
+                                             2
+open source software to small organisations.
+
+3     Responsibilities
+
+The services provided by the parent organisation would be:
+
+    1. Vetting volunteers.
+
+         â¢ Only individuals without criminal records would be allowed to participate.
+         â¢ Individual with records of public service would be processed preferentially.
+         â¢ The volunteers would be issued identification cards that would attest to clients
+           their trustworthiness.
+
+    2. Tracking performance.
+
+         â¢ Clients would have the opportunity to register complaints with the parent or-
+           ganisation.
+         â¢ Volunteers would be constantly reevaluated based on success rate in the field.
+
+    3. Advertising
+
+         â¢ Recruiting volunteers
+         â¢ Informing the public of services available.
+
+4     Clients
+
+    â¢ NGOs
+
+    â¢ Schools
+
+    â¢ Libraries
+
+    â¢ Small businesses
+
+    â¢ Governments of small municipalities
+
+   Private citizens could in principle be on the potential client list. However, the most tech-
+nologically adept citizens are already reachable through the aforementioned institutions.
+Other citizens represent a much greater expense of time with the least redistribution of
+know-how.
+    Large business could in principle be on the potential client list. However, they are the
+least likely to need technical assistance.
+
+                                               3
+5     Volunteers
+
+The first generation of computer teens is now approaching retirement age. These peo-
+ple would presumably form the backbone of the corps and would mentor the otherwise
+unemployed youth in the project.
+    The roles for volunteers would be:
+
+    1. Triage of service requests
+
+         â¢ Volunteers would necessarily be matched to tasks within their capabilities.
+         â¢ Senior volunteers would be assigned only the most challenging tasks.
+
+    2. Help desk for applications
+
+    3. Help desk for operating systems
+
+         â¢ The PC Corps would likely focus on one linux distribution, presumably one
+           based in Europe.
+
+    4. On-site server administration
+
+         â¢ setting up servers
+         â¢ upgrading, reinstalling, trouble-shooting
+
+    5. Maintenance of PC Corps infrastructure
+
+         â¢ websites
+         â¢ kanban boards
+         â¢ archives of compiled and verified software
+
+    6. PC Corps projects (See Projects section)
+
+5.1     Why would citizens want to volunteer?
+
+5.1.1    It is a Historic Moment for the EU.
+
+Many Europeans experience frustration at what might be called techno-feudalism: billion-
+aires control all mainstream digital resources in a civilisation whose existence is increas-
+ingly digital. A PC Corps would allow both IT experts and non-experts to participate in a
+historically-significant movement. It is a great relief to have a means of dealing with oneâs
+frustration.
+
+5.1.2    Career Opportunities
+
+A volunteer might expect to network with business clients, and thereby making him-
+self/herself known to potential employers. If a business decides to expand or to pro-
+fessionalise, the first name to come to mind would be one they already know.
+
+                                             4
+5.1.3    Professional Qualification
+
+The PC Corps could present certificates of achievement to volunteers which indicate the
+skills demonstrated in the field.
+
+5.1.4    Entry-level Experience
+
+AI can perform most of the tasks that entry-level IT professionals can do. However, how is
+anyone to rise to the rank of a mid-level professional without gaining entry-level experience?
+The PC Corps would be a means of keeping humans in the game.
+
+6     Projects
+
+There are particular services that are unprofitable to providers, yet extremely useful to
+recipients.
+
+6.1     Installing Linux
+
+For most users, installing linux is going to be as easy as the installation wizard is designed
+to make it. For other users, who need to install experimental drivers to support recent or
+rare hardware, some technical expertise is usually welcome.
+
+6.2     Migration to Open Source Apps
+
+Moving from Microsoft Office to LibreOffice is rather straight-forward, but moving from
+Photoshop to Gimp can be awkward; Gimp has a foreign mindset. Decentralised Social
+Media lacks algorithmic curation of feeds. While this ought to be considered a plus, users
+who are experimenting for the first time with platforms such as Mastodon can feel lost.
+
+6.3     Local Cloud
+
+It used to be the case that cloud solutions required considerable technical expertise. How-
+ever, open source software like Germanyâs own Nextcloud may be set up by following a
+recipe, and requires no maintenance thereafter (other than backups).
+
+6.4     Local AI
+
+While foreign tech giants clearly dominate the AI market, there are freely available AI
+models (released by those same tech giants) that can run on gaming computers. They
+can be interrogated with open source software, and are intended to be. They lack the
+sophistication of their datacentre elders, but for most queries, they are adequate. Where
+privacy matters, there is no option.
+
+                                              5
+6.5    Software RAIDS
+
+Any PC with three or more hard drives can be turned into a local backup solution. A
+RAID is a configuration of hard drives that distributes the data of, for example, two drives
+across three, such that if any single drive fails, its content can be reconstructed from data
+on the other two. Linux achieves this through software instead of an expensive RAID
+controller. In an enterprise environment, a RAID would be the middle level of a backup
+solution, but for a small business, it could suffice, if two workersâ PCs were configured this
+way. Inexpensive hardware is good enough; the network is the rate-limiting factor.
+
+6.6    Turn-key Solutions
+
+Small businesses (typically less than 10 employees) are eager to outsource their computing
+needs to tech companies in order to save the salary of a system administrator. Yet, for many
+of them, local turn-key solutions are adequate. For example, a credit-card sized computer
+that costs 80â¬ is sufficient to provide (simultaneously) a cloud service, a web service and
+kanban collaborative work environment â provided that the number of simultaneous users
+remains low. Such a computer can be configured by volunteers. The operating system and
+data are loaded on a micro SD card. It need only be inserted in the clientâs computer and
+booted. In the event of SD card failure, it is simply replaced with a copy and brought up
+to date from backups. In the case of hardware failure, the entire computer is replaced; the
+cost of a service call in most cases exceeds the cost of the computer.
+
+6.7    Compiled Software
+
+Some programs are not part of a linux package manager because of the time and effort
+required to meet the standards for a package â or any number of reasons. The programs
+are then made available only on platforms like github, from where users may download
+the source code and compile it themselves. For example, the voice-controlled AI assistant
+mycroft can be installed only from github. Github is thereby a veritable Hadrianâs wall,
+impenetrable to the wild and unprogramming hordes beyond it.
+    The PC Corps can fill the gap. Having been certified a trustworthy entity, it could
+compile such programs upon request and make the binaries thereafter available on its
+servers.
+
+7     Expenses of the Parent Organisation
+
+    â¢ Advertising
+
+    â¢ Salaries of senior officials
+
+    â¢ Funding of office space, where appropriate
+
+                                              6
+8    Summary
+
+    â¢ Accelerate the shift toward digital sovereignty broadly
+
+    â¢ Reduce IT costs for EU organisations by replacing licensed software with free software
+
+    â¢ Provide volunteers experience that the use of AI would otherwise deny them
+
+                                             7

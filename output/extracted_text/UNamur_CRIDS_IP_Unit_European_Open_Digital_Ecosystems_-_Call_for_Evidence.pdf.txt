@@ -1,0 +1,51 @@
+Ref. Ares(2026)1203388 - 03/02/2026
+
+                        European Open Digital Ecosystems â Call for Evidence
+
+                                       IP Unit â CRIDS â UNamuri
+
+        1. The IP Unit of the Research Center in Information, Law and Society (CRIDS)ii at the Law
+           Faculty of UNamur (Belgium) welcomes the Commissionâs âEuropean Open Digital
+           Ecosystem Strategyâ, which aims to foster the broader adoption and development of
+           openâsource solutions across the Union by identifying the barriers currently hindering the
+           EUâs openâsource potential and proposing solutions to remove them.
+
+        2. In this regard, based on our experience as legal researchers and practitioners specialised
+           in intellectual property and digital law, we would like to highlight the legal uncertainty
+           surrounding certain open-source licences as a concrete barrier to wider adoption and
+           industrial deployment of open-source software in the EU. In practice, some of the most
+           widely used licences - in particular strong copyleft licences such as the GNU GPL - raise
+           complex interpretative issues that are difficult to assess with sufficient certainty in real-
+           world settings. Determining whether the copyleft (âviralâ) effect is triggered can be
+           challenging where multiple components under different licences interact in indirect
+           or layered ways (e.g. via APIs, services, or embedded systems), without clear code
+           incorporation.
+
+        3. For instance, regarding the GPL (one of the most widely used open-source license), legal
+           assessments may reasonably diverge on whether a component constitutes a âcovered
+           workâ (GPLv3) or a âwork based on the Programâ (GPLv2). Similarly, the notion of
+           âdistributionâ (GPLv2) or âconveyingâ (GPLv3) is not always clear in practice, for example
+           where software is installed on devices provided by a licensee but used or accessed by
+           subcontractors or partners. These uncertainties have concrete consequences in areas
+           such as IP due diligence, public procurement and compliance assessments, and may
+           lead either to excessive risk aversion or to unintentional non-compliance.
+
+        4. By contrast, the European Union Public Licence (EUPL) appears to provide greater legal
+           clarity from a drafting perspective, yet it remains relatively underused, possibly due to
+           limited awareness among developers and companies.
+
+        5. Improving legal clarity around the scope and effects of commonly used open-source
+           licences - for example through guidance, best practices or reference interpretations -
+           would help market participants make informed choices and reduce adoption barriers,
+           without interfering with the open-source licensing model itself. This would meaningfully
+           support the development and scaling of the EU open-source ecosystem. Since the open-
+           source community is mainly driven by non-lawyers, such awareness initiatives should
+           mainly focus on software developers in order to significantly reduce the occurrence of
+           problematic use of open-source components.
+
+i
+     This statement was prepared by ChloÃ© Antoine (chloe.antoine@unamur.be).
+ii
+     https://www.crids.eu/units/intellectual-property
+
+                                                                       Ref. Ares(2026)69111 - 03/02/2026

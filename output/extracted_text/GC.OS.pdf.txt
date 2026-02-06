@@ -1,0 +1,185 @@
+Ref. Ares(2026)1225109 - 03/02/2026
+
+The German Center for Open Source AI is a Non-For-Profit with the goal to promote
+democratically governed, sovereign European AI by a participative open source
+approach. According to key open source KPIs, we are one of the leading, genuinely
+European (not US dependent) organisations for open source AI software.
+
+Our crucial role in Europe is unfortunately often overlooked by decision makers â and
+played down with some success by adversarial lobbyists â due to âsupply chain
+blindnessâ and âgovernance blindnessâ, etc, as discussed in point 1.
+
+1. Strengths and weaknesses of the EU open-source sector; barriers to adoption,
+maintenance, and sustainable contribution
+
+Strengths
+
+   â¢   The EU has strong technical talent, a long tradition of academic collaboration,
+       and widespread use of open-source software across industry and public
+       administration.
+
+   â¢   There is broad political alignment around digital sovereignty, interoperability, and
+       vendor-neutrality.
+
+   â¢   Many EU companies build critical products and services on open-source
+       components.
+
+Weaknesses
+
+   â¢   Supply chain blindness. Decision-makers tend to focus on visible applications,
+       or AI âmodelsâ, while ignoring AI software libraries and distribution and software
+       infrastructure (e.g. package repositories and CDNs such as PyPI administered by
+       the US based, and tightly controlled Python Software Foundation). These layers
+       are also overwhelmingly dependent on infrastructure and funding controlled by
+       US hyperscalers, creating hidden but severe strategic dependencies that are not
+       captured by current policy aims.
+
+   â¢   Governance blindness. Open source is often treated as a monolith. In practice,
+       governance models vary widely, and many âopen-sourceâ projects are effectively
+       controlled by single companies or foundations with limited accountability, very
+       often in the US. Ownership of trademarks, repositories, release processes, and
+       infrastructure is rarely scrutinised, and âopen sourceâ is treated irrespective of
+       governance. For instance, the German âSovereign Tech Fundâ directly funds US
+       controlled projects
+
+   â¢   Sustainability blindness, track record blindness. EU funding mechanisms
+       prioritise novelty and research outputs over long-term maintenance, security
+       hardening, track record, and operational continuity of widely-used open-source
+       components. In particular, the track record of projects or applicants (e.g.,
+       GitHub/OSS contribution record, number of downloads of packages) is routinely
+       disregarded, in contrast to, say, academic credentials or bombastic claims. But
+       funding a track record in sustainability is the most obvious way to ensure long-
+       term sustainability of outcomes â similarly, a track record in delivery is the most
+       obvious way to ensure delivery; and a publicly verifiable track record of
+       competence is the most obvious way to ensure quality.
+
+   â¢   Misallocation of funds via academia. Funding is frequently routed through
+       academic institutions that lack actual AI competence, or operational
+       competence in maintaining production-grade open-source infrastructure â more
+       often than not glaringly visible through an inspection of public open-source track
+       record (or lack thereof). This leads to fragmentation, short-term projects, and
+       limited impact, while sidelining experienced maintainers. Also related to
+       sustainability blindness: Projects created through academic grants often die
+       immediately after funding ends.
+
+Barriers
+
+   â¢   No stable funding pathways for maintainers of critical open-source
+       infrastructure.
+
+   â¢   Misallocation of existing funding through barely controlled institutions such as
+       the âSovereign Tech Fundâ, often academia or lobbyist influenced, along the
+       above lines of âblindnessâ.
+
+   â¢   Legal and procurement frameworks that do not distinguish between community-
+       governed or public controlled projects on one side, and vendor-controlled or US-
+       monopolist adjacent foundations on the other side. This is especially relevant
+       when a project has a significant track record, but are covertly under US control.
+
+   â¢   Procurement and grant award frameworks that completely disregard open-
+       source track record.
+
+   â¢   Over-reliance on non-EU infrastructure for distribution, CI/CD, and hosting of
+       critical open-source assets, in particular content delivery networks such as the
+       Python Package Index.
+
+   â¢   There is a generally trend of US actors assuming direct control over the âblind
+       spotsâ in the supply chain completely under the radar of the EU. This includes
+       systemic attacks such as redirecting funding, and specific attacks at high-profile,
+       EU-based or independent projects, up to creation of direct competitors or even
+       targeted attacks at project infrastructure through abuse of supply chain
+       dependencies or social engineering.
+
+For comparison, China has long ago constructed their own parallel infrastructure and
+has virtually no dependence on US controlled governance or distribution pathways.
+2. Added value of open source for public and private sectors
+
+Open source can deliver significant added value, but only when governance, control,
+and infrastructure are properly understood.
+
+Key sources of value
+
+   â¢   Reduced lock-in: Open standards and open implementations reduce
+       dependence on single vendors. However, this required addressing governance
+       blindnes â and works only if the project is not de facto controlled by one company
+       or US monopolists!
+
+   â¢   Security and transparency: Open code enables inspection and audit, but this
+       benefit collapses without funded maintenance, timely patching, and secure
+       distribution channels!
+
+   â¢   Innovation leverage: Open source accelerates innovation by allowing reuse of
+       foundational components rather than duplicating effort. This advantage is only
+       present if critical components are allowed to thrive.
+
+   â¢   Cost efficiency: Upfront licensing costs are reduced, but long-term costs are
+       often shifted onto unfunded maintainers or external actors. This advantage exists
+       only under the open governance model: namely, if license changes or lock-in
+       exploitation is prevented (e.g., as in the case of RedHat).
+
+Concrete examples
+
+   â¢   Widely used software stacks (e.g. PyTorch, NumFOCUS stack) underpin critical
+       EU research and industrial systems, yet their sustainability depends on US-
+       controlled infrastructure and corporate sponsorship.
+
+   â¢   Public administrations adopting âopen-source solutionsâ often unknowingly rely
+       on cloud services, CDNs, and build pipelines controlled by a handful of non-EU
+       providers, re-introducing lock-in at a deeper layer. Vendors of âtaintedâ open-
+       source of course are always happy to confirm how sovereign and independent
+       their projects are.
+
+3. Concrete EU-level measures to support open source, sovereignty, and
+cybersecurity
+
+The EU should move from symbolic support to structural intervention:
+
+   1. Differentiate open-source governance models in policy and funding.
+      Treat community-governed, asset-neutral projects differently from company-
+      owned or US-controlled. Ownership of trademarks, repositories, infrastructure,
+      and social control of communities, must be taken into account.
+   2. Fund maintenance as critical infrastructure.
+      Establish long-term funding instruments for maintainers of widely-used libraries,
+      runtimes, and tools, independent of academic novelty cycles. Base this on track
+      record in maintenance and sustainability rather than
+
+   3. Secure the open-source supply chain.
+      Invest in EU-based package distribution, mirrors, signing infrastructure, and CI
+      systems for critical ecosystems. Most importantely, EU-based and completely
+      independent mirrors of Python Software Foundation Infrastructure (e.g., PyPI)
+      and secure build pipelines must be set up, similar to the Chinese ecosystem.
+
+   4. Reduce dependence on hyperscalers and US venture capital networks.
+      Avoid concentrating open-source infrastructure (hosting, CI, distribution) and de-
+      facto package ownership on a small number of US-based providers.
+
+   5. Reform procurement and compliance frameworks.
+      Strictly require assessment of governance, control, and infrastructure
+      dependencies when procuring or mandating open-source solutions. Strictly
+      require track record checks when funding via grants.
+
+4. Technology areas to prioritise
+
+More priority should be given to foundational layers, not only end-user applications:
+
+   â¢   Core software libraries and runtimes (e.g. data science, ML, AI, cryptography,
+       networking).
+
+   â¢   Software supply-chain infrastructure (package distribution and content delivery
+       networks, package repositories, build systems, signing).
+
+   â¢   Operating systems, virtualisation, and container ecosystems.
+
+   â¢   Security-critical components (identity, encryption, update mechanisms).
+
+These layers are widely reused, systemically important â yet they are almost exclusively
+under US control, and currently underfunded relative to their strategic importance.
+
+In all the above, both communities as well as technologies must be made resilient.
+
+5. Sectors where increased open-source use could boost competitiveness and
+cyber resilience
+
+Anywhere, but especially in critical systems â e.g., public sector, healthcare, defense,
+energy. Enough has already written about this by other parties in this call for evidence
+(we do not disagree with the broad consensus).

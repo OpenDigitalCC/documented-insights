@@ -1,0 +1,245 @@
+Ref. Ares(2026)1147825 - 02/02/2026
+
+Suite Logicielle Souveraine EuropÃ©enne
+European Sovereign Software Suite
+
+LâENJEU
+
+LâEurope fait face Ã  une dÃ©pendance critique devenue risque gÃ©opolitique majeur : plus de 80 % de ses infrastructures
+numÃ©riques et 90 % de ses services cloud reposent sur des acteurs extra-communautaires (Google, Microsoft, Amazon),
+principalement soumis au Cloud Act amÃ©ricain. Cette vulnÃ©rabilitÃ© systÃ©mique menace directement la confidentialitÃ© des
+donnÃ©es publiques, la compÃ©titivitÃ© industrielle et lâautonomie stratÃ©gique europÃ©enne.
+
+La prÃ©sente note propose la crÃ©ation dâune Suite Logicielle Souveraine EuropÃ©enne. Une plateforme intÃ©grÃ©e,
+interopÃ©rable, basÃ©e sur des briques open source (Matrix, Nextcloud, Jitsi, etc.) et portÃ©e par lâinstrument DC-EDIC (Digital
+Commons - European Digital Infrastructure Consortium), approuvÃ© depuis octobre 2025.
+
+LâopportunitÃ© est lÃ  : La Commission ferme le 3 fÃ©vrier 2026 son appel Ã  tÃ©moignages Â« Towards European Open Digital
+Ecosystems Â» qui alimentera sa stratÃ©gie europÃ©enne des Ã©cosystÃ¨mes numÃ©riques ouverts (T1 2026). SimultanÃ©ment, la
+proposition du Cloud and AI Development Act (CADA) est attendue au Q1 2026. Une action parlementaire coordonnÃ©e dans
+les prochaines semaines est essentielle pour aligner ces instruments lÃ©gislatifs sur ce projet dâinfrastructure critique.
+
+I. LE PROBLÃME : ÃPARPILLEMENT, DÃPENDANCE ET CAPTATION DE VALEUR
+
+27 Ãtats, 27 solutions, 1 seul gagnant : les GAFAM
+
+Actuellement, chaque Ãtat-membre finance sÃ©parÃ©ment ses propres outils numÃ©riques, gÃ©nÃ©rant une fragmentation
+paralysante :
+
+â¢ Duplication massive : La France dÃ©veloppe Â« La Suite NumÃ©rique Â», lâAllemagne Â« ZenDiS/OpenDesk Â», les Pays-Bas Â«
+MijnBureau Â». Bien que des Ã©changes et projets communs existent (ex. 100-Day Challenges FOSDEM 2026), lâabsence de
+standard commun paralyse lâinteropÃ©rabilitÃ© transfrontaliÃ¨re.
+
+â¢ DÃ©pendance absolue : Microsoft, Google, Amazon contrÃ´lent 90 % de lâinfrastructure cloud europÃ©enne, forÃ§ant les
+gouvernements Ã  dÃ©pendre de fournisseurs Ã©trangers et de leurs conditions contractuelles.
+
+â¢ CoÃ»ts cachÃ©s massifs : licences rÃ©pÃ©tÃ©es, formations fragmentÃ©es, dÃ©pendance contractuelle, lock-in technologique,
+vulnÃ©rabilitÃ© accrue aux sanctions commerciales.
+
+LâasymÃ©trie stratÃ©gique : lâEurope produit, les GAFAM captent
+
+Selon la Commission europÃ©enne : 70 Ã  90 % du code numÃ©rique europÃ©en repose sur des composants open source, mais la
+majoritÃ© de la valeur gÃ©nÃ©rÃ©e sâÃ©chappe en dehors de lâUE. Les grandes plateformes intÃ¨grent ces briques libres
+europÃ©ennes dans leurs services payants, accumulant ainsi la rente commerciale.
+
+LâEurope produit lâinnovation, mais nâen capture pas les fruits commerciaux. Pire, elle finance cette dÃ©pendance en payant
+des licences aux mÃªmes acteurs qui captent sa propre crÃ©ation.
+Le paradoxe : investir dans la souverainetÃ© tout en la paralysant
+
+LâUE a investi massivement dans des cadres de souverainetÃ© numÃ©rique (Digital Compass 2030, Cyber Resilience Act, Digital
+Europe Programme, Horizon Europe) et a lancÃ© lâEDIC, mais accepte simultanÃ©ment une fragmentation des investissements
+qui annule ces efforts.
+
+Continuer sur cette trajectoire reviendrait Ã  financer indÃ©finiment des solutions fragmentÃ©es et coÃ»teuses, tout en restant
+dÃ©pendante des grandes plateformes Ã©trangÃ¨res.
+
+II. LâOPPORTUNITÃ : LES CONDITIONS SONT RÃUNIES
+
+Consensus politique sans prÃ©cÃ©dent
+
+â¢ EuroStack Foundation : Plus de 260 signataires (Ãtats-membres, rÃ©gions, collectivitÃ©s, entreprises) soutiennent lâinitiative
+de politique industrielle pour une souverainetÃ© numÃ©rique europÃ©enne, prÃ´nant Â« Buy European, Sell European, Fund
+European Â».
+
+â¢ EU Open Source Policy Summit (janvier 2025) : Plus de 500 dÃ©cideurs ont confirmÃ© : Lâopen source est fondamental pour
+la compÃ©titivitÃ© et la souverainetÃ© europÃ©enne.
+
+â¢ Feuille de route politique : LâEU Cloud Alliance, soutenue par la Commission (DG CONNECT), a publiÃ© 70 actions concrÃ¨tes
+pour faire de lâopen source un pilier de la souverainetÃ© europÃ©enne.
+
+â¢ StratÃ©gie annoncÃ©e pour Q1 2026 : Le 6 janvier 2026, la Commission a lancÃ© lâappel Ã  tÃ©moignages Â« Towards European
+Open Digital Ecosystems Â», Ã©tape vers une stratÃ©gie europÃ©enne des Ã©cosystÃ¨mes numÃ©riques ouverts annoncÃ©e pour le
+1er trimestre 2026, conÃ§ue comme complÃ©ment Â« open source Â» du futur Cloud and AI Development Act.
+
+Infrastructure opÃ©rationnelle fonctionnelle
+
+â¢ DC-EDIC : ApprouvÃ© le 29 octobre 2025 avec la France, lâAllemagne, lâItalie et les Pays-Bas comme fondateurs. Cet
+instrument peut opÃ©rer immÃ©diatement lâinfrastructure commune et orchestrer le dÃ©ploiement progressif aux Ãtats-
+membres.
+
+â¢ Standards techniques matures et interopÃ©rables : LâEDIC sâappuie sur des protocoles open source largement dÃ©ployÃ©s et
+certifiÃ©s (Matrix, CalDAV, OIDC/SAML), dÃ©jÃ  testÃ©s par les administrations publiques.
+
+Preuves de faisabilitÃ© technologique et opÃ©rationnelle
+
+â¢ Gaia-X (depuis 2019) : La France et lâAllemagne ont crÃ©Ã© un Ã©cosystÃ¨me fÃ©dÃ©rÃ© de services cloud et de donnÃ©es sÃ©curisÃ© et
+transparent, qui a dÃ©montrÃ© la faisabilitÃ© technique et la viabilitÃ© dâun modÃ¨le partagÃ©
+
+â¢ DÃ©ploiements massifs en cours : La France, lâAllemagne et les Pays-Bas soutiennent dÃ©jÃ  le protocole Matrix/Element,
+principal standard commun Ã  La Suite NumÃ©rique(FR), OpenDesk/ZenDiS(DE) et MijnBureau(NL)
+III. LA SOLUTION : ARCHITECTURE MODULAIRE, INTEROPÃRABLE, CERTIFIABLE
+
+Concept : une plateforme unique sur briques libres
+
+Le projet ne vise pas Ã  recrÃ©er lâexistant, mais Ã  orchestrer des solutions europÃ©ennes matures au sein dâune plateforme
+unique, interopÃ©rable, hÃ©bergÃ©e en Europe et certifiable EUCS (European Cybersecurity Certification Scheme).
+
+Composants techniques potentiels
+
+Communication temps rÃ©el Matrix / Element Standard commun France-Allemagne-Pays-Bas
+Bureautique collaborative Nextcloud / Collabora / LibreOffice IntÃ©gration MijnBureau (Pays-Bas)
+VisioconfÃ©rence Jitsi / BigBlueButton DÃ©ploiements massifs secteur public UE
+Stockage sÃ©curisÃ© Nextcloud / WebDAV Norme ODF garantissant interopÃ©rabilitÃ©
+Agenda/Contacts CalDAV / CardDAV Standards ouverts mondialement reconnus
+Authentification fÃ©dÃ©rÃ©e OIDC / SAML InteropÃ©rabilitÃ© transfrontaliÃ¨re
+Moteur de recherche OpenSearch / Apache Lucene Indexation respectueuse de la vie privÃ©e
+Galeries dâimages Piwigo Alternative souveraine Ã  captation de donnÃ©es
+Plateforme vidÃ©o PeerTube Streaming dÃ©centralisÃ© sans captation
+
+Points clÃ©s de lâarchitecture
+
+    1. SouverainetÃ© par le code : AuditabilitÃ© totale du code, absence de backdoors juridictionnelles, hÃ©bergement 100 %
+         europÃ©en, pas de dÃ©pendance au Cloud Act amÃ©ricain.
+    2. InteropÃ©rabilitÃ© native : Utilisation systÃ©matique des protocoles Matrix (messagerie), ODF (documents), CalDAV
+         (agenda) et standards ouverts pour garantir la continuitÃ© du service public europÃ©en et la portabilitÃ© des donnÃ©es.
+    3. ConformitÃ© Â« Secure-by-Design Â» : Alignement dÃ¨s la conception avec le Cyber Resilience Act (CRA), permettant
+         une certification EUCS accÃ©lÃ©rÃ©e et des audits de sÃ©curitÃ© continus.
+    4. AdaptabilitÃ© rÃ©gionale : Chaque Ãtat peut enrichir la plateforme commune avec ses propres services ou langues,
+         garantissant quâaucun nâest forcÃ© dâabandonner des investissements antÃ©rieurs.
+
+IV. CALENDRIER DâOPPORTUNITÃ ET INSTRUMENTS STRATÃGIQUES (2026)
+
+    ï·    14 janvier 2026 : La rÃ©vision du Cybersecurity Act ouvre la voie aux certifications cloud accÃ©lÃ©rÃ©es (EUCS)
+    ï·    3 fÃ©vrier 2026 : ClÃ´ture des consultations Â« Towards European Open Digital Ecosystems Â»
+    ï·    Q1 2026 Proposition Cloud and AI Development Act (CADA) ï  OpportunitÃ© d'alignement avec l'infrastructure DC-
+         EDIC
+    ï·    Courant 2026 NÃ©gociations MFF 2028-2034 et Fonds compÃ©titivitÃ© Financement dÃ©diÃ© pour l'infrastructure
+         logicielle critique
+
+Instruments dÃ©jÃ  opÃ©rationnels
+
+â¢ Interoperable Europe Act & Portal : Infrastructure de gouvernance en place
+â¢ DC-EDIC : Cadre juridique en place sur initiative de la France, Allemagne, Italie et Pays-Bas
+â¢ Feuille de route 70 propositions (EU Cloud Alliance) : Ce projet en concrÃ©tise directement les piliers 1, 3, 5
+â¢ EUCS, Cyber Resilience Act, EU AI Act : Le projet y est entiÃ¨rement alignÃ©
+â¢ Digital Compass 2030 : Les objectifs de souverainetÃ© et compÃ©titivitÃ© sont directement supportÃ©s
+V. MISE EN ÅUVRE
+
+Phase 1 (2026-2028) : SpÃ©cifications et pilotage
+
+â¢ DC-EDIC dÃ©finit les spÃ©cifications techniques communes
+â¢ Ãtablit les standards d'interopÃ©rabilitÃ© obligatoires
+â¢ Pilote le dÃ©ploiement dans les Ãtats volontaires (France, Allemagne, Italie, Pays-Bas d'abord)
+â¢ Premier retour d'expÃ©rience et ajustements
+
+Phase 1b (2028-2030) : Ãvaluation et capitalisation
+
+â¢ Ãvaluation complÃ¨te de la faisabilitÃ© opÃ©rationnelle
+â¢ Ajustements basÃ©s sur le retour d'expÃ©rience des dÃ©ploiements pilotes
+â¢ PrÃ©paration de lâextension aux Ãtats-membres
+
+Phase 2 (2030-2034) : Extension progressive
+
+â¢ Extension progressive aux 27 Ãtats-membres selon leur calendrier d'adoption
+â¢ Jalons annuels d'Ã©valuation garantissant l'adaptabilitÃ© des dÃ©lais
+â¢ Renforcement continu de la sÃ©curitÃ© et de la compatibilitÃ©
+
+Financement
+â¢ Cadre financier pluriannuel (MFF 2028-2034)
+â¢ Instruments existants (Digital Europe Programme, IPCEI-CIS)
+â¢ Futur EU Sovereign Tech Fund dÃ©diÃ© Ã  l'open source (sur modÃ¨le du succÃ¨s du Sovereign Tech Fund allemand)
+â¢ RÃ©allocations budgÃ©taires libÃ©rÃ©es par fin de la fragmentation
+
+VI. AVANTAGES STRATÃGIQUES
+SouverainetÃ© : Rupture de la dÃ©pendance aux GAFAM
+Ãconomies dâÃ©chelle : Fin du saupoudrage fragmentÃ©, mutualisation massive de R&D, plusieurs Mdâ¬ dâÃ©conomie
+SÃ©curitÃ© : Code auditable, hÃ©bergement 100 % UE, certifiable EUCS, conformitÃ© garantie CRA/AI Act
+InteropÃ©rabilitÃ© : Standard commun aux 27 Ãtats garantissant circulation libre des donnÃ©es
+CompÃ©titivitÃ© : ÃcosystÃ¨me dâinnovation europÃ©enne attractif pour les entreprises et talents
+RÃ©silience : IndÃ©pendance face aux sanctions commerciales, lois extraterritoriales, rupture de service
+Valeur capturÃ©e : Rente Ã©conomique de lâinnovation numÃ©rique restant en Europe, crÃ©ation emplois/PME
+VII. RECOMMANDATIONS
+
+Pour garantir la rÃ©ussite et lâaccÃ©lÃ©ration de ce projet stratÃ©gique, quatre leviers sont proposÃ©s :
+
+    1. CONTRIBUTION Ã LA CONSULTATION (AVANT 3 FÃVRIER 2026)
+ACTION IMMÃDIATE : Coordonner une contribution parlementaire au Â«Call of Evidence Open Source Digital EcosystemsÂ»
+
+Contenu proposÃ© :
+â¢ Plaider pour que la Suite Logicielle Souveraine EuropÃ©enne devienne le socle de lâÃ©cosystÃ¨me numÃ©rique ouvert europÃ©en
+2026 â¢ Souligner lâurgence budgÃ©taire et lâopportunitÃ© du DC-EDIC
+â¢ Demander que la stratÃ©gie Â« Open Digital Ecosystems Â» priorise le dÃ©ploiement coordonnÃ© via lâEDIC
+
+Effet politique : Influence directe sur la rÃ©daction de la stratÃ©gie Q1 2026 avant sa finalisation.
+
+    2. QUESTION PARLEMENTAIRE Ã LA COMMISSION (FÃVRIER-MARS 2026)
+ACTION : Poser une question Ã©crite ou orale Ã  la Commission sur lâarticulation entre :
+â¢ Le futur Cloud and AI Development Act (CADA) proposÃ© au premier trimestre 2026
+â¢ Le financement opÃ©rationnel du DC-EDIC pour dÃ©ploiement des solutions bureautiques souveraines
+
+Objectifs :
+â¢ Pousser Ã  une prise de position de la Commission
+â¢ Mobiliser les services de la Commission Ã  harmoniser leurs positions
+
+    3. AMENDEMENT AU CADRE FINANCIER PLURIANNUEL 2028-2034 (COURANT 2026)
+ACTION : Soutenir la crÃ©ation dâune ligne budgÃ©taire dÃ©diÃ©e Â« Infrastructures Logicielles Critiques Â» au sein du futur Fonds
+europÃ©en pour la compÃ©titivitÃ© (MFF 2028-2034).
+
+ModÃ¨le de rÃ©fÃ©rence : Le succÃ¨s du Sovereign Tech Fund allemand (10-30 millions â¬/an).
+
+Objectif :
+â¢ DÃ©ploiement et maintenance de la Suite Souveraine
+â¢ SÃ©curitÃ© du code et audits continus
+â¢ Support Ã©cosystÃ¨me PME/startups
+â¢ Formation administrations publiques
+
+    4. RÃVISION DES RÃGLES DE PASSATION DES MARCHÃS PUBLICS (2026-2027)
+ACTION : Promouvoir lâintroduction de critÃ¨res de Â« souverainetÃ© juridictionnelle Â» dans la rÃ©vision des directives de
+passation des marchÃ©s publics europÃ©ens.
+
+Contenu proposÃ© :
+â¢ PrÃ©fÃ©rence europÃ©enne explicite : Favoriser les solutions certifiÃ©es EUCS et hÃ©bergÃ©es UE
+â¢ InteropÃ©rabilitÃ© obligatoire : Exiger les standards Matrix, ODF, CalDAV dans les appels dâoffres publics
+â¢ Clause de valeur capturÃ©e : Prioriser les solutions dont la valeur Ã©conomique reste en Europe
+â¢ Progressif : Calendrier de migration des services publics vers solutions souveraines (ex. 50 % en 2028, 80 % en 2030)
+
+Effet : crÃ©e une demande commune aux Ãtats membres, pour des solutions souveraines, stimulant les Ã©conomies dâÃ©chelle
+et lâinnovation europÃ©enne
+VIII. COLLABORATIONS
+
+Commissions
+
+â¢ Commission ITRE (Industrie, Recherche et Ãnergie) : souverainetÃ© technologique et compÃ©titivitÃ©
+â¢ Commission IMCO (MarchÃ© intÃ©rieur et protection des consommateurs) : interopÃ©rabilitÃ© et droits consommateurs
+â¢ Commission LIBE (LibertÃ©s civiles, justice et affaires intÃ©rieures) : donnÃ©es, protection vie privÃ©e, souverainetÃ©
+â¢ Groupe de contact inter-groupes pour transcender les clivages politiques
+
+Points de contact clÃ©s
+
+â¢ Commission : DG CONNECT (ConnectivitÃ©), DG GROW (CompÃ©titivitÃ©), DG DIGIT (Infrastructure numÃ©rique)
+â¢ Gouvernements fondateurs : ReprÃ©sentants dâEDIC (France, Allemagne, Italie, Pays-Bas)
+â¢ ÃcosystÃ¨me : EuroStack Foundation, EU Cloud Alliance, communautÃ© open source
+
+IX. CONCLUSION
+
+LâEurope dispose aujourdâhui de tous les instruments politiques, techniques et budgÃ©taires pour crÃ©er une vÃ©ritable
+alternative numÃ©rique souveraine. Le DC-EDIC a Ã©tÃ© approuvÃ©, le consensus politique est sans prÃ©cÃ©dent (260+ signataires
+EuroStack, 500+ dÃ©cideurs EU Open Source Policy Summit). Les technologies sont matures et testÃ©es.
+
+La fenÃªtre dâaction est courte : La Commission ferme le 3 fÃ©vrier 2026 sa consultation sur les Ã©cosystÃ¨mes numÃ©riques
+ouverts. Le CADA sera proposÃ© au Q1 2026. Les nÃ©gociations du MFF 2028-2034 avancent.
+
+Les parlementaires europÃ©ens ont le pouvoir dâaccÃ©lÃ©rer immÃ©diatement ce mouvement via quatre leviers concrets.
+Continuer Ã  financer des solutions fragmentÃ©es et Ã  dÃ©pendre des GAFAM nâest plus une fatalitÃ©, câest un choix politique.
+
+Lâautonomie stratÃ©gique numÃ©rique de lâEurope se gagne maintenant.

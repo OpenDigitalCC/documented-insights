@@ -1,0 +1,141 @@
+Ref. Ares(2026)1021829 - 29/01/2026
+
+               RÃ©ponse Ã  la consultation Commission europÃ©enne â janvier 2026
+                  Vers des Ã©cosystÃ¨mes numÃ©riques ouverts et europÃ©ens
+
+Question 1 : Quelles sont les forces et les faiblesses du secteur des solutions libres de lâUE ? Quels
+sont les principaux obstacles qui entravent i) lâadoption et la maintenance de solutions libres de
+qualitÃ© et sÃ©curisÃ©es et (ii) les contributions durables aux communautÃ©s des solutions libres ?
+
+Forces : Excellence technologique et volontÃ© commune de souverainetÃ©
+
+L'Union europÃ©enne dispose dâinstituts de recherche de classe mondiale (Inria, CEA List, IMT, IRT)
+produisant des technologies de rupture telles que les mÃ©thodes formelles (Frama-C), lâIA embarquÃ©e
+(TinyML) ou les systÃ¨mes distribuÃ©s.
+
+Elle s'appuie sur un Ã©cosystÃ¨me de PME et d'intÃ©grateurs dynamiques (Vates, Linagora) ou de de
+communautÃ©s open source (OW2, NEONEPHOS, etc) qui maintiennent des couches d'infrastructure
+essentielles (virtualisation, orchestration). Cette philosophie open-source s'aligne naturellement avec
+le besoin de Â« souverainetÃ© native Â» et de transparence de l'UE, contrairement aux modÃ¨les Â« boÃ®tes
+noires Â» des hyperscalers extra-europÃ©ens.
+
+Faiblesses : Fragmentation de lâÃ©cosystÃ¨me et manque de financement
+
+    â¢   Fragmentation : l'Ã©cosystÃ¨me est dispersÃ© et manque de la Â« force de frappe Â» des hyperscalers
+        amÃ©ricains.
+
+    â¢   DÃ©ficit de financement pour l'industrialisation et la maturation technologique : bien que la
+        recherche soit soutenue efficacement en amont, il existe une carence critique de capitaux pour
+        assurer la transition entre le prototype de recherche (TRL 4) et un produit industriel durci (TRL
+        9).
+
+    â¢   DÃ©ficit marketing : les solutions europÃ©ennes peinent face Ã  la puissance commerciale et Ã  la
+        facilitÃ© dâutilisation apparente des plateformes propriÃ©taires amÃ©ricaines.
+
+Obstacles principaux :
+
+    â¢   Verrouillage propriÃ©taire (Lock-in) : comme le souligne l'Ã©tude AsterÃ¨s, les entreprises
+        europÃ©ennes sont piÃ©gÃ©es dans des Ã©cosystÃ¨mes propriÃ©taires du fait des frais de sortie (egress
+        fees) et du manque d'interopÃ©rabilitÃ© technique, empÃªchant la bascule vers des alternatives
+        open-source.
+
+    â¢   Culture de l'achat : la commande publique et les procÃ©dures dâachat privÃ©es favorisent encore
+        les solutions propriÃ©taires Ã©tablies, encore perÃ§ues comme moins risquÃ©es, malgrÃ© les
+        avantages Ã  long terme de l'open-source.
+
+    â¢   DurabilitÃ© de la maintenance : lâabsence dâun modÃ¨le Ã©conomique clair pour entretenir les
+        Â« communs numÃ©riques Â» expose les infrastructures critiques Ã  des risques.
+
+                                                                                                          1
+Question 2 : Quelle est la valeur ajoutÃ©e des solutions libres pour les secteurs public et privÃ© ?
+Veuillez fournir des exemples concrets, y compris les principaux facteurs (tels que le coÃ»t, les risques,
+le verrouillage technologique, la sÃ©curitÃ© et lâinnovation) permettant dâÃ©valuer cette valeur ajoutÃ©e.
+
+    -   SouverainetÃ© et sÃ©curitÃ© (attÃ©nuation des risques) : l'open-source permet une auditabilitÃ©
+        totale du code, indispensable aux architectures Â« Zero-Trust Â» des secteurs critiques (dÃ©fense,
+        santÃ©, Ã©nergie).
+
+    -   InteropÃ©rabilitÃ© et anti-lock-in : les standards ouverts empÃªchent le verrouillage propriÃ©taire.
+        Exemple : L'initiative SECA (Sovereign European Cloud API) propose un standard ouvert pour
+        gÃ©rer les ressources cloud, garantissant aux entreprises europÃ©ennes la libertÃ© de changer de
+        fournisseur ou d'adopter des stratÃ©gies multi-cloud sans friction technique.
+
+    -   Innovation et efficacitÃ© Ã©conomique : lâopen-source favorise le Â« Frugal AI Â» et le edge
+        computing en permettant dâoptimiser le code, de rÃ©duire les besoins matÃ©riels et la
+        consommation Ã©nergÃ©tique.
+        Exemple : Dans le secteur automobile (Software-Defined Vehicle), des composants
+        open-source permettent aux constructeurs (ex. : Renault/Valeo) de bÃ¢tir des couches
+        partagÃ©es non diffÃ©renciatrices, tout en concentrant leurs ressources sur les services Ã  forte
+        valeur ajoutÃ©e.
+
+Question 3 : Quelles mesures concrÃ¨tes peuvent Ãªtre prises au niveau de lâUE pour soutenir le
+dÃ©veloppement et la croissance du secteur des solutions libres de lâUE et contribuer aux objectifs de
+lâUE en matiÃ¨re de souverainetÃ© technologique et de cybersÃ©curitÃ© ?
+
+    -   Imposer lâ Â« interopÃ©rabilitÃ© opposable Â» : il faut aller au-delÃ  des recommandations. L'UE doit
+        imposer des standards (comme SECA) qui empÃªchent les hyperscalers d'enfermer les clients
+        avec des API propriÃ©taires.
+
+    -   Utiliser les marchÃ©s publics comme levier : il est nÃ©cessaire dâappliquer une logique Â« Buy
+        European/Open Â». Les administrations doivent prioriser lâopen-source pour les infrastructures
+        critiques (cloud, edge IA) afin de crÃ©er un marchÃ© garanti pour les fournisseurs europÃ©ens.
+
+    -   Financer la phase de Â« Hardening Â» : crÃ©er des mÃ©canismes de financement dÃ©diÃ©s
+        spÃ©cifiquement Ã  la transformation des projets de recherche open-source en produits
+        industriels (documentation, UX, audits de sÃ©curitÃ©, support long terme).
+
+    -   Soutenir les OSPO (Open Source Program Offices) : financer la crÃ©ation d'OSPO dans les
+        administrations et grandes industries pour professionnaliser la contribution et la
+        consommation de l'open-source.
+
+    -   CrÃ©er une infrastructure Â« Data Spaces Â» : soutenir le dÃ©ploiement de connecteurs open-source
+        (type Gaia-X) pour faciliter l'Ã©change sÃ©curisÃ© de donnÃ©es sans dÃ©pendre de plateformes
+        centrales propriÃ©taires.
+
+                                                                                                       2
+Question 4 : Quels domaines technologiques devraient Ãªtre prioritaires et pourquoi ?
+
+    -   Infrastructure du Continuum Cloud-to-Edge : alors que 4,4 zettaoctets de donnÃ©es seront
+        gÃ©nÃ©rÃ©s Ã  l'Edge d'ici 2030, l'Europe doit Ãªtre dotÃ©e dâune pile souveraine open-source
+        (virtualisation, orchestration/Kubernetes, OS) pour gÃ©rer ce continuum et ne pas dÃ©pendre de
+        plans de contrÃ´le extra-europÃ©ens.
+
+    -   Virtualisation : c'est la couche fondamentale du cloud. Il est vital de soutenir des alternatives
+        aux hyperviseurs propriÃ©taires dominants (comme VMware) pour assurer lâindÃ©pendance et la
+        compÃ©titivitÃ© technologique et tarifaire.
+
+    -   Intelligence Artificielle (ModÃ¨les et Outils) : pour Ã©viter la dÃ©pendance, lâEurope doit maÃ®triser
+        lâintÃ©gralitÃ© de la pile IA. La prioritÃ© doit Ãªtre donnÃ©e aux modÃ¨les Ã  poids ouverts
+        (ex. : Mistral), Ã  lâIA frugale/TinyML pour le Edge, et aux plateformes open MLOps afin dâassurer
+        transparence et auditabilitÃ© des dÃ©cisions IA.
+
+    -   CybersÃ©curitÃ© & Cryptographie : seul l'open-source permet de vÃ©rifier les mÃ©canismes de
+        sÃ©curitÃ© (Cryptographie Post-Quantique, Chiffrement Homomorphe) nÃ©cessaires au traitement
+        de donnÃ©es sensibles dans des environnements peu fiables.
+
+Question 5 : Dans quels secteurs une utilisation accrue des solutions libres pourrait-elle renforcer la
+compÃ©titivitÃ© et la cyber-rÃ©silience ?
+
+    -   Industrie 4.0 : L'open-source permet la convergence IT/OT en brisant les silos des automates
+        propriÃ©taires et permet le traitement en temps rÃ©el des donnÃ©es au Edge (usines intelligentes)
+        avec des solutions indÃ©pendantes du fournisseur.
+
+    -   Ãnergie & Utilities Critiques : Pour les rÃ©seaux intelligents, l'open-source garantit que la gestion
+        des infrastructures critiques ne dÃ©pend pas d'un fournisseur Ã©tranger unique, renforÃ§ant la
+        rÃ©silience gÃ©opolitique.
+
+    -   DÃ©fense & Secteur Public : Ces secteurs exigent un contrÃ´le absolu des donnÃ©es et de la pile
+        logicielle. L'open-source offre la transparence nÃ©cessaire pour certifier les systÃ¨mes aux
+        niveaux les plus Ã©levÃ©s (ex: Secret DÃ©fense, Diffusion Restreinte) et assure la continuitÃ© de
+        service mÃªme en mode dÃ©connectÃ©.
+
+    -   MobilitÃ© et automobile : La transition vers les Â« Software-Defined Vehicles Â» nÃ©cessite
+        dâÃ©normes quantitÃ©s de code. Le partage de piles logicielles non diffÃ©renciatrices via
+        lâopen-source accÃ©lÃ¨re lâinnovation et rÃ©duit les coÃ»ts pour les constructeurs europÃ©ens
+        confrontÃ©s Ã  une concurrence mondiale.
+
+Contact : Cloud Temple â Julie Latawiec
+
+Julie.latawiec@cloud-temple.com â +33 7 60 71 07 14
+
+                                                                                                          3

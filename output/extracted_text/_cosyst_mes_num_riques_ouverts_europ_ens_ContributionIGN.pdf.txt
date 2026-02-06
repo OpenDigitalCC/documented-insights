@@ -1,0 +1,552 @@
+Ref. Ares(2026)1210518 - 03/02/2026
+
+                             Appel Ã  contributions de la Commission europÃ©enne â 3 fÃ©vrier 20261
+                             ÃcosystÃ¨mes numÃ©riques ouverts europÃ©ens
+                                    Contribution de lâIGN France
+
+       LâIGN France, institut national de lâinformation gÃ©ographique et forestiÃ¨re, est un Ã©tablissement public,
+       dont la vocation est de contribuer Ã  la connaissance souveraine du territoire et de son Ã©volution, par les
+       donnÃ©es de description gÃ©omÃ©trique, physique et sÃ©mantique de la surface du territoire national,
+       d'occupation de son sol et de connaissance des forÃªts nationales, ainsi que par des outils numÃ©riques et
+       technologiques souverains de connaissance du territoire et de projection.
+       Les Ã©cosystÃ¨mes numÃ©riques ouverts sont au cÅur de la stratÃ©gie de lâIGN, qui apporte donc sa
+       contribution Ã  la consultation europÃ©enne.
+
+        SynthÃ¨se et messages clÃ©s
+
+        Besoin de communs numÃ©riques
+       â¢    Lâopen source ne suffira pas Ã  crÃ©er une capacitÃ© technologique souveraine, il y a besoin de rÃ©aliser
+            des communs numÃ©riques.
+       â¢    Lâopen source et les communs numÃ©riques sont des outils essentiels pour assurer la souverainetÃ© et
+            lâautonomie de lâUE pour certaines technologies et dans certains secteurs, notamment dans les
+            suivants.
+       â¢    Un engagement fort serait la mise en place dâun fonds europÃ©en dotÃ© dâun milliard dâeuros pour
+            financer des briques technologiques de base, structurÃ©es en couches (selon une logique de stack),
+            organisÃ©s sous forme de communs numÃ©riques.
+       â¢    Cf. dÃ©veloppement ci-dessous : rÃ©ponse Ã  la question 3.
+
+        Besoin de communs numÃ©riques dans le secteur gÃ©ospatial
+       â¢    Actuellement lâUE nâest pas souveraine en matiÃ¨re de donnÃ©es et services gÃ©ospatiaux.
+       â¢    Dans le contexte gÃ©opolitique actuel, il est important que lâEurope assure sa souverainetÃ© en matiÃ¨re
+            de donnÃ©es gÃ©ospatiales.
+       â¢    En ce sens, il faudrait que la stratÃ©gie europÃ©enne pour un Ã©cosystÃ¨me numÃ©rique de lâUE inclue un
+            volet gÃ©ospatial.
+       â¢    Pour cela, lâUE a besoin de capacitÃ©s autonomes dâacquisition de donnÃ©es gÃ©ographiques, de
+            systÃ¨mes autonomes de production de donnÃ©es gÃ©ographiques, et de systÃ¨mes autonomes de mise
+            Ã  disposition de donnÃ©es gÃ©ographiques.
+       â¢    Exemple dâun socle technique pour les plateformes gÃ©ospatiales : il serait utile de mettre en place
+            un socle technique dâoutils et de ressources techniques gÃ©nÃ©riques, qui aideront les plateformes de
+            dÃ©couverte, partage, diffusion, croisement et visualisation des donnÃ©es gÃ©ospatiales, Ã  mutualiser des
+            outils opÃ©rationnels et Ã  inter-opÃ©rer.
+       â¢    Cf. dÃ©veloppement ci-dessous : rÃ©ponse Ã  la question 5.
+
+        Besoin de communs                        numÃ©riques            dans        les     services         et     applications
+        cartographiques
+       â¢    LâUE devrait se rendre autonome en matiÃ¨re de services et applications de cartographie et de
+            localisation (exemple : applications de cartographie pour smartphones), et en matiÃ¨re dâinfrastructures
+            sur lesquelles reposent les services de cartographie (plateformes et briques technologiques de
+            stockage, de saisie collaborative, de reprÃ©sentation, de diffusion de donnÃ©es gÃ©ographiques ;
+            exemple : systÃ¨mes et plateformes dâinformation gÃ©ospatiale).
+
+1 https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/16213-Ecosystemes-numeriques-ouverts-europeens_fr
+
+                                                                                                                                   1/10
+      Besoin de mesures lÃ©gislatives et normatives
+      â¢    Instaurer une utilisation de commun numÃ©rique par dÃ©faut : imposer que tous les logiciels ou produits
+           achetÃ©s par l'UE et les administrations sâappuient sur des briques technologiques qui soient des
+           communs numÃ©riques, dÃ¨s lors quâils existent.
+      â¢    RÃ©viser le droit europÃ©en afin que les communs numÃ©riques puissent Ãªtre financÃ©s sans tomber dans
+           le rÃ©gime des aides dâEtat.
+      â¢    Cf. dÃ©veloppement ci-dessous : rÃ©ponse Ã  la question 3.
+
+1     Quelles sont les forces et les faiblesses du secteur des solutions libres de lâUE ?
+      Quels sont les principaux obstacles qui entravent i) lâadoption et la maintenance
+      de solutions libres de qualitÃ© et sÃ©curisÃ©es et (ii) les contributions durables aux
+      communautÃ©s des solutions libres ?
+
+1.1       Forces de lâopen source
+1.1.1      CapacitÃ© de lâopen source Ã  crÃ©er des alternatives face aux acteurs installÃ©s
+      â¢    Lâutilisation de logiciels propriÃ©taires entraine un effet de verrouillage dans des Ã©cosystÃ¨mes
+           propriÃ©taires : les utilisateurs sont contraints de dÃ©velopper exclusivement avec les formats, API,
+           compÃ©tences liÃ©es Ã  ces logiciels propriÃ©taires.
+      â¢    Au contraire, lâopen source permet de challenger, de faire plus vite ensemble afin de rattraper un
+           retard.
+      â¢    Lâopen source permet dâÃ©viter quâun brevet soit ultÃ©rieurement opposÃ©.
+      â¢    Lâopen source est donc une maniÃ¨re de proposer une alternative aux modÃ¨les fermÃ©s poussÃ©s par
+           les gÃ©ants du numÃ©rique.
+      â¢    Lâopen source favorise donc la souverainetÃ© et la maitrise des dÃ©pendances.
+1.1.2      Retours sur investissement et avantages de lâopen source
+      â¢    Lâopen source implique des couts, mais il assure une continuitÃ© des activitÃ©s en cas de conflit
+           gÃ©opolitique impliquant un arrÃªt des solutions propriÃ©taires, câest donc une mesure
+           de dÃ©risquage et de souverainetÃ©.
+      â¢    Lâopen source permet, par lâexistence dâalternatives aux logiciels propriÃ©taires, une rÃ©duction des
+           couts dâaccÃ¨s aux licences.
+      â¢    Lâopen source permet de mutualiser les couts de dÃ©veloppement, et dâÃ©viter les duplications des
+           couts entre Etats membres.
+      â¢    Lâopen source permet une mutualisation des compÃ©tences (ex. gÃ©omaticiens et informaticiens).
+      â¢    Lâopen source permet aux utilisateurs dâavoir un accÃ¨s direct aux dÃ©veloppeurs du projet (vs. une
+           chaine longue pour accÃ©der aux dÃ©veloppeurs des produits propriÃ©taires)
+      â¢    L'open source aide Ã  standardiser.
+               o Certains outils open source ont une grande part de marchÃ©, ce qui oblige les entreprises
+                   privÃ©es Ã  avoir des solutions et donnÃ©es interopÃ©rables avec ces outils. Ex. dans le
+                   secteur gÃ©ospatial : Kubernertes, PostGRE, PostGIS, QGIS.
+
+1.2       Limites et faiblesses de lâopen source
+1.2.1      Manque de solutions et de communautÃ©s open source
+      â¢    Pour de nombreuses technologies et secteurs, il nâexiste pas de solutions open source
+      â¢    Cette situation est entretenue par le fait que les utilisateurs europÃ©ens dÃ©pensent beaucoup dâargent
+           pour acheter des solutions propriÃ©taires au dÃ©triment des solutions open source
+      â¢    Dans les cas oÃ¹ il existe une solution open source mais oÃ¹ il nây a pas de communautÃ© de
+           contributeurs, certains projets open source appartiennent Ã  un petit nombre de personnes, voire Ã 
+           une seule personne, le pouvoir reste alors concentrÃ© dans la main du dÃ©veloppeur, la gouvernance
+           nâest pas ouverte, produire un code open source ne suffit donc pas pour mettre les autres en capacitÃ©
+           dâagir avec ce code.
+1.2.2      Manque de coordination
+      â¢    Dans les cas oÃ¹ une communautÃ© open source existe, il est difficile de la synchroniser autour dâune
+           vision partagÃ©e.
+
+                                                                                                           2/10
+      â¢    Le secteur open source europÃ©en est morcelÃ©
+               o Il y a en Europe des capacitÃ©s technologiques insuffisamment valorisÃ©es en Europe car elles
+                   sont peu coordonnÃ©es.
+               o Les acteurs des Etats membres ne connaissent pas les briques technologiques des autres
+                   pays, aujourdâhui chacun fait de son mieux de son cÃ´tÃ©.
+      â¢    Lâopen source nÃ©cessite des compÃ©tences diffÃ©rentes entre dÃ©veloppeurs et animateurs de
+           communautÃ©. En Europe, il y a un manque dâarticulation entre ces deux types de compÃ©tences et
+           ressources.
+1.2.3      Autres manques
+      â¢    Le financement direct des projets open source soulÃ¨ve des difficultÃ©s juridiques.
+      â¢    L'open source manque de stabilitÃ© dans le temps : les couts de migration d'une technologie Ã  une
+           autre sont non nÃ©gligeables, les entreprises ont besoin d'avoir confiance dans la stabilitÃ© d'un outil
+           pour pouvoir basculer sur un outil open source et contribuer Ã  leur tour.
+
+1.3       De lâopen source aux communs numÃ©riques
+1.3.1      Le commun va plus loin que lâopen source
+      â¢    Rendre un code open source exploitable par dâautres acteurs demande de le documenter, ainsi que
+           de formaliser et dâanimer une communautÃ© spÃ©cifique.
+      â¢    Tout ce qui est commun est open source, tout ce qui est open source nâest pas forcÃ©ment un commun,
+           nâest pas forcÃ©ment gouvernÃ© comme un commun.
+      â¢    Le commun va plus loin que lâopen source : il ne sâagit pas seulement de publier un code, mais de le
+           coconstruire au sein dâune communautÃ© ouverte.
+      â¢    Un commun est diffÃ©rent dâun logiciel libre, pour lequel nous nâavons pas toujours de capacitÃ© Ã 
+           influencer les fonctionnalitÃ©s.
+      â¢    Il y a des ressources Ã  mettre pour quâun code open source devienne en commun.
+      â¢    Un open source rÃ©ussi est un commun.
+      En raison de ses limites et faiblesses, dÃ©velopper lâopen source ne suffira pas Ã  crÃ©er une capacitÃ©
+      technologique souveraine, il y a besoin de rÃ©aliser des communs numÃ©riques.
+      â¢    Faire appel Ã  lâopen source, en sâappuyant sur des communautÃ©s techniques larges, et en mutualisant
+           au-delÃ  des usages propres de chaque membre des communautÃ©s, permet de gÃ©nÃ©rer une taille
+           critique et de dÃ©gager des effets dâÃ©chelle.
+1.3.2      Forces des communs numÃ©riques
+      â¢    DÃ©finition et Ã©tapes dâun commun numÃ©rique
+               o Un commun numÃ©rique est une ressource ouverte gouvernÃ©e par une communautÃ©.
+               o Il implique de choisir une brique technologique.
+               o Il implique de mettre en place une gouvernance commune avec une communautÃ© dâacteurs.
+      â¢    Forces des communs numÃ©riques
+               o Tous les acteurs de la communautÃ© participent Ã  la gouvernance du commun, ont intÃ©rÃªt Ã  ce
+                    que Ã§a rÃ©ussisse, en deviennent promoteurs, viennent abonder le commun, concentrent les
+                    ressources.
+               o Lâengagement de la communautÃ© dans le commun va rendre acteurs les membres de la
+                    communautÃ©, qui ne seront pas tentÃ©s de faire des doublons, mais vont mutualiser leurs
+                    moyens.
+               o Lâabsence de propriÃ©tÃ© dans un commun, et le fait que la communautÃ© anime la ressource,
+                    prÃ©viennent contre son accaparement, et en font paradoxalement une ressource
+                    souveraine.
+               o De plus, un commun permet les utilisations commerciales.
+               Exemple du projet de Jumeau numÃ©rique de la France et de ses territoires2, menÃ© par lâIGN,
+               le Cerema, lâInria, 1Spatial France : ce projet dÃ©veloppe un socle technique open source qui est
+               un commun, car il est construit avec des tiers. Tous les acteurs (y compris privÃ©s) peuvent et ont
+               intÃ©rÃªt Ã  sâappuyer sur ce socle, car il rÃ©pond aux problÃ©matiques de chacun. Par ailleurs, dans le
+               cadre du ComitÃ© de CoopÃ©ration TransfrontaliÃ¨re (CCT) franco-allemand, BKG et lâIGN travaillent
+               Ã  Ã©laborer des cas dâusages communs de jumeaux numÃ©riques, par ex. sur la propagation de
+               maladies en milieu forestier, et vont Ã©changer des technologies et des outils.
+
+2 https://www.ign.fr/institut/un-jumeau-numerique-de-la-france-pour-piloter-la-transition-ecologique
+
+                                                                                                             3/10
+               o   Exemple du projet Panoramax3 : câest une alternative ouverte de BD immersive street view,
+                   elle est instanciÃ©e chez lâIGN et chez OSM, donc si lâun des deux arrÃªtait sa contribution au
+                   projet, le projet continuerait.
+
+2     Quelle est la valeur ajoutÃ©e des solutions libres pour les secteurs public et privÃ© ?
+      Veuillez fournir des exemples concrets, y compris les principaux facteurs (tels
+      que le coÃ»t, les risques, le verrouillage technologique, la sÃ©curitÃ© et lâinnovation)
+      permettant dâÃ©valuer cette valeur ajoutÃ©e.
+
+2.1       Lâopen source comme pratique de dÃ©veloppement logiciel
+2.1.1      Publier son code en open source
+      â¢    Publier son code en open source oblige Ã  dÃ©velopper du code de meilleure qualitÃ©.
+      â¢    Exemples de codes de moteurs IA disponibles en open source, publiÃ©s par lâIGN :
+               o code du programme Â« OdÃ©on Â», qui est un moteur pour la classification des sols pour produire
+                   les donnÃ©es OCS-GE ;
+               o code du programme Â« Myria 3D Â», qui est un moteur pour la classification des nuages de
+                   points Lidar HD.
+      â¢    Cela permet Ã  lâorganisme qui dÃ©veloppe de mieux valoriser son patrimoine logiciel, en externe mais
+           Ã©galement en interne.
+      â¢    En effet, cela permet de centraliser les dÃ©pÃ´ts de code dans un seul endroit, de leur adjoindre une
+           description claire, ainsi que les instructions pour rapidement lâutiliser.
+      â¢    Ce sont des pratiques qui permettent Ã  un agent de tirer parti dâun travail prÃ©cÃ©dent, par exemple
+           grÃ¢ce Ã  la prÃ©sence dans les publications de tests de non-rÃ©gression.
+2.1.2      Utiliser du code open source
+      â¢    Lâopen source fournit des infrastructures logicielles, par consÃ©quent utiliser du code open source
+           accÃ©lÃ¨re les dÃ©veloppements.
+               o En effet, adapter un code existant est plus efficient que redÃ©velopper un code Ã  partir dâune
+                   feuille blanche.
+      â¢    Lâopen source amÃ©liore la sÃ©curitÃ© informatique.
+               o En effet, lâopen source permet de savoir ce qui se passe dans les logiciels, dâen exposer les
+                   failles, cela aide la communautÃ© Ã  veiller Ã  la sÃ©curitÃ© informatique.
+      â¢    Exemple de GeoNetwork
+               o Afin de fournir une interface de catalogage au produit Cartes.gouv, lâIGN sâest tournÃ© vers la
+                   solution open source GeoNetwork UI, portÃ© par la sociÃ©tÃ© Camptocamp.
+               o Des dÃ©veloppeurs IGN se sont ainsi rapprochÃ©s de la communautÃ© GeoNetwork et ont
+                   proposÃ© des Ã©volutions du code qui ont Ã©tÃ© acceptÃ©es par celle-ci.
+      â¢    Exemple de QGIS
+               o LâIGN a contribuÃ© en 2024 au financement participatif du produit open source QGIS dont il est
+                   utilisateur, lâinstitut a ainsi financÃ© lâamÃ©lioration de la gestion par QGIS des nuages de points.
+      â¢    Exemple de GeoServer
+               o Le produit GeoServer est un serveur open source destinÃ© Ã  partager des donnÃ©es
+                   gÃ©ospatiales de maniÃ¨re interopÃ©rable.
+               o LâIGN utilise ce produit pour diffuser les donnÃ©es vectorielles de la GÃ©oplateforme.
+               o LâIGN a contribuÃ© en 2025 au financement participatif du produit GeoServer afin de garantir
+                   la pÃ©rennitÃ© de ce produit.
+
+2.2       Lâopen source comme outil de crÃ©ation de communautÃ©
+      â¢    Lâopen source est un formidable outil pour fÃ©dÃ©rer des acteurs autour dâune ambition commune,
+           portÃ©e par une communautÃ©
+      â¢    En effet, lâopen source permet dâoutiller les communautÃ©s et les dÃ©marches de communs
+           numÃ©riques, lâopen source facilite donc la crÃ©ation et le bon fonctionnement des communs
+
+3 https://panoramax.fr
+
+                                                                                                                4/10
+      Exemple de iTowns
+      â¢    iTowns (https://github.com/iTowns) est une bibliothÃ¨que Javascript permettant de visualiser, annoter
+           et saisir en 3D des donnÃ©es gÃ©ospatiales dans un navigateur web.
+      â¢    Ce produit Ã©tait initialement dÃ©veloppÃ© par des dÃ©veloppeurs et des chercheurs de lâIGN.
+      â¢    LâIGN a apportÃ© un investissement Ã  lâanimation de la communautÃ© dâutilisateurs de ce produit, ce qui
+           a permis que des industriels franÃ§ais contribuent de maniÃ¨re continue aux dÃ©veloppements de ce
+           produit, et que certains intÃ¨grent sa gouvernance open source.
+      â¢    Cela crÃ©e du potentiel Ã©conomique pour les entreprises.
+      â¢    Cela met en avant et cela renforce lâutilisation des donnÃ©es publiques.
+      â¢    L'IGN a reÃ§u le Prix Acteurs du Libre 2024 dans la catÃ©gorie meilleure collaboration public-privÃ© pour
+           son partenariat avec Camptocamp, notamment pour le dÃ©veloppement de cartes.gouv.fr et
+           GeoNetwork-UI.
+               o Cela montre la valeur ajoutÃ©e de lâopen source pour faire collaborer des acteurs de nature
+                   diffÃ©rente.
+      â¢    Les hackathons sont intÃ©ressants pour renforcer les communautÃ©s open source.
+               o Exemple de GeoStyler
+                        âª GeoStyler est une bibliothÃ¨que open source qui permet aux dÃ©veloppeurs de crÃ©er
+                            des interfaces utilisateur pour la mise en forme de cartes dans les navigateurs.
+                        âª L'Ã©quipe socle de dÃ©veloppeurs de GeoStyler est composÃ©e de l'IGN France, de la
+                            sociÃ©tÃ© Camptocamp (Suisse, France, Allemagne) et de la sociÃ©tÃ© Terrestris
+                            (Allemagne). Cette Ã©quipe organise des hackathons tournant entre France, Suisse et
+                            Allemagne : https://geostyler.org/codesprint-2025/.
+                        âª Ces hackathons permettent de :
+                                 â¢ fÃ©dÃ©rer les Ã©quipes de dÃ©veloppements
+                                 â¢ travailler en commun sur des sujets prÃ©cis
+                                 â¢ faire connaitre la librairie et potentiellement fÃ©dÃ©rer d'autres utilisateurs.
+               o Des hackathons sont mis en place pour iTowns avec des objectifs similaires.
+
+3     Quelles mesures concrÃ¨tes peuvent Ãªtre prises au niveau de lâUE pour soutenir
+      le dÃ©veloppement et la croissance du secteur des solutions libres de lâUE et
+      contribuer aux objectifs de lâUE en matiÃ¨re de souverainetÃ© technologique et de
+      cybersÃ©curitÃ© ?
+
+3.1       Miser sur les communs numÃ©riques
+      â¢    La vision dÃ©concentrÃ©e du secteur open source europÃ©en soulÃ¨ve des difficultÃ©s.
+      â¢    Selon cette vision dÃ©concentrÃ©e, le secteur open source europÃ©en va sâauto-construire, des appels Ã 
+           projets suffiront pour conduire Ã  un secteur solide Ã  lâÃ©chelle europÃ©enne.
+      â¢    De plus, nous avons vu plus haut que, en raison de ses limites et faiblesses, dÃ©velopper lâopen source
+           ne suffira pas Ã  crÃ©er une capacitÃ© technologique souveraine, il y a besoin de rÃ©aliser des communs
+           numÃ©riques.
+      â¢    LâIGN prÃ©conise donc que lâEurope mise sur les communs numÃ©riques, avec une stratÃ©gie
+           permettant de dÃ©gager des effets dâÃ©chelle (cf. 3.2.3).
+
+3.2       Mettre en place un pilotage stratÃ©gique des communs numÃ©riques par lâUE
+3.2.1      Mettre en place une gouvernance europÃ©enne
+      Nous proposons que soit instituÃ© un mÃ©canisme de lâUE pour gouverner une trajectoire commune
+      europÃ©enne dans les communs numÃ©riques.
+      â¢    Ce mÃ©canisme de lâUE devrait mener les actions suivantes :
+      â¢    Elaborer une vision des objectifs
+      â¢    SÃ©lectionner les sujets majeurs de souverainetÃ© technologique europÃ©enne
+      â¢    En amont repÃ©rer les technologies et les secteurs oÃ¹ il serait pertinent de faire de lâopen source
+      â¢    Analyser dans les secteurs clÃ©s les acteurs en situation de quasi-monopole, analyser les Ã©carts entre
+           les produits de ces acteurs et les solutions open source concurrentes
+      â¢    Faire converger les acteurs europÃ©ens sur les prioritÃ©s, faire des choix
+
+                                                                                                            5/10
+3.2.2      Prendre des engagement politiques forts
+      â¢    Etablir une feuille de route qui donnera de la visibilitÃ©, assurera des contributions durables aux
+           communautÃ©s open source.
+      â¢    Fixer lâatterrissage dans un dÃ©lai de plusieurs annÃ©es, et laisser une libertÃ© opÃ©rationnelle aux
+           dÃ©veloppeurs, proposer des portes de sorties pour arrÃªter les projets si nÃ©cessaire.
+      â¢    Formaliser un engagement dâutilisation dans un certain dÃ©lai :
+                o La Commission europÃ©enne et les Etats membres sâengagent Ã  acheter tel produit sâil existe
+                      dans un certain dÃ©lai.
+      â¢    Lâengagement dâutilisation est un complÃ©ment pertinent au financement dâun projet dâinnovation.
+      â¢    Offrir des garanties, financer le risque : encourager lâutilisation dâune solution open source par
+           plusieurs Etats membres, et financer la re-migration vers la solution propriÃ©taire initiale en cas dâÃ©chec
+           de lâinitiative open source.
+      â¢    Mettre en place un fonds europÃ©en dotÃ© dâun milliard dâeuros pour financer des briques
+           technologiques de base, structurÃ©es en couches (selon une logique de stack), organisÃ©es sous la
+           forme de communs numÃ©riques.
+3.2.3      Construire la capacitÃ© industrielle europÃ©enne
+      â¢    Rechercher et repÃ©rer les capacitÃ©s de dÃ©veloppement dans les diffÃ©rents Etats membres et les
+           agrÃ©ger.
+      â¢    Identifier les acteurs ou clusters europÃ©ens pour certaines technologies open source.
+      â¢    CrÃ©er un effet de mutualisation, en incitant les acteurs dâEtats membres diffÃ©rents Ã  travailler sur
+           les mÃªmes briques technologiques, et en incitant les acteurs publics et privÃ©s Ã  investir sur les mÃªmes
+           briques technologiques.
+      â¢    Faire se rencontrer, rassembler, coordonner, urbaniser les acteurs des diffÃ©rents Etats membres :
+                o RÃ©partir lâaction entre Commission europÃ©enne, Etats membres, marchÃ© et communs, pour
+                     cumuler leurs forces et passer Ã  lâÃ©chelle.
+                o Concentrer les moyens, crÃ©er des dispositifs, distribuer les responsabilitÃ©s, pour passer des
+                     projets Ã  lâÃ©chelle.
+      â¢    Ex. : crÃ©er un dispositif oÃ¹ plusieurs Etats membres soutiennent le dÃ©veloppement dâune suite
+           numÃ©rique europÃ©enne.
+      â¢    La stratÃ©gie du commun numÃ©rique a lâavantage de Â« mettre dâaccord Â» les deux hÃ©misphÃ¨res du
+           public et du privÃ©. Le commun permet en effet de dÃ©passer lâopposition entre investissement public
+           dans les solutions e-gov dÃ©veloppÃ©es en propre et les solutions de marchÃ©.
+      â¢    Inciter les acteurs privÃ©s Ã  sâimpliquer dans le co-financement des communs numÃ©riques aux cÃ´tÃ©s
+           des acteurs publics. Organiser des appels Ã  projets europÃ©ens et des financements europÃ©ens
+           incitatifs visant Ã  stimuler des projets de communs numÃ©riques souverains qui intÃ©greraient, dÃ¨s
+           lâamorÃ§age et dans la durÃ©e, des partenariats et modÃ¨les Ã©conomiques publics â privÃ©s.
+      â¢    Encapaciter des petits acteurs, pour Ã©viter lâaccaparement des projets open source par de gros
+           consortiums industriels, mÃªme europÃ©ens.
+      â¢    Les communautÃ©s open source, du fait de leur diversitÃ©, peuvent en cas de rÃ©ussite produire un code
+           de meilleure qualitÃ© que les gros consortiums industriels.
+      â¢    Sâinspirer du modÃ¨le existant de lâindustrie europÃ©enne du spatial.
+
+3.3       Mettre en place une Fabrique des communs numÃ©riques
+Nous proposons que soit mise en place au niveau de l'UE une Fabrique des communs numÃ©riques, qui soit
+un lieu Ã  la fois pour : (i) cartographier les briques technologiques sur lesquelles une dynamique
+dâinvestissement partagÃ©e est Ã  impulser, et (ii) cristalliser les gouvernances qui seront propres Ã  chaque
+commun numÃ©rique pour rassembler les parties prenantes prÃªtes Ã  investir tout en assurant l âouverture et la
+pÃ©rennitÃ© de la ressource.
+Nous prÃ©conisons que cette Fabrique mÃ¨ne les actions suivantes :
+   â¢ Identifier les dÃ©pendances Ã  des logiciels propriÃ©taires, puis identifier des scenarios dâÃ©volution
+       vers lâopen source.
+   â¢ Distinguer les briques auxquelles il serait prÃ©fÃ©rable de contribuer des briques quâil serait prÃ©fÃ©rable
+       de redÃ©velopper (dans les cas oÃ¹ il serait difficile de se synchroniser avec la communautÃ© existante
+       de ladite brique).
+   â¢ Faire se rencontrer les utilisateurs.
+   â¢ Organiser des Ã©vÃ¨nements favorisant le partage technique entre communautÃ©s open source.
+   â¢ Rassembler les parties prenantes prÃªtes Ã  investir dans les communs numÃ©riques Ã  impulser.
+
+                                                                                                               6/10
+      â¢    Elaborer une vision de dÃ©veloppement :
+               o FinalitÃ©s de dÃ©veloppement ;
+               o Vision synchronisÃ©e par brique ;
+               o Vision plus large, avec une meilleure comprÃ©hension du besoin, assemblant diffÃ©rentes
+                   briques de maniÃ¨re interopÃ©rable, dans un souci de rÃ©ponse globale aux utilisateurs.
+      â¢    PrÃ©voir un comitÃ© dâorientation de haut niveau, qui puisse servir dâespace de dialogue public-privÃ©-
+           communs.
+      â¢    GÃ©rer un portefeuille de projets open source, permettre Ã  ces projets de se financer par des dons,
+           ex. Fondation https://nlnet.nl/.
+      â¢    Proposer de bonnes conditions (programme adaptÃ©, infrastructures, espaces de travail).
+      â¢    Apporter des fonctions support : juridique, marketing.
+               o Apporter un support juridique pour aider les projets open source au respect des
+                   rÃ¨glementations europÃ©enne, apporter une compÃ©tence lÃ©gale pour dÃ©risquer les sujets
+                   juridiques, ex. propriÃ©tÃ© intellectuelle.
+
+3.4       Prendre des mesures lÃ©gislatives et normatives
+      Nous prÃ©conisons que soient prises des mesures lÃ©gislatives et normatives visant Ã  inciter Ã  utiliser les
+      communs, dans le but de les consolider.
+      â¢    Cartographier un nombre limitatif de briques technologiques investies par des communautÃ©s
+           techniques. Faire en sorte que les administrations sâappuient dessus, dÃ©velopper lâappropriation de
+           ces solutions par les administrations europÃ©ennes, nationales, locales.
+      â¢    Exiger que les administrations mobilisent des solutions fondÃ©es sur certains communs numÃ©riques,
+           instaurer une utilisation par dÃ©faut de communs numÃ©riques :
+      â¢    Imposer que les logiciels ou produits achetÃ©s par l'UE et les administrations sâappuient sur des briques
+           technologiques qui soient des communs numÃ©riques 4, dÃ¨s lors quâils sont disponibles.
+      â¢    Conditionner le financement europÃ©en de certains projets dâinnovation Ã  ce que tous les logiciels
+           ou produits soutenus sâappuient sur des briques technologiques qui soient des communs numÃ©riques.
+      â¢    Ãtre moteur dans lâadoption de nouvelles solutions open source, en incitant Ã  respecter certaines
+           normes (API, formats de donnÃ©es).
+                o Il s'agit dâavoir des niveaux minimums dâinteropÃ©rabilitÃ©, permettant ainsi de faciliter le
+                     passage dâun outil Ã  un autre (migration), et ainsi de rÃ©duire la dÃ©pendance Ã  certaines
+                     solutions propriÃ©taires, ou de sâen dÃ©tacher plus facilement.
+                o Imposer des standards d'interopÃ©rabilitÃ© pour l'Ã©change de donnÃ©es, imposer des
+                     fonctionnalitÃ©s facilitant la migration pour rÃ©duire les risques de lock-in sur des outils non
+                     souverains, et pour rÃ©duire la barriÃ¨re Ã  l'entrÃ©e pour les nouvelles solutions europÃ©ennes.
+      â¢    RÃ©viser le droit europÃ©en afin que les communs numÃ©riques puissent Ãªtre financÃ©s sans tomber
+           dans le rÃ©gime des aides dâEtat, permettant ainsi Ã  ces projets de recevoir du financement direct.
+                o Les rÃ¨gles de concurrence ne devraient pas empÃªcher le financement par les Etats membres
+                     des initiatives open source. Tant que de telles initiatives sont ouvertes, leur financement par
+                     les Etats membres devrait Ãªtre possible.
+                o Actuellement, le droit de la concurrence peut empÃªcher les acteurs europÃ©ens de financer
+                     des initiatives, alors que les acteurs non-europÃ©ens peuvent se le permettre.
+                o Le droit de la concurrence fonctionne bien si le multilatÃ©ralisme fonctionne bien, ce qui nâest
+                     le cas actuellement.
+      â¢    Il serait donc souhaitable de rÃ©viser le droit de la concurrence europÃ©en pour prendre en compte les
+           particularitÃ©s du secteur open source.
+
+3.5       Autres mesures
+Nous prÃ©conisons de :
+   â¢ Renforcer lâEDIC communs numÃ©riques, appuyer son dÃ©veloppement.
+   â¢ Fournir des infrastructures viables et compÃ©titives pour faciliter le dÃ©veloppement de lâopen source :
+           o infrastructures de stockage et de calcul ;
+           o plateforme europÃ©enne de partage de code open source.
+
+4 La solution achetÃ©e devrait sâappuyer sur un ou plusieurs communs numÃ©riques, sur lesquels est dÃ©veloppÃ©e une
+
+surcouche, dont le code nâest pas nÃ©cessairement ouvert.
+                                                                                                              7/10
+4     Quels domaines technologiques devraient Ãªtre prioritaires et pourquoi ?
+
+4.1    Esquisse de liste des briques open source dans le secteur gÃ©ospatial
+Technologie        Initiative en open   Comm     Que manque-t-il pour passer Ã              Liens utiles
+                   source               un       l'Ã©chelle ?
+                                        numÃ©ri
+                                        que ?
+Logiciel SIG -     QGIS                 Oui      QGIS est une alternative Ã  la solution
+Ã©dition                                          propriÃ©taire amÃ©ricaine majoritaire sur
+cartographique                                   le marchÃ© franÃ§ais.
+                                                 Manques : fonctionnalitÃ©s, facilitÃ©
+                                                 dâutilisation, ergonomie (mais QGIS
+                                                 offre la possibilitÃ© de dÃ©velopper des
+                                                 greffons).
+SystÃ¨me de         PostgreSQL           Oui
+gestion de         PostGIS
+bases de
+donnÃ©es
+gÃ©ographiques
+Visualisation de ITowns,                Oui      Manque dâacteurs europÃ©ens,               https://www.itowns
+donnÃ©es 2D/3D                                    aujourdâhui principalement franÃ§ais.      -project.org/
+
+                   Cesium
+                   MapLibre
+Calcul             Extension       de Oui        DonnÃ©es dâentrÃ©e de meilleure qualitÃ©
+dâitinÃ©raire       Postgis                       pour des calculs dâitinÃ©raires plus
+                   (pgrouting)                   performants et fiables (estimation de
+                   Valhalla                      trafic notamment).
+                   OSRM                          Travaux Ã  mener pour un calcul
+                                                 dâitinÃ©raire pour les transports en
+                                                 communs.
+Edition            OpenStreet-Map       Oui      Frein Ã  la coopÃ©ration entre
+collaborative de   (OSM)                         administrations et communautÃ© OSM
+donnÃ©es                                          du fait de la licence ODbL, qui
+gÃ©ographiques                                    implique des obligations parfois trop
+                                                 importantes pour les rÃ©utilisateurs, et
+                                                 de son obligation de repartage Ã 
+                                                 lâidentique.
+Infrastructure   GÃ©o-plateforme         En       Porter la crÃ©ation dâune communautÃ© https://github.com/
+de partage et                           cours    open source pour cette technologie. geoplateforme
+de traitement de
+donnÃ©es
+gÃ©ographiques
+Vue immersive      Panoramax            Oui      Une communautÃ© de contributeurs https://panoramax.
+Â« streetview Â»                                   plus grande.                    fr/
+                                                 De nouvelles instances de stockage
+                                                 de    photos   portÃ©es   par   des
+                                                 organisations     publiques     ou
+                                                 citoyennes.
+ModÃ¨les IA de ModÃ¨le                    Non      IntÃ©grer une plus grande diversitÃ© de     https://geoservice
+reconnaissance dâintelligence                    territoires pouvant Ãªtre reconnus par     s.ign.fr/cosia
+du territoire  artificielle âCosIAâ              le modÃ¨le, en particulier en Europe.
+                                                 Un dialogue de niveau europÃ©en a eu       Flair Dataset :
+                                                 lieu au sein des dÃ©fis Flair3, qui ont    https://huggingfac
+                                                 conclu que le modÃ¨le est Ã  rÃ©pliquer,     e.co/IGNF
+                                                 mais cela est couteux en ressource.
+
+                                                                                                          8/10
+ Logiciel de          Il manque une        Non       Porter la crÃ©ation dâune communautÃ© https://github.com/
+ traitement de        alternative                    open source pour cette technologie. IGNF/myria3d
+ nuages de            pertinente aux
+ points Lidar Ã        solutions
+ lâÃ©chelle            propriÃ©taires
+ europÃ©enne           Il existe une
+                      partie de brique
+                      technologique:
+                      Myria3D (brique
+                      de classification
+                      du nuage de
+                      points)
+
+5     Dans quels secteurs lâutilisation accrue des solutions libres pourrait-elle
+      renforcer la compÃ©titivitÃ© et la cyber-rÃ©silience ?
+
+5.1       Proposition de critÃ¨res pour prioriser les secteurs
+      â¢    Les domaines et secteurs technologiques prioritaires peuvent Ãªtre dÃ©terminÃ©s en gÃ©nÃ©ral par trois
+           critÃ¨res cumulatifs :
+                o Domaines et secteurs indispensables pour rÃ©aliser les missions rÃ©galiennes des Etats ;
+                o Domaines et secteurs oÃ¹ il nây a pas suffisamment dâoffre europÃ©enne ;
+                o Domaines et secteurs oÃ¹ lâopen source permettra dâaller plus vite.
+
+5.2       Domaines et secteurs technologiques gÃ©nÃ©riques indispensables aux domaines
+          et secteurs technologiques prioritaires
+      â¢    Infrastructure cloud sÃ©curisÃ©e
+               o Soutenir l'Ã©mergence de cloud souverain europÃ©en suivant des rÃ¨gles de sÃ©curitÃ© bien
+                   dÃ©finies telles que SecNumCloud.
+      â¢    CapacitÃ©s gÃ©nÃ©riques de calcul, processeurs graphiques (GPU)
+               o Disposer d'infrastructures europÃ©ennes souveraines Ã  des coÃ»ts compÃ©titifs et avec des
+                   niveaux de fonctionnalitÃ©s Ã©quivalents aux GAFAM.
+      â¢    ModÃ¨les IA open source, y compris modÃ¨les de fondation
+               o Exemple dans le domaine gÃ©ospatial : automatisation par IA du processus de production des
+                   donnÃ©es dâoccupation du sol Ã  grande Ã©chelle (OCS GE5).
+
+5.3       Secteur gÃ©ospatial
+      â¢    Le secteur gÃ©ospatial rÃ©pond Ã  des besoins profondÃ©ment souverains :
+                o Le gÃ©ospatial permet la connaissance du territoire ;
+                o Le gÃ©ospatial est requis par la production de donnÃ©es essentielles, ex. environnementales ;
+                o La gÃ©odÃ©sie permet de se repÃ©rer dans le temps et lâespace, cf. GNSS, GALILEO.
+      â¢    Il est donc pertinent dâinvestir dans le secteur gÃ©ospatial pour rÃ©pondre aux enjeux de connaissance
+           du territoire et aux enjeux de souverainetÃ©, duaux civils et militaires.
+      â¢    Pour cela, il est souhaitable de maitriser l'ensemble des Ã©tapes du gÃ©ospatial (collecte de donnÃ©es,
+           gestion de bases de donnÃ©es, visualisation cartographique) et des outils (camÃ©ras aÃ©riennes, drones,
+           cloud, logiciels et serveurs, briques de sÃ©curitÃ©, stockage, librairies, hardware, puces, environnements
+           mobiles).
+
+      Exemple dâun socle technique pour les plateformes gÃ©ospatiales :
+      â¢ Il serait utile de mettre en place un socle technique dâoutils et de ressources techniques gÃ©nÃ©riques,
+         qui aideront les plateformes de dÃ©couverte, partage, diffusion, croisement et visualisation des donnÃ©es
+         gÃ©ospatiales, Ã  mutualiser des outils opÃ©rationnels et Ã  inter-opÃ©rer.
+      â¢ La GÃ©oplateforme6 propose des briques techniques pour un tel socle.
+      â¢ LâIGN souhaite dÃ©velopper des briques avec dâautres acteurs dâautres Etats membres.
+
+5 https://www.ign.fr/institut/occupation-du-sol-francais
+
+6 https://www.ign.fr/geoplateforme
+
+                                                                                                              9/10
+    Exemple dâun socle technique pour les jumeaux de territoires :
+    Le projet de Jumeau numÃ©rique de la France et de ses territoires 7 dÃ©veloppe un socle technique dâoutils
+    et de ressources techniques gÃ©nÃ©riques, qui aideront les initiatives de jumeaux numÃ©riques Ã  Ãªtre
+    mises en Åuvre ou Ã  aller plus loin.
+
+    â¢   Il y a donc besoin que lâUE analyse le secteur gÃ©ospatial en Europe :
+              o LâEurope dÃ©pend de solutions propriÃ©taires Ã©tatsuniennes et GAFAM.
+              o Les acteurs europÃ©ens seuls peuvent difficilement aller concurrencer ces acteurs, il y a
+                 besoin de l'UE pour rÃ©unir les acteurs de ce secteur autour dâun mÃªme projet et renforcer
+                 leur compÃ©titivitÃ©.
+              o Exemple des services de cartographie gratuits en ligne : il nây a actuellement pas
+                 dâalternative rÃ©aliste europÃ©enne aux services Ã©tatsuniens, quâest-ce quâil faudrait faire,
+                 financer du point de vue europÃ©en, pour que quelque chose soit possible ?
+              o Exemple des logiciels SIG dâÃ©dition cartographique : il faudrait rÃ©duire la barriÃ¨re dâentrÃ©e,
+                 par ex. pour QGIS.
+              o LâUE devrait se rendre autonome en matiÃ¨re de positionnement (avec les satellites Galileo)
+                 et dâobservation de la Terre.
+              o Les satellites europÃ©ens, pour Ãªtre souverains, devront disposer de rÃ©fÃ©rentiels gÃ©odÃ©siques
+                 autonomes, ainsi que de logiciels souverains, pour lesquels l'open source est une stratÃ©gie
+                 possible.
+
+Conclusion : mesures clÃ©s prÃ©conisÃ©es au niveau de lâUE
+    â¢   Miser sur les communs numÃ©riques.
+    â¢   Mettre en place un pilotage stratÃ©gique des communs numÃ©riques par lâUE.
+    â¢   Mettre en place un fonds europÃ©en dotÃ© dâun milliard dâeuros pour financer des briques
+        technologiques de base, structurÃ©es en couches (selon une logique de stack), organisÃ©es sous la
+        forme de communs numÃ©riques.
+    â¢   Mettre en place une Fabrique des communs numÃ©riques.
+    â¢   Prendre des mesures lÃ©gislatives et normatives dans le domaine des communs numÃ©riques.
+    â¢   Soutenir lâutilisation accrue des solutions libres dans les secteurs des infrastructures cloud
+        sÃ©curisÃ©es, des capacitÃ©s gÃ©nÃ©riques de calcul, des processeurs graphiques (GPU), des
+        modÃ¨les IA open source.
+    â¢   Investir dans le secteur gÃ©ospatial pour rÃ©pondre aux enjeux de connaissance du territoire et aux
+        enjeux de souverainetÃ© :
+            o RÃ©unir les acteurs de ce secteur autour dâun mÃªme projet et renforcer leur compÃ©titivitÃ©.
+            o Exemple dâun socle technique pour les plateformes gÃ©ospatiales.
+            o Exemple dâun socle technique pour les jumeaux de territoires.
+
+7 https://www.ign.fr/institut/un-jumeau-numerique-de-la-france-pour-piloter-la-transition-ecologique
+
+                                                                                                       10/10

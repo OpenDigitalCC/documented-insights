@@ -1,0 +1,127 @@
+Ref. Ares(2026)1225911 - 03/02/2026
+
+RÃ©ponse de lâAfnic Ã  la consultation
+                 Â« Vers des Ã©cosystÃ¨mes
+    numÃ©riques ouverts europÃ©ens Â»
+
+RÃ©fÃ©rence : https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/16213-
+Ecosystemes-numeriques-ouverts-europeens_fr
+
+                                                    *
+
+       LâAfnic se fÃ©licite de la volontÃ© EuropÃ©enne de promouvoir une stratÃ©gie Â« logiciel libre Â» et
+remercie la Commission europÃ©enne pour la mise en place de cette consultation des parties prenantes.
+
+NÃ©e en 1997, lâAfnic est lâAssociation FranÃ§aise pour le Nommage Internet en CoopÃ©ration. Registre
+internet franÃ§ais, lâAfnic est chargÃ©e de gÃ©rer les noms de domaine en .fr, ainsi que dâautres tels que
+â.reâ, â.pmâ, â.tfâ, â.wfâ, â.ytâ, dans le cadre dâune mission dâintÃ©rÃªt gÃ©nÃ©ral, avec lâobjectif de
+contribuer Ã  un internet sÃ»r et stable ; ouvert aux innovations ; oÃ¹ la communautÃ© internet franÃ§aise
+joue un rÃ´le de premier plan (prÃ©sentation : https://www.afnic.fr/association-excellences/qui-
+sommes-nous/presentation/).
+
+LâAfnic sâest dotÃ©e dâinstances multipartites pour faire dialoguer toutes les parties prenantes et assurer
+lâintÃ©rÃªt gÃ©nÃ©ral de lâinternet en France. Son conseil dâadministration est ainsi constituÃ© de cinq
+reprÃ©sentants dÃ©signÃ©s par les membres fondateurs (Etat) ; deux pour lâInria et un pour chacun des
+ministÃ¨res concernÃ©s (TÃ©lÃ©communications, Industrie et Recherche) ; et de cinq reprÃ©sentants des
+membres, Ã©lus au sein de lâassemblÃ©e gÃ©nÃ©rale.
+
+Au titre de ses missions, lâAfnic est un acteur engagÃ© de lâÃ©cosystÃ¨me Internet et participe aux
+instances de la gouvernance de lâInternet en France, ainsi quâau niveau rÃ©gional et international,
+temps au sein des organismes de standardisation, que des instance multi-parties prenantes et
+multilatÃ©rales, comme lâICANN, lâUnion internationale des tÃ©lÃ©communications (UIT), le Forum sur
+la gouvernance de lâInternet (FGI), lâOCDE, lâIETF, le RIPE NCC etc.
+
+Issue de lâINRIA, lâAfnic intÃ¨gre Ã©galement la recherche au cÅur de son activitÃ© et participe Ã  de
+nombreux projets de R&D, dÃ©veloppement en interne, comment en partenariat avec des laboratoires
+publics, avec nos homologues Ã©trangers ou avec des industriels pour mettre le DNS au service de
+nouvelles technologies (internet des objets ou protocoles dâauthentification, par exemple).
+
+Gestionnaire dâune ressource critique pour le bon fonctionnement de lâInternet, notamment en France,
+lâAfnic est particuliÃ¨rement sensible aux enjeux de cybersÃ©curitÃ© et dâautonomie stratÃ©gique. Les
+points qui nous semblent importants, dans le cadre dâune stratÃ©gie pour le logiciel libre au sein de
+lâUnion EuropÃ©enne, sont les suivants.
+
+   I.         Soutenir les projets existants
+Une stratÃ©gie coordonnÃ©e et un soutien concret des institutions europÃ©ennes aux projets de logiciel
+libre sont cruciaux, ces projets ne disposant en gÃ©nÃ©ral pas des moyens que les grandes entreprises
+mobilisent.
+
+Quelle forme peut prendre ce soutien ? Financier, bien sÃ»r, mais aussi symbolique, en mettant en
+avant les projets mÃ©ritants, et Ã©galement juridique dans le cas oÃ¹ certains projets soient menacÃ©s par
+exemple par des brevets logiciels.
+
+De nombreux logiciels libres sont dÃ©veloppÃ©s en Europe et beaucoup ont dÃ©jÃ  Ã©tÃ© des succÃ¨s. Parmi
+ces nombreux exemples, on peut citer curl, Turris, Unbound, Peertube, etc.
+
+Il est important de ne soutenir que des projets existants, qui ont dÃ©jÃ  dÃ©montrÃ© leur capacitÃ© Ã  livrer
+un logiciel qui fonctionne. Financer des projets qui nâont encore rien produit est risquÃ©, de nombreux
+projets de ce type nâont finalement pas livrÃ© de produit Ã  succÃ¨s.
+
+Le mÃ©canisme dâaide doit Ãªtre lÃ©ger. Les Ã©quipes qui dÃ©veloppent du logiciel libre sont souvent de
+petite taille et motivÃ©es par le dÃ©sir de produire du bon logiciel, sans envie de remplir des dossiers. Il
+faut donc Ãªtre prudent sur les exigences de dÃ©clarations dâavancement et ne pas copier les exigences
+qui sont habituelles pour les gros projets industriels.
+
+Ceci est dâautant plus important que les projets de logiciel libre ne sont pas forcÃ©ment faits dans le
+cadre dâune grande entreprise, mais souvent par des associations, voire des individus, qui nâont pas
+dâemployÃ©s chargÃ©s Ã  temps plein de remplir des dossiers.
+Nous voudrions Ã  cet Ã©gard mentionner lâexemple concret du projet Â« Zonemaster Â», lâun des logiciels
+de rÃ©fÃ©rence du DNS dans le monde, permettant de valider la qualitÃ© dâune dÃ©lÃ©gation DNS.
+Zonemaster a Ã©tÃ© dÃ©veloppÃ© conjointement par des contributeurs issus de deux registres internet via
+un MoU, lâAfnic et le fondation internet suÃ©doise.
+
+   II.     Ne pas copier les tendances
+Vouloir rÃ©aliser un Â« Google search europÃ©en Â» ou un Â«AWS europÃ©en Â» un Â« Github europÃ©en Â» ou
+encore un Â« Instagram europÃ©en Â» est Ã  la fois souvent irrÃ©aliste, et pas forcÃ©ment souhaitable. Pour
+prendre lâexemple des rÃ©seaux sociaux, remplacer X/Twitter par un Ã©quivalent europÃ©en ne ferait pas
+avancer les choses : il aurait vite les mÃªmes problÃ¨mes que son original. Il faut au contraire
+promouvoir les projets dÃ©centralisÃ©s, formÃ©s de plusieurs instances qui Ã©changent des donnÃ©es.
+
+Ainsi, pour les forges logicielles, le processus est dÃ©jÃ  largement entamÃ©, de nombreuses
+organisations europÃ©ennes utilisent une forge en logiciel libre, auto-hÃ©bergÃ©e (comme Ã  lâAfnic) ou
+bien hÃ©bergÃ©e par un tiers, de prÃ©fÃ©rence associatif (comme Framagit, qui utilise le logiciel Gitlab).
+
+De la mÃªme faÃ§on, ce nâest pas parce que la tendance est Ã  lâÂ« IA Â» quâil est nÃ©cessaire de vouloir
+investir massivement dans lâIA, au dÃ©triment dâautres services.
+
+   III. LâinteropÃ©rabilitÃ© est cruciale
+Ã rebours des tentatives dâÃ©tablir des jardins clos, lâInternet repose sur lâouverture, et
+lâinteropÃ©rabilitÃ©. Le Web ou le courrier Ã©lectronique, pour ne prendre que deux exemples,
+fonctionnent entre logiciels diffÃ©rents et acteurs diffÃ©rents. Pour les messageries instantanÃ©es, oÃ¹ la
+situation est moins satisfaisante, il ne faudrait surtout pas encourager le dÃ©ploiement dâun nouveau
+jardin clos. En France, la messagerie instantanÃ©e Â« Tchap Â» (https://tchap.numerique.gouv.fr) a Ã©tÃ©
+mise en place au sein du secteur public sur la base du protocole Matrix. Le code de Â« Tchap Â» est
+consultable publiquement, le dÃ©veloppement de l'application sâappuyant sur les avancÃ©es de la
+communautÃ© Matrix.
+
+LâinteropÃ©rabilitÃ© peut Ãªtre assurÃ©e par plusieurs mÃ©thodes mais lâune des plus importantes est la
+normalisation, oÃ¹ tous les logiciels mettent en Åuvre la mÃªme spÃ©cification technique. Câest ainsi que
+le fÃ©divers, rÃ©seau social dÃ©centralisÃ©, repose sur la norme du W3C ActivityPub (et plusieurs autres).
+En matiÃ¨re de DNS, le ComitÃ© consultatif sur la sÃ©curitÃ© et la stabilitÃ© (SSAC) de lâICANN a publiÃ©
+fin 2025 un rapport (SAC132 : https://www.icann.org/en/ssac/publications/documents/sac132-
+executive-summary-for-the-domain-name-system-runs-on-free-and-open-source-software-foss-25-
+09-2025-en) qui met en Ã©vidence le fait quâInternet et le DNS fonctionnent largement avec des
+logiciels libres et Ã  code source ouvert (FOSS). Le rapport insiste en particulier sur le rÃ´le
+indispensable des FOSS dans le maintien dâun Internet sÃ©curisÃ©, stable et rÃ©silient.
+
+    IV. Avoir des prÃ©fÃ©rences
+Les forces Ã©conomiques et politiques qui poussent Ã  la centralisation, dans un seul pays et un petit
+nombre dâentreprises Ã  but lucratif, ces forces sont puissantes. Elles ne peuvent pas Ãªtre retenues par
+la seule disponibilitÃ© de logiciels libres, mÃªme de qualitÃ©. Il faut aussi avoir des prÃ©fÃ©rences et la
+licence libre dâun logiciel doit Ãªtre un critÃ¨re revendiquÃ© pour le choix dâun logiciel.
+
+Le caractÃ¨re europÃ©en du logiciel est bien sÃ»r important, mais il nâest pas forcÃ©ment crucial si le
+logiciel est libre. En effet, dans ce cas, lâutilisateur est nettement moins dÃ©pendant du fournisseur,
+quelle que soit la nationalitÃ© de celui-ci.
+
+    V.       LâexemplaritÃ©
+Le bon sens populaire est plein de formules comme Â« les conseilleurs ne sont pas les payeurs Â» ou
+Â« parler ne coÃ»te rien Â». Elles veulent dire quâaucune politique, si bonne soit-elle, ne sera un succÃ¨s
+si ceux qui la promeuvent ne commencent pas par la mettre en pratique.
+
+Dans le cadre dâune politique Â« logiciel libre Â» de lâUnion EuropÃ©enne, il est donc primordial que les
+institutions de lâUnion montrent lâexemple, et utilisent le logiciel libre pour leur activitÃ©. Si les choix
+logiciels ne se font que sur des critÃ¨res strictement techniques, ou bien purement financiers, sans
+prendre en compte les consÃ©quences politiques et stratÃ©giques de ces choix, il y a un risque que la
+situation actuelle, dominÃ©e par des logiciels privateurs massivement produits par un seul pays, se
+pÃ©rennise.

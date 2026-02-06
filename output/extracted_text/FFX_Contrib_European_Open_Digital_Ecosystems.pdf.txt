@@ -1,0 +1,110 @@
+Ref. Ares(2026)1206177 - 03/02/2026
+
+Contribution European
+Open Digital Ecosystems
+    1. Forces, faiblesses et obstacles du secteur open source dans lâUE
+
+Forces :
+
+    ï·      Un tissu trÃ¨s solide de communautÃ©s de dÃ©veloppement europÃ©ennes, produisant des briques
+           logicielles de trÃ¨s haut niveau (virtualisation, stockage distribuÃ©, sÃ©curitÃ©, outils DevOps,
+           middleware, etc.).
+
+    ï·      Une adÃ©quation naturelle entre les valeurs de lâopen source et les objectifs de lâUE en matiÃ¨re de
+           souverainetÃ©, de cybersÃ©curitÃ© et de protection des donnÃ©es.
+
+    ï·      Une capacitÃ© dâinnovation Ã©levÃ©e des PME/ETI et intÃ©grateurs open source, qui transforment ces
+           briques en solutions industrielles dÃ©ployables dans les secteurs critiques.
+
+Faiblesses :
+
+    ï·      Une grande partie de la valeur Ã©conomique gÃ©nÃ©rÃ©e par ces projets est captÃ©e hors UE, via des
+           plateformes, hyperscalers et solutions propriÃ©taires non europÃ©ennes qui sâappuient massivement
+           sur des composants libres dÃ©veloppÃ©s en Europe.
+
+    ï·      Un dÃ©ficit de reconnaissance et de lisibilitÃ© du secteur open source europÃ©en auprÃ¨s des dÃ©cideurs
+           publics et privÃ©s : les grands acteurs propriÃ©taires restent souvent le choix Â« par dÃ©faut Â», malgrÃ©
+           un risque accru de dÃ©pendance et de verrouillage.
+
+    ï·      Un sous-investissement chronique dans la maintenance, la sÃ©curisation et lâindustrialisation des
+           briques critiques, alors quâelles soutiennent lâessentiel des services numÃ©riques.
+
+Obstacles Ã  lâadoption et Ã  la maintenance de solutions libres de qualitÃ© et sÃ©curisÃ©es :
+
+    ï·      Des rÃ¨gles et pratiques de commande publique qui favorisent implicitement les solutions
+           propriÃ©taires intÃ©grÃ©es (exigences de certifications ou de rÃ©fÃ©rences calibrÃ©es sur les offres des
+           grands fournisseurs, clauses de support peu adaptÃ©es aux modÃ¨les open source, procÃ©dures trop
+           lourdes).
+
+    ï·      Un manque de compÃ©tences internes et dâaccompagnement structurel des organisations
+           (publiques et privÃ©es) pour concevoir, opÃ©rer et sÃ©curiser des infrastructures fondÃ©es sur des
+           solutions libres : cela nourrit la perception que lâopen source serait Â« plus risquÃ© Â» alors quâil permet
+           au contraire un contrÃ´le accru de la chaÃ®ne technologique.
+
+    2. Valeur ajoutÃ©e des solu ons libres pour les secteurs public et privÃ©
+
+Pour FactorFX, lâopen source nâest pas seulement un choix idÃ©ologique, mais un levier concret de
+souverainetÃ©, de maÃ®trise des coÃ»ts et de cybersÃ©curitÃ© pour les clients publics comme privÃ©s.
+
+Principaux facteurs de valeur ajoutÃ©e :
+
+    ï·      RÃ©duction du verrouillage technologique : les solutions libres (par exemple les infrastructures de
+           virtualisation basÃ©es sur Proxmox VE, les plateformes de stockage et de sauvegarde libres)
+           permettent aux organisations de changer de prestataire sans changer de technologie, et
+           dâhÃ©berger leurs services sur des clouds et datacenters europÃ©ens.
+
+    ï·      MaÃ®trise des coÃ»ts et prÃ©visibilitÃ© : Avec un coÃ»t concentrÃ© sur le service (intÃ©gration, support,
+           exploitation) plutÃ´t que sur la rente de licence.
+
+                                                          2
+ï·   CybersÃ©curitÃ© et rÃ©silience : lâaccÃ¨s au code, la transparence de la chaÃ®ne dâapprovisionnement et
+    la diversitÃ© des acteurs rÃ©duisent les risques de dÃ©pendance Ã  des technologies opaques ou
+    extraterritoriales et facilitent la dÃ©tection des vulnÃ©rabilitÃ©s.
+
+ï·   Innovation et adaptation sectorielle : la possibilitÃ© de forker, adapter et intÃ©grer les solutions
+    permet de crÃ©er des architectures rÃ©ellement adaptÃ©es aux exigences locales, plutÃ´t que dâaligner
+    les processus sur les contraintes dâun SaaS propriÃ©taire.
+
+3. Mesures concrÃ¨tes Ã  prendre au niveau de lâUE
+
+        a. RÃ©former la commande publique pour en faire un levier pro-open source
+
+ï·   Introduire explicitement, dans les cadres europÃ©ens de commande publique, des principes
+    favorables aux solutions libres : critÃ¨re de rÃ©versibilitÃ©, transparence du code, interopÃ©rabilitÃ©,
+    capacitÃ© de changement de prestataire sans migration forcÃ©e de technologie.
+
+ï·   Encourager des marchÃ©s-cadres europÃ©ens ou nationaux explicitement ouverts aux architectures
+    libres dâinfrastructure (virtualisation, stockage, sauvegarde, supervision, middleware de donnÃ©es)
+    opÃ©rÃ©es par des prestataires europÃ©ens.
+
+        b. Financer la maintenance et la sÃ©curisa on des briques cri ques
+
+ï·   CrÃ©er des programmes ciblÃ©s pour le financement pluriannuel de la maintenance, de la sÃ©curisation
+    et de lâindustrialisation des briques open source les plus critiques, avec une gouvernance
+    europÃ©enne impliquant les communautÃ©s, les intÃ©grateurs et les utilisateurs finaux.
+
+ï·   Permettre aux projets financÃ©s de reconnaÃ®tre pleinement le rÃ´le des intÃ©grateurs et hÃ©bergeurs
+    europÃ©ens, qui assurent la mise en production, le support et la formation, afin dâÃ©viter que seuls
+    les grands acteurs globaux captent la valeur.
+
+        c. soutenir les modÃ¨les Ã©conomiques et la structura on du secteur
+
+ï·   Soutenir la crÃ©ation ou le renforcement de fondations europÃ©ennes dÃ©diÃ©es aux communs
+    numÃ©riques dâinfrastructure, permettant de mutualiser le financement, la gouvernance et la
+    reprÃ©sentation du secteur.
+
+ï·   Mettre en place des mÃ©canismes simples pour que les grandes organisations puissent flÃ©cher une
+    partie de leurs budgets projets ou R&D vers la contribution directe aux projets open source quâelles
+    utilisent.
+
+        d. DÃ©velopper les compÃ©tences et lâaccompagnement
+
+ï·   Financer des programmes de formation et de certification autour des solutions libres
+    dâinfrastructure, destinÃ©s aux Ã©quipes IT des administrations et entreprises, afin de rÃ©duire la
+    dÃ©pendance aux solutions propriÃ©taires.
+
+ï·   CrÃ©er des centres de compÃ©tences open source, regroupant communautÃ©s, intÃ©grateurs,
+    hÃ©bergeurs et chercheurs, avec une mission dâaccompagnement des organisations dans la
+    conception et lâexploitation dâarchitectures ouvertes.
+
+                                                 3

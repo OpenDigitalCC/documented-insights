@@ -1,0 +1,351 @@
+Ref. Ares(2026)1143781 - 02/02/2026
+
+OPITZ CONSULTING Deutschland GmbH
+Feedback on the initiative âEuropean Open Digital Ecosystemsâ
+
+As a medium-sized IT consulting and service company based in Germany with a
+clear German and European market orientation, we strongly welcome the European
+Commissionâs initiative to strengthen European open digital ecosystems.
+
+We have deliberately positioned ourselves as a German and European company
+and see open digital ecosystems as a key lever for strengthening Europeâs
+technological sovereignty and stronger independence for global player from other
+markets. For small and medium-sized enterprises, reducing dependencies on
+proprietary, non-European platforms and individual large vendors is of strategic
+importance.
+
+Open-source software and open standards are not a theoretical concept for us, but
+an integral part of our daily consulting practice. We make extensive use of open
+source in customer projects and benefit from it in multiple ways:
+
+   â¢   increased transparency and control over the technologies used
+
+   â¢   greater adaptability to customer-specific requirements
+
+   â¢   reduced vendor lock-in risks
+
+   â¢   sustainable cost structures across the entire lifecycle of IT solutions
+
+As IT consultants, we identify strong client value in open-source solutions and
+therefore prefer and recommend and even advocate their use to them.
+
+These benefits do not only apply to us, but in particular to our customers across the
+EU.
+
+From our perspective, open source is especially supportive of an SME-oriented
+information and communication technology (ICT) economy. Open technologies
+enable small and medium-sized providers to develop innovative solutions with less
+
+Â© OPITZ CONSULTING Deutschland GmbH 2026                                                     1
+risk and effort and thus remain competitive without becoming dependent on large,
+globally operating corporations.
+
+In this way, open source makes an important contribution to:
+
+   â¢   fairer market conditions,
+
+   â¢   diversity of innovation,
+
+   â¢   regional value creation, and
+
+   â¢   a more resilient Digital Single Market.
+
+Against this background, we explicitly support any measures by the European Union
+that aim to systematically promote, stabilize and ensure the long-term sustainability
+of open-source technologies.
+
+To further ease and accelerate the practical adoption of open source, we see the
+following policy actions as particularly relevant:
+
+   â¢   Legal and public procurement clarity, including explicit equal treatment or
+       preferential consideration of open-source solutions and use of open
+       standards in public tenders.
+
+   â¢   Legal support for open-source projects to set up simple IP and governance
+       frameworks that keep commercial influence transparent and controllable.
+
+   â¢   Funding programs for maintenance and long-term, uninterrupted support of
+       open-source core technologies, not limited to new development activities.
+
+   â¢   Infrastructural support to provide European-hosted alternatives to dominant
+       non-European platforms (e.g., GitHub) for code hosting and collaboration,
+       reducing systemic dependencies.
+
+   â¢   Standardised framework contracts and reference architectures to lower entry
+       barriers for SMEs in open-source-based projects.
+
+   â¢   Initiate and use support definition of open standards.
+
+   â¢   Greater visibility of successful European open-source projects to build trust
+       and acceptance among companies and public-sector organisations.
+
+Â© OPITZ CONSULTING Deutschland GmbH 2026                                               2
+   â¢   Simple and accessible funding schemes with lean application processes and
+       fast decision cycles, reducing administrative burdens and enabling SMEs and
+       smaller projects to participate effectively.
+
+   â¢   Actively found and manage essential open-source based projects for key
+       technologies, infrastructure elements and special functionalities, that would
+       else not exist as open-source due to initial efforts and costs up to an initial
+       MVP.
+
+   â¢   Support acceptance of open-source product in governmental organisations
+       as valuable alternative by increasing visibility of such approaches by initiating
+       conferences, discussion groups, concept studies and active research
+       regarding long-term value-creation of open-source usage.
+
+From the perspective of a medium-sized IT consulting company, the âEuropean
+Open Digital Ecosystemsâ initiative represents an important and necessary step
+towards strengthening innovation, competitiveness and digital sovereignty in
+Europe. We stand ready to support this path in an active and constructive manner.
+
+In addition to the above general comments, we would like to explicitly respond to
+the Commissionâs consultation questions as follows.
+
+Q1: Strengths and weaknesses of the EU open-source sector; barriers to adoption,
+maintenance and sustainable contributions
+
+Strengths of the EU opensource sector
+
+   â¢   A strong SME base and consulting ecosystem that builds and operates
+       solutions on open source, creating practical implementation capacity across
+       member states.
+
+   â¢   High alignment with European values such as transparency, auditability, and
+       shared innovation, supporting digital sovereignty and resilience.
+
+   â¢   Growing interest and demand from regulated industries and public
+       administrations that increasingly recognise the strategic value of open
+       technologies.
+
+Â© OPITZ CONSULTING Deutschland GmbH 2026                                                   3
+Weaknesses of the EU open-source sector
+
+   â¢   Fragmentation and limited mechanisms to scale promising initiatives across
+       countries, sectors and administrations.
+
+   â¢   A persistent âmaintenance and security gapâ: long-term maintenance,
+       hardening and release engineering are often underfunded compared to new
+       feature development.
+
+   â¢   Structural dependency on non-EU collaboration and distribution
+       infrastructure (code hosting, CI/CD, artifact registries), which creates systemic
+       risk.
+
+Barriers hampering adoption and maintenance of high-quality and secure open
+source
+
+   â¢   Performance expectancy: Decision makers often question enterprise
+       readiness (support and SLA models, roadmap predictability, accountability
+       and security assurance).
+
+   â¢   Effort expectancy: Perceived migration and operational effort, skills gaps and
+       change-management overhead create high switching costs, especially in
+       legacy environments.
+
+   â¢   Social influence: Strong incumbent vendor ecosystems, established
+       procurement habits and risk-averse organisational cultures reinforce âdefault
+       proprietaryâ choices.
+
+   â¢   Facilitating conditions: Legal and procurement uncertainty, missing reference
+       architectures and lack of EU-hosted infrastructure limit adoption even where
+       the technical quality of open source is high.
+
+Barriers hampering sustainable contributions to open-source communities
+
+   â¢   Insufficient and discontinuous incentives for maintainer work (including
+       security patches, triage, documentation and long-term support), leading to
+       burnout risks.
+
+   â¢   Legal and governance complexity, including uncertainty around IP setup,
+       liability and governance models, which can discourage organisations and
+       individuals from long-term engagement.
+
+Â© OPITZ CONSULTING Deutschland GmbH 2026                                                4
+   â¢   High Security and compliance requirements (e.g. coordinated disclosure,
+       signing, SBOMs) that add non-trivial overhead when adequate tooling and
+       funding are missing, especially for smaller projects.
+
+Q2: Added value of open source for public and private sectors; concrete examples
+and key factors
+
+Added value for the public sector
+
+Open-source acts as a digital public good: it enables reuse of taxpayer-funded
+software, increases transparency and auditability of critical systems, and reduces
+long-term lock-in to proprietary products. Instead of repeatedly paying license fees
+for commodity functions, public administrations can invest in maintainable, reusable
+components and shared platforms.
+
+Added value for the private sector
+
+For private sector organisations, open source reduces dependency on single
+vendors, improves portability across infrastructures, accelerates innovation through
+modular ecosystems, and strengthens security through transparency and faster
+patch cycles. It supports flexible sourcing and multi-vendor models, which is
+particularly relevant for SMEs and European IT providers.
+
+Key factors to assess added value
+
+In our experience, the following factors are most important when assessing the
+added value of open source:
+
+   â¢   Total cost of ownership (licences, runtime, operations, upgrades)
+
+   â¢   Lock-in and exit costs (portability, interoperability, multi-vendor
+       supportability)
+
+   â¢   Risk (operational risk, vendor concentration risk, upgrade and roadmap risk)
+
+   â¢   Security (auditability, patch lead time, supply-chain transparency)
+
+   â¢   Innovation speed (time-to-market, extensibility, ecosystem leverage)
+
+Â© OPITZ CONSULTING Deutschland GmbH 2026                                               5
+Concrete examples from our customer projects (anonymised)
+
+   â¢   Database modernisation away from proprietary dependence:
+       In several engagements, we supported customers in reducing their reliance
+       on proprietary databases by migrating selected workloads to an open-source
+       database stack, including operational tooling for availability, monitoring and
+       backup. The main outcomes were lower recurring licensing pressure,
+       improved portability across hosting options, and greater transparency in
+       operations and troubleshooting. The decisive factors were TCO, reduced lock-
+       in, and operational flexibility.
+
+   â¢   Integration landscape modernisation beyond proprietary SOA:
+       We also supported customers in modernising integration landscapes that
+       had been centred on proprietary SOA suites by adopting an open integration
+       approach (API-centric integration and event-/message-based patterns,
+       depending on context). This led to faster change cycles, better
+       interoperability with modern cloud and edge workloads, and reduced
+       dependence on single-vendor release schedules and licensing models. The
+       decisive factors were innovation speed, risk reduction, and interoperability.
+
+Q3: EU-level measures and actions for the EU open-source sector, technological
+sovereignty and cybersecurity
+
+Building on our general recommendations above, we consider the following EU-level
+measures particularly impactful:
+
+   â¢   Long-term, uninterrupted funding for maintenance and security work of
+       critical open-source components (including long-term support, bug fixing,
+       CI/release engineering), not limited to new features.
+
+   â¢   Legal and governance/IP support for open-source projects: provision of
+       lightweight, reusable templates and access to legal expertise so that projects
+       can set up IP and governance structures that keep commercial influence
+       transparent and controllable.
+
+   â¢   Public procurement clarity and opensource friendly purchasing: explicit equal
+       treatment of open-source solutions in tenders, outcome-based
+
+Â© OPITZ CONSULTING Deutschland GmbH 2026                                                6
+       requirements, and standardised framework contracts and reference
+       architectures so that SMEs can participate more easily.
+
+   â¢   European-hosted infrastructure support: investment in EU-based code
+       hosting, CI/CD, artifact registries and collaboration tooling to reduce systemic
+       dependency on dominant non-European platforms.
+
+   â¢   Simple, accessible funding schemes for SMEs and smaller projects with lean
+       application processes and fast decision cycles (including micro-grants and
+       rolling calls).
+
+   â¢   Support for software supply-chain security practices:
+
+           o   promotion of standardized, machine-readable SBOMs for publicly
+               funded and widely deployed components,
+
+           o   funding of tooling and automation for SBOM generation, signing and
+               continuous vulnerability monitoring in CI/CD,
+
+           o   use of public procurement to reward supply-chain transparency
+               (SBOM plus vulnerability disclosure practices) with proportionate
+               requirements.
+
+   â¢   Visibility and adoption enablement: EU-level catalogues and showcases of
+       mature projects, guidance and âplaybooksâ for public administrations, and
+       communities of practice to accelerate trusted adoption.
+
+   â¢   Strategic seeding of essential open-source-based initiatives for key
+       technologies and infrastructure elements (including outreach and
+       community-building) where high initial effort would otherwise prevent open-
+       source alternatives from emerging.
+
+   â¢   Further initiation and support of open standards in order to increase
+       interoperability of and compatibility between open-source software artefacts.
+       This will make the ability to integrate such artefacts to flexible and bigger
+       suites more likely and easier. Such standards also allow integration of
+       proprietary software with less risk.
+
+Â© OPITZ CONSULTING Deutschland GmbH 2026                                               7
+Q4: Technology areas to prioritize and why
+
+We suggest prioritizing technology areas that reduce systemic dependencies,
+strengthen cybersecurity and enable interoperable European ecosystems:
+
+   â¢   Software supply-chain security (SBOMs, signing, reproducible builds,
+       vulnerability management) as a cross-sector foundation for cyber resilience.
+
+   â¢   EU-hosted developer and collaboration infrastructure (code hosting, CI/CD,
+       registries) as a strategic dependency that should be under EU jurisdiction and
+       aligned with EU values.
+
+   â¢   Interoperability middleware and open standards, including reference
+       implementations, which enable cross-organisational data exchange and
+       European data spaces.
+
+   â¢   Cloud-to-edge foundation layers (identity, orchestration, observability, policy
+       enforcement) to keep workloads portable and avoid hyperscaler lock-in.
+
+   â¢   Sovereign, open and auditable AI platforms (from data management and
+       training to inference and MLOps), enabling trusted AI adoption under EU data
+       protection and governance frameworks.
+
+Q5: Sectors where increased open-source use can improve competitiveness and
+cyber resilience
+
+In our view, increased use of open source can particularly improve competitiveness
+and cyber resilience in the following sectors:
+
+   â¢   Public sector: open source as a digital public good enables reuse of taxpayer-
+       funded solutions, improves transparency and auditability, and reduces long-
+       term dependence on proprietary vendors for essential administrative
+       functions.
+
+   â¢   Industry and automotive: competitiveness increasingly depends on open
+       standards and interoperable reference implementations to enable cross-
+       company collaboration and supply-chain resilience. Initiatives such as Catena-
+       X illustrate the importance of interoperability and shared models across an
+       entire ecosystem.
+
+Â© OPITZ CONSULTING Deutschland GmbH 2026                                                 8
+   â¢   Critical infrastructure and regulated sectors (energy, healthcare, telecom,
+       transport): here, transparent security practices, supply-chain visibility (e.g.
+       through SBOMs), and reduced single-vendor concentration risks are
+       especially important.
+
+   â¢   Education and research (optional emphasis): open source accelerates
+       knowledge transfer, skills development and the diffusion of innovation into
+       the broader economy.
+
+Summary and conclusion
+
+Open-source software and open standards already play a central role in our daily
+work with customers and have proven its value in concrete modernisation and
+migration projects. We see major strengths and potential in the EU open-source
+sector, but also structural weaknesses and barriers that can and should be
+addressed at European level.
+
+By providing legal and procurement clarity, supporting long-term maintenance and
+security work, investing in EU-based infrastructure and strategic technology areas
+(including sovereign AI platforms and supply-chain security), and by lowering access
+barriers for SMEs and the public sector, the European Union can significantly
+strengthen its sovereignty, competitiveness and cyber resilience.
+
+We would be pleased to contribute our practical experience from consulting and
+implementation projects to further discussions and follow-up work on the
+âEuropean Open Digital Ecosystemsâ initiative.
+
+Â© OPITZ CONSULTING Deutschland GmbH 2026                                                 9

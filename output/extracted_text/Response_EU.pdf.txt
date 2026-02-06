@@ -1,0 +1,154 @@
+Ref. Ares(2026)246916 - 11/01/2026
+
+To whom it may concern,
+
+Thank you for giving us the opportunity to voice our opinions on the importance of opensource in
+Europe and the role it has to play in digital sovereignty. I will address your questions one by one.
+
+1. What are the strengths and weaknesses of the EU open-source sector?
+The major problem open-source has in general is funding. Although 90% of all code is opensource,
+it gets next to nothing in funds. It is in fact a hobby and passion for most developers. It is thankless
+and time-intensive despite the value it provides to the entire world. The second is a direct effect of
+the lack of funding: its lack of organisation and representation which leads to little to no common
+awareness of the benefits of opensource and just how pervasive opensource is.
+A strength of EU open-source comes only from the economical prowess the EU zone provides:
+developers are affluent or at least have the most basic needs taken care of which allows them to sink
+massive amounts of time in their hobby of software development after work or in university (where
+large amounts of opensource is written).
+
+2. What is the added value of open source for the public and private sector?
+
+**Security**
+Opensource has the advantage that it can be reviewed by the public. In fact it can be reviewed by
+way more people than closed source code ever can be reviewed. Making it accessible to reviewers
+also makes it executable by them so then can test their hypotheses in a working environment. They
+can develop opensource tools to find bugs and other vulnerability in other opensource tools.
+_Examples_:
+- XZ Utils backdoor, though detected surreptitiously, because the code is opensource, the entire
+scheme could be uncovered, traced, and ultimately stopped.
+- There are countless Common Vulnerabilities and Exposures (CVEs) that could be ethically and
+resposibly disclosed because they affect opensource software. Closed Source software is often
+protected by arcane and convoluted laws which make analysis legally dangerous, thus hindering the
+discovery of CVEs
+
+**Effort**
+Thanks to opensource, the wheel doesnât have to be reinvented by every developer, company, or
+organisation. One need go no further than the ability to read what you are seeing on your screen.
+There are countless opesource software libraries making the visualisation on our screen possible. In
+a world without opensource, every developer would have to either pay for the code required to draw
+anything on the screen or have to write it themselves.
+_Examples_:
+countless, but if pressed, FFMPEG is opensource software that can handle nearly every video and
+audio format known to man. It makes streaming video possible for countless companies and
+customers around the world.
+
+**Transparency and trust**
+Closed source software can have claims about anything. It can claim it doesnât spy on you, doesnât
+steal your data, is safe, isnât malicious, makes you tea, or keeps you safe. However, those claims
+can only be verified by those who have access to the code, are allowed to tamper with the software,
+or know how to analyse the software after delivery.
+Opensource can make those claims verifiable as they are out in the open. With opensource, it is
+possible to build a chain of trust due to the visibility of code and infrastructure. This can be
+invaluable to governments and private persons alike. Especially governments can build chains of
+trust with each other, companies, or private individuals to verify the software and code they use or
+receive. Closed source software makes that much much more difficult and has to rely more on the
+contractual than the technical.
+Examples:
+- Microsoft. They sell a âsovereign cloudâ but were forced to openly admit to the inability to ensure
+that the cloud would actually be sovereign and no data would end up in US hands
+- Google. There have been a myriad cases of their data collection practices. Security researchers
+have unveiled their false claims of privacy and security time and time again. They for example
+claim that toggling the button to stop collecting location information or history actually does fulfill
+its function, yet as they own the code and itâs closed source, we have to take their word for it. Given
+their track record, can we really?
+
+3. What concrete measure and actions may be taken at EU level?
+
+**Funding**
+It is imperative that the EU aggressively fund opensource projects they use, from top to bottom.
+Every library, every application, every protocol, everything. It must be possible to write opensource
+software and when its used to make money, the project should see revenue. How this is done will
+properly will have to be discussed and debated, but the outcome should be an easy procedure for
+projects to be reimbursed. A central registry for opensource projects (and the registry should be
+opensource too, not Microsoftâs Github) like a business registry, a new opensource license to legally
+enshrine the obligation of payment once financial gains are achieved, something like that.
+
+Another point: opensource shouldnât mean âoh, itâs freeâ. The developers of the Matrix protocol
+and Element are having a tough time staying afloat **despite** multiple governments using the
+protocol to build secure messengers.
+
+**Public Money, Public Code**
+Opensource should be the default for software, for contracts, for research, for anything the
+government touches. Our money shouldnât be shovelled into IP that we need to pay to access via a
+subscription. Money used to fund the development, procurement, installation, maintenance, â¦ of
+software must be tied to an obligation to reveal the source code.
+
+**End of Life = Opensource**
+Private companies have a lot of closed source products. Unfortunately, when these products reach
+their end of life and are no longer supported by the company, they are often abandonned or become
+insecure. This can have digital effects like the Stop Killing Games European Citizenâs Initiative
+showed (games being lost, sometimes forever), but also physical, real world effects like e-waste.
+Many products end up on the trash heap and pose a tangible problem for governments and
+communities worldwide.
+Therefore, products that reach EOL must be opensourced. The opportunity must be given to entities
+to carry the torch and prevent those products from turning into waste. It can open new markets,
+provide employment, lower our carbon footprint, and also lead to innovation.
+
+**Ownership of services**
+We are scrambling now to become digitally sovereign and owners of our own destiny. That
+shouldnât mean jumping from one frying pan of foreign ownership into the frying pan of domestic
+ownership without real ownership. Governments must own their services, software, and when
+possible also hardwre. The Eurostack is good way forward, but it must not lead to a single
+contractor owning all infrastructure.
+Where services are concerned, they should all be self-hosted. When users or others access
+âsocial.government.euâ it also helps the user identify genuine services that governments provide as
+well approved and public identities. President Von Der Leyen having an account
+@vonderleyen@social.europa.eu is much easier to verify than @vonderleyen, @leyen, @vdleyen,
+or even @eupresident on some platform, regardless of what icon put around the name to confuse
+the user into believing the account is genuine.
+
+4. What technology areas should be prioritised and why?
+
+**Communications**
+We have to move on from email. It is insecure and already has an alternative called Matrix. While a
+lot of email solution are opensource, the major providers are closed source. Focusing on Matrix will
+elevate security and accessiblity for all users of the system. Additionally, it will allow integration
+with chat platforms of governments ensuring secure and safe transfer of documents and other data
+between governments and their citizens.
+Using one protocol will also improve communication efforts between government agencies
+(nationally and internationally).
+
+**Geospatial data analysis and mapping efforts**
+The EU is currently mapped out primarily with Google Maps. Governments readily and happily
+give Google an incredible amount of public data. However, that is not necessary as OpenStreetMaps
+exists. It is a much more detailed map and can be used for many many things. It is invaluable for the
+impaired people of our societies as maps of accessibility have been created with it.
+A lot of mapping data is further concentrated in foreign hands like Esri who make ArcGIS and often
+lock data from government agencies. It is not seldom seen that government agencies in the same
+country have to pay Esri to access data uploaded by other government agencies.
+
+**Banking**
+Customers are currently nearly exclusively forced to have either a phone with Google services or
+use an Apple product. Not only that but the major payment options that exist are all foreign-owned.
+It is very difficult to run banking apps on phones that do not fall into these two categories. The EU
+must make it possible for consumers to use domestic technology in order make payments.
+Developers face major difficulties despite the open banking iniative to write applications and
+services that require payment. The systems are restrictive and locked down making entry into
+openbanking nigh impossible as an outsider.
+
+**Mobile phones**
+Smartphones are dominated by 2 tech giants that are doing their best to lock down everything about
+phones. Writing apps can incur significant costs e.g apps for Appleâs ecosystem can only be written
+on Appleâs hardware which is pricy and require a yearly subscription. Google and Apple take 30%
+of payments made. Forcing them to change will not alter their market domination as many are
+dependent on them. Apple is ferociously closed source and Google is quickly going that way as well
+with the increasing gap of source releases for the Android operating system (Google Services were
+never opensource).
+Smartphones can and should be considered critical technology to opensource. It is being made
+increasingly difficult to live without one and if they are not forced to be opensource, the digital lives
+of EU citizens will continue to be surveilled, monetised, and in danger of exploitation by foreign
+forces.
+
+Thank you for the time taken to read this response. I sincerely hope powerful action will be taken to
+make the EU competitive and a hub for innovation again. Opensource is a major force towards this
+goal and this chance should not be squandered.

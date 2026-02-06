@@ -1,0 +1,110 @@
+To: European Commission â Directorate-General for Communications Networks, Content and Technology (DG
+                                                                                     Ref. Ares(2026)890002 - 26/01/2026
+CONNECT)
+
+Subject: Contribution to the Call for Evidence: "Towards European Open Digital Ecosystems" â Ares(2026)69111
+
+Date: January 26, 2026
+
+Submitted by: Soner Tari, Developer of UTMFW and SSLproxy
+
+Executive Summary
+
+This opinion paper addresses the European Commission's strategic objective of achieving digital sovereignty
+through open-source technologies. Drawing on 20 years of experience as an individual developer of critical
+cybersecurity infrastructure, I argue that the current EU funding and support frameworks suï¬er from an
+"institutional blind spot" that favors commercial entities and startups over the individual developers who
+maintain the worldâs most critical Free and Open Source Software (FOSS). To achieve true strategic autonomy, the
+EU must shift its focus toward supporting the "unsexy" but foundational layers of the internetâsuch as ï¬rewalls
+and SSL inspection toolsâand dismantle the closed-source ecosystems that currently dictate the European
+cybersecurity landscape.
+
+1. The Institutional Blind Spot: Why Individual Developers are the Forgotten Backbone
+
+The Commissionâs consultation correctly identiï¬es that 70-90% of modern software relies on FOSS. However, the
+current model for supporting this code is broken.
+
+   â¢ The Case for Individual Funding: Most FOSS innovation begins with individuals. Yet, EU funding programs
+     and foundations frequently require a "commercial entity" or "legal person" status to receive support. As an
+     individual developer of UTMFW (the only remaining FOSS UTM ï¬rewall) and SSLproxy for over 20 years,
+     my total sponsorship has amounted to roughly 46 Euros.
+   â¢ Persistence Over Commercialization: My projects have comprehensive roadmaps and two decades of
+     history. The lack of funding is not a result of "developer risk" or lack of clarity, but rather an institutional
+     bias that ignores individual contributors in favor of organizations that are often more focused on overhead
+     than code.
+   â¢ Recommendation: The EU must create direct grant pathways for individual maintainers of critical
+     infrastructure, bypassing the requirement for commercial intermediation.
+
+2. The "Ecosystem Trap": How Proprietary Certiï¬cations Stiï¬e FOSS
+
+Europeâs dependency on non-EU technology is not just a software problem; it is a human capital problem.
+
+   â¢ Artiï¬cially Enforced Dependencies: Commercial juggernauts (Cisco, Fortinet, Checkpoint, Microsoft) have
+     built ecosystems of training and certiï¬cations. Recruiters and HR departments prioritize these certiï¬cates,
+     creating a cycle where European cybersecurity professionals are forced to become experts in proprietary,
+     non-EU tools to remain employable.
+   â¢ The FOSS Competitive Disadvantage: High-quality FOSS solutions like UTMFW are ignored not because of
+     technical inferiority, but because there is no commercial incentive for a certiï¬cation ecosystem around
+     them.
+   â¢ Recommendation: The EU should sponsor and recognize FOSS-based certiï¬cation programs for critical
+     infrastructure, incentivizing public and private sectors to hire based on knowledge of open, transparent
+     protocols rather than proprietary vendor consoles.
+
+3. The Startup Paradox: Venture Capital vs. Public Security
+
+The Commission frequently conï¬ates "innovation" with "Startups." This is a dangerous oversight for
+cybersecurity.
+
+   â¢ Exit Motives vs. Longevity: Startups are designed for "exits"âacquisition or IPO. Their goal is to create IP
+     (licensing and patents) that can be sold. FOSS is the exact opposite; its value lies in being open, shared, and
+     enduring.
+
+                                                        1 of 2
+   â¢ Obsolescence by Design: Products developed by VCs are meant to last until a sale. Critical security
+     infrastructure needs to last decades. Funding "startups" often means funding future closed-source
+     acquisitions by non-EU entities.
+   â¢ Recommendation: Redirect funding from "high-growth startups" to "long-term FOSS infrastructure
+     maintenance."
+
+4. Strategic Sovereignty: The Transparency Gap in Cybersecurity
+
+The EU is currently focused on the hardware layer (e.g., Huawei bans) while ignoring the risks at the software
+inspection layer.
+
+   â¢ The "Western Closed-Source" Risk: Every major ï¬rewall and security middlebox used in the EU today is
+     commercial and closed-source. These systems are capable ofâand often required to performâreal-time SSL/
+     TLS inspection.
+   â¢ The Decryption Paradox: We worry about low-level hardware but trust closed-source software with our
+     decrypted traï¬c. Without FOSS solutions like SSLproxy and UTMFW, the EU has no way to verify what is
+     happening to sensitive data once it is decrypted for inspection.
+   â¢ FOSS has No Nationality: True security comes from the ability to inspect, adapt, and verify code. Relying on
+     "allied" closed-source software is still a dependency that undermines European digital sovereignty.
+
+5. Proposed Strategic Actions for the EU
+
+To improve the state of "Real FOSS" and secure the European digital stack, the Commission should:
+
+   1. Fund "Old Ideas" for New Sovereignty: Do not only chase "AI" or "Quantum." Fund the foundational
+      technologies like UTM ï¬rewalls and Proxies that are currently dominated by proprietary monopolies.
+   2. Support Individuals Directly: Establish a "European FOSS Maintainer Fellowship" that provides livable
+      stipends to individual developers maintaining critical security projects, regardless of their commercial
+      status.
+   3. Mandate Transparency in Critical Tenders: Require that any security software used by EU public
+      administrations for traï¬c inspection must be FOSS or at least provide a fully auditable, open-standard
+      inspection layer.
+   4. Dismantle Proprietary Lock-in: Use the Interoperable Europe Act to ensure that cybersecurity training in
+      schools and universities is vendor-neutral and emphasizes FOSS tools.
+
+Conclusion
+
+If the EU continues to fund only commercial entities and "exit-driven" startups, it will remain a digital colony of
+non-EU proprietary tech. Digital sovereignty starts at the source code. It is time to support the individuals who
+keep that code open.
+
+Reference Links:
+
+   â¢ UTMFW: https://github.com/sonertari/UTMFW
+   â¢ SSLproxy: https://github.com/sonertari/SSLproxy
+   â¢ Technical Evidence (Webinar): FOSS IPS/UTM Systems Analysis
+
+                                                        2 of 2

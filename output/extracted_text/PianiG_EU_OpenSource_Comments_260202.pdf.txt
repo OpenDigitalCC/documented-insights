@@ -1,0 +1,73 @@
+Ref. Ares(2026)1167354 - 02/02/2026
+
+Gianguido Piani
+Feb 2nd, 2026
+
+    Positions about the Call for Evidence âTowards European open digital ecosystemsâ
+
+1. What are the strengths and weaknesses of the EU open-source sector? What are the main
+barriers that hamper (i) adoption and maintenance of high-quality and secure open source; and (ii)
+sustainable contributions to open-source communities?
+
+(i) IT policies by the EU Commission and most Member States support de-facto only the
+use of commercial software from the US.
+(ii) A good starting point would be to open competitive bidding to open source solutions.
+Many calls for bids are formulated today in such way that they can only be formally fulfilled
+by commercial software. Strategic considerations should become part of the evaluation of
+competitive bids.
+
+2. What is the added value of open source for the public and private sectors? Please provide
+concrete examples, including the factors (such as cost, risk, lock-in, security, innovation, among
+others) that are most important to assess the added value.
+
+Security and not having to pay for services and licenses overseas. Isnât that an argument
+strong enough?
+
+3. What concrete measures and actions may be taken at EU level to support the development and
+growth of the EU open-source sector and contribute to the EUâs technological sovereignty and
+cybersecurity agenda?
+
+In practical terms, a good beginning would be the creation of a competence center in
+support of Open Source solutions in public administration as well as in small and medium
+enterprises. This new center should lead new developments, test package and hardware
+compatibility, draft instructions. It should cooperate with the IETF, the Linux Foundation
+and other standard-setting organisations. In this respect, the best European references are
+Airbus, CERN, ESA. None of them is an institution of the EU. Refer to the Computer
+Chaos Club for support, not only to companies such as SAP and Siemens.
+Russia has been much more successful in the IT sector than the EU and its Member
+states. Yandex, founded in 1997, was the first European solution on a par with Google to
+offer search engine, email, maps, e-payments, remote drives and several other services.
+Vkontakte is still today the only serious European competitor to Facebook. AstraLinux is a
+Russian Debian-derivate used, among others, by the Russian administration and security
+services. Chinaâs national operating system is the Linux-based Ubuntu Kylin.
+The EU should follow this approach and quickly develop a Linux-based distribution for free
+download. Technically, itâs a quite simple matter. It could be a Debian/Ubuntu distribution
+with preinstalled modules and certificates for identification, e-signature and other basic
+public administration services.
+The most important aspect of a official EU Linux distribution, however, would be to serve
+as reference for the development of commercial packages. Today much important
+enterprise software, e.g., for tax reports, production planning, or project coordination, is
+available only for MS Windows. If there were a stable and recognized, reference EU Linux
+platform, many private companies would begin to offer their products also for that
+environment and in this way help enlarge its user base.
+
+4. What technology areas should be prioritised and why?
+First of all we need simple, wide-scale solutions for the public administration as well as
+general-purpose software for the wide public. Ubuntu (or other EU package) together with
+LibreOffice could replace Microsoft and Office for most applications. The EU Commission
+should begin by giving the good example by using it.
+The EU shall officially support and use open standards such as OpenDocument.
+Solutions for personal identification, banking, e-signature etc. must be available with at
+least one implementation fully independent of companies from outside Europe and not rely
+only on smartphones.
+The EU Commission could require that any smartphone apps, traditionally made available
+only for Android and Apple, shall also be available for f-droid. An alternative to the
+compulsory use of smartphones would be a virtual emulator for desktops also produced
+and certified by European authorities.
+
+5. In what sectors could an increased use of open source lead to increased competitiveness and
+cyber resilience?
+
+Better cyber resilience will be reached when common people will be more aware of the
+tools they use. Itâs not matter of some particular software, open or not. Instead, education
+and awareness are more important to achieve cyber resilience.

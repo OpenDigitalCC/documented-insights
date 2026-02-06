@@ -1,0 +1,75 @@
+Ref. Ares(2026)1168286 - 02/02/2026
+
+      European Open Digital Ecosystem Strategy
+
+               Public Consultation and Feedback1
+
+                                           February 2026
+
+1
+ https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/16213-European-Open-
+Digital-Ecosystems_en
+
+                                                                                             Page | 1
+Feedback from CERN
+
+1. What is the problem the initiative aims to address?
+Europe faces competitiveness and autonomy challenges due to reliance on digital infrastructure
+controlled by a few non-European providers, creating risks like vendor lock-in, security issues, and
+weak supply chains. Open-source software underpins much of the infrastructure but lacks
+recognition and funding as critical infrastructure, resulting in fragmented support. Further
+fragmentation between Member States impedes interoperability. CERNâs experience shows that
+without institutional backing, funding, and governance, even popular open technologies are at risk.
+
+2. What should be the objectives of the initiative?
+The initiative should treat open digital ecosystems as vital public infrastructure, strengthening
+Europeâs capacity to design, adopt, operate, and govern digital infrastructures through openness,
+collaboration, and interoperability. Its aim is to help Europe manage and sustain key digital
+technologies for public services, research, and the economy, while remaining active in global
+innovation and promoting better exploitation within Europe. Openness, interoperability, and
+standards must be default for publicly funded digital infrastructure with open-source support.
+Expanding on Open Science and FAIR data, the initiative should apply shared governance and
+stewardship models beyond research. Strategic autonomy means institutional capability, not
+isolation.
+
+3. What policy options or actions should be considered?
+CERN platforms such as Zenodo and Indico demonstrate the need for sustained funding beyond
+short-term cycles. A coordinated mix of regulatory, funding, and organisational measures is needed:
+    â¢ Public procurement should mandate open standards and interoperability with fair
+        evaluation of open-source and non-vendor solutions.
+    â¢ EU funding should cover the full lifecycle of open digital infrastructures, including
+        maintenance, security, operations, and evolution.
+    â¢ Institutional funding should complement project-based funding to ensure continuity.
+    â¢ Evaluation frameworks should recognise open-source, open hardware, and infrastructure
+        contributions in professional and academic careers.
+
+4. What areas should be prioritised to maximise impact?
+EU action should focus on areas with clear added value:
+    â¢ Federated, interoperable platforms enabling cross-border reuse
+    â¢ Scalable open infrastructure services operated by trusted institutions
+    â¢ User-centric digital services lowering adoption barriers
+    â¢ Open-source hardware, such as GPUs and ASICs, to reduce strategic dependencies
+    â¢ Research and education infrastructures as testbeds for open ecosystems
+
+                                                                                            Page | 2
+5. What governance and support structures are needed?
+Governance should be institutional, distributed, and anchored in trusted public organisations with
+demonstrated technical expertise. Neutral public institutions must hold real authority to ensure
+long-term stewardship. European research and infrastructure organisations, including CERN and
+other EIROs, drawing on experience with platforms like Zenodo and Indico and with major scientific
+and engineering software such as ROOT and Geant4, should act as competence centres for open
+digital technologies, in partnership with industry and open-source communities.
+
+6. What is the EU added value of this initiative?
+No single Member State can sustainably operate open digital infrastructure at the required scale.
+EU-level action is essential to pool risk, cost, and expertise, align funding and procurement, and
+reduce fragmentation. Empowering trusted institutions as coordinating and operating hubs will
+accelerate resilient European open digital ecosystems.
+
+7. Final remarks
+European open digital ecosystems should be recognised and funded as strategic public
+infrastructure, comparable to energy or transport networks. Europe already has a proven model in
+Open Science. This initiative provides a timely opportunity to extend that model to the broader
+digital domain through sustained commitment and structural investment.
+
+                                                                                            Page | 3

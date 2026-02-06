@@ -1,0 +1,2640 @@
+Ref. Ares(2026)212266 - 09/01/2026
+Empirical Software Engineering (2025) 30:80
+https://doi.org/10.1007/s10664-025-10626-0
+
+Public sector open source software projects - How
+is development organized?
+
+Johan LinÃ¥ker1 Â· BjÃ¶rn Lundell2 Â· Francisco Servant3 Â· Jonas Gamalielsson2 Â·
+Sachiko Muto1 Â· Gregorio Robles4
+
+Accepted: 5 February 2025 / Published online: 8 March 2025
+Â© The Author(s) 2025
+
+Abstract
+Context The adoption of Open Source Software (OSS) in Public Sector Organizations (PSOs)
+is on the rise, driven by benefits such as enhanced interoperability and transparency. How-
+ever, PSOs encounter challenges stemming from limited technical capabilities and regulatory
+constraints in public procurement.
+Objective This study, based on a registered report, explores the organizational aspects of
+development in public sector OSS projects, i.e., projects initiated, developed, and governed
+by PSOs. We conjecture that the development diverges significantly from the commonly
+adopted bazaar model, wherein development is carried out collaboratively within a broader
+community.
+Method A purposefully sampled set of six public sector OSS projects was investigated using
+mixed-methods and compared with previously reported cases of bazaar OSS projects.
+Results Among the cases, we note that most (80%) of development efforts typically involve
+a small group of developers (<15) and rely on formalised processes. Developers are com-
+monly procured from national and local service suppliers. Projects are planned top-down by
+involved PSOs with funding and contributions to development enabled through centralized
+or decentralized sponsorship. Projects with a centralized sponsorship have one or a few main
+PSOs funding the major part of the development. Decentralized sponsorship implies multiple
+PSOs being mutually dependent on each other to pool the necessary resources for the devel-
+opment. All OSS are reported as being of high quality despite limited size and contributions
+from their communities.
+Conclusions Findings suggest that public sector OSS projects deviate from the typical bazaar
+model, highlighting the need for tailored approaches to address challenges and solutions
+specific to their context.
+
+Keywords Open source software Â· Public sector Â· Bazaar Â· Public procurement
+
+Communicated by: Foutse Khomh and Ying Zou
+
+This article belongs to the Topical Collection: Special Issue on Registered Reports
+
+Extended author information available on the last page of the article
+
+                                                                                               123
+80   Page 2 of 54                                          Empirical Software Engineering (2025) 30:80
+
+1 Introduction
+Open Source Software (OSS) has since its inception, more than twenty years ago (although
+present as a phenomenon even longer), evolved from a community approach of scratching
+itches to becoming an established way for the industry to collaborate on common function-
+ality (Robles et al. 2019b). Across industry sectors, competitors are pooling resources and
+leveraging communities to solve common problems, allowing innovation to be focused at
+the top of the stack. The result is that OSS is now present in a large majority of companiesâ
+internal code bases, as well as in products and services, and in our common digital infrastruc-
+ture at large (Tidelift 2018; Synopsys 2020; OSI 2022). While Public Sector Organizations
+(PSOs) could also leverage OSS projects and collaboration to make better use of resources in
+developing government services, OSS uptake in the public sector has not gained the momen-
+tum that many anticipated (KovÃ¡cs et al. 2004). Even though many administrations at the
+local, regional, national, and even supra-national levels have carried out a large amount of
+initiatives to develop their software projects as OSS and benefit from its advantages, the
+impact of such initiatives has so far been moderate.
+    In this study, we are interested in exploring this context, and what we refer to as public
+sector OSS projects, i.e., those that are initiated, developed, and governed by one (or multiple)
+PSOs, either through internal or commissioned resources. Specifically, we aim to explore how
+the development and social structures of this type of projects compare to the more extensively
+explored community and industry-driven types of OSS projects (Capra and Wasserman 2008).
+    A common means for characterizing the social structure of OSS projects is through the
+so-called âonionâ (Crowston and Howison 2005) model: the main contributors are the core
+of the project (the âcoreâ developers), surrounded by a new layer of occasional contributors.
+In an outer layer, we can find the end users. The further from the center, the less input and
+influence an individual has on the project. In large OSS projects, the outer layers of the
+âonionâ are orders of magnitude superior in terms of individuals compared to the inner ones.
+This periphery of individuals commonly consists of users and casual contributors to the OSS
+project.
+    Projects that manage to grow an active and vibrant community commonly character-
+ize as a bazaar, as proposed in Eric Raymondâs well-known The Cathedral and the Bazaar
+essay (Raymond 1999), with light development and communication processes, fluid manage-
+ment, and open to everybody to contribute. The cathedral, in contrast, is a model that follows
+a traditional setting commonly found within commercial development organizations (and in
+some OSS projects), which, contextualized in an OSS project, implies that a few individuals
+undertake planning and development rather detached from the community (Capiluppi and
+Michlmayr 2007). While these models generalize two states for how development may be
+organized, they are not to be considered as fixed but rather two points on a spectrum between
+which projects may transition as they evolve (Capiluppi and Michlmayr 2007).
+    In this study, our overarching research goal is to investigate how the development is
+organized in public sector OSS projects, and by extension where on this spectrum they may
+be positioned relative to the bazaar development model (Raymond 1999; Capiluppi and
+Michlmayr 2007), or if new metaphors may be needed. We conjecture that after more than
+20 years of initiatives around OSS in the public sector, development in public sector OSS
+projects to a large extent are organized in ways that diverge from the commonly-adopted
+bazaar model. By extension, we assume that the extent to which the onion model applies
+is fundamentally different for public sector OSS projects (Nakakoji et al. 2002) compared
+to bazaar OSS projects (Raymond 1999) as exemplified by those originally investigated by
+Mockus et al. (2002).
+
+123
+Empirical Software Engineering (2025) 30:80                                    Page 3 of 54   80
+
+   These conjectures carry significant implications, as public sector OSS projects may not
+fully capitalize on the advantages of a large developer community associated with bazaar-
+style development. Moreover, it suggests that insights drawn from research and practice for
+community and industry-driven projects do not apply to public sector OSS projects. Should
+this hypothesis be confirmed, it underscores the necessity to explore and evaluate alternative
+managerial, technical, and process-oriented approaches. To the best of our knowledge, we
+are not aware of any research study that has explored this conjecture.
+   We address this gap by comparing and contrasting the characteristics of public sector OSS
+projects with a set of previously reported OSS projects where development was carried out in
+line with the bazaar model (from now on referred to as bazaar OSS projects). We specifically
+look at the seminal work by Mockus et al. who studied the Apache web server (Mockus
+et al. 2000) and Mozilla browser OSS projects (Mockus et al. 2002). Their study was first
+replicated (and findings to large extent confirmed) on the community-driven FreeBSD OSS
+project (Dinh-Trong and Bieman 2005), and later on in the industry-driven JBossAS, JOnAS,
+and Apache Geronimo OSS projects (Ma et al. 2010). To enable comparable results, we
+replicate the methodology, and a relevant subset of research questions from the original
+study by Mockus et al. (2002). In accordance with our pre-registered report (LinÃ¥ker et al.
+2023a), we adhered to the specified hypotheses and methods.
+   Based on investigated cases, we find that there is no one form of development in public
+sector OSS projects but that they deviate from what is commonly found in the bazaar OSS
+projects as exemplified by Mockus et al. (2002), thereby largely confirming our conjecture.
+Across the cases, the majority of the development (80%) is typically concentrated on a limited
+set of developers (<15), using formalised processes and predominantly relying on externally
+procured development resources. Notably, development is to a large extent planned top-
+down by the involved PSO(s). We do, however, note distinctions in how the development is
+sponsored either centrally by one or a few main PSOs, or decentralized by a wider group
+PSOs that depend on the mutual funding and pooling or resources to secure the sustainability
+of the OSS. Further work is needed to explore how development is organized and enabled
+and how challenges and solutions need to be tailored for each context.
+   Our study makes the following contributions:
+ â An in-depth investigation and characterization of how development in organized in public
+   sector OSS projects.
+ â A comparative analysis how this development deviates from the more informal and
+   community-driven development exemplified by the bazaar model.
+ â A framework for future research to take point from in the continued exploration of how
+   the public sector can leverage OSS as a tool in their digital transformations.
+ â Design knowledge for practitioners to use when designing development and governance
+   practices for new or existing public sector OSS projects.
+   Next, we provide further contextualization to this study. Following, we describe in detail
+our hypotheses and research questions, and their underpinning rationale. This is followed by
+the research design for the study overall and for each research question in detail. We then
+present our findings for each case per research question using a similar structure as Mockus
+et al. (2002). Afterwards we discuss our hypotheses by contrasting between the earlier
+reported bazaar OSS projects and our findings for the six public sector OSS projects. Finally,
+we conclude by synthesizing our findings, and by providing implications for practice and
+research.
+
+                                                                                   123
+80   Page 4 of 54                                         Empirical Software Engineering (2025) 30:80
+
+2 Background and related work
+2.1 Development practices in open source software projects
+The cathedral and bazaar models were introduced early as two perspectives on how OSS
+development may be generalized (Raymond 1999). On the one hand, a formal and structured
+approach with limited to no external collaboration, and on the other, a community-driven
+and open collaborative type of peer-production, commonly characterized by meritocracy
+and self-selection of development tasks (Capiluppi and Michlmayr 2007). Since then, OSS
+development practice has evolved along with the increased involvement of companies.
+    The type and level of the companiesâ engagement depend on multiple factors (Butler et al.
+2018; Lundell et al. 2022), including their strategic interest in the OSS project (Munaiah
+et al. 2018) and ability and need to contribute (LinÃ¥ker et al. 2019). Moreover, for companies
+developing and providing standards-based technologies there may be a stark need to engage
+with OSS projects that implement specific ICT standards (Lundell et al. 2022). On-boarding
+employees to the projects or hiring existing contributors with the projects are common prac-
+tice (Munaiah et al. 2018). The companies collaborate with each other to address common
+needs (Zhang et al. 2020), even in cases where they may be considered competitors (LinÃ¥ker
+et al. 2016). Their general involvement in the OSS projects varies from active and intentional
+collaborations to more passive and isolated participation (Li et al. 2024).
+    Alongside the commercial involvement in OSS, a high degree of the development and
+maintenance of OSS projects is still being done on an individual basis (Salkever 2023; Tidelift
+2024), motivated both by intrinsic and extrinsic incentives (Gerosa et al. 2021). Growing
+sustainable communities is a challenge (LinÃ¥ker et al. 2022), although still an aspiration
+for maintainers of the OSS projects (LinÃ¥ker et al. 2024). Fostering an open collaborative
+development and community culture is pivotal (Constantino et al. 2023) to manage and grow
+the numbers of both episodic volunteers and the more long-term contributors (Barcomb et al.
+2018). Several studies (Majumder et al. 2019; Avelino et al. 2016; Pinto et al. 2016) show
+how a significant majority of development is commonly concentrated to a limited few who
+in alignment with the early observations by, e.g., Mockus et al Mockus et al. (2002).
+    The collaborative development commonly occurs âin the wildâ through the use of social
+coding platforms (Constantino et al. 2023), while increasingly being facilitated in the con-
+fines of OSS foundations (Riehle and Berschneider 2012). The Apache Software Foundation
+provides one example originating from the Apache Web server OSS project (Mockus et al.
+2000). The foundation has, since its inception, emphasized an open and collaborative devel-
+opment and governance model (Fielding 1999), still in force today (Gharehyazie and Filkov
+2017; Foundation 2024).
+
+2.2 Public sector adoption and collaboration on open source software
+
+It has been reported that the scale of Europeâs institutional capacity related to OSS is dispro-
+portionately smaller than the scale of the value created by OSS (Blind et al. 2021). Several
+factors contribute to this circumstance, including the potential for economic growth, innova-
+tion, and competition (Hoffmann et al. 2024; Nagle 2019; Blind et al. 2021). OSS has also
+been shown to bring benefits that are particularly salient in the public sector context, among
+them improved interoperability (Lundell et al. 2017), transparency (Europe 2022), and digital
+sovereignty (Nagle 2022).
+    The adoption, on the other hand, is dampened by challenges such as lacking technical
+capabilities and competency regarding software development (Borg et al. 2018), and issues
+
+123
+Empirical Software Engineering (2025) 30:80                                    Page 5 of 54   80
+
+related to public procurement regulations and procurement practices which impact on condi-
+tions for how OSS can be procured by PSOs (Lundell et al. 2021). General knowledge of OSS
+is another concern, both within the PSOs and its vendors, e.g., in terms of how to successfully
+create and orchestrate an OSS community (Bacon 2012), and adopt the principles of open
+collaboration (Feller and Fitzgerald 2002), both on a managerial and developer level (LinÃ¥ker
+and Runeson 2020).
+    Extant research reports several examples on the adoption of OSS (Hollmann et al. 2013;
+Ven et al. 2006; Fitzgerald and Kenny 2004), the benefits of adopting OSS in govern-
+ments (KovÃ¡cs et al. 2004; Huysmans et al. 2008), and how OSS technologies can be
+used to restructure the public sector (HautamÃ¤ki and Oksanen 2018) and to develop new
+e-government services (Kalja et al. 2007). Studies have also been reported on the risks and
+critical factors related to the adoption as well as the release of OSS (Kuechler et al. 2013;
+Scanlon 2019; LinÃ¥ker and Regnell 2020). However, research regarding the topic of how
+development and maintenance by PSOs are performed and organized, and how PSOs can
+(and should) engage with OSS projects has not received as much attention, even though
+highlighted as a topic in the research community since long (Lundell et al. 2009). One
+notable exception regards a study of the organization of the X-Road project (governed by
+the Nordic Institute for Interoperability Solutions) which has been launched by Estonia and
+Finland (Robles et al. 2019a).
+    It should be noted that for both private organizations and PSOs which consider strategic
+engagement with OSS projects, which goes beyond âad-hocâ adoption and use of OSS, there
+are several challenges to address. Several strategies on how an organization may engage with
+different OSS projects have been conceptualized in previous research (Lundell et al. 2017).
+Considering these strategies in a commercial (company) context implies rather different
+conditions compared to a public sector context which lacks short-term commercial goals.
+For example, a PSO may initiate a public procurement project through which OSS from an
+externally provided OSS project will be adopted and deployed for internal use (Shaikh 2016).
+Moreover, a PSO may decide to strategically engage with specific OSS projects which are
+of particular relevance to their organization, e.g., by providing bug reports or by seeking to
+establish a long-term symbiotic relationship between the own organization and an external
+OSS project (Lundell et al. 2017). A PSO may be engaged with some type of association
+(e.g., OS2 in Denmark (Frey 2023)) through which a group of PSOs join forces, in a similar
+way as foundations have been established for the governance of specific OSS projects, e.g.,
+the Eclipse Foundation and The Document Foundation.
+
+2.3 Summary
+
+In sum, the development practices have evolved greatly from the simplified models of the
+cathedral and the bazaar that were introduced in the early days of OSS. The literature illus-
+trates how the boundaries between closed and open development have blurred while still
+emphasizing the presence and importance of open, collaborative development. The cathedral
+and the bazaar should accordingly not be seen as a binary state for classifying OSS projects
+but rather as two points of reference on a spectrum characterizing the collaborative nature
+of development activities inside OSS projects. For public sector OSS projects specifically,
+reports are limited in terms of how the development is organized and, accordingly, where they
+reside on the spectrum. Considering their limitations in resources and capabilities and con-
+finement to public procurement frameworks (among other things), we expect that the level of
+collaborative development is less than what is referenced in the bazaar model. Accordingly,
+
+                                                                                    123
+80   Page 6 of 54                                         Empirical Software Engineering (2025) 30:80
+
+we use the bazaar model (based on earlier reports (Mockus et al. 2002; Dinh-Trong and
+Bieman 2005; Ma et al. 2010)) to position our exploratory investigation of how development
+in public sector OSS projects is organized.
+
+3 Hypotheses and research questions
+
+In line with our conjecture, and informed by our previous investigation of the X-Road
+project (Robles et al. 2019a), we anticipate that public sector OSS projects involves a set
+of users who preside over economic, decisional, and strategic power. In contrast to a bazaar
+OSS project, this set of users does not (at least related to most OSS projects) actively perform
+any development themselves. Instead, the development is commissioned through public pro-
+curement projects to a set of developers (mainly contractors) who have limited power beyond
+the ability to provide technical input to the planning and direction of the OSS project. The
+developers may further consist of other stakeholders and users of the OSS project, yet they
+may have limited abilities to influence the planning and direction of the project. We, there-
+fore, expect a top-down planning and communication flow from decision-makers at PSOs
+to developers and other users where a mix of open and closed communication channels are
+used.
+   With this background, we define a set of hypotheses in line with Mockus et al. (2002)
+to enable us to compare and contrast between public sector OSS projects identified through
+this study, and the bazaar OSS projects reported by Mockus et al. (2002) and following
+replications (Dinh-Trong and Bieman 2005; Ma et al. 2010). It should be noted that a subset
+of the original hypotheses have been excluded as these focused on highlighting benefits of
+OSS projects compared to closed source (proprietary) software in terms of defect density
+and release pace.
+
+H1a OSS developments will have a core of developers who control the code base, and will
+    create approximately 80% or more of the new functionality. If this core group uses
+    only informal, ad-hoc means of coordinating their work, it will be no larger than 10-15
+    people.
+H1b Approximately 95% or more of OSS developments will be performed by developers
+    commissioned by the users of the OSS project (i.e., PSOs).
+H2a Projects, independent of the number of commissioned developers, coordinate their work
+    using other mechanisms than just informal, ad-hoc arrangements. These mechanisms
+    may include one or more of the following: explicit development processes, individual
+    or group code ownership, and required inspections.
+H2b Projects are planned top-down by a set of users (i.e., decision-makers at PSOs) who
+    commission the development and communicate using open and closed communication
+    channels.
+ H3 In successful OSS developments, a group larger by an order of magnitude than the set
+    of users (i.e., the PSOs that commission the development) will report problems, and
+    in other ways partake in planning activities and communication concerning the OSS
+    project.
+H4a OSS developments that have a strong set of users (i.e., the PSOs that commission the
+    development) but never achieve large numbers of general users engaged will experience
+    limited to non-existent reuse, and a decrease in quality because of a lack of resources
+    devoted to finding and repairing defects.
+
+123
+Empirical Software Engineering (2025) 30:80                                     Page 7 of 54   80
+
+H4b The community of a project will primarily consist of commissioned contractors, and
+    PSOs using, or with an interest in using, the OSS.
+   To test our hypotheses, we use the same research questions as Mockus et al. (2002), but
+for our analyzed public sector OSS projects:
+RQ1 What was the process used to develop the identified public sector OSS projects?
+      â Addresses H1-4
+RQ2 How many people wrote code for functionality in the public sector OSS projects? How
+    many individuals reported problems? How many individuals repaired defects? What
+    were their affiliations and roles?
+      â Addresses H1, H3-4
+RQ3 Were these functions carried out by distinct groups of individuals, i.e., did individuals
+    primarily assume a single role? Did large numbers of individuals participate somewhat
+    equally in these activities, or did a small number of individuals do most of the work?
+      â Addresses H3-4
+RQ4 Where did the code contributors work in the code? Was strict code ownership enforced
+    on a file or module level?
+      â Addresses H3-4
+  In Section 4.3, we describe how we answer the research questions and address the related
+hypotheses.
+
+4 Methodology and execution plan
+
+Below we provide a detailed description of our research design, including the case selection
+criteria, underlying rationale, as well as details on our quantitative and qualitative method.
+    To ensure transparency and reduce bias, this study was pre-registered as a Registered
+Report (LinÃ¥ker et al. 2023a) after being peer-reviewed at the 2023 Mining Software Repos-
+itories Conference. Registered Reports commit researchers to a specific research plan and
+analysis approach, reducing the potential for bias and increasing the transparency and repro-
+ducibility of research findings.
+
+4.1 Overall research design
+
+To be comparable with Mockus et al.âs findings, we design our research method as close as
+possible to their method. It should be noted that Mockus et al. selected two OSS projects,
+Apache and Mozilla, that had certain characteristics, basically that they had a large commu-
+nity of developers (and users). In other words, they did not randomly sample the selected
+OSS projects, as a vast majority of them are small in size and impact (Krishnamurthy 2002;
+Munaiah et al. 2017), but instead larger and established projects with active and vibrant devel-
+oper communities (in line with the bazaar model (Raymond 1999; Capiluppi and Michlmayr
+2007)). Thus, we would first need to identify OSS projects promoted by PSOs that have a
+high development activity.
+   Hence, to pursue our research goal and address the RQs, we utilise purposeful sam-
+pling (Patton 2014) and report on six case studies of public sector OSS projects. The sample
+
+                                                                                    123
+80   Page 8 of 54                                          Empirical Software Engineering (2025) 30:80
+
+size is in line with Miller (Miller 1956) and motivated by the richness each case brings to the
+investigation and comparison we perform. We find that the case study methodology is the
+most appropriate one, as Benbasat et al. consider that â[a] case study examines a phenomenon
+in its natural setting, employing multiple data collection methods to gather information from
+a few entities. The boundaries of the phenomenon are not clearly evident at the outset of the
+research and no experimental control or manipulation is usedâ (Benbasat et al. 1987). So, as
+in Mockus et al., a mixed-methods approach is used in this research (Creswell et al. 2003),
+combining qualitative and quantitative data sources. This offers a more complete perspective
+of the projects, i) based on the analysis of publicly available sources and ii) by means of
+obtaining feedback from relevant stakeholders of the public sector OSS projects.
+    Consequently, we divide our design in three phases (see Figure 1):
+In the first phase we identify catalogues with OSS by PSOs. These catalogues are the result
+of PSOs creating spaces for collaboration. In them, software created for and by PSOs at local,
+regional, national, and sometimes international levels are listed, and links to the source code
+and documentation are offered. In some cases, general-purpose software, such as LibreOffice,
+can also be found in those catalogues, which although widely used in PSOs does not fulfill the
+definition of an OSS project promoted by PSOs. Through over networks with PSOs active
+in OSS on with EU, we have identified and selected a set of seven such catalogues based
+on convenience and purposeful sampling as we aimed cover a wide geographical area. We
+do not believe they cover the whole population of OSS adopted by PSOs in the respective
+countries, nor is it our intention to cover the whole population either.
+    We collect projects in those catalogues (which sum up to more than 20K projects), include
+those that are driven by a PSO, and categorize them for relevant characteristics, such as the
+number of collaborators (in terms of committers and bug reporters) and amount of activity (in
+terms of commits, bug reports and pull requests). The output of this phase is a list of projects
+ordered by community size and activity. The list is provided as supplementary material for
+the study in the reproduction package (to be found at the end of the conclusions section).
+In the second phase we select six projects through purposeful sampling (Patton 2014) out
+of the resulting list from the first phase. Our intention is not to choose the first six in terms
+of size (in number of developers and commits), but also to have a diverse set of projects
+(regarding nationality, level, and if developed in-house or not). We investigate these projects
+quantitatively by mining relevant software repositories. We further contact representatives
+for projects and ask them if they are willing to provide feedback on our investigation, thereby
+helping to triangulate findings from our quantitative analysis. A relevant aspect for being
+selected to be further studied is that they respond positively.
+In the third phase observations from the sample of public sector OSS projects are quali-
+tatively compared and contrasted with the bazaar cases of Apache web server and Mozilla
+browser OSS projects as reported by Mockus et al. (2002), together with the replicated cases
+of the FreeBSD (Dinh-Trong and Bieman 2005), JBossAS, JOnAS, and Apache Geronimo
+projects (Ma et al. 2010). As a frame of reference when contrasting public sector and bazaar
+OSS projects, we use the onion model (Nakakoji et al. 2002), classically used to illustrate
+
+Fig. 1 Execution plan in a nutshell
+
+123
+Empirical Software Engineering (2025) 30:80                                      Page 9 of 54   80
+
+the relationship between an active and influential core of developers and a less so periphery
+of users in a project (Crowston et al. 2006).
+   Below, we elaborate on the methodology and its phases in further detail.
+
+4.2 Datasets & Selection of cases
+We have identified several catalogues of OSS projects for and by PSOs used in different
+countries. These include Italy1 , France2 , Canada3 , U.S.4 , Sweden5 , Denmark6 , and Finland7 .
+   Figure 2 shows a screenshot of the Italian portal. The projects contained in these catalogues
+provide the input for our first phase. The catalogues were identified through personal networks
+and online searches, and are to be considered as a sample of potentially relevant public sector
+OSS projects rather than a complete data set.
+   The study seeks to identify six specific public sector OSS projects. For the selection
+process we use four inclusion criteria (IC) for identifying these six projects:
+ IC1 First, OSS that has been provided as an outcome of a software project and which
+     has been used by at least one PSO during the time frame of the investigation (during
+     2023). This criteria includes software projects which have been initiated as a public
+     procurement project irrespective of whether the provision of the OSS to the PSO (from
+     the commercial supplier) has taken place via a public development platform for the OSS
+     project. However, a prerequisite for the fulfillment of this criteria is that an OSS project
+     exists on a public platform even if no representative for any PSO has been directly
+     engaged with the development and maintenance of the software project (which may
+     have been initiated as an OSS project on a public platform as part of a procurement
+     contract).
+ IC2 Second, OSS projects provided on public development platforms for which there is
+     some activity during the last year. This criteria seeks to exclude OSS projects for which
+     there is inactivity on public development platforms that host the project.
+ IC3 Third, OSS projects for which the complete source code and related development infor-
+     mation is publicly available which allows for inspection of the source code and for
+     creating a running instance of the OSS from the OSS project through use of OSS
+     licensed development tools. Even if it is possible that PSOs provide source code under
+     an OSS license for which there is a lack of OSS licensed development tools, such
+     projects would be of limited relevance to other PSOs. For this reason such projects
+     would fail to fulfill this inclusion criterion.
+ IC4 Fourth, OSS projects for which commercial support and services related to the project
+     may be obtained (and have been obtained) by PSOs. This criteria presupposes that there
+     exists at least one PSO which has obtained a commercial contract with service providers
+     related to the OSS project.
+   IC1-2 are applied through mining process described in the first phase of our study, while
+IC3-4 are manually verified in the second phase when identifying the six projects to be
+investigated (see Figure 1).
+1 https://developers.italia.it/en/software
+2 https://code.gouv.fr/
+3 https://code.open.canada.ca/en/index.html
+4 https://code.gov/agencies
+5 https://www.offentligkod.se
+6 https://os2.eu/produkter
+7 http://www.opencode.fi/
+
+                                                                                     123
+80   Page 10 of 54                                             Empirical Software Engineering (2025) 30:80
+
+Fig. 2 Snapshot of the developers.italia.it public sector OSS web catalogue from the Dipartimento per la
+Trasformazione Digitale (Italian Digital Transformation Department). Provided under a Creative Commons
+Attribution 4.0 License, see https://developers.italia.it/en/legal-notice
+
+   The output of the selection process is a set of projects that have certain characteristics
+(as discussed above) and which we analyze more in-depth using their respective source code
+repositories.
+
+4.3 Variables
+
+Below, we list the variables that we analyze to address the RQs. We follow the same method
+(and thus collect the same variables) as in Mockus et al. (2002), to make the comparison in
+the third phase possible (see Figure 1).
+    To gather information, we utilized the GrimoireLab Perceval tool (DueÃ±as et al.
+2018). As individuals can have multiple identities (Robles and Gonzalez-Barahona 2005)
+that need to be merged into a single one, we employed the gambit (Gote and Zingg 2021)
+disambiguation tool; we further expanded its capabilities to include data from pull requests
+and issues. Additionally, we identified and removed numerous bots from the analysis (Chi-
+dambaram and Mazrae 2022). Tools and data can be found in the reproduction package linked
+at the end of the manuscript.
+
+4.3.1 RQ1: Development process
+
+To produce an accurate description of the OSS development processes, one of the authors
+of Mockus et al. wrote a draft description of the process for each project (i.e., Apache and
+
+123
+Empirical Software Engineering (2025) 30:80                                       Page 11 of 54   80
+
+Mozilla), then had it reviewed by members of the core OSS development teams. The scope
+of the description includes information on:
+ â Roles and responsibilities
+ â Identifying work to be done
+ â Assigning and performing development work
+ â Pre-release testing
+ â Inspections
+ â Managing releases
+   We replicate this process by first creating our own understanding of the projectâs devel-
+opment process by studying evidence found on the projectâs web page and repositories, and
+asking related question to members of the project to validate, and enrich our understanding.
+A copy of our interview questions is found in Appendix A of this study.
+
+4.3.2 RQ2: Community size
+
+To address this question, as in Mockus et al., we identify those who have submitted code
+(discriminating between those who add functionality and those who fix bugs) and those who
+file bug reports to the bug tracking system.
+    We considered that commits fixed a bug when their commit message contained at least one
+of the following keywords (after Porter-stemming and removing stopwords): close, hotfix,
+incorrect, bug, buggi, bugfix, correct, typo, resolv, issu, fix, error, debug, fail, repair, crash,
+broken, miss. We considered every other commit as adding functionality. This set of keywords
+is extended from a state of the art set that was used in past studies to identify bug-fixing
+commits (Capilla et al. 2024).
+
+4.3.3 RQ3: Involvement & roles
+
+Mockus et al. plotted the cumulative proportion of code changes and bug reports against the
+number of contributors and accounted for the share of contributions of the top 15 developers
+(what they called the core group, following the onion model). We also examine whether the
+size of commits by the most active developers is statistically larger than those done by the
+rest, and how the participation is in terms of adding new functionalities. We measure as well
+the tenure of most active developers and the rest.
+   For bug reports, we investigate the distribution of those who have reported the bugs, and
+how much of the total share has been done by the most active developers.
+   We have identified the affiliation of the core group developers by analyzing the domain
+of the emails that these developers use in their commits to the release repository. In the
+event that they used general service domains (e.g., gmail.com) or used personal domains
+(e.g., joesmith.com), a manual search has been carried out to find out the affiliation of the
+developer. If the situation arises that you have had several employers in recent years, the
+dates of the commits have been taken into account when making the assignment. The core
+group has been defined for the affiliation analysis, as has been done in the rest of the paper,
+as the group composed of the minimum number of developers to reach at least 80% of the
+activity in the repository.
+
+4.3.4 RQ4: Code ownership
+
+To address this question, we track those who have made modifications to files and see if only
+one developer is in charge of them or if code ownership is shared among more developers.
+
+                                                                                       123
+80   Page 12 of 54                                               Empirical Software Engineering (2025) 30:80
+
+4.4 Qualitative analysis
+
+As highlighted in Section 4.1, we validate our investigation through interviews with individu-
+als within the communities of the respective cases. This regards both the process description
+as highlighted by RQ1, but also our general findings in terms of RQ2-4. Individuals are
+sampled based on their social and technical activity, and their (potential) organizational affil-
+iation. Two individuals are sampled per project as noted in Table 1. Further context on the
+respective cases are provided in the results section.
+    Online interviews lasting about 60 minutes each are conducted by two of the authors,
+with one leading the interview and the second taking notes. The interview questions used
+were prepared a-priori and based on the research questions and hypotheses defined in this
+study. Interviews are recorded and transcribed, and structurally coded (SaldaÃ±a 2021) based
+on the respective RQs. The coded data is then used to triangulate our previous findings and
+used in our analysis of each project. The data further provide input to our synthesis and
+comparison between the bazaar projects investigated by Mockus et al. (2002) and replicated
+works (Dinh-Trong and Bieman 2005; Ma et al. 2010), and the public sector OSS projects
+investigated in this study.
+    The authors abide by the ethical guidelines provided by the Swedish Research Coun-
+cil (Council 2017). In terms of data management specifically, intervieweesâ identities and
+affiliations are anonymized in transcriptions and any reporting based on the data. Each
+interviewee is provided with a copy of the transcript and encouraged to address any mis-
+understanding or mentions of sensitive information. All recordings will be destroyed after
+the reporting of this study.
+
+4.5 Deviations from the pre-registered report
+
+There have not been any significant deviations from the pre-registered report.
+
+Table 1 Overview of interviewees from the respective projects investigated in the study
+ID      Role                               Org.                          Org. type            OSS project
+
+1       Product owner                      U.S. Dept. of Energy          PSO                  EnergyPlus
+2       Software engineer                  Independent consultant        Supplier             EnergyPlus
+3       Project coordinator                OS2                           PSO association      OS2forms
+4       Developer                          Rudersdal municipality        PSO                  OS2forms
+5       Product owner                      National Land Survey of       PSO                  Oskari
+                                           Finland
+6       Technical project lead             National Land Survey of       PSO                  Oskari
+                                           Finland
+7       Project lead                       Parc national des Ecrins      PSO                  Geotrek
+8       Product Manager                    Makina Corpus                 Supplier             Geotrek
+9       Business developer                 Interdepartmental             PSO                  DÃ©marches
+                                           Administration        for                          simplifiÃ©es
+                                           Digital
+10      Community manager                  Interdepartmental             PSO                  DÃ©marches
+                                           Administration        for                          simplifiÃ©es
+                                           Digital
+11      Director of Engineering            PagoPA                        PSO                  IO-app
+12      Open Source Program Officer        PagoPA                        PSO                  IO-app
+
+123
+Empirical Software Engineering (2025) 30:80                                     Page 13 of 54   80
+
+5 Study 1: EnergyPlus
+
+EnergyPlus8 is a simulation program that can model a buildingâs consumption regarding
+heating, cooling, ventilation, lighting, and water. Target users include engineers, architects,
+building auditors, and researchers. It was initiated in 1996 and published under a BSD-3 clause
+OSS license in 2012 to improve adoption. Today, the software is widely used primarily by
+software vendors as a component in end-user applications. The OSS is also commonly used in
+academic research for experimenting and implementing simulation models related to energy
+consumption.
+
+5.1 RQ1 - The energyplus development process
+
+The project is mainly developed and governed by the National Renewable Energy Laboratory,
+together with four other national research labs affiliated to and funded by the U.S. Department
+of Energy. Each research lab has general ownership of different parts of the software related
+to their expertise. The University of California, e.g., specializes in energy transfer through
+and around windows, which is why they maintain ownership of related models. In total,
+about 30 individuals are working professionally with the development and maintenance of
+the project, of which four are working full time on the project.
+    The individuals are spread out across the labs, and about 20 are procured resources with
+expertise within one or two areas of the project not available inside the labs. While contractors
+are estimated to perform a majority of the development, about 10 percent of the development
+is estimated to be contributed by the general community. One reason is that the OSS is
+considered technically complex and requires subject matter expertise, which is why the
+potential contributors are limited.
+    The main responsibility for governance, coordination, and maintenance of the OSS project
+is managed by the lab employees. A core group of six developers manages the main planning
+and prioritization of features to be developed. Requests come indirectly via the projectâs issue
+tracker, where the community is continuously asked to vote on features. Requests coming
+from software vendors are given priority as they provide a multiplier effect in terms of impact
+through their distributions integrating EnergyPlus.
+    The development process follows a two-week agile cycle and is considered very rigid, with
+detailed processes for how a feature may be proposed and contributed. Contributions that
+do come in are reviewed thoroughly according to the process, and a dialogue is maintained
+with the contributor throughout the process. Minor releases are made via GitHub frequently,
+typically once or twice a month, with sometimes longer periods in between. Larger releases
+are typically made twice a year.
+    The 30 developers meet once every week in a joint meeting to discuss ongoing work,
+issues, and prioritizations. Asynchronous communication is facilitated through GitHubâs
+issue tracker and PR functionality, while synchronous communication is managed through a
+Slack instance. Slack and the weekly meetings are closed but open for community members
+on request, although seldom asked for.
+    End-users of the OSS project can procure service, either through the software vendors
+integrating the OSS in their products, or by a smaller set of service providers that provide
+training, technical support, and integration of the OSS based on the customerâs use case. The
+service providers generally contribute through feature requests, bug reports, and documenta-
+tion, although two providers are also procured to provide development through the research
+8 https://github.com/NREL/EnergyPlus
+
+                                                                                     123
+80   Page 14 of 54                                              Empirical Software Engineering (2025) 30:80
+
+labs. The procurement follows a standard procedure where a tender is published, followed
+by a bidding, selection, and contracting process. New applicants are screened thoroughly
+as the OSS project is highly complex. Procurement is mainly carried out by the National
+Renewable Energy Laboratory.
+
+5.2 RQ2 - Community size
+
+RQ2 explores how many people wrote code for functionality in the public sector OSS projects,
+how many individuals reported problems, how many individuals repaired defects, and what
+their affiliations and roles were.
+    We have found development activity in the software repository of the EnergyPlus project
+for 9.73 years. We report the contributions that authors have provided in that time in Table 2.
+We observe that EnergyPlus received many more commits than it did issue reports (about
+3 times as many). However, many more people participated reporting issues than they did
+committing code (also about 3 times as many). We expected both of these observations, since
+software development involves more activities than just resolving issues, and the potential
+audience for issue reporting is also larger than that of developers (i.e., both developers and
+uses likely reported issues). Also naturally, much fewer (about 20%) commits targeted bug
+fixing as opposed to other development. The community of developers fixing commits was
+also a subset of all developers that performed commits, but only by a small margin (80 out
+of 90 developers). It is worth noting that the number of authors reported in Table 2 are not
+exclusive. That is, the same developer may both report issues and perform commits, and may
+perform both bug-fixing and non-bug-fixing commits.
+    Table 3 offers information on the affiliations of the members of the core group (i.e., those
+that have performed at least 80% of the commits) of the EnergyPlus project. As can be seen,
+the members of the core group are widely distributed, belonging to 9 different organizations.
+Four of these organizations are government organizations and two are educational institutions.
+There are two companies on the list: i) Gard, a small business corporation that provides energy,
+environmental and economic R&D services and ii) Effibem, a one-man company specialized
+on energy efficiency.
+
+5.3 RQ3 - Involvement and roles
+
+RQ3 asks whether these functions were carried out by distinct groups of individuals, i.e.,
+did individuals primarily assume a single role? Did large numbers of individuals participate
+somewhat equally in these activities, or did a small number of individuals do most of the
+work?
+
+Table 2 RQ2. Contributions to the EnergyPlus software project
+                                                            # Contributions                     # Authors
+
+Submitted issue reports (or pull requests)                  10,271                              305
+MRs (i.e., commits)                                         26,131                              98
+PR changes (i.e., bug-fix commits)                          5,813                               80
+Non-PR changes (i.e., non-bug-fix commits)                  20,318                              90
+Delta (i.e., changed files)                                 241,517                             98
+Lines added (i.e., added lines in files)                    41,331,282                          98
+
+123
+Empirical Software Engineering (2025) 30:80                                                                 Page 15 of 54   80
+
+Table 3 RQ2. Affiliations of the                            Number                                      Affiliation
+core group of the EnergyPlus
+project                                                     17                                          Total
+                                                            4                                           nrel.gov
+                                                            3                                           fsec.ucf.edu
+                                                            3                                           gard.com
+                                                            2                                           ornl.gov
+                                                            1                                           bigladdersoftware.com
+                                                            1                                           lbl.gov
+                                                            1                                           lbnl.us
+                                                            1                                           uiuc.edu
+                                                            1                                           effibem.com
+
+   To study this research question, we measured the contributions of each individual author.
+We plot the CDF (i.e., cumulative distribution function) of author contributions, measured by
+multiple metrics, in Figs. 3 and 4. Figure 3 represents all the code changes in the repository
+and Fig. 4 represents only those that fixed bugs (i.e., PR commits). In these figures, we only
+show contributions for the top-50 authors (in terms of number of commits). This allows us
+to study a reasonable number of developers while still observing very close to 100% of the
+code changes (for all our studied projects). It also allows us to keep our analysis consistent
+for all our studied projects.
+   In these figures, the X axis represents the cumulative number of authors considered. As
+more authors are considered, their cumulative proportion of contributions increases (seen in
+the Y axis). We sort authors in the X axis by their contributed number of commits, in descend-
+ing order (as Mockus et al. originally did). Note that we keep this order for other metrics,
+e.g., for the added_lines metric, authors in the X axis are still sorted by their contributed
+
+                                   100%
+
+                                   90%
+
+                                   80%
+      Cumulative Value of Metric
+
+                                   70%                                                         Metric
+
+                                   60%                                                             Authored Commits
+                                                                                                   Changed Files
+                                   50%
+                                                                                                   Added Lines
+                                   40%                                                             Removed Lines
+
+                                   30%                                                             Reported Issues or PRs
+
+                                   20%
+
+                                   10%
+
+                                    0%
+
+                                          0   5   10   15   20   25   30   35   40   45   50
+                                                  Cumulative Top Contributors
+Fig. 3 RQ3. EnergyPlus project. Cumulative proportion of contributions performed by the top authors (ranked
+by their number of contributed commits)
+
+                                                                                                                   123
+80   Page 16 of 54                                               Empirical Software Engineering (2025) 30:80
+
+Fig. 4 RQ3. EnergyPlus project. Cumulative proportion of contributions performed by the top authors (ranked
+by their number of contributed commits), when only issue-fixing commits are considered
+
+number of commits. In the Y axis, we measure contributions in terms of five cumulative
+metrics: number of commits performed, number of changed files, number of added lines,
+number of removed lines, and number of reported issues (including both issue reports and
+pull requests).
+    Finally, we also plot two straight lines in Figs. 3 and 4, two capture the set of âtop
+authorsâ. We apply two different methods to identify the set of âtop authorsâ. The straight
+vertical line captures the top-15 authors in terms of their performed commits (as Mockus et
+al. originally did). The straight horizontal line captures the top authors that provided 80% of
+the contributions in each metric (which is how Mockus et al. originally identified the number
+15 for their classification of top authors).
+    We make multiple observations in Figs. 3 and 4. First, all the metrics that measure code
+changes in different ways show very similar trends, i.e., the curves of number of commits
+performed, number of changed files, number of added lines, and number of removed lines
+grow very similarly to each other. Note that the curves for metrics other than number of
+commits are âjaggedâ. This is because we sort the X axis in terms of number of commits, so
+each newly considered developer may or may not be the next highest contributor in the other
+metrics (i.e., if it is not, the curve may âplateauâ for a bit, or grow more slowly than number
+of commits).
+    Second, the two methods for identifying âtop authorsâ provide very similar results. Fig-
+ures 3 and 4 show that the top-15 authors in terms of number of commits provided very close
+to 80% of commits. The CDF for number of commits crosses the vertical line representing
+the top-15 authors at a very close point to the one in which it crosses the horizontal line
+representing 80% of contributions.
+    Third, the community of authors contributing code and that of authors contributing issue
+reports are different. The top-15 authors, who contributed most commits (approximately
+80%), only provided approximately 40% issue reports. This is represented by the points at
+which our plotted metrics cross the vertical straight line. Furthermore, when we consider up
+to the top-50 authors in terms of commits who contributed close to 100% of commits), they
+
+123
+Empirical Software Engineering (2025) 30:80                                      Page 17 of 54   80
+
+still provided only â¼45% issue reports. This is shown in the whole of Figs. 3 and 4. The
+remaining issue reports (from â¼45% to 100%) were provided by authors that contributed
+little to no code (only â¼2% of commits remain). If we continued our plot to include the
+remaining authors in the X axis, we would observe the curve for issues reported grow with
+each additional author, eventually reaching 100%, while the other metrics also very slowly
+reach 100% (since they have little space left to grow).
+    In conclusion, for the metrics related to code changes, we obtained very similar obser-
+vations than Mockus et al.: a small set of 15 top developers performed â¼80% of the code
+changes (in various metrics). However, in terms of issue reporting, these top developers pro-
+vided a sizable proportion of contributions (â¼40%), but it was not the majority of the work.
+The majority of issue reporting was performed by authors who contributed little to no code.
+
+5.4 RQ4 - Code ownership
+RQ4 looks into where the code contributors worked in the code, and if there was a strict code
+ownership enforced on a file or module level.
+    To answer this research question, we plotted the distribution of contributions by different
+authors over different files in the software project in Fig. 5. The X axis represents each one
+of the top 100 files of the project with the highest number of commits. The Y axis represents
+the number of commits made over the file, in a logarithmic scale (for easier display, since
+it follows a long-tail distribution). Inside each bar in the plot, we use a separate color to
+represent each author. The area covered by each color represents the proportion of commits
+that were performed by that author.
+    We can clearly see in Fig. 5 that EnergyPlus did not follow a strict code ownership policy.
+None of the represented files had a single author performing most commits in it, i.e., none was
+clearly âownedâ by a single author. Instead, most of our represented files received commits
+from multiple different authors, in proportions that were not too different to each other. A
+final observation that we can make is that many authors did not commit changes to this top-
+100 files (i.e., not all colors are represented). But this is unsurprising, given the large number
+of possible authors, i.e., not all of them can commit changes in every file.
+    In conclusion, EnergyPlus did not follow a strict code ownership policy, since we observed
+a relatively balanced proportion of commits being contributed by many authors over many
+files.
+
+6 Study 2: OS2forms
+OS2forms9 is an e-service platform that enables self-service and automation to citizens
+and public servants through the creation and management of online forms, and the data
+communicated through the forms, and integrates with services such as single sign on, and
+digital mailboxes. The project was initiated in 2019 and released under the GPL-2.0 license.
+The OSS is used by 11 municipalities in Denmark.
+
+6.1 RQ1 - The OS2forms development process
+The development and maintenance of the project is facilitated through OS2, an association
+consisting of 80+ of Denmarkâs 98 municipalities, along with single regions and state agen-
+cies. Members pay membership to finance a core team of individuals that in turn facilitate
+9 https://github.com/OS2Forms/os2forms8
+
+                                                                                      123
+80   Page 18 of 54                                              Empirical Software Engineering (2025) 30:80
+
+Fig. 5 RQ4. EnergyPlus project. Number of commits performed over the 100 most modified files (in logarith-
+mic scale), by each author (in different colors).
+
+an overarching collaboration between the members, enabling them to initiate, develop and
+use OSS addressing common needs. The 11 municipalities using OS2forms, one out of 25+
+OSS projects under OS2 in total, pay an additional fee that sponsors common development
+needs.
+    About half of the development is sponsored by the pooled budget, while the other half
+is sponsored directly by single members who have specific needs and want these imple-
+mented in a faster pace than would otherwise have been allowed due to limits in the pooled
+budget. Any new feature is, however, brought up for discussion and decided on jointly in
+the projectâs coordination group where representatives from five municipalities preside. The
+group convenes biweekly to discuss the projectâs road-map and backlog, and specific issues.
+    A Jira Issue tracker is used to manage the backlog and ongoing development of the projects,
+enabling interaction between the users of the project and the vendors. The tracker also enables
+users of OS2form who are not member of OS2 to report issues and contribute feedback on
+requirements discussions. There is currently an initiative to integrate the Jira issue tracker
+with GitHub in order to connect ongoing development by the vendors, and create greater
+transparency into the development for those users who are accustomed to the GitHub user
+interface.
+    In addition, there is a governance board with chief digital officers from four municipalities
+that discuss mores strategic decisions regarding the project. The governance and coordination
+is facilitated by a product coordinator from OS2âs core team with the mission to grow and
+mature the projectâs community to be self-managed and sustained, after which he will move
+on to other projects within OS2. The coordinator has no formal mandate or vote in terms of
+deciding on the direction of the project.
+    Except for smaller contributions from two larger municipalities, the development is pri-
+marily procured through three vendors, either from OS2 or from single municipalities directly.
+The goal, however, is to be able to choose between additional vendors although there is a
+preference to those who are already familiar with the project and its processes. Such dynamics
+should ideally be present as the source code and all the necessary boundary resources should
+be available under an OSS license, and processes across OS2 projects are standardized.
+    Procurement is typically performed on a task-by-task basis where the vendors are contacted
+based on expertise for the task at hand. Based on price the vendor is contracted to perform
+the task and release its implementation to the public repository of the project on GitHub.
+
+123
+Empirical Software Engineering (2025) 30:80                                  Page 19 of 54   80
+
+Table 4 RQ2. Contributions to the OS2Forms software project
+                                                          # Contributions             # Authors
+
+Submitted issue reports (or pull requests)                71                          10
+MRs (i.e., commits)                                       421                         16
+PR changes (i.e., bug-fix commits)                        61                          9
+Non-PR changes (i.e., non-bug-fix commits)                360                         15
+Delta (i.e., changed files)                               1,795                       16
+Lines added (i.e., added lines in files)                  176,538                     16
+
+The task-by-task approach is preferred before larger procurement procedures as it allows
+for a more cost-efficient and agile development approach. New releases are typically made
+monthly via GitHub.
+
+6.2 RQ2 - Community size
+
+RQ2 explores how many people wrote code for functionality in the public sector OSS projects,
+how many individuals reported problems, how many individuals repaired defects, and what
+their affiliations and roles were.
+   OS2Forms has been developed for 3.67 years. OS2Forms is the smallest of our studied
+projects, with low values in all our studied metrics. As with our other studied projects,
+OS2Forms also received much fewer contributions in terms of issue reports than in terms
+of commits. Also, although this time the number of contributors to each category is not
+that different, still more people contributed commits than reported issues. Again, this time
+much fewer commits were dedicated to bug-fixing than to other activities, with substantial
+difference (about 5x). Finally, only 9 developers created bug fixing commits, as opposed to
+15 developers writing commits for other purposes. This time, the set of developers that fixed
+bugs represented a smaller proportion of the whole set of committers, differently than, e.g.,
+in EnergyPlus (Table 4).
+   Table 5 shows the affiliations of the members of the core group of the OS2Forms project.
+As it can be observed, three of the four core group members are affiliated to Bellcom, a
+Danish consultancy firm with business in development, hosting, and support of OSS, while
+the fourth one works at Magenta, a Danish software development company.
+
+6.3 RQ3 - Involvement and roles
+
+RQ3 asks whether these functions were carried out by distinct groups of individuals, i.e.,
+did individuals primarily assume a single role? Did large numbers of individuals participate
+somewhat equally in these activities, or did a small number of individuals do most of the
+work?
+
+Table 5 RQ2. Affiliations of the       Number                                 Affiliation
+core group of the OS2Forms
+project                                4                                      Total
+                                       3                                      bellcom{.dk,.ee}
+                                       1                                      magenta-aps.dk
+
+                                                                                  123
+80   Page 20 of 54                                                                       Empirical Software Engineering (2025) 30:80
+
+   We plot two figures to answer RQ3 for OS2Forms: Figures 6 and 7 In them, we make
+similar observations as we did for our previous studied project (EnergyPlus).
+   First, all the metrics measuring code contributions show very similar trends, i.e., most
+code contributions were performed by a small number of authors. The curves for the âfilesâ,
+âadded_linesâ and âremoved_linesâ are again slightly jagged, showing that some authors
+performed slightly different ratios of commits than modified files or lines.
+   Second, this time, the set of âtopâ contributors is much smaller than for EnergyPlus. For
+OS2Forms, 4â5 authors are responsible for 80% of the code contributions.
+   Third, also differently than for EnergyPlus, we capture 100% of code contributions and
+bug reporting with much fewer authors: 21. This allows us to observe the phenomenon that
+we described for EnergyPlus, but were not able to observe, because we limit the X axis to
+50 authors. OS2Forms had a maximum of 21 contributors, so we can see all contributions
+reaching 100% in our figure for this project. A few authors (authors 1â5) contribute commits
+and bug reports. Then, other authors contribute only commits and no bug reports, i.e., the
+observable plateau of âbugs_reportedâ from authors 5â15. Then, other authors contribute
+only bug reports and no commits, i.e., authors 15â21. However, differently this time, the top
+5 authors that made both commits and bug reporting covered the majority of contributions
+in both dimensions, accounting for â¼90% commits and â¼75% bug reports.
+   In summary, in OS2Forms, a few (5) authors performed the majority of commits and bug
+reporting.
+
+6.4 RQ4 - Code ownership
+
+RQ4 looks into where the code contributors worked in the code, and if there was a strict code
+ownership enforced on a file or module level.
+
+                                  100%
+
+                                  90%
+
+                                  80%
+     Cumulative Value of Metric
+
+                                  70%                                                             Metric
+
+                                  60%                                                                  Authored Commits
+                                                                                                       Changed Files
+                                  50%
+                                                                                                       Added Lines
+                                  40%                                                                  Removed Lines
+
+                                  30%                                                                  Reported Issues or PRs
+
+                                  20%
+
+                                  10%
+
+                                   0%
+
+                                         0   5   10   15   20   25   30   35   40   45    50
+                                                 Cumulative Top Contributors
+Fig. 6 RQ3. OS2Forms project. Cumulative proportion of contributions performed by the top authors (ranked
+by their number of contributed commits)
+
+123
+Empirical Software Engineering (2025) 30:80                                                    Page 21 of 54               80
+
+Fig. 7 RQ3. OS2Forms project. Cumulative proportion of contributions performed by the top authors (ranked
+by their number of contributed commits), when only issue-fixing commits are considered
+
+    Figure 8 shows the distribution of commits that different authors performed over the top
+modified files. This time, we do see some code ownership over many files, i.e., many files show
+a single color in their corresponding bar. However, we cannot conclude that code ownership
+was strictly enforced, since we also see other files that were modified by many authors
+(i.e., have bars with multiple colors), particularly those files that received most commits.
+However, OS2Forms has a substantially lower size and age than the other projects that we
+study. Therefore, the clear separation that we observe of some files being modified only by
+a single developer may simply be due to the project having limited resources, i.e., with only
+a few authors to contribute, they may be better focused only certain areas of the code, until
+they become more familiar with the whole codebase over time.
+
+                                     100
+     Number of Commits (log scale)
+
+                                     32
+
+                                                                                                     Author ID
+                                                                                                        66       71   76
+                                                                                                        67       72   77
+                                                                                                        68       73   78
+                                                                                                        69       74   79
+                                     10                                                                 70       75   80
+
+                                      3
+
+                                      1
+
+                                           10   20   30   40     50        60   70   80   90   100
+                                                               File Rank
+
+Fig. 8 RQ4. OS2Forms project. Number of commits performed over the 100 most modified files (in logarithmic
+scale), by each author (in different colors)
+
+                                                                                                        123
+80   Page 22 of 54                                       Empirical Software Engineering (2025) 30:80
+
+7 Study 3: Oskari
+
+Oskari10 is a platform for constructing web-based mapping applications with an agnostic
+data layer, enabling the integration of various kinds of data sources. The OSS can run both
+in the cloud and internally, serving several use cases among its international community,
+mainly consisting of PSOs. The project was initiated in 2013 by the National Land Survey
+of Finland (NLSF) as part of a general effort towards publishing open map-based data and a
+general adoption of an open, collaborative mindset.
+
+7.1 RQ1 - The Oskari Development Process
+
+Initially, the project served as a release of the NLSFâs national geoportal. When external
+interest grew, the Oskari project was generalized and improved in terms of customizability
+and usability. Today, the project is relatively mature, where development mostly concerns
+smaller improvements and bug corrections. The national geoportal is still the driving use
+case for the development of Oskari and is performed by NLSF that has an IT staff of 100+
+individuals of which five are dedicated to the Oskari project.
+    The NLSF estimates that they perform about 95 percent of the development. The rest
+typically originates from suppliers commissioned by PSOs with no or limited technical
+resources. Many accordingly expect the NLSF to perform most of the development while
+they try to continuously encourage external contributions. The modular architecture allows
+for others to contribute whenever their request is considered too specific or not prioritized.
+Any external contributions are peer-reviewed and supported by the NLSF staff.
+    NLSF manages an informal group within the community, the Joint Development Forum
+(JDF), which currently consists of eight members, most of whom are Finnish PSOs. These
+pay a membership fee of 5000 Euro a year to NLSF, which sponsors the employment of
+a community manager, the organization of a yearly community gathering, and technical
+community support provided by the projectâs lead architect. The support and activities are
+still open for the wider community, though.
+    Representatives from the JDF members, together with NLSF, form the technical steering
+committee, although anyone can request to join. The committee convenes monthly to make
+technical decisions, e.g., in prioritizing the backlog and overseeing ongoing development.
+Besides, there is also a governance board that discusses the more general direction of the
+project in terms of its roadmap.
+    Feature requests and bug reports can be posted on the projectâs GitHub site. Continuous
+communication and technical support are managed mainly through a chat room on Gitter or
+via issues and pull requests on GitHub. There is also a mailing list, which is mainly used
+for communicating general updates and release notes. In addition, there is a yearly physical
+meetup for the community during the Oskari days, where users share knowledge on new and
+existing use cases.
+    NLSF highlights the importance of having a diversity of suppliers in the community to
+ensure sustainability and technical support for users, both in terms of development, imple-
+mentation, training, and hosting of the OSS. Another reason is to avoid the risk of creating
+lock-in effects, although the NLSF sits on core competencies related to the project. NLSF,
+for example, tries to source developers from different consultancies to enable them to grow
+technical expertise on the project, which can be used to serve others in the community later
+on.
+10 https://github.com/oskariorg/
+
+123
+Empirical Software Engineering (2025) 30:80                                      Page 23 of 54   80
+
+Table 6 RQ2. Contributions to the Oskari software project
+                                                            # Contributions                # Authors
+
+Submitted issue reports (or pull requests)                  2,677                          64
+MRs (i.e., commits)                                         24,892                         79
+PR changes (i.e., bug-fix commits)                          5,815                          63
+Non-PR changes (i.e., non-bug-fix commits)                  19,707                         77
+Delta (i.e., changed files)                                 160,195                        79
+Lines added (i.e., added lines in files)                    9,594,043                      79
+
+7.2 RQ2 - Community size
+
+RQ2 explores how many people wrote code for functionality in the public sector OSS projects,
+how many individuals reported problems, how many individuals repaired defects, and what
+their affiliations and roles were.
+   Oskari was developed for 11.32 years at the point of our study. We show in Table 6 the
+values of our various measurements for the contributions that the authors made. We observe
+a stronger difference between the number of commits and issue reports in this project than
+we did for the previous projects. EnergyPlus and OS2Forms had respectively about 2x and
+5x commits than issue reports. Oskari shows about 10x commits than issue reports. In terms
+of authors now, the difference is not that substantial. In that respect, Oskari is more similar to
+OS2Forms than it is to EnergyPlus. The Oskari is very similar to our other studied projects,
+in terms of how many commits it used to fix bugs when compared to commits with other
+purposes. As we observed for other projects, Oskari used about 4x commits for other purposes
+than for fixing bugs. Also similarly to other projects, the number of authors involved in fixing-
+bug commits was very similar to the number of authors involved in other kinds of commits.
+   Table 7 shows the affiliations of the members of the core group of the Oskari project. As it
+can be observed, all but one core developers work at NLSR (maanmittauslaitos.fi), while the
+other developer has worked in the private sector in several companies during the last years.
+
+7.3 RQ3 - Involvement and roles
+
+RQ3 asks whether these functions were carried out by distinct groups of individuals, i.e.,
+did individuals primarily assume a single role? Did large numbers of individuals participate
+somewhat equally in these activities, or did a small number of individuals do most of the
+work?
+   Figures 9 and 10 show the CDF of contributions for the top 50 authors of Oskari. We
+make similar observations for Oskari as we did for other projects. First, all the metrics for
+code contributions follow similar distributions. The exception in this case is the metric for
+âadded_linesâ, which represents a lower proportion of the total added lines, until we reach
+
+Table 7 RQ2. Affiliations of the       Number                                  Affiliation
+core group of the Oskari project
+                                       13                                      Total
+                                       12                                      maanmittauslaitos.fi
+                                       1                                       corporate
+
+                                                                                       123
+80   Page 24 of 54                                                                       Empirical Software Engineering (2025) 30:80
+
+                                  100%
+
+                                  90%
+
+                                  80%
+     Cumulative Value of Metric
+
+                                  70%                                                             Metric
+
+                                  60%                                                                  Authored Commits
+                                                                                                       Changed Files
+                                  50%
+                                                                                                       Added Lines
+                                  40%                                                                  Removed Lines
+
+                                  30%                                                                  Reported Issues or PRs
+
+                                  20%
+
+                                  10%
+
+                                   0%
+
+                                         0   5   10   15   20   25   30   35   40   45    50
+                                                 Cumulative Top Contributors
+Fig. 9 RQ3. Oskari project. Cumulative proportion of contributions performed by the top authors (ranked by
+their number of contributed commits)
+
+developer 20. The likely explanation for this observation is that developer 20 (ranked in
+terms of commits performed) made some commits that added a relatively very high number
+of lines. Second, as in EnergyPlus, the two strategies to capture âtopâ authors return almost
+the same set, i.e., the top 13 authors performed â¼80% of contributions, and the top 15 authors
+performed approximately 85% of contributions. Third, Oskari is more similar to OS2Forms
+in the proportion of bugs reported by the top authors, since the top 15 authors reported about
+
+                                  100%
+
+                                  90%
+
+                                  80%
+     Cumulative Value of Metric
+
+                                  70%                                                             Metric
+
+                                  60%                                                                  Authored Commits
+                                                                                                       Changed Files
+                                  50%
+                                                                                                       Added Lines
+                                  40%                                                                  Removed Lines
+
+                                  30%                                                                  Reported Issues or PRs
+
+                                  20%
+
+                                  10%
+
+                                   0%
+
+                                         0   5   10   15   20   25   30   35   40   45    50
+                                                 Cumulative Top Contributors
+Fig. 10 RQ3. Oskari project. Cumulative proportion of contributions performed by the top authors (ranked
+by their number of contributed commits), when only issue-fixing commits are considered
+
+123
+Empirical Software Engineering (2025) 30:80                                            Page 25 of 54   80
+
+Fig. 11 RQ4. Oskari project. Number of commits performed over the 100 most modified files (in logarithmic
+scale), by each author (in different colors)
+
+â¼70% of bugs. Finally, also as in other projects, the bug reporting activity plateaus for the
+authors ranked after the top developers.
+
+7.4 RQ4 - Code ownership
+
+RQ4 looks into where the code contributors worked in the code, and if there was a strict code
+ownership enforced on a file or module level.
+   Figure 11 shows the distribution of commits contributed by different authors within the
+100 most changed files in Oskari. We observe here that the contribution of commits to files is
+relatively distributed among multiple authors for most of the represented files, as we observed
+for EnergyPlus. However, there are still a few files that get few contributors, as it happened
+in OS2Forms.
+   Still, we conclude that there was no strict code ownership enforced in Oskari, because
+we cannot observe in this graph a clear assignment of authors to files, i.e., there is no clear
+assignment of individual colors to individual bars.
+
+8 Study 4: Geotrek
+
+Geotrek11 is a platform for managing and publishing tracks, signages, and interventions
+within national parks. The OSS was created collaboratively between two of the national
+parks in France in close collaboration with a supplier where the development was procured
+from. The OSS, created in 2013, is today estimated to have about 150 mainly PSOs as its
+users.
+
+8.1 RQ1 - The geotrek development process
+
+The initial supplier has cared for the majority of the development yet kept the OSS project
+open and community-driven, avoiding turning it into a single-vendor OSS project. They
+11 https://github.com/GeotrekCE
+
+                                                                                            123
+80   Page 26 of 54                                         Empirical Software Engineering (2025) 30:80
+
+have further provided an important source of knowledge for the national parks in terms
+of best practices for setting up and collaboratively developing an OSS project. Automatic
+test cases, peer-reviewing, thorough documentation, and agile development processes have
+been present since the beginning. Releases are performed via GitHub with irregular intervals
+(between 2-3 times a month to once every two months) when new features are accumulated,
+or when addressing critical bugs. Customers procuring development are enabled to perform
+acceptance testing either after a release in their own instance, or pre-release in a sand-boxed
+environment at the supplier.
+    The user base of PSOs typically has limited technological capabilities and has to procure
+services from the main supplier specialized in the OSS. Some additional suppliers have
+emerged specializing in hosting and training related to the software. Some contributions has
+been provided by these and some of the PSOs using the OSS, although such contributions
+are typically of minor complexity. The main supplier typically has an open discussion via
+GitHub, supporting and reviewing the contributorâs work. Generally, though, PSOs contact
+the main supplier directly with feature requests, who then posts it on GitHub. When enough
+PSOs have hinted interest towards the supplier, the PSOs are encouraged to collaborate on the
+procurement of the feature from the supplier who then implements and releases the feature
+to the OSS project.
+    After the initial development, which was carried out through a specified tender, additional
+features are continuously added through direct procurement from the main supplier. After six
+years, however, a larger budget was pooled in 2019 from 12 PSOs using the OSS. A collabo-
+ratively defined requirements specification was used for the tender, which attracted multiple
+suppliers. Two were selected to share the contract, including the historically main supplier.
+This was seen as important in order to increase the availability of technical support while
+also decreasing the dependence on a single supplier. The new supplier, however, abandoned
+the project after having provided the requested deliverables, including a mobile app, leaving
+its source code to be maintained by the the first supplier who maintains the rest of the project.
+A new procurement is currently being planned with a budget pooled from 22 PSOs.
+    Parc national des Ecrins, one of the two national parks initiating the project, through the
+interviewee (I7), has served the role as the main coordinator of the project in collaboration
+with the historically main supplier. The park has also acted as the main procuring body
+and contractor for the larger procurements. There are, however, talks about establishing a
+common foundation to enable more independent facilitation of the planning and procurement
+of development.
+    Although the development through the suppliers has been structured, the continuous gov-
+ernance is described as rather informal and decentralized. Smaller working groups help to
+drive continuous discussions on needs and knowledge sharing. A common steering committee
+coordinated by I7 helps to coordinate the overarching discussions. The modular architecture
+enables each PSO to procure development independently. Requirements discussions are typ-
+ically managed directly with the main supplier, along with I7, who thereby aligns any request
+with the overall development of the project.
+    Communication typically occurs through a mailing list or through the development infras-
+tructure on GitHub. Physical community meetups are facilitated twice a year to further
+encourage interaction and knowledge sharing.
+    The community has grown organically. One success factor highlighted was that the OSS
+was developed to be general from its inception as it had to consider the settings of multiple
+national parks. Another is that there were only two national parks that were part of the
+collaboration initially, simplifying communication and requirements engineering.
+
+123
+Empirical Software Engineering (2025) 30:80                                       Page 27 of 54    80
+
+Table 8 RQ2. Contributions to the Geotrek software project
+                                                             # Contributions                 # Authors
+
+Submitted issue reports (or pull requests)                   4,395                           111
+MRs (i.e., commits)                                          17,241                          66
+PR changes (i.e., bug-fix commits)                           4,477                           53
+Non-PR changes (i.e., non-bug-fix commits)                   12,764                          62
+Delta (i.e., changed files)                                  61,630                          66
+Lines added (i.e., added lines in files)                     1,843,516                       66
+
+8.2 RQ2 - Community size
+
+RQ2 explores how many people wrote code for functionality in the public sector OSS projects,
+how many individuals reported problems, how many individuals repaired defects, and what
+their affiliations and roles were.
+    Geotrek is the project for which we analyzed the longest history. Its software repository
+contains 11.52 years of data. We show our measurements for it in Table 8. The relationships
+between different metrics are similar to the other projects that we studied, Geotrek contains
+many more commits than issue reports, in this case about 4x. It also had about 2 times the
+number of authors reporting bugs as it did performing commits to the code. Other projects
+had other proportions, but all of them had many more authors of bug reports than of commits.
+Geotrek also had about three times the number of commits for other purposes than for fixing
+bugs, but both actions were carried out by very similar numbers of authors. This is also
+consistent to what we observed in the other projects that we studied.
+    Table 9 shows the affiliations of the members of the core group of the Geotrek project. As
+it can be observed, 9 out of the 12 core group members work at Makina Corpus, a French
+software engineering services company, relying exclusively on free software, 2 are affiliated
+to BAM, a French mobile application design and development startup, and one at one of the
+two French national parks that lead the project.
+
+8.3 RQ3 - Involvement and roles
+RQ3 asks whether these functions were carried out by distinct groups of individuals, i.e.,
+did individuals primarily assume a single role? Did large numbers of individuals participate
+somewhat equally in these activities, or did a small number of individuals do most of the
+work?
+   We show in Figs. 3and 4 the CDF of contributions to Geotrek. We again observe very
+similar trends as we did in the other projects.
+   First, all metrics for code change follow similar trends, this time even more closely than
+for other projects. Second, we again observe the two criteria for âtopâ developers providing
+
+Table 9 RQ2. Affiliations of the       Number                                  Affiliation
+core group of the Geotrek project
+                                       12                                      Total
+                                       9                                       makina-corpus.com
+                                       2                                       bam.tech
+                                       1                                       ecrins-parcnational.fr
+
+                                                                                        123
+80   Page 28 of 54                                             Empirical Software Engineering (2025) 30:80
+
+similar answers, although this time a bit less similarly than we observed for other projects.
+That is, 80% of the commit contributions were performed by the top 11 authors, where as the
+top 15 authors contributed about 85% of the commits. Finally, we again observe the top 15
+developers contributing both commits and bug reporting, and then the bug reporting activity
+plateaus at about 55% of bug reports. In this regard, Geotrek is similar to EnergyPlus. Its top
+authors in terms of committing code only contributed about half of the bug reporting activity.
+   In conclusion, Geotrek had 11 top authors who contributed about 80% of the commits,
+but who only contributed 45% of the bug reports (Figs. 12 and 13).
+
+8.4 RQ4 - Code ownership
+RQ4 looks into where the code contributors worked in the code, and if there was a strict code
+ownership enforced on a file or module level.
+   Figure 14 shows the commit activity of Geotrekâs authors over its top 100 modified files.
+We again see most bars being multi-color, that is, most files being modified by many different
+authors, with a few exceptions. Some authors restricted themselves to only a few files, i.e.,
+we can see the purple and pink colors appear only sporadically over a few files. But, at the
+same time, those sporadic authors were not the only authors modifying those files, so they
+did not show âownershipâ over them.
+   In conclusion, Geotrek showed some developers committing code in only some files, but
+most files contained commits from multiple authors (even though different files were modified
+by different sets of authors). Therefore, Geotrek did not show a clear code ownership policy.
+
+9 Study 5: DÃ©marches simpliï¬Ã©es
+DÃ©marches simplifiÃ©es12 is a platform for generating forms to be integrated into public online
+services and managing and automating data processing. The project is hosted, developed,
+and managed by the Interdepartmental Administration for Digital (DINUM) and provided as
+a service to all PSOs in France. Today, the project has about 1000 PSOs using the platform.
+
+9.1 RQ1 - The DÃ©marches simplifiÃ©es Development Process
+
+The project was initiated in 2015 as an innovation project through the government
+entrepreneurial program Beta.gov.fr, where projects are selected and developed in iterations
+as OSS. When and if a project is considered mature enough, it is brought out from incubation
+and integrated into the PSO, acting as its sponsor. DÃ©marches simplifiÃ©es was brought into
+production by the French Interministerial Digital Directorate (Direction interministÃ©rielle du
+NumÃ©rique - DINUM) in 2018.
+   Half of the development budget is provided by DINUM, and the other half is funded
+through 10-15 national ministries, pending the number of form submissions processed
+relating to PSOs under each ministry. Currently, there are ten engineers working on the
+development of the project inside DINUM, of which nine are contracted as freelance con-
+tractors. They are procured with six-month contracts through a broader frame agreement that
+covers all Beta.gov.fr projects.
+   The development team follows a structured agile development process with continuous
+requirements management where items on the backlog are prioritized based on need. The
+
+12 https://github.com/demarches-simplifiees/demarches-simplifiees.fr
+
+123
+Empirical Software Engineering (2025) 30:80                                                                 Page 29 of 54   80
+
+Fig. 12 RQ3. Geotrek project. Cumulative proportion of contributions performed by the top authors (ranked
+by their number of contributed commits)
+
+project is developed openly on GitHub but uses an external platform for the community to
+suggest and vote on new features. Continuous deployment is used with new release available,
+typically each day.
+   DINUM has additional resources working with technical support, onboarding, customer
+relations, and community management. These more non-technical roles maintain relations
+with end-users and civil servants using the OSS and collecting feature requests continuously.
+
+                                   100%
+
+                                   90%
+
+                                   80%
+      Cumulative Value of Metric
+
+                                   70%                                                         Metric
+
+                                   60%                                                             Authored Commits
+                                                                                                   Changed Files
+                                   50%
+                                                                                                   Added Lines
+                                   40%                                                             Removed Lines
+
+                                   30%                                                             Reported Issues or PRs
+
+                                   20%
+
+                                   10%
+
+                                    0%
+
+                                          0   5   10   15   20   25   30   35   40   45   50
+                                                  Cumulative Top Contributors
+Fig. 13 RQ3. Geotrek project. Cumulative proportion of contributions performed by the top authors (ranked
+by their number of contributed commits), when only issue-fixing commits are considered.
+
+                                                                                                                   123
+80   Page 30 of 54                                              Empirical Software Engineering (2025) 30:80
+
+Fig. 14 RQ4. Geotrek project. Number of commits performed over the 100 most modified files (in logarithmic
+scale), by each author (in different colors)
+
+Virtual events such as webinars, together with physical meetups, workshops, and trainings,
+are facilitated on a reoccurring basis nationwide. On the strategic level, key contacts are
+maintained with process owners and managers at the different ministries, providing high-
+level input on the roadmap of the project.
+   While most development is perceived to originate from DINUM, there are external code
+contributions coming in on a regular basis. Of the about 70 code contributors to the project
+recorded on GitHub, about 15-20 are assessed to have or have had affiliation with DINUM.
+The rest originates from the PSOs using the platform.
+   ADDULACT, a municipal association for sharing and collaborating on public sector
+OSS projects, is one of the main contributors. At the moment of writing, the association is
+working on a larger feature contribution related to accounts management, a feature that is not
+prioritized by DINUM but of high value for the municipalities. Developers within DINUM
+are supporting ADDULACT with the feature implementation through technical discussions
+and code review. Beyond the specific feature, there is a continuous communication with
+weekly calls between DINUM and ADDULACT developers, as the latter also provides the
+OSS as a service for all of its members, i.e., the municipalities.
+   While ADDULACT contributes directly to the main repository hosted by DINUM, a
+number of PSOs have chose to fork the project, e.g., due to security or practical reasons. The
+French Army and Ministry of Health, e.g., have special requirements in terms of how data is
+collected and stored due to national security and personal integrity, while the Department for
+French Polynesia have practical reasons and need for specific tailoring. Most customizations
+from those PSOs that fork the project contributed upstream to the main project hosted by
+DINUM.
+
+9.2 RQ2 - Community size
+
+RQ2 explores how many people wrote code for functionality in the public sector OSS projects,
+how many individuals reported problems, how many individuals repaired defects, and what
+their affiliations and roles were.
+   The software repository for the DÃ©marches project contains 8.32 years of development
+activity. We report our measurements for the contributions of its authors in Table 10 The
+number of commits and the number of issue reports in DÃ©marches are closer to each other
+
+123
+Empirical Software Engineering (2025) 30:80                                            Page 31 of 54   80
+
+Table 10 RQ2. Contributions to the DÃ©marches software project
+                                                           # Contributions                     # Authors
+
+Submitted issue reports (or pull requests)                 9,720                               139
+MRs (i.e., commits)                                        14,830                              71
+PR changes (i.e., bug-fix commits)                         3,731                               55
+Non-PR changes (i.e., non-bug-fix commits)                 11,099                              57
+Delta (i.e., changed files)                                55,184                              71
+Lines added (i.e., added lines in files)                   980,166                             71
+
+than they are in our other studied projects. DÃ©marches still has many more commits than
+issue reports, but only about 1.5x. This means either that the authors that produce issue
+reports are much more active than in other projects, or that its authors that produce commits
+are much less active (or they produce much larger commits). However, DÃ©marches shows
+a more pronounced difference in the number of authors reporting issues (many more) than
+those committing code, as it happened in the EnergyPlus project. This may be a contributing
+factor to why it received so many issue reports, when compared to commits. In consistency
+with these other observations, DÃ©marches also shows a relatively large number of bug-fixing
+commits, when compared to those used for other purposes. All other project showed a much
+larger proportional gap between these two numbers, with the exception of Geotrek. Finally,
+similarly to most projects, the number of authors performing bug-fix commits and non-bug-fix
+commits were very similar to each other.
+    Table 11 shows the affiliations of the members of the core group of the DÃ©marches sim-
+plifiÃ©es project. As it can be observed, 7 core group members are affiliated with the public
+administration leading the project, two are part of Octo, a French software development com-
+pany, one at a Sharypic, a one-man company focused on software development, and another
+one at Innovative Digital Technologies, a small software solutions and iOS development
+company based in New Zealand.
+
+9.3 RQ3 - Involvement and roles
+
+RQ3 asks whether these functions were carried out by distinct groups of individuals, i.e.,
+did individuals primarily assume a single role? Did large numbers of individuals participate
+somewhat equally in these activities, or did a small number of individuals do most of the
+work?
+   Figures 15 and 16 show similar the distribution of changes by authors in the DÃ©marches
+project, for all changes, and for bug-fixing changes only, respectively. We make multiple
+observations. First, all the metrics measuring code changes grow very similar to each other.
+
+Table 11 RQ2. Affiliations of the      Number                       Affiliation
+core group of the DÃ©marches
+simplifiÃ©es project                    11                           Total
+                                       7                            beta.gouv.fr
+                                       2                            octo.com
+                                       1                            sharypic.com
+                                       1                            innovativedigitaltechnologies.software
+
+                                                                                             123
+80   Page 32 of 54                                                                       Empirical Software Engineering (2025) 30:80
+
+Fig. 15 RQ3. DÃ©marches project. Cumulative proportion of contributions performed by the top authors (ranked
+by their number of contributed commits)
+
+The exception this time is very similar to what we observed in Oskari: Developer #20 may
+have made some commits that added an unusual number of lines, making the metric for
+âadded_linesâ also jump unusually at that point. Second, this time the two methods of mea-
+suring âtopâ authors are a bit different: 80% of the commits were performed by the top 10
+authors, while the top 15 authors contributed about 90% of commits. Third, we again see
+a large difference between the sets of developers contributing commits and issue reports.
+
+                                  100%
+
+                                  90%
+
+                                  80%
+     Cumulative Value of Metric
+
+                                  70%                                                             Metric
+
+                                  60%                                                                  Authored Commits
+                                                                                                       Changed Files
+                                  50%
+                                                                                                       Added Lines
+                                  40%                                                                  Removed Lines
+
+                                  30%                                                                  Reported Issues or PRs
+
+                                  20%
+
+                                  10%
+
+                                   0%
+
+                                         0   5   10   15   20   25   30   35   40   45    50
+                                                 Cumulative Top Contributors
+Fig. 16 RQ3. DÃ©marches project. Cumulative proportion of contributions performed by the top authors (ranked
+by their number of contributed commits), when only issue-fixing commits are considered
+
+123
+Empirical Software Engineering (2025) 30:80                                         Page 33 of 54   80
+
+Fig. 17 RQ4. DÃ©marches project. Number of commits performed over the 100 most modified files (in loga-
+rithmic scale), by each author (in different colors)
+
+While the top 10 authors contributed 80% of commits, they only contributed about 21% of
+issue reports. Furthermore, the curve representing the cumulative contributed issue reports
+grows much more slowly than the remaining ones (that capture code changes).
+   In conclusion, we again observed a small set of developers contributing most commits,
+but who only contributed very few issue reporting (this time with a very large difference).
+
+9.4 RQ4 - Code ownership
+RQ4 looks into where the code contributors worked in the code, and if there was a strict code
+ownership enforced on a file or module level.
+    Figure 17 shows the number of commits performed to each one of the top 100 modified
+files in DÃ©marches, in a logarithmic scale. The different areas of color within each stacked
+bar shows the author who made those commits. We again observe that all files were modified
+by multiple authors, and thus were not the sole ownership of a single author. In fact, this
+graph shows a relatively even distribution of commits by authors over files. That is, most
+developers made commits to most files, and also in similar proportions within each file.
+    It seems clear that DÃ©marches did not follow a strict code ownership policy. Many authors
+performed commits over the most-modified files, and did so in similar proportions.
+
+10 Study 6: IO-app
+The IO app13 provides a single point of entry for Italian citizens when communicating and
+interacting with public online services. The app was created in 2017 as an initiative by the
+the three year Digital Transformation project. The project was an experiment by the Italian
+government in bringing engineers with diverse skillets together in-house, with the ambition
+of becoming supplier-independent, and increasing speed and innovation in development.
+In 2020, the experiment ended and PagoPA was created, a government owned company
+focused on developing, maintaining, and providing software services for the government.
+The development of the IO app was then transferred to PagoPA.
+
+13 https://github.com/pagopa/io-app
+
+                                                                                          123
+80   Page 34 of 54                                              Empirical Software Engineering (2025) 30:80
+
+10.1 RQ1 - The IO-app development process
+
+    The app consists of multiple OSS projects related to the back- and front-end. The source
+code is almost exclusively developed by an internal team of 25 engineers. The code base
+is considered very complex, why no source code contributions are expected, or commonly
+occur. The development is performed openly on GitHub where pull requests are made and
+discussed openly before being merged. The requirements management with specification and
+prioritization is, however, done internally up until a pull request is created. Releases are done
+continuously several times a month using the infrastructure for continuous integration and
+release on GitHub.
+    The issue tracker on GitHub is actively used by the community of end-users (i.e., citizens
+using the app), and other PSOs integrating services into the app. The development team
+inside PagoPA is frequently overseeing and participating in the discussions. On occasions
+there have been contributions by issue reporters, e.g., in terms of translation to local languages,
+or easier front-end fixes. The decisions, and general governance of the project is, however,
+made internally by the PagoPA development team.
+    Beyond the issue tracker and pull request discussions there is no public communication
+channels used, nor any community events held (physical or virtual). One reason is because
+PagoPA does not expect the IO app to be reused as the app is tightly integrated to the Italian
+governmentâs general digital infrastructure and public services, and because the project is
+considered too technically complex for others to onboard. The rationale for keeping the IO
+app available as OSS is in one part due to legal requirements, and in one part for transparency,
+e.g., into how the app collects and manages user data, and by extension create trust among
+its end-users.
+
+10.2 RQ2 - Community size
+
+RQ2 explores how many people wrote code for functionality in the public sector OSS projects,
+how many individuals reported problems, how many individuals repaired defects, and what
+their affiliations and roles were.
+   IO-app was developed in our studied repository for 6.8 years. Table 12 shows our mea-
+surements for the contributions of its authors. IO-app shows very close numbers of commits
+and issue reports. This is the project for which we observed the closest numbers. However,
+the issues were reported by a much larger number of authors than the authors that performed
+commits. Again, this is expected in open source projects, where more people may want to
+contribute issuing report than performing commits. Interestingly, despite the similar number
+of commits and issue reports, only a small number of commits were dedicated to fixing bugs,
+
+Table 12 RQ2. Contributions to the IO-app software project
+                                                             # Contributions                    # Authors
+
+Submitted issue reports (or pull requests)                   5,032                              241
+MRs (i.e., commits)                                          7,749                              98
+PR changes (i.e., bug-fix commits)                           1,861                              76
+Non-PR changes (i.e., non-bug-fix commits)                   5,888                              90
+Delta (i.e., changed files)                                  50,166                             71
+Lines added (i.e., added lines in files)                     1,066,522                          71
+
+123
+Empirical Software Engineering (2025) 30:80                                   Page 35 of 54     80
+
+Table 13 RQ2. Affiliations of the    Number                                        Affiliation
+core group of the IO-app project
+                                     21                                            Total
+                                     16                                            pagopa.it
+                                     2                                             wellnet.it
+                                     1                                             governo.it
+                                     1                                             progettopa.it
+                                     1                                             ibm.it
+
+when compared to the number of commits dedicated to other purposes. Finally, the number
+of authors performing bug-fixing commits and performing other kinds of commits were very
+close to each other, which we also consistently observed in our other studied projects.
+   Table 13 shows the affiliations of the members of the core group of the IO-app project.
+As it can be observed, 16 core group members are affiliated to the PagoPA company, 2 to
+Wellnet, an Italian digital agency, one at the Italian Ministry of Governance (governo.it),
+one at Progetto P.A., an Italian software development company, and finally one at the Italian
+branch of IBM, the American multinational technology company.
+
+10.3 RQ3 - Involvement and roles
+
+RQ3 asks whether these functions were carried out by distinct groups of individuals, i.e.,
+did individuals primarily assume a single role? Did large numbers of individuals participate
+somewhat equally in these activities, or did a small number of individuals do most of the
+work?
+   We show in Figs. 3 and 4 the CDF for the metrics that we measured for IO-app. We again
+observe that all the curves that represent code changes evolve very similarly. We also again
+see the curve representing bug reports evolving differently from the other metrics. However,
+this time, we observe that commits in IO-app were distributed among a larger number of
+top authors than in previous projects. To reach 80% of commits, we would have to consider
+the top 20 authors. The top 15 authors only contributed 72% of commits. Finally, as we
+observed for DÃ©marches, IO-appâs top commit authors only contributed a low proportion of
+issue reports. The top 20 commit authors contributed only 23% issue reports.
+   In conclusion, IO-app has a larger number of top authors who commit code (about 20),
+but who still report a minority of issues (about 23%) (Figs. 18 and 19).
+
+10.4 RQ4 - Code ownership
+
+RQ4 looks into where the code contributors worked in the code, and if there was a strict code
+ownership enforced on a file or module level.
+    Figure 20 shows the distribution of commits performed by authors in IO-appâs 100 most
+modified files, in a logarithmic scale. Each color in a bar is an author performing commits on
+a file. As we observed for other projects, the majority of files received commits from many
+authors. Also, while some authors restricted their commits to only some files (e.g., see the
+pink author), such files were not owned by them, i.e., multiple other developers performed
+commits on those files too.
+    In conclusion, authors in IO-app also did not follow a strict code ownership policy, since
+the most-modified files were modified by multiple authors .
+
+                                                                                   123
+80   Page 36 of 54                                             Empirical Software Engineering (2025) 30:80
+
+11 Hypotheses revisited
+Below, we discuss our hypothesis (as earlier defined in section 3) based on the qualitative
+and quantitative data collected from our purposeful sample of six public sector OSS projects.
+We conclude whether each hypothesis can be confirmed or rejected in relation to our sample.
+Any conclusion is limited to the sampled cases and should not be seen as a generalization
+to all public sector OSS projects. However, by considering the characteristics and context of
+the six investigated cases observations and findings related to the six OSS projects may, to
+some extent, transfer to other OSS projects that operate under similar conditions.
+    For each hypothesis, we also contrast the bazaar OSS projects as investigated by Mockus
+et al. (2002), Dinh-Trong and Bieman Dinh-Trong and Bieman (2005), and Ma et al. (2010).
+For all but one hypothesis (H1a), these have been modified to the context of public sector
+OSS projects. We are, hence, limited in the extent to which we can leverage the reported
+cases in our comparison.
+
+11.1 Hypothesis H1a
+
+H1a OSS developments will have a core of developers who control the code base and will
+    create approximately 80% or more of the new functionality. If this core group uses
+    only informal, ad-hoc means of coordinating their work, it will be no larger than 10-15
+    people.
+
+Observations of public sector OSS projects The investigated public sector OSS projects
+partly confirm the hypothesis that a smaller group with less than 15 developers carries out
+the main part (about 80 percent) of the overall development, both through the quantitative
+and qualitative analysis. However, as found from the interviews, the development teams
+(despite their limited size) in all of the cases use established work practices for development
+
+Fig. 18 RQ3. IO-App project. Cumulative proportion of contributions performed by the top authors (ranked
+by their number of contributed commits)
+
+123
+Empirical Software Engineering (2025) 30:80                                                                 Page 37 of 54   80
+
+                                   100%
+
+                                   90%
+
+                                   80%
+      Cumulative Value of Metric
+
+                                   70%                                                         Metric
+
+                                   60%                                                             Authored Commits
+                                                                                                   Changed Files
+                                   50%
+                                                                                                   Added Lines
+                                   40%                                                             Removed Lines
+
+                                   30%                                                             Reported Issues or PRs
+
+                                   20%
+
+                                   10%
+
+                                    0%
+
+                                          0   5   10   15   20   25   30   35   40   45   50
+                                                  Cumulative Top Contributors
+Fig. 19 RQ3. IO-App project. Cumulative proportion of contributions performed by the top authors (ranked
+by their number of contributed commits), when only issue-fixing commits are considered
+
+and procurement activities. All investigated OSS projects use publicly available platforms
+(e.g. GitHub) during development and maintenance of software. This includes use of public
+version control repositories and issue trackers via such publicly available platforms. For PSOs
+based in the EU work practices use also include the need to comply with EU regulations for
+public procurement.
+Contrasting to bazaar OSS projects The rationale behind the original hypothesis is that
+there are strong dependencies between each individualâs work items when working on a
+common code base (Mockus et al. 2002). If these groups are smaller in size, as in the case
+of the Apache HTTP server OSS project, means of coordination can be informal and ad-
+hoc, while more structured processes and strictly enforced code ownership will be needed to
+
+Fig. 20 RQ4. IO-App project. Number of commits performed over the 100 most modified files (in logarithmic
+scale), by each author (in different colors)
+
+                                                                                                                   123
+80   Page 38 of 54                                         Empirical Software Engineering (2025) 30:80
+
+enable an effective coordination with larger groups of developers as in the case of the Mozilla
+OSS project. The replicating case studies of the FreeBSD, JBossAS, JOnAS, and Apache
+Geronimo support, to large extents, the original hypothesis (Dinh-Trong and Bieman 2005;
+Ma et al. 2010).
+Summary Public sector and bazaar OSS projects share similarities in that a limited core
+group of developers typically produces the main development. A primary difference lies in
+the more formalised development processes adopted in the public sector OSS projects despite
+the size of the core group. It is worth recognizing, however, that the studies of bazaar OSS
+projects referenced in the comparison were performed in the early 2000s and that the level
+of formality among these may have increased since.
+
+11.2 Hypothesis H1b
+
+H1b Approximately 95% or more of OSS developments will be performed by developers
+    commissioned by the users of the OSS project (i.e., PSOs).
+
+Observations of public sector OSS projects The investigated public sector OSS projects dif-
+fer somewhat related to the stated hypothesis, although a large part of the development is
+carried out through commissioned resources. In OS2forms and Geotrek, almost all devel-
+opment is performed by 2-3 main service suppliers. In the cases of Oskari and DÃ©marches
+simplifiÃ©es, a similar situation can be found regarding procured consultants positioned in-
+house of NLSF and DINUM, respectively. In EnergyPlus, the development is more distributed
+among scientists and developers at several research labs, although 12 out of the 17 identified
+core developers are reported as having procured resources via the main research lab. The IO-
+app project stands out as PagoPA almost exclusively develops it by a team only consisting
+of internally hired engineers with the explicit rationale to maintain internal capabilities to
+deliver software services to PSOs and the citizens while not being reliant on any supplier.
+Contrasting to bazaar OSS projects The original hypotheses by Mockus et al. do not con-
+sider the affiliation of the developers in an OSS project. As reported, however, there is no
+description of their contributors as mainly being commissioned by PSOs. Rather, they are
+more diverse, including individuals representing both commercial and personal interests. For
+the Apache web server OSS project, âthe Apache Group (AG), the informal organization of
+core people responsible for guiding the development [...] consisted entirely of volunteers,
+each having at least one other "real" job that competed for their time.â (Mockus et al.
+2002). For Mozilla, specifically, it was noted that âwhile the external participation (beyond
+Netscape/AOL) has increased over the years, even some external people (e.g., from Sun
+Microsystems) are working full time, for pay, on the project.â (Mockus et al. 2002).
+Summary The public sector OSS projects more or less confirm the hypothesis that most
+of the development is carried out through publicly procured resources, in contrast to the
+contributor populations as reported by Mockus et al. (2002).
+   One project from our sample that stands out is the IO-app, where the publicly owned
+PagoPA was created explicitly to develop public services through their resources, making
+up a tech company and service provider internally for the government. In other cases, the
+development is either managed directly through vendors with a dedicated focus on the OSS
+projects or through consultants. In the case of Oskari, an explicit rationale was that onboarding
+new consultants would enable new service suppliers to emerge that could provide support for
+
+123
+Empirical Software Engineering (2025) 30:80                                    Page 39 of 54   80
+
+the OSS project to the rest of the community, thereby increasing sustainability and offloading
+the NLSF in their work.
+
+11.3 Hypothesis H2a
+
+H2a Projects, independent of the number of commissioned developers, coordinate their work
+    using other mechanisms than just informal, ad-hoc arrangements. These mechanisms
+    may include one or more of the following: explicit development processes, individual
+    or group code ownership, and required inspections.
+
+Observations of public sector OSS projects All the public sector OSS projects confirm, to
+various degrees, the hypotheses based on the interview reports. EnergyPlus, for example, has
+a very formal and rigid development process facilitating planning, design, implementation,
+testing, and release among a distributed team of 30 developers. Inspections are required
+and structured. National research labs typically own part of OSS based on expertise. In the
+cases of OS2forms and Geotrek, the development is carried out internally among the suppliers
+through their ordinary processes, while the PSOs in both cases have their internal planning and
+collaboration processes through which they interact with the vendors. This communication is,
+to various degrees, carried out or reflected in open communication channels. In Geotrek, e.g.,
+many PSOs contact the main vendor directly, who publishes an issue reflecting the request
+on the public development platform. In Oskari, DÃ©marches simplifiÃ©es, and the IO-app OSS
+projects, the development is in similar ways carried out internally by the concerned PSOs
+through their processes.
+Contrasting to bazaar OSS projects H2a differs from the original hypothesis of Mockus
+et al. (2002), which considers that some form of formal mechanisms is needed when there
+is a larger core group (more than 15) performing most of the development, with reference
+to the Mozilla OSS project. Replicating works by Dinh-Trong and Bieman Dinh-Trong and
+Bieman (2005), and Ma et al. (2010) mostly confirms this view.
+Summary All the investigated public sector OSS projects report some level of formality
+despite the size of the core group of developers, thereby confirming the hypothesis. The
+surveyed studies of the bazaar OSS projects report these projects as mainly having formalised
+development processes when there are larger core groups of developers present (Mockus
+et al. 2002; Dinh-Trong and Bieman 2005; Ma et al. 2010). The public sector OSS projects,
+thereby, generally share more similarities to the cathedral than to the bazaar development
+model (Capiluppi and Michlmayr 2007).
+
+11.4 Hypothesis H2b
+
+H2b Projects are planned top-down by a set of users (i.e., decision-makers at PSOs) who
+    commission the development and communicate using open and closed communication
+    channels.
+
+Observations of public sector OSS projects The investigated projects generally align with
+the hypothesis, although the form differs from project to project. In EnergyPlus, prioritization
+is performed top-down by a core group of six developers positioned in the research labs. In
+OS2forms, coordination is managed by a coordination team with representatives from five
+of the 11 paying member municipalities. In the Geotrek project, the development is planned
+
+                                                                                    123
+80   Page 40 of 54                                          Empirical Software Engineering (2025) 30:80
+
+top-down both through a larger set of PSOs in structured procurements and continuously
+by direct requests from single PSOs to the main supplier. When enough PSOs have shown
+interest in the supplier, these are brought together to discuss a potential joint tender of
+the commonly requested functionality. In Oskari, the development is mainly defined by the
+roadmap for the national geoportal developed by the NLSF. The technical steering committee
+does, however, make the overall decisions together. Finally, in DÃ©marches simplifiÃ©es and
+the IO-app projects, the development is planned top-down by the internal development teams
+but with continuous input from the respective communities.
+   All cases use some form of open communication, e.g., mailing lists, chat rooms, or issue
+trackers, while also employing different sorts of closed communication, e.g., internally in the
+cases of Oskari, DÃ©marches simplifiÃ©es, and the IO-app project. In Geotrek, some communi-
+cation is managed directly between commissioning PSOs and the main vendor, who openly
+record requests on the projectâs open issue tracker. The main vendor, in turn, has an internal
+communication process among its own developers.
+Contrasting to bazaar OSS projects This hypothesis is not considered in the reports
+by Mockus et al. (2002), Dinh-Trong and Bieman Dinh-Trong and Bieman (2005), and Ma
+et al. (2010). The report by Mockus et al. (2002) does, however, describe a top-down planning
+approach by the core group of developers within the Apache HTTP server OSS project. In
+this project, core group developers are voted in place by active participants of the community.
+This core of developers is then able to âvote on the inclusion of any code change, and has
+commit access to CVS 14 . (if they desire it)â (Mockus et al. 2002), aligning with the more
+general Apache way of working (Fielding 1999). For Mozilla, âdecision-making authority
+for various modules is delegated to individuals in the development community who are close
+to that particular code.â The latter signals a more decentralized approach, which, however,
+may could still potentially reflect a top-down approach on a modular level.
+Summary The public sector OSS projects investigated generally confirm the hypothesis,
+having a top-down decision process by a set of users (i.e., decision-makers at PSOs) who
+commission the development, where some communication is managed in the open while
+some is done internally inside of the development teams. On the other hand, the bazaar OSS
+projects may also be described as generally having a top-down decision model, although
+decision-makers are appointed among the contributors based on merit and proven experience
+of contributing to the code base.
+
+11.5 Hypothesis H3
+
+ H3 In successful OSS developments, a group larger by an order of magnitude than the set
+    of users (i.e., the PSOs that commission the development) will report problems, and
+    in other ways partake in planning activities and communication concerning the OSS
+    project.
+
+Observations of public sector OSS projects The investigated public sector OSS projects do
+not confirm the proposed hypothesis. The communities are typically limited in the number of
+PSOs that report issues and, in other ways, contribute to the projects. In OS2forms, issues are
+reported by the member municipalities, and to some extent, also others, but they are limited.
+In Oskari, there is a broader community of PSOs nationally and internationally who help
+14 CVS was the versioning system predominantly used in OSS development in the 1990s and early 2000s.
+Today the most used versioning system is git
+
+123
+Empirical Software Engineering (2025) 30:80                                   Page 41 of 54   80
+
+report bugs or provide feature requests. This is also seen from those who fork the project and
+do not contribute their changes upstream. For Geotrek, a larger set of users partake in the
+reporting of issues, yet far from all of the 150 PSOs are reported to use the OSS. In DÃ©marches
+simplifiÃ©es, feature requests and bug reports are provided from a wide community of end-
+users within the about 1000 PSOs using the platform. For the IO app, there is an external
+community of end-users (i.e., citizens) and engineers from other PSOs that occasionally
+(monthly) report issues on the issue trackers across the different OSS projects that the IO app
+consists of.
+Contrasting to bazaar OSS projects The original hypothesis by Mockus et al. (2002) states
+that in successful OSS developments, a group larger by an order of magnitude than the
+core will repair defects, and a yet larger group (by another order of magnitude) will report
+problems. This illustrates a core-periphery relationship, as in the onion model, with different
+layers of engagement where the number of individuals engaged increases further to the
+periphery. While the FreeBSD project aligns with this visualization, the three industrial OSS
+projects investigated by Ma et al. (2010) do not follow this pattern due to having smaller
+communities than FreeBSD, the Apache web server, and Mozilla OSS projects.
+Summary The public sector OSS projects investigated are typically characterized as having
+communities with limited contributors and users. The users outnumber the contributors, but
+not necessarily by the order of magnitude proposed in our hypothesis or as by the original
+hypothesis in the study by Mockus et al. (2002). The relation between these characteristics
+and whether an OSS project may be considered successful, however, depends on what charac-
+terizes successful OSS developments. Considering that many of the investigated public sector
+OSS projects have been around for some time and are reported by interviewees as stable in
+terms of functionality, quality, and user base, these may be considered successful to certain
+extents.
+
+11.6 Hypothesis 4a
+
+H4a OSS developments that have a strong set of users (i.e., the PSOs that commission the
+    development) but never achieve large numbers of general users engaged will experience
+    limited to non-existent reuse, and a decrease in quality because of a lack of resources
+    devoted to finding and repairing defects.
+
+Observations of public sector OSS projects The public sector OSS projects all have robust
+sets of users (i.e., PSOs that commission the development), while the set of other PSOs or
+organizations reusing the OSS is limited. On the other hand, the number of end-users can
+be much greater. DÃ©marches simplifiÃ©es, for example, has a limited reuse of the platform,
+with only a few other PSOs deploying it on their own environments, including the Army and
+Ministry of Health. Still, the number of end-users is very high, of which the majority consists
+of end-users to the version hosted by DINUM.
+    OS2forms is used mainly by the 11 municipalities that are working to grow the collabo-
+ration. An issue with the limited membership is sustainable funding for the project, meaning
+that many municipalities need to fund their own contributions directly through the vendors.
+The Oskari project has a wide user base internationally, although there is a core of eight
+organizations in Finland, most of which are PSOs that participate in the active discussions
+of the project. In the IO app project, there is no experienced or expected reuse as the OSS
+
+                                                                                    123
+80   Page 42 of 54                                       Empirical Software Engineering (2025) 30:80
+
+is specific to the context of the Italian governmentâs public services, and the code base is
+considered to be very complex.
+Contrasting to bazaar OSS projects The original hypothesis by Mockus et al. (2002) has a
+similar wording but considers whether there is a strong core of developers and the presence of
+contributors rather than users. They were, along with Dinh-Trong and Bieman Dinh-Trong
+and Bieman (2005), and Ma et al. (2010), however, not able to test the hypothesis. The
+rationale for the original hypothesis is that the core group of developers, with time, would
+be overburdened and unable to maintain the project to a consistent level of quality, thereby
+impacting its overall sustainability.
+Summary The investigated public sector OSS projects do not fully confirm the hypothesis.
+The projects generally experience a limited amount of reuse, while the number of end-users
+can be much greater as they may typically be deployed as part of a public service. Yet, the
+stated decrease in quality from the hypothesis may be contested as many of the projects are
+reported as being stable, both in terms of functionality and quality by the interviewees. The
+OS2forms and Geotrek project does, however, signal some issues regarding sustainability as
+the co-financing of involved PSOs limits the projectsâ development. In the other cases, the
+funding comes from a strong entity from which the OSS project originated, such as the U.S.
+Department of Energy for EnergyPlus and the NLSF for the Oskari project.
+
+11.7 Hypothesis H4b
+H4b The community of a project will primarily consist of commissioned contractors, and
+    PSOs using, or with an interest in using, the OSS.
+
+Observations of public sector OSS projects The hypothesis aligns well with the investigated
+projects. PSOs constitute the primary users of the projects or with a strong interest in using
+them, as exemplified by the municipalities in OS2forms, national parks in Geotrek, and
+diverse set of national and international PSOs in Oskari. Service suppliers also have a strong
+role in all three projects.
+   DÃ©marches simplifiÃ©es has a somewhat more narrow community, with only a limited set
+of additional PSOs reusing the OSS, due to DINUM being the main provider of the public
+service the OSS underpins. The IO app project also stands out as its community mainly
+consists of PagoPA, the PSO developing and providing the OSS as a service to the general
+public in Italy.
+   The EnergyPlus exemplifies a broader community. While it mainly consists of the Depart-
+ment of Energy and its research labs (considered PSOs), there are also other actors in the
+community, including software vendors, service providers, and researchers.
+Contrasting to bazaar OSS projects This hypothesis was not part of the original set defined
+by Mockus et al. The report on the Apache HTTP Server and Mozilla OSS projects does,
+however, describe the types of contributors and users as spanning from voluntary contributors
+to those sponsored by companies (Mockus et al. 2002).
+Summary Our investigation of the investigated cases confirms the hypothesis that the com-
+munities will primarily consist of PSOs using the OSS (or with an interest thereof), along
+with commissioned contractors with an interest in providing services related to the OSS.
+The bazaar OSS projects surveyed by Mockus et al. (2002) deviate in terms of the reported
+demographics, including both volunteers and commercially sponsored developers.
+
+123
+Empirical Software Engineering (2025) 30:80                                    Page 43 of 54   80
+
+12 Threats to validity
+As this is a replication study, the method used must be as aligned as possible with that of
+the original study (Mockus et al. 2002) for results to be comparable. All six authors have
+therefore independently reviewed and compared the methodology of the current and the
+original studies, and together discussed any misalignment that could be identified.
+    Certain differences in design decisions do however apply, e.g., in terms of case sampling.
+Beyond the fact that the two cases of the original study (Mockus et al. 2002) had large and
+vibrant communities, the authors chose their cases also because they had personal experience
+and rootings in their respective communities. In our study, we are specifically interested in
+characterizing public sector OSS projects, and how these may differ from bazaar OSS projects,
+such as those investigated in the original study. To avoid any bias in our sampling, we have
+mined software catalogues listing OSS projects used and developed by PSOs in different
+countries. Six different types of projects have been selected based on our defined inclusion
+criteria
+    As the sample is limited, we do not claim that the results are generalizable. Rather, we
+have provided a contextual description of what we refer to as public sector OSS projects and
+exemplify how their development model (may) differ from that of bazaar OSS projects in
+general and the commonly used and associated onion model. Through both our qualitative
+and quantitative investigations of the projects, we have offered in-depth characterisations of
+the six projects to enable transferability to cases with similar characteristics. Considerations
+of generalization is an open topic for future work.
+    In contrast to the original study, we do not expect to have in-depth knowledge of the
+six cases to be sampled. Hence, to limit the risk of research bias and misinterpretations of
+observations, we have allowed community representatives to review and criticize our findings
+(RQ1 specifically, and RQ2-4 in general).
+    Another threat regards the construct validity of our study - if what we consider as bazaar
+projects instantiated in the cases of the Apache web server and Mozilla browser OSS projects
+is still valid today. The report by Mockus et al. (2002) dates from 2002, and practices and
+processes may have evolved, why it may be considered relevant to revisit the two communities
+and how they currently work. However, as this is a replication study, we are limited to
+using the reporting by Mockus et al. (2002) as our baseline. Further, we note that the study
+by Mockus et al. (2002) has been replicated and generalized by several studies through the
+years (see Dinh-Trong and Bieman (2005); Ma et al. (2010)) since its reporting. Thus, we
+still consider it a valid representation of what we consider as a bazaar project. Further, we
+have included these replications of Mockus et al. (2002) into the comparison between the
+public sector and bazaar OSS projects to get further nuance of what characterizes a bazaar
+project.
+    It should be further noted, that our comparative analysis has focused on the public sector
+OSS projects sampled, and the bazaar model as represented by the replicated case stud-
+ies (Mockus et al. 2002; Dinh-Trong and Bieman 2005; Ma et al. 2010). Any statements in
+regards to the cathedral model is anecdotal and left for the analysis and discussion of our
+findings.
+    Continuing, we do not claim that the bazaar and cathedral model are represents a binary
+state for how OSS projects may be categorized. Rather they represent a two points on a
+spectrum where projects may transition between as they evolve (Capiluppi and Michlmayr
+2007). This study has focused on characterizing public sector OSS projects, taking point
+from the conjecture that they deviate from the bazaar development model as exemplified
+by replicated case studies (Mockus et al. 2002; Dinh-Trong and Bieman 2005; Ma et al.
+
+                                                                                    123
+80   Page 44 of 54                                       Empirical Software Engineering (2025) 30:80
+
+2010). Our findings indicate support for this conjecture, and also shows how development
+also differs between public sector OSS projects. Generalizations should, also in this regard,
+be considered as points of reference on a spectrum from which we can continue our research
+and advice practitioners.
+
+13 Discussion and conclusions
+In this study, we explored the phenomenon of public sector OSS projects and how code
+development is organized in this subset. Our original conjecture was that the developments
+are, to a large extent, organized in ways that diverge from the open collaborative approach
+illustrated by the bazaar model, and taking point from the case studies by Mockus et al.
+(2002) and replicating studies (Dinh-Trong and Bieman 2005; Ma et al. 2010). Our study is
+based on a Registered Report (LinÃ¥ker et al. 2023a) where we specified our research goals,
+hypotheses, and design, ensuring transparency and reproducibility. Below, we discuss and
+conclude our findings in terms of this conjecture.
+
+13.1 Development organized outside of the bazaar
+Based on our mixed-methods analysis of six cases of public sector OSS projects, we observe
+significant deviations from the characteristics typically associated with the reference bazaar
+OSS projects (Mockus et al. 2002; Dinh-Trong and Bieman 2005; Ma et al. 2010). Instead,
+the organizational aspects of public sector OSS projects appear to align more closely with
+earlier descriptions of the cathedral model (Capiluppi and Michlmayr 2007).
+Concentrated development with external resources The major part (80 percent) of devel-
+opment is typically concentrated on a group of 5-15 developers, something which is in line
+with research on the broader OSS ecosystem (Pinto et al. 2016; Avelino et al. 2016; Majumder
+et al. 2019). These developers are, for the most part, originating from national and local ser-
+vice providers, which may indicate a preference for suppliers with whom PSOs can have
+a more personal and trusted relationship, something that was especially highlighted in the
+cases of OS2forms and Geotrek. This national and local preference aligns with investigations
+highlighting how increased public investment into OSS contributes to increased growth and
+competition of business and entrepreneurship in OSS (Nagle 2019; Blind et al. 2021).
+Formal development methods and high quality software Another general note was
+the use of formally defined development and quality assurance processes and means of
+coordination commonly found in professional settings, including OSS projects with high
+levels of commercial involvement (Li et al. 2024), and again characteristic to the Cathedral
+model (Capiluppi and Michlmayr 2007). Explanations can be found in the reports on how
+the development in all cases was performed within or between PSOs and service suppliers
+by professional developers sponsored by the involved PSOs. By extension, this may also
+provide explanations for the high quality and stability of the OSS developed in the respective
+projects despite the limited size and contributions from their respective communities.
+Deviation in sponsorship of OSS development We did, however, note some important
+deviations among the cases. Specifically, we observe two clusters of public sector OSS
+projects in terms of how the development is sponsored by the involved PSOs: Centralized or
+Decentralized sponsorship (see Table 14). While these two clusters represent generalizations
+based on our sampled projects, these can be considered part of a continuum in terms of how
+development is funded or performed among the involved PSOs.
+
+123
+Empirical Software Engineering (2025) 30:80                                              Page 45 of 54   80
+
+Table 14 Overview of how the organization of development of public sector OSS projects differs and overlaps
+among the investigated cases
+                             Centralized sponsorship                  Decentralized sponsorship
+
+Cases                        DÃ©marches simplifiÃ©es,      IO   app,    OS2forms, Geotrek
+                             Oskari, EnergyPlus
+Community population         Community consisting of one or few       Community consisting of multiple
+                             main PSOs and a smaller set of actors,   PSOs, along with service suppliers.
+                             primarily consisting of PSOs using the
+                             OSS (or with an interest thereof) and
+                             related service suppliers.
+Contributors                 Main development is sponsored by         Multiple PSOs pool resources and
+                             one or few main PSOs either through      funding to sponsor the development
+                             internal or procured resources, while    through joint or direct procurement of
+                             external contributions occur and are     development from service providers.
+                             promoted to various degrees depen-
+                             dent on the OSS complexity and use
+                             case, as well as inventive for being
+                             released.
+Planning                     Performed under the leadership of one    Performed collaboratively by those
+                             or a few main PSOs sponsoring the        PSOs sponsoring the development
+                             development, with more or less input     with input from other users.
+                             from the community.
+Development distribution     The major part (80 percent) of devel-
+                             opment is typically concentrated to a
+                             group of 5-15 developers, typically by
+                             national and local service providers.
+Development processes        Developers use formally defined
+                             development and quality assurance
+                             processes and means of coordination
+                             commonly found in professional set-
+                             tings.
+Software quality             The OSS produced by the respective
+                             communities are reported as being
+                             generally stable and of high quality.
+Sustainability               Dependent on the development spon-       Dependent on the collective funding
+                             sored by the main PSOs.                  or contributions by involved PSOs.
+
+13.1.1 Centralized sponsorship:
+
+Oskari, DÃ©marches simplifiÃ©es, the IO app, and EnergyPlus, represent different nuances of
+public sector OSS projects with a centralized sponsorship, implying that the main develop-
+ment is carried out or sponsored by, and in extension dependent on, one or a few resourceful
+PSOs. The OSS typically also originates from these main PSOs, showing similarities to
+vendor-led OSS projects. In the latter, the development is steered and sponsored mainly by
+software-intensive organizations aiming to employ OSS as a building block or platform for
+commercial products and services (Yavuz et al. 2022). In the context of our surveyed cases,
+however, the OSS would rather serve as an input for public products and services developed
+and provided by the respective PSOs.
+Business-critical for the main sponsor In all cases, the OSS serves a business-critical
+use case warranting the dedicated development and sponsorship of the projects to ensure
+their sustainability. In the DÃ©marches simplifiÃ©es and the IO app OSS projects, DINUM and
+
+                                                                                               123
+80   Page 46 of 54                                        Empirical Software Engineering (2025) 30:80
+
+PagoPA, respectively, use the OSS as a foundation for public services, in each case directed
+to public servants and citizens in the concerned countries. The Oskari OSS serves as the
+foundation for the national geoportal provided by the NLSF in Finland, and EnergyPlus as
+a tool for enabling simulation and research on a buildingâs consumption regarding heating,
+cooling, ventilation, lighting, and water. Hence, the two PSOs have dedicated funding and
+resources to ensure the sustainability and quality of the respective OSS projects.
+Community size dependent on use case and complexity The size and role of the commu-
+nity, however, differs somewhat between the projects. When the codebase complexity and
+use case of the OSS are limited, as in the case of the IO app, community size is limited. The
+IO app is reported as being complex and specific for the infrastructure of PagoPA, where
+the main use case is tied to the public service provided by the PSO. In contrast, the Oskari
+and EnergyPlus projects both have a more general use case where the sponsoring PSOs see
+a value in the potential for open innovation an active community can bring (Munaiah et al.
+2018).
+Rationale for open sourcing connected to reuse and community size The rationale
+for releasing the software as OSS differs across the cases, and relates to the potential for
+reuse and community growth of the OSS project. The release and public development of
+the IO app is mainly due to legal requirements and to provide transparency into how the
+application, e.g., uses and collects data. Similar rationales can be found across policies in
+several countries (Blind et al. 2021), implying that there is less focus on enabling general
+reuse. For Oskari and EnergyPlus, there are more explicit intentions of growing a community
+to enable collaborative development and reuse.
+Sustainability dependent on a central PSO From a sustainability and community point
+of view, the high level of dependence on a central PSO poses a risk for the communities of
+Oskari and EnergyPlus. A refactoring or change in business scope may imply that the OSS
+projects risk becoming unmaintained (LinÃ¥ker et al. 2022).
+
+13.1.2 Decentralized sponsorship
+
+OS2forms and Geotrek represent cases where multiple PSOs collaborate through the pooling
+of resources that sponsor the development, commonly procured from service providers.
+Similarities can be found in the user-driven foundations as characterized by Yavuz et al. (2022)
+where development is mainly directed and sponsored by software-intensive organizations
+addressing internal use-cases, or the building of non-commercial (e.g., public) services.
+Development through collaborative procurement of suppliers In OS2forms, 11 munic-
+ipalities collaborate and co-fund the development from a smaller set of service suppliers.
+The OSS project is hosted under the Danish national OS2 association (Frey 2023), which
+serves as a steward for 25+ public sector OSS projects, with various participation among
+80+ municipal members. In Geotrek, a smaller set of national parks and PSOs (of about 150
+users) collaborate through joint or direct procurement of development from a main service
+supplier.
+Sustainability dependent on collective funding In terms of sustainability, there is a depen-
+dency among the PSOs in the respective communities in collecting the necessary funds to
+sponsor the development. While both projects are reported as stable, there is still an expressed
+need to scale the community in terms of paying members to ensure the sustainability of the
+projects. Observations align with general literature where funding is a generally highlighted
+
+123
+Empirical Software Engineering (2025) 30:80                                    Page 47 of 54   80
+
+challenge for the health and sustainability of OSS projects (LinÃ¥ker et al. 2022). A difference
+is, however, that there already exists an incentive among the users of the OSS to pay for its
+development, whereas many smaller projects maintained by individuals struggle to achieve
+any form of sponsorship for their work (LinÃ¥ker et al. 2024).
+Sustainability dependent on the presence of service suppliers A second factor is the
+dependence on service suppliers, which can threaten sustainability should they stop providing
+services for whatever reason. The threat can be compared to sensitivity if OSS projects are
+maintained by a single organization or individual who abandons a project, e.g., due to internal
+re-factorization or change of interest (LinÃ¥ker et al. 2022). Here, the general lack of internal
+capabilities (Borg et al. 2018) and dependence on outsourcing (Marco-SimÃ³ and Pastor-
+Collado 2020) becomes a liability
+
+13.1.3 Addressing sustainability challenges
+
+Addressing the sustainability challenges highlighted across the surveyed cases is critical for
+the PSOs. Below, we discuss potential actions based on findings and literature that may help.
+Sharing and disseminating critical knowledge for development When development is
+limited to a few PSOs or service providers, it is critical to ensure that all the necessary
+knowledge and tools needed to develop and deploy the OSS are openly available (LinÃ¥ker
+et al. 2024). The presence of the necessary documentation concerning how to develop, build,
+and deploy the OSS; a development and build environment based on OSS tools; presence
+and high coverage of test cases; and overview of and access to dependencies are critical to
+enable others to potentially take over the maintenance (Persson and LinÃ¥ker 2024).
+Facilitating development through Open Source Stewards Another means of improving
+robustness is through the organization of concerned PSOs through associations such as OS2,
+comparable to the foundations commonly used for hosting and collaborating on OSS projects
+in the broader OSS ecosystem (Riehle and Berschneider 2012). These make up a type of Open
+Source Steward (a term recently introduced by the European Cyber Resilience Act) that may
+help to create standardized development processes and governance structures and maintain
+a broader ecosystem of potential users and service suppliers that join communities as they
+grow beyond early adopters and prove value and potential. The X-Road provides a successful
+example of how such stewardship can be set up in a cross-border context (Robles et al. 2019a).
+
+Growing institutional capabilities through Open Source Program Offices Growing and
+providing internal capabilities and expertize within PSOs for OSS adoption within PSOs
+is another approach for increasing robustness, also highlighted in literature (Van Loon and
+Toshkov 2015; Shaikh 2016). This is commonly performed through the creation of dedicated
+support functions referred to as Open Source Program Offices (OSPOs) (Munir and Mols
+2021). For less resourceful PSOs, associations (or stewards) such as OS2 can be a source of
+corresponding support (LinÃ¥ker et al. 2023b).
+Growing a competitive ecosystem of service suppliers Availability of multiple service
+providers increases robustness (Koloniaris et al. 2018), while decreasing the risk of ending
+up in a vendor lock-in (Persson and LinÃ¥ker 2024). Limited availability of support is, how-
+ever, a commonly reported challenges (Koloniaris et al. 2018; Deller and Guilloux 2008).
+OS2 presents an approach where they have organically grown an ecosystem of 60+ service
+
+                                                                                    123
+80   Page 48 of 54                                          Empirical Software Engineering (2025) 30:80
+
+suppliers, working actively to enable sustainable business models, e.g., through conscious
+license selection and open collaboration Frey (2023).
+Growing community and collaborative culture Funding is a general sustainability chal-
+lenge for OSS project maintainers (LinÃ¥ker et al. 2022), where various models ranging from
+sponsorship to entrepreneurship and employment have been proposed (LinÃ¥ker et al. 2024).
+For the public sector OSS projects, however, funding is dependent on the PSOs using the
+OSS. Hence, there is a need to minimize the (potential) âfree-ridingâ and grow a collaborative
+culture where PSOs are inclined to contribute to the common development.
+
+13.2 Concluding remarks and future work
+
+Our investigation largely confirms our initial conjecture that the development in public sector
+OSS projects to a large extent are organized in ways that diverge from the open collaborative
+and community-driven approach illustrated by the bazaar model as reported in earlier case
+studies (Mockus et al. 2002; Dinh-Trong and Bieman 2005; Ma et al. 2010). However, rather
+than one consistent model we observe several nuances in how development in public sector
+OSS projects is organized.
+   The development (80%) is typically centered to a limited set of developers (<15). Formal
+methods are predominantly used through externally procured development resources, while
+the development is largely planned top-down by the involved PSO(s). A distinction is made
+between centralized and decentralized sponsorship of the development is sponsored. In the
+former, development is mainly funded centrally by one or a few main PSOs, and in the latter
+by a wider group PSOs that depend on the mutual funding and pooling or resources to secure
+the sustainability of the OSS.
+
+13.2.1 Implications for research
+
+Our study contributes i) an in-depth investigation and characterization of how development
+in organized in public sector OSS projects, ii) a comparative analysis how this development
+deviates from the more informal and community-driven development exemplified by the
+bazaar model, and iii) a framework for future research to take point from in the continued
+exploration of how the public sector can leverage OSS as a tool in their digital transformations
+(see table 14).
+   Still, our investigation is only a partial characterization of all public sector OSS projects as
+we have investigated a limited sample of six projects, with a relatively limited investigation of
+two interviews per project. Further data collection could have provided a richer interpretation
+of the projects and their communities. This is an essential aspect as the projects cannot only
+be defined by our quantitative analysis of the respective software repositories used by the
+communities in developing the OSS. As interviews showed, much communication is carried
+out among and between PSOs and service suppliers, and not always turning up in the open
+infrastructure and software repositories of the concerned projects.
+   Future work should expand on the quantitative and qualitative investigation of public sector
+OSS projects. The repositories we leveraged to identify our sample of cases can provide a
+starting point to gain a greater understanding of the organization, development, and output
+of these projects. Further, more in-depth qualitative studies are needed to understand the
+complexities and challenges experienced by these projects. Based on our own analysis, we
+conjecture that such complexities and challenges will differ based on how the development
+
+123
+Empirical Software Engineering (2025) 30:80                                   Page 49 of 54   80
+
+is organized in the public sector OSS project at hand. Therefore, any solutions and guidelines
+may also need to be tailored to the specific context. Further research will probably also
+identify additional ways in which development is organized that may need to be considered,
+distinct from or overlapping with those identified in this study.
+
+13.2.2 Implications for practitioners
+
+Our study contributes design knowledge for practitioners to use when designing development
+and governance practices for new or existing public sector OSS projects. Specifically, PSOs
+and service suppliers in any way leading or partaking in the collaboration on a public sector
+OSS project, should consider how development is organized in their context and contrast
+with the investigated cases.
+    The case investigations highlight several areas that guidelines and practical support for
+practitioners need to consider. For example, the potentially limited community support and
+reuse for public sector OSS projects due to complexity and limited use case. Dependencies and
+the willingness of PSOs to fund the development and maintenance of the OSS projects need
+care to ensure long term sustainability, and by extension attractiveness of the OSS projects.
+Guidelines should specifically consider how public procurement process and collaboration
+possibilities can integrate across PSOs and with service suppliers due to the reliance on
+external development resources. Governance structures, co-funding models, and organization
+of the collaborations between public and private entities further need practical consideration.
+Open Source Stewards as the Danish OS2 can provide neutral grounds for hosting and
+facilitation of collaborations between PSOs and bridge gaps toward service suppliers. The
+creation of Open Source Program Offices can help to grow the internal capabilities of the
+PSOs so that they can adopt and collaborate on the OSS as needed.
+    While our investigation is brief, each case reports on several means of collaborating and
+organizing the development within a project that can help guide practice. Further investigation
+should, however, be put into evaluating different development practices as those reported in
+the investigated cases. Such evaluation has been beyond the scope of this study.
+
+Appendix A - Interview questions
+
+ â Can you briefly describe your current role and organization, and your connection and
+   responsibility in relation to the OSS project?
+ â Can you please describe and characterize the community of users of OSS from the OSS
+   project, e.g., in terms of public and private actors?
+ â What types of public sector organizations have adopted and use OSS from the OSS
+   project? Can you provide any examples of users?
+ â Can you please describe and elaborate on key roles and responsibilities for the OSS
+   project, e.g., in terms of governance, development, and maintenance?
+ â Can you please describe and elaborate on how strategic decisions are made concerning
+   maintenance and future development of the OSS project?
+ â How do developers obtain information concerning feature requests and bug reports from
+   public sector organizations that have adopted and use OSS from the OSS project?
+ â Can you please describe the overarching development and release process used in the
+   OSS project? How is the work coordinated? Is communication managed in open or closed
+   settings?
+
+                                                                                    123
+80   Page 50 of 54                                                   Empirical Software Engineering (2025) 30:80
+
+ â Who are involved in the development and maintenance of the OSS project? How
+   would you characterize the distribution in work between different actors? Are tasks
+   procured/commissioned in any way?
+      â Can you please describe the process during which OSS from the OSS project has
+        been procured (e.g., has there been a public procurement process? Has the public
+        sector organization a support contract for the OSS project?)
+      â Can you please describe a typical process during which OSS from the OSS project
+        is procured by a public sector organization?
+      â Are you aware of any public sector organizations that have undertaken a public
+        procurement process for OSS from the OSS project according to applicable public
+        procurement regulations?
+ â Are you aware of any public sector organizations that have a support contract for OSS
+   from the OSS project?
+
+Acknowledgements We would like to thank all of the interviewees for their valuable contribution, which
+without this research would not be possible. The research of G.Robles has been funded by the Spanish Ministry
+of Science, Innovation, and Universities under the Excellence Network AI4Software (Red2022-134647-T) and
+the Dependentium project (PID2022-139551NB-I00). The work of Francisco Servant was partially funded
+by the United States National Science Foundation (NSF) under award CCF-2046403, by Virginia Tech under
+a startup grant, by Universidad Rey Juan Carlos under the International Distinguished Researcher award
+C01INVESDIST, and by the Spanish Agencia Estatal de InvestigaciÃ³n under award PID2022-142964OA-I00.
+
+Funding Open access funding provided by RISE Research Institutes of Sweden.
+
+Data Availability Statement We have made the research artifacts and some material from the quantitative
+investigation for our paper available. It can be accessed at an online repositoryhttps://zenodo.org/doi/10.
+5281/zenodo.10696435. Qualitative data is not published per agreement with interviewees to preserve their
+anonymity.
+
+Declarations
+
+Conflicts of Interest The authors declare that they have no conflict of interest.
+
+Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which
+permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give
+appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence,
+and indicate if changes were made. The images or other third party material in this article are included in the
+articleâs Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is
+not included in the articleâs Creative Commons licence and your intended use is not permitted by statutory
+regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.
+To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.
+
+References
+Avelino G, Passos L, Hora A, Valente MT (2016) A novel approach for estimating truck factors. In: 2016
+     IEEE 24th International Conference on Program Comprehension (ICPC), pp. 1â10. IEEE
+Bacon J (2012) The art of community: Building the new age of participation. OâReilly Media, Inc
+Barcomb A, Kaufmann A, Riehle D, Stol KJ, Fitzgerald B (2018) Uncovering the periphery: A qualitative
+     survey of episodic volunteering in free/libre and open source software communities. IEEE Trans Software
+     Eng 46(9):962â980
+Benbasat I, Goldstein DK, Mead M (1987) The case research strategy in studies of information systems. MIS
+     quarterly pp. 369â386
+
+123
+Empirical Software Engineering (2025) 30:80                                               Page 51 of 54   80
+
+Blind K, BÃ¶hm M, Grzegorzewska P, Katz A, Muto S, PÃ¤tsch S, Schubert T (2021) The impact of open
+     source software and hardware on technological independence, competitiveness and innovation in the eu
+     economy. Final Study Report. European Commission, Brussels 10:430161
+Borg M, Olsson T, Franke U, Assar S (2018) Digitalization of swedish government agencies-a perspective
+     through the lens of a software development census. In: 2018 IEEE/ACM 40th International Conference
+     on Software Engineering: Software Engineering in Society (ICSE-SEIS), pp. 37â46. IEEE
+Butler S, Gamalielsson J, Lundell B, Jonsson P, SjÃ¶berg J, Mattsson A, RickÃ¶ N, Gustavsson T, Feist J,
+     Landemoo S et al (2018) An investigation of work practices used by companies making contributions
+     to established OSS projects. In: Proceedings of the 40th Intl Conf on Software Engineering: Software
+     Engineering in Practice, pp. 201â210. ACM
+Capilla R, Salamanca V, Valdezate A, Robles G (2024) Can instability variations warn developers when
+     open-source projects boost? Empir Softw Eng 29(4):97
+Capiluppi A, Michlmayr M (2007) From the cathedral to the bazaar: An empirical study of the lifecycle of
+     volunteer community projects. In: IFIP International Conference on Open Source Systems, pp. 31â44.
+     Springer
+Capra E, Wasserman AI (2008) A Framework for Evaluating Managerial Styles in Open Source Projects. In:
+     Russo B, Damiani E, Hissam S, Lundell B, Succi G (eds) Open Source Development, Communities and
+     Quality. Springer, US, Boston, MA, pp 1â14
+Chidambaram N, Mazrae PR (2022) Bot detection in github repositories. In: Proceedings of the 19th Interna-
+     tional Conference on Mining Software Repositories, pp. 726â728
+Constantino K, Souza M, Zhou S, Figueiredo E, KÃ¤stner C (2023) Perceptions of open-source software
+     developers on collaborations: An interview and survey study. Journal of Software: Evolution and Process
+     35(5):e2393
+Council SR (2017) God forskningsed. Swedish Research Council
+Creswell JW, Plano Clark VL, Gutmann ML, Hanson WE (2003) Advanced mixed methods research designs.
+     Handbook of mixed methods in social and behavioral research 209(240):209â240
+Crowston K, Howison J (2005) The social structure of open source software development teams. First Monday
+     10(2)
+Crowston K, Wei K, Li Q, Howison J (2006) Core and periphery in free/libre and open source software
+     team communications. In: Proceedings of the 39th Annual Hawaii International Conference on System
+     Sciences (HICSSâ06), vol. 6, pp. 118aâ118a. IEEE
+Deller R, Guilloux V (2008) Open source software movement in the french central and local government: A
+     retrospective and prospective exploratory study. International Journal of Electronic Democracy 1(1):1â13
+Dinh-Trong TT, Bieman JM (2005) The freebsd project: A replication case study of open source development.
+     IEEE Trans Software Eng 31(6):481â494
+DueÃ±as S, Cosentino V, Robles G, Gonzalez-Barahona JM (2018) Perceval: Software project data at your will.
+     In: 40th ICSE Companion Proc, pp. 1â4
+Europe O (2022) Open strategic autonomy. Available: https://openforumeurope.org/publication-open-
+     strategic-autonomy/. Last visited 2022-06-29
+Feller J, Fitzgerald B (2002) Understanding open source software development. Addison-Wesley London
+Fielding RT (1999) Shared leadership in the Apache project. Commun ACM 42(4):42â43
+Fitzgerald B, Kenny T (2004) Developing an information systems infrastructure with open source software.
+     IEEE Softw 21(1):50â55
+Foundation AS (2024) Briefing: The apache way. Available: https://www.apache.org/theapacheway/. Last
+     visited 2024-10-10
+Frey R (2023) How we lead successful open-source collaborations in the danish public sector. IEEE Softw
+     40(4):19â24
+Gerosa M, Wiese I, Trinkenreich B, Link G, Robles G, Treude C, Steinmacher I, Sarma A (2021) The shifting
+     sands of motivation: Revisiting what drives contributors in open source. In: 2021 IEEE/ACM 43rd
+     International Conference on Software Engineering (ICSE), pp. 1046â1058. IEEE
+Gharehyazie M, Filkov V (2017) Tracing distributed collaborative development in apache software foundation
+     projects. Empir Softw Eng 22:1795â1830
+Gote C, Zingg C (2021) Gambitâan open source name disambiguation tool for version control systems. In:
+     2021 IEEE/ACM 18th International Conference on Mining Software Repositories (MSR), pp. 80â84.
+     IEEE
+HautamÃ¤ki A, Oksanen K (2018) Digital platforms for restructuring the public sector. In: Collaborative Value
+     Co-creation in the Platform Economy, pp. 91â108. Springer
+Hoffmann M, Nagle F, Zhou Y (2024) The value of open source software. Harvard Business School Strategy
+     Unit Working Paper (24-038)
+
+                                                                                                123
+80   Page 52 of 54                                                Empirical Software Engineering (2025) 30:80
+
+Hollmann V, Lee H, Zo H, Ciganek AP (2013) Examining success factors of open source software repositories:
+     The case of OSOR.eu portal. Intl Journal of Business Information Systems 14(1):1â20
+Huysmans P, Ven K, Verelst J (2008) Reasons for the non-adoption of OpenOffice.org in a data-intensive
+     public administration. First Monday 13(10):10
+Kalja A, Kindel K, Kivi R, Robal T (2007) eGovernment services: How to develop them, how to manage
+     them? In: Management of Engineering and Technology, Portland Intl Center for, pp. 2795â2798. IEEE
+Koloniaris S, Kousiouris G, Nikolaidou M (2018) Possibilities of use of free and open source software in the
+     greek local authorities. In: 14th IFIP WG 2.13 International Conference on Open Source Systems, pp.
+     128â143. Springer
+KovÃ¡cs GL, Drozdik S, Succi G, Zuliani P (2004) Open source software for the public administration. In:
+     Proceedings of the 6th Intl Workshop on Computer Science and Information Technologies
+Krishnamurthy S (2002) Cave or community?: An empirical examination of 100 mature open source projects.
+     First Monday
+Kuechler V, Jensen C, Bryant D (2013) Misconceptions and barriers to adoption of foss in the us energy
+     industry. In: IFIP International Conference on Open Source Systems, pp. 232â244. Springer
+Li X, Zhang Y, Osborne C, Zhou M, Jin Z, Liu H (2024) Systematic literature review of commercial partici-
+     pation in open source software. ACM Transactions on Software Engineering and Methodology
+LinÃ¥ker J, Regnell B (2020) What to share, when, and where: balancing the objectives and complexities of
+     open source software contributions. Empir Softw Eng 25(5):3799â3840
+LinÃ¥ker J, Runeson P (2020) Public sector platforms going open: creating and growing an ecosystem with open
+     collaborative development. In: Proceedings of the 16th International Symposium on Open Collaboration,
+     pp. 1â10
+LinÃ¥ker J, Rempel P, Regnell B, MÃ¤der P (2016) How firms adapt and interact in open source ecosystems:
+     Analyzing stakeholder influence and collaboration patterns. In: Requirements Engineering: Foundation
+     for Software Quality: 22nd International Working Conference, REFSQ 2016, Gothenburg, Sweden,
+     March 14-17, 2016, Proceedings 22, pp. 63â81. Springer
+LinÃ¥ker J, Regnell B, Damian D (2019) A community strategy framework-how to obtain influence on require-
+     ments in meritocratic open source software communities? Inf Softw Technol 112:102â114
+LinÃ¥ker J, Papatheocharous E, Olsson T (2022) How to characterize the health of an open source software
+     project? a snowball literature review of an emerging practice. In: Proceedings of the 18th International
+     Symposium on Open Collaboration, pp. 1â12
+LinÃ¥ker J, Lundell B, Servant F, Gamalielsson J, Muto S, Robles G (2023a) Public sector open source software
+     projectsâhow is development organized? arXiv preprint arXiv:2304.06093
+LinÃ¥ker J, Nummelin-Carlberg A, OâRiordan C (2023b) Institutionalising support for open source software
+     in the european public sector. (In publication). Directorate-General Informatics, European Commission,
+     Brussels, Belgium
+LinÃ¥ker J, Link G, Lumbard K (2024) Sustaining maintenance labor for healthy open source software projects
+     through human infrastructure: A maintainer perspective. In: Proceedings of the 18th ACM/IEEE Inter-
+     national Symposium on Empirical Software Engineering and Measurement
+Lundell B, Amundsen M, Ghosh RA, Hardy JL, SjÃ¶swÃ¤rd PO (2009) Panel: Open source in the public sector.
+     In: IFIP International Conference on Open Source Systems, pp. 368â369. Springer
+Lundell B, Gamalielsson J, Tengblad S, Hooshyar Yousefi B, Fischer T, Johansson G, Rodung R, Mattsson A,
+     Oppmark J, Gustavsson T, Feist J, Landemoo S, LÃ¶nroth E (2017) Addressing lock-in, interoperability,
+     and long-term maintenance challenges through open source: How can companies strategically use open
+     source? IFIP International Conference on Open Source Systems. Springer, Cham, pp 80â88
+Lundell B, Gamalielsson J, Butler S, Brax C, Persson T, Mattsson A, Gustavsson T, Feist J, Ãberg J (2021)
+     Enabling oss usage through procurement projects: How can lock-in effects be avoided? In: IFIP Interna-
+     tional Conference on Open Source Systems, pp. 16â27. Springer
+Lundell B, Butler S, Fischer T, Gamalielsson J, Brax C, Feist J, Gustavsson T, Katz A, KvarnstrÃ¶m B,
+     LÃ¶nroth E, Mattsson A (2022) Effective strategies for using open source software and open standards
+     in organizational contexts: Experiences from the primary and secondary software sectors. IEEE Softw
+     39(1):84â92. https://doi.org/10.1109/MS.2021.3059036
+Ma X, Zhou M, Mei H (2010) How developers participate in open source projects: a replicate case study on
+     jbossas, jonas and apache geronimo. In: Proceedings of the 1st International Workshop on Replication
+     in Empirical Software Engineering Research
+Majumder S, Chakraborty J, Agrawal A, Menzies T (2019) Why software projects need heroes (lessons learned
+     from 1000+ projects). arXiv preprint arXiv:1904.09954
+Marco-SimÃ³ JM, Pastor-Collado JA (2020) It outsourcing in the public sector: A descriptive framework from
+     a literature review. J Glob Inf Technol Manag 23(1):25â52
+
+123
+Empirical Software Engineering (2025) 30:80                                                Page 53 of 54   80
+
+Miller GA (1956) The magical number seven, plus or minus two: Some limits on our capacity for processing
+     information. Psychol Rev 63(2):81
+Mockus A, Fielding RT, Herbsleb J (2000) A case study of open source software development: the apache
+     server. In: Proceedings of the 22nd international conference on Software engineering, pp. 263â272
+Mockus A, Fielding RT, Herbsleb JD (2002) Two case studies of open source software development: Apache
+     and mozilla. ACM Transactions on Software Engineering and Methodology (TOSEM) 11(3):309â346
+Munaiah N, Kroh S, Cabrey C, Nagappan M (2017) Curating github for engineered software projects. Empir
+     Softw Eng 22(6):3219â3253
+Munir H, Mols CE (2021) The rise of open source program office. IT Professional 23(1):27â33
+Munir H, LinÃ¥ker J, Wnuk K, Runeson P, Regnell B (2018) Open innovation using open source tools: A case
+     study at sony mobile. Empir Softw Eng 23:186â223
+Nagle F (2019) Government technology policy, social value, and national competitiveness. Harvard Business
+     School Strategy Unit Working Paper (19â103)
+Nagle F (2022) Strengthening digital infrastructure: A policy agenda for free and open source
+     software. Available: https://www.brookings.edu/research/strengthening-digital-infrastructure-a-policy-
+     agenda-for-free-and-open-source-software/. Last visited 2022-06-29
+Nakakoji K, Yamamoto Y, Nishinaka Y, Kishida K, Ye Y (2002) Evolution patterns of open-source soft-
+     ware systems and communities. In: Proceedings of the international workshop on Principles of software
+     evolution, IWPSEâ02, pp. 76â85. ACM, Orlando, Florida
+OSI (2022) State of open source survey. Available: https://opensource.org/ten-takeaways-from-the-2022-
+     state-of-open-source-survey. Last visited 2022-06-28
+Patton MQ (2014) Qualitative research & evaluation methods: Integrating theory and practice. Sage publica-
+     tions
+Persson P, LinÃ¥ker J (2024) Soft-lockins in public sector acquisitions of open source software-solutions: A
+     case study on a municipal e-service platform. In: Proceedings of the 58th Annual Hawaii International
+     Conference on System Sciences, vol. 6, pp. 118aâ118a. IEEE
+Pinto G, Steinmacher I, Gerosa MA (2016) More common than you think: An in-depth study of casual contrib-
+     utors. In: 2016 IEEE 23rd International Conference on Software Analysis, Evolution, and Reengineering
+     (SANER), vol. 1, pp. 112â123 .https://doi.org/10.1109/SANER.2016.68
+Raymond E (1999) The cathedral and the bazaar. Knowledge, Technology & Policy 12(3):23â49
+Riehle D, Berschneider S (2012) A model of open source developer foundations. In: IFIP Intl Conf on Open
+     Source Systems, pp. 15â28. Springer
+Robles G, Gonzalez-Barahona JM (2005) Developer identification methods for integrated data from various
+     sources. ACM SIGSOFT Software Engineering Notes 30(4):1â5
+Robles G, Gamalielsson J, Lundell B (2019a) Setting up government 3.0 solutions based on open source
+     software: the case of x-road. In: International Conference on Electronic Government, pp. 69â81. Springer
+Robles G, Steinmacher I, Adams P, Treude C (2019b) Twenty years of open source software: From skepticism
+     to mainstream. IEEE Softw 36(6):12â15
+SaldaÃ±a J (2021) The coding manual for qualitative researchers. sage
+Salkever A (2023) Open source maintainers. Available: https://www.linuxfoundation.org/research/open-
+     source-maintainers?hsLang=en. Last visited 2024-10-10
+Scanlon TP (2019) Critical factors for open source advancement in the us department of defense. IEEE Softw
+     36(6):29â33
+Shaikh M (2016) Negotiating open source software adoption in the uk public sector. Gov Inf Q 33(1):115â132
+Synopsys (2020) Open source security and risk report. Available: https://www.synopsys.com/blogs/software-
+     security/open-source-trends-ossra-report/. Last visited 2022-06-28
+Tidelift (2018) Professional open source survey. Available: https://blog.tidelift.com/open-source-is-
+     everywhere-survey-results-part-1. Last visited 2022-06-28
+Tidelift (2024) The 2024 tidelift state of the open source maintainer report. Available: https://tidelift.com/
+     open-source-maintainer-survey-2024. Last visited 2024-10-10
+Van Loon A, Toshkov D (2015) Adopting open source software in public administration: The importance of
+     boundary spanners and political commitment. Gov Inf Q 32(2):207â215
+Ven K, Nuffel DV, Verelst J (2006) The introduction of openoffice.org in the brussels public administration.
+     In: Damiani E, Fitzgerald B, Scacchi W, Scotto M, Succi G (eds.) Open Source Systems, IFIP Working
+     Group 2.13 Foundation on Open Source Software, June 8-10, 2006, Como, Italy, IFIP, vol. 203, pp.
+     123â134. Springer. https://doi.org/10.1007/0-387-34226-5_12
+Yavuz EY, Barcomb A, Riehle D (2022) Problems, solutions, and success factors in the openmdm user-led
+     open source consortium. Commun Assoc Inf Syst 51(1):13
+
+                                                                                                 123
+80   Page 54 of 54                                               Empirical Software Engineering (2025) 30:80
+
+Zhang Y, Zhou M, Stol KJ, Wu J, Jin Z (2020) How do companies collaborate in open source ecosystems?
+    an empirical study of openstack. In: Proceedings of the ACM/IEEE 42nd International Conference on
+    Software Engineering, pp. 1196â1208
+
+Publisherâs Note Springer Nature remains neutral with regard to jurisdictional claims in published maps and
+institutional affiliations.
+
+Authors and Aï¬liations
+
+Johan LinÃ¥ker1 Â· BjÃ¶rn Lundell2 Â· Francisco Servant3 Â· Jonas Gamalielsson2 Â·
+Sachiko Muto1 Â· Gregorio Robles4
+
+B Johan LinÃ¥ker
+     johan.linaker@ri.se
+     BjÃ¶rn Lundell
+     bjorn.lundell@his.se
+     Francisco Servant
+     fservant@uma.es
+     Jonas Gamalielsson
+     jonas.gamalielsson@his.se
+     Sachiko Muto
+     sachiko.muto@ri.se
+     Gregorio Robles
+     grex@gsyc.urjc.es
+1    RISE Research Institutes of Sweden, Stockholm, Sweden
+2    University of SkÃ¶vde, SkÃ¶vde, Sweden
+3    ITIS Software, Universidad de MÃ¡laga, MÃ¡laga, Spain
+4    Universidad Rey Juan Carlos, Madrid, Spain
+
+123

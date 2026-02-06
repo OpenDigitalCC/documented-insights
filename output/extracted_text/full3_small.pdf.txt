@@ -1,0 +1,395 @@
+Ref. Ares(2026)279507 - 12/01/2026
+
+FOSS4G 2024 â Academic Track                                                                               December 2â8, 2024, BeleÌm-PA, Brazil
+
+               A Spatial Data Infrastructure Using Modern Standards: Lessons Learned from the
+                                          eMOTIONAL Cities Project
+
+                                                                         1*                    1
+                                                             J. Simoes        , A. Cerciello
+
+                                               1
+                                                   Byteroad, Lisbon, Portugal - (jo, ant)@byteroad.net
+
+       KEYWORDS: Geospatial Data, Standards, FAIR Principles, Interoperability, API, Spatial Data Infrastructure, pygeoapi.
+
+       ABSTRACT
+
+       The environment we live in affects our mental health and well-being. The eMOTIONAL Cities project has set out to understand how
+       the natural and built environment can shape the feelings and emotions of those who experience it. Employing a cross-disciplinary,
+       data-driven approach, the project generated numerous datasets from traditional GIS-based fields like urban planning and from other
+       disciplines such as neuroscience. The common denominator between all these datasets is the geospatial dimension. A primary goal
+       was to assemble these disparate datasets into a Spatial Data Infrastructure (SDI), enabling scientists and eventually the general public
+       to discover and access the data for analysis and decision-making purposes.
+
+       Standards are crucial for ensuring interoperability, data consistency, and efficiency across diverse applications and platforms and thus
+       they are at the core of every SDI. OGC API is a family of modern Standards from the Open Geospatial Consortium (OGC), which
+       leverages modern web technologies such as OpenAPI, REST and JSON. Although very appealing to web developers, they are
+       relatively new compared to the first generation of OGC Web Services (e.g.: WFS, WMS). The eMOTIONAL Cities SDI
+       demonstrates that it is now possible to share geospatial data using OGC API with a stack of Free and Open Source Software. In this
+       article we share our journey during the process of implementing the SDI, and how we navigated the technological and human
+       challenges of adopting emerging technologies in constant development.
+
+                        1.        INTRODUCTION                                   production, storage, exchange, and processing and to support
+                                                                                 and enhance recent technological developments such as
+       In 2016, the paper 'The FAIR Guiding Principles for Scientific
+                                                                                 artificial intelligence, crowdsourcing, data spaces, digital twins
+       Data Management and Stewardship' (Wilkinson et al., 2016)
+                                                                                 and cloud computing.
+       marked a significant milestone in scientific data management. It
+       established a set of principles, aimed at making research data
+                                                                                 The eMOTIONAL Cities project (eMOTIONAL Cities
+       Findable, Accessible and ultimately Reusable (FAIR). They
+                                                                                 consortium, 2022) aimed to investigate the complex interplay
+       placed particular emphasis on the fact that it applies to both
+                                                                                 between the natural and built environment and human emotions.
+       human-driven and machine-driven activities, a specific focus
+                                                                                 To support this research, we developed a Spatial Data
+       that distinguishes them from many similar initiatives.
+                                                                                 Infrastructure (SDI) that integrates disparate datasets from
+                                                                                 neuroscience, urban planning, and environmental sciences. This
+       The importance of the FAIR principles is increasingly
+                                                                                 SDI serves as a crucial tool for facilitating data sharing,
+       recognised within large-scale research initiatives, such as the
+                                                                                 collaboration, and analysis within the project consortium and
+       H2020 European projects. Funded by the European Union, these
+                                                                                 beyond.
+       projects emphasize the need for rigorous data management
+       practices aligned with FAIR principles, ensuring that data
+                                                                                 The design of the eMOTIONAL Cities SDI extends beyond
+       generated across diverse disciplines is preserved, shared, and
+                                                                                 traditional GIS applications. Our goal was to create a
+       reused to maximize impact (European Commission, 2016).
+                                                                                 user-friendly platform accessible to researchers across various
+                                                                                 disciplines, including those unfamiliar with geospatial data. By
+       This emphasis on FAIR data management is particularly
+                                                                                 adhering to FAIR principles, we aimed to ensure the data's
+       relevant to GIS data, which often underpins critical
+                                                                                 findability, accessibility, interoperability, and reusability,
+       decision-making processes in urban planning, environmental
+                                                                                 promoting its value for both human and machine-driven
+       management, and public health (Liu et al., 2022). There is a
+                                                                                 analysis.
+       growing recognition of GIS data potential to improve data
+
+DOI: 10.5281/zenodo.14223773                                              14
+Â© Licensed by the authors under the CC BY 4.0 license
+FOSS4G 2024 â Academic Track                                                                            December 2â8, 2024, BeleÌm-PA, Brazil
+
+       The SDI's development was guided by the recognition that GIS            customized APIs for web-based access to geospatial content
+       data can play a vital role in understanding urban environments          (Open Geospatial Consortium. 2023b).
+       and their impact on human well-being. By integrating diverse
+       datasets and providing a user-friendly interface, we sought to          Furthermore, the W3C's Spatial Data on the Web Best Practices
+       empower researchers to explore new insights and contribute to a         (SDW-BP) document (Spatial Data on the Web Best Practices,
+       deeper understanding of the complex relationship between the            2023) underscores the importance of data discovery and
+       built environment and human emotions.                                   reusability in spatial data infrastructures. OGC APIs directly
+                                                                               address these principles by enabling search engine indexing of
+                                                                               geospatial data using standardized formats and APIs. For
+           2.        BACKGROUND AND RELATED WORK                               instance, OGC API - Features allows for the discovery and
+                                                                               retrieval of vector data through a well-defined interface, while
+       In geospatial data management, standards and software are               OGC API - Tiles facilitates the creation of interoperable tiled
+       crucial in ensuring the FAIRness of data. Open standards, such          map services.
+       as those developed by the Open Geospatial Consortium (OGC),
+       alongside Free Open Source Software (FOSS), are particularly
+       important as they promote interoperability and democratise
+                                                                                        3.        THE EMOTIONAL CITIES SDI
+       access to geospatial tools (Open Geospatial Consortium 2024).
+                                                                               The eMOTIONAL Cities project established a Spatial Data
+       OGC plays a critical role in supporting the FAIR principles             Infrastructure (SDI) for managing and sharing the data it
+       through its comprehensive suite of standards for geospatial data        produced (Simoes and Cerciello, 2022a). Initially, we were
+       (JimÃ©nez, R. C. et al. 2017). OGC standards address three key           cautious about adopting OGC APIs exclusively, due to concerns
+       components essential to a FAIR framework: data, metadata, and           about the maturity of the standards and the availability of
+       infrastructure. These standards include data format and transfer        ready-to-use implementations. Back then, some OGC API
+       protocols which facilitate data accessibility and reusability           components were still under development, and not many
+       across     platforms.    Equally    important are semantic              implementations were available yet. This led us to initially
+       interoperability standards, which ensure a shared understanding         create an SDI that contained both a modern and legacy stack
+       of data, making it usable across diverse systems and contexts.          (Simoes and Cerciello, 2022b). However, in the past two years,
+                                                                               there have been considerable developments in OGC API
+       Traditionally, SDIs have relied on OGCâs W* service interfaces
+                                                                               Standards, with many Standards having parts approved and
+       (e.g., WMS, WFS, WCS), which often use XML-based
+                                                                               implementations catching up on those developments. One
+       protocols. However, recent advancements have introduced new
+                                                                               implementation in particular, pygeoapi (pygeoapi development
+       architectural approaches that are more web-native, emphasizing
+                                                                               team, 2018), is exemplary in terms of the Standards
+       machine-actionability and data-centricity (Simoes, J., &
+                                                                               development process, by participating actively in the OGC
+       Cerciello, A. 2021). Modern web-based APIs offer several
+                                                                               Code Sprints and by being an Early Implementer (EI), and even
+       advantages, including simplified data processing, support for
+                                                                               a Reference Implementation (RI), of several OGC API
+       multiple encodings (e.g., JSON, HTML, JSON-LD, YAML),
+                                                                               Standards. It embodies the new OGC paradigm, where the
+       and seamless integration into various tools. These APIs, often
+                                                                               development of the Standard goes hand in hand with the
+       designed with a RESTful architecture, enable easier data
+                                                                               development of implementations, resulting in published
+       discovery through search engines like Google and Bing (Kotsev
+                                                                               Standards which are market-ready.
+       et al., 2020) while minimizing bandwidth usage. The OpenAPI
+       specification (OpenAPI Initiative, 2011) further enhances these         After a process of gathering high-level requirements among the
+       APIs by providing vendor-independent documentation and                  project partners, we have selected Standards to enable the
+       interactive testing capabilities.                                       publication of feature data (OGC API - Features), tiles of
+                                                                               geospatial information (OGC API - Tiles), sensor data
+       OGC has embraced this shift with its new family of standards,           (SensorThings API) and metadata (OGC API - Records).
+       known as OGC APIs (Open Geospatial Consortium. 2023a).                  Although that was not the case when we started this work, they
+       OGC APIs are designed to simplify the provision and use of              are now all approved Standards.
+       geospatial data on the web, enabling seamless integration with
+       various other types of information. Building on the foundation          The SDI uses a stack of FOSS software, with pygeoapi at its
+       of earlier OGC Web Service Standards (such as WMS, WFS,                 core and several supporting services. To ease the deployment
+       WCS, and WPS), these APIs adopt a resource-centric approach             and reproducibility of the system, the services were virtualized
+       that leverages modern web development practices. Structured as          into docker containers and orchestrated using docker-compose
+       modular "building blocks," OGC APIs allow for the creation of           (see Figure 1). This resulted in a system that is infrastructure
+                                                                               agnostic and can be deployed in any Cloud Service Provider
+
+DOI: 10.5281/zenodo.14223773                                              15
+Â© Licensed by the authors under the CC BY 4.0 license
+FOSS4G 2024 â Academic Track                                                                              December 2â8, 2024, BeleÌm-PA, Brazil
+
+       (CSP) in a matter of minutes. The code is available on GitHub
+       with an MIT license (Jo and Aontnio Cereicllo, 2023).
+
+                                                                                 Figure 3 - âPrevalence rates of mental health issues in Londonâ
+        Figure 1 - Architecture of the eMOTIONAL Cities SDI. OGC
+                                                                                     dataset, accessed on QGIS using OGC API - Features.
+       Standards server implementations are highlighted in blue, while
+                   storage backends are highlighted in pink.                     The SDI has had a couple of iterations before reaching its
+                                                                                 current format (Cerciello and Simoes, 2024). First and foremost,
+       We have also set up pipelines to enable both humans and
+                                                                                 not all the OGC API parts we selected were published and
+       machines to ingest data and metadata into the SDI (see Figure
+                                                                                 implemented, which led us to introduce another component,
+       2) and extensive documentation about how to access the SDI,
+                                                                                 publishing the same data using the first generation of OGC
+       using clients such as QGIS, MapStore or jupyter notebooks
+                                                                                 Standards (e.g.: WFS, WMS, WMTS) (Cerciello and Simoes,
+       (Simoes and Cerciello, 2023).
+                                                                                 2022). To a certain extent, that component could be removed
+                                                                                 now, although certain products may not have implemented OGC
+                                                                                 APIs yet and some users may be more familiar with the
+                                                                                 previous generation of OGC Standards. In the second release
+                                                                                 (Cerciello and Simoes, 2023) we added an implementation of
+                                                                                 SensorThings API (FROST), which addressed some needs of
+                                                                                 neuroscientists, in terms of storing and publishing information
+                                                                                 about sensors and measurements (See Figure 4).
+
+         Figure 2 - Pipeline for ingesting data and metadata into the
+                          eMOTIONAL Cities SDI.
+
+       The SDI is live at http://emotional.byteroad.net/ and includes
+       over one hundred collections from five different cities: Lisbon,
+       London, Copenhagen, Tartu, and Lansing. It includes
+       collections characterizing the physical environment (e.g.,
+       Normalized Difference Vegetation Index (NDVI), annual mean
+       NOâ concentration), the built environment (e.g., buildings with
+                                                                                 Figure 4 - Details of a STA collection, being accessed in QGIS.
+       repair needs ratio, average age of buildings), socio-economic
+       aspects (e.g., Area Deprivation Index, number of people who               SensorThings API data is proxied through pygeoapi and
+       travel by bicycle to work), health data (e.g., crude percentage of        transformed into a feature collection that GIS scientists can
+       adults with depression, mortality rate, prevalence rates of               consume without the need for specific STA tools. Figure 5
+       mental health issues in London) (see Figure 3), and results of            summarizes the different stakeholders of the SDI, whose needs
+       experiments (e.g., London outdoor walk test data: air quality             we tried to address using a variety of OGC Standards.
+       temperature, sound pressure levels). The data can be discovered
+       and queried in the OGC API - Records searchable catalogue:
+       https://emotional.byteroad.net/catalogue
+
+DOI: 10.5281/zenodo.14223773                                                16
+Â© Licensed by the authors under the CC BY 4.0 license
+FOSS4G 2024 â Academic Track                                                                              December 2â8, 2024, BeleÌm-PA, Brazil
+
+                                                                                column-oriented data storage format, which provides efficient
+                                                                                data compression and encoding schemes with enhanced
+                                                                                performance to handle complex data in bulk. Although
+                                                                                GeoParquet started as a community effort, it is now on the path
+                                                                                to become a full-fledged OGC Standard (Opengeospatial, 2024)
+                                                                                and it already features a vibrant ecosystem of implementations.
+                                                                                We have converted more than one hundred eMOTIONAL Cities
+                                                                                datasets to geoparquet using a semi-manual pipeline, which is
+                                                                                documented in a blog post (doublebyte, 2024). The GeoParquet
+                                                                                files are advertised through a link on the metadata records,
+                                                                                which uses an item type âapplication/vnd.apache.parquetâ. It is
+                                                                                worth noting that GeoParquet files are considerably smaller than
+        Figure 5 - Main stakeholders of the eMOTIONAL Cites SDI,                GeoJSON (our default format for OGC API) and even than
+                        mapped to OGC Standards.                                binary formats such as GeoPackage or GeoJSON (See Figure
+                                                                                7).
+       One of the improvements of this SDI was the reuse of a single
+       backend technology, Elasticsearch, to support OGC API -
+       Features, OGC API - Tiles and OGC API - Records.
+       Elasticsearch (Elastic, 2024) is a distributed, RESTful search
+       and analytics engine, scalable data store, and vector database
+       with geospatial capabilities. The âmvt-elasticâ pygeoapi plugin
+       leverages the Elasticsearch capability of generating vector tiles
+       on the fly (Vera and Neirynck, 2022) to publish vector data as
+       OGC API - Tiles (see Figure 6). This plugin was added during
+       the course of this project (Simoes, 2023), enabling the
+       eMOTIONAL Cities SDI to publish both OGC API - Features
+       and OGC API - Tiles from a single ElasticSearch index.
+
+                                                                                   Figure 7 - Size comparison between different formats to
+                                                                                  download eMOTIONAL Cities datasets, on an average-size
+                                                                                                           dataset
+
+                                                                                Replacing the existing formats by GeoParquet would result not
+                                                                                only in storage savings (and consequently cost savings), but also
+                                                                                in bandwidth savings. This is particularly relevant for the use
+                                                                                cases where analysis combines multiple datasets.
+
+                                                                                From the technological point of view, the major challenge in
+                                                                                building this SDI was to adopt (at the time) candidate
+       Figure 6 - Vector tiles are very suitable for creating web maps,         Standards, that were still evolving and, in some cases, not fully
+       as they combine fast data delivery along with design flexibility.        implemented or completely up to date in the implementation.
+           This screenshot shows a LeafLet-based application that               However, the fact that we selected a Free and Open-Source tool,
+            consumes one of the eMOTIONAL Cities collections.                   enabled us to make contributions to the project. The fact that
+                                                                                pygeoapi was participating actively in the OGC Code Sprints,
+       It should also be mentioned that ElasticSearch was the only              ensured that it kept aligning with the changes in the
+       component of the SDI stack that did not have an Open Source              specification and even contributed towards improving it, by
+       license. As of August 2024, Elastic has added an AGPL license,           providing feedback to the Standards Working Groups. By
+       which is an Open Source Initiative (OSI) approved license                joining the FOSS project and joining the OGC Code Sprints, we
+       (Banon, 2024).                                                           were able to minimize the technological challenges mentioned
+                                                                                earlier.
+       Considering the SDI was going to be used by scientists for the
+       purpose of analysis, we also wanted to experiment with an                From a human perspective, one of the main challenges was
+       emerging Standard in the field of cloud-native geospatial.               encouraging project partners to proactively share their data
+       GeoParquet (Geoparquet.org, 2024) is an open-source                      through the SDI. While some partners were autonomous,
+
+DOI: 10.5281/zenodo.14223773                                               17
+Â© Licensed by the authors under the CC BY 4.0 license
+FOSS4G 2024 â Academic Track                                                                              December 2â8, 2024, BeleÌm-PA, Brazil
+
+       efficient, and quickly understood the documentation and                   By sharing our experiences and lessons learned, we hope to
+       instructions providedâcontributing their data accordinglyâthe             inspire others to adopt OGC APIs in their SDI projects. We
+       overall process of data contribution was often complex and                believe that widespread adoption will foster further
+       time-consuming. Moreover, obtaining high-quality metadata                 development and innovation within the open-source community,
+       proved even more difficult than acquiring the data itself.                leading to more complete and high-quality software solutions.
+
+       Partners with a solid background in data science or software
+       development were notably more successful in navigating this
+       process, indirectly highlighting the potential complexity of the                               Acknowledgements
+       solution for others. Despite the primary goal of the implemented
+                                                                                 This research is developed under the eMOTIONAL Citiesâ
+       pipelines being to simplify lower-level, GIS-specific tasks,
+                                                                                 Project, which received funding from the European Unionâs
+       these workflows may have still been too challenging.
+                                                                                 Horizon 2020 research and innovation programme, under grant
+       To tackle this challenge, we put a lot of effort into outreach and        agreement No 945307. The eMOTIONAL Cities Project is a
+       education, creating detailed step-by-step guides on GitHub, and           consortium of 12 partners co-coordinated by the Institute of
+       running webinars and workshops.                                           Geography and Spatial Planning of the University of Lisbon and
+                                                                                 Faculdade de Medicina da Universidade de Lisboa, taking place
+       Having structured the development process with Agile                      between     2021     and    2025.   More information         at
+       methodology, it has also been possible to improve the proposed            https://emotionalCities-h2020.eu/.
+       solutions in several aspects, listening to partners' feedback. We
+       believe that at least some of these efforts were successful.
+                                                                                                        REFERENCES
+
+                                                                                 Banon S., âElasticsearch Is Open Source, Again.â 2024. Elastic
+                                                                                 Blog.         Elastic.         August          29,        2024.
+                 4.        CONCLUSIONS                                           https://www.elastic.co/blog/elasticsearch-is-open-source-again.
+
+       The experimental nature of this project has allowed us to                 Cerciello, A., & Simoes, J. Â«Emotional-cities/openapi-sdi:
+       explore novel approaches to Spatial Data Infrastructure (SDI)             Initial      ReleaseÂ».     Zenodo,      29 may      2022.
+       design and implementation. Our experience demonstrates the                https://doi.org/10.5281/zenodo.6591180.
+       promising potential of OGC APIs in providing a flexible and
+                                                                                 Cerciello, A., & Simoes, J. Â«Emotional-cities/openapi-sdi: Push
+       scalable foundation for modern SDIs.                                      Capabilities: FROST and SisyphusÂ». Zenodo, 9 september
+                                                                                 2023. https://doi.org/10.5281/zenodo.8330877.
+       The adoption of OGC APIs has proven to be versatile, and
+       capable of addressing a wide range of typical use cases within            Cerciello, A., & Simoes, J. Â«Openapi-sdiÂ». Zenodo, 13
+                                                                                 september 2024. https://doi.org/10.5281/zenodo.13758189.
+       the GIS domain. Moreover, these standards have shown their
+       adaptability to emerging fields, such as neuroscience. The                doublebyte. 2024. âNavigating GeoParquet: Lessons Learned
+       successful integration of SensorThings API highlights the OGC             from the EMOTIONAL Cities Project.â Heartcode. heartcode.
+       API's potential to meet the specific needs of diverse domains.            August                         2,                        2024.
+                                                                                 https://doublebyteblog.wordpress.com/2024/08/02/navigating-g
+                                                                                 eoparquet-lessons-learned-from-the-emotional-cities-project/.
+       The ongoing development efforts by the OGC and its working
+       groups have significantly contributed to the maturity and                 Elastic. âElasticsearch: The Official Distributed Search &
+       robustness of OGC API specifications. This rapid progress is              Analytics    Engine.â      Elastic,   13  settembre   2024.
+                                                                                 https://www.elastic.co/elasticsearch.
+       indicative of the growing interest and commitment to these
+       standards within the geospatial community.                                eMOTIONAL Cities Consortium, 2022. eMOTIONAL Cities -
+                                                                                 Mapping the cities through the senses of those who make them.
+       Fundamental to the success of the project was the use of FOSS             emotionalcities-h2020.eu.
+       solutions, which represented an opportunity to build a large part
+                                                                                 European Commission, Directorate-General for Research &
+       of the infrastructure on solid foundations, focusing only on the          Innovation (2016) H2020 Programme Guidelines on FAIR Data
+       most emerging aspects of the project. At the same time, the fact          Management in Horizon 2020, Version 3.0. Luxembourg,
+       that the SDI and all the developments on the individual derived           European Commission, Directorate-General for Research &
+                                                                                 Innovation 12pp. DOI: http://dx.doi.org/10.25607/OBP-774
+       tools are on open software means that the work carried out can
+       be a starting point for further future projects.                          Geoparquet.org. 2024. https://geoparquet.org/.
+
+DOI: 10.5281/zenodo.14223773                                                18
+Â© Licensed by the authors under the CC BY 4.0 license
+FOSS4G 2024 â Academic Track                                                    December 2â8, 2024, BeleÌm-PA, Brazil
+
+       JimÃ©nez, R. C. et al. Four simple recommendations to
+       encourage best practices in research software. F1000Res 6, 876
+       (2017).
+
+       Kotsev, A., Minghini, M., Tomas, R., Cetl, V., Lutz, M., 2020.
+       From Spatial Data Infrastructures to Data Spaces - A
+       Technological Perspective on the Evolution of European SDIs.
+       ISPRS International Journal of Geo-Information, 9(3), no. 176.
+       doi.org/10.3390/ijgi9030176.
+
+       Liu, J. et al. (2022). Co-creating FAIR Data for Healthy and
+       Resilient Urban Development. In: Gatzweiler, F.W. (eds) Urban
+       Health and Wellbeing Programme. Urban Health and Wellbeing.
+       Springer,                                          Singapore.
+       https://doi.org/10.1007/978-981-19-2523-8_3
+
+       Opengeospatial. âGitHub - Opengeospatial/Geoparquet:
+       Specification for Storing Geospatial Vector Data (Point, Line,
+       Polygon) in        Parquet.â GitHub. June 21, 2024.
+       https://github.com/opengeospatial/geoparquet.
+
+       Open Geospatial Consortium. 2023a.               âOGC      API.â
+       Ogcapi.ogc.org. https://ogcapi.ogc.org/.
+
+       Open Geospatial Consortium. 2023b. âOverview and Main
+       Concepts - OGC API Workshop.â Ogc.org. 2023.
+       https://ogcapi-workshop.ogc.org/overview-and-main-concepts/.
+
+       Simoes, J., & Cerciello, A. (2021). D 3.1 - Data Management
+       Plan I. Zenodo. https://doi.org/10.5281/zenodo.13365265
+
+       Simoes, J., and A. Cerciello. 2022a. âSERVING GEOSPATIAL
+       DATA USING MODERN and LEGACY STANDARDS: A
+       CASE STUDY from the URBAN HEALTH DOMAIN.â The
+       International Archives of the Photogrammetry, Remote Sensing
+       and Spatial Information Sciences XLVIII-4/W1-2022 (August):
+       419â25.
+       https://doi.org/10.5194/isprs-archives-xlviii-4-w1-2022-419-202
+       2.
+
+       Simoes Joana, âMVT Provider Refactoring by Doublebyte1 Â·
+       Pull Request #1454 Â· Geopython/Pygeoapi.â GitHub. December
+       28, 2023. https://github.com/geopython/pygeoapi/pull/1454.
+
+       Simoes, J., and Cerciello, A. (2022b). D 3.2 - Architecture
+       definition and code for the generic SDI. Zenodo.
+       https://doi.org/10.5281/zenodo.13365357
+
+       Simoes, J., & Cerciello, A. (2023). D 3.3 - Description of the
+       SDIs I. Zenodo. https://doi.org/10.5281/zenodo.13365412
+
+       âStandards.â    Open      Geospatial      Consortium.      2024.
+       https://www.ogc.org/standards/.
+
+       âSpatial Data on the Web Best Practices.â 2023. W3.org.
+       September 19, 2023. https://www.w3.org/TR/sdw-bp/.
+
+       Vera Sequeiros Ignacio and Neirynck Thomas âIntroducing the
+       Elasticsearch Vector Tile Search API.â 2022. Elastic Blog.
+       Elastic.             January              24,              2022.
+       https://www.elastic.co/blog/introducing-elasticsearch-vector-tile
+       -search-api-for-geospatial.
+
+       Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. The FAIR
+       Guiding Principles for scientific data management and
+       stewardship.       Sci     Data      3,  160018        (2016).
+       https://doi.org/10.1038/sdata.2016.18
+
+DOI: 10.5281/zenodo.14223773                                               19
+Â© Licensed by the authors under the CC BY 4.0 license

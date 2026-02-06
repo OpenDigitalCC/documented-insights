@@ -1,0 +1,115 @@
+Ref. Ares(2026)638042 - 20/01/2026
+
+Response to the European Open Digital Ecosystems
+call for evidence by KDE e.V.
+
+1. What are the strengths and weaknesses of the EU open-source
+sector? What are the main barriers that hamper (i) adoption and
+maintenance of high-quality and secure open source; and (ii)
+sustainable contributions to open-source communities?
+  Â·   Strength:
+          o There is a strong culture of volunteering across many EU countries, supported by
+             a strong social safety net and a keen interest in working for the public good.
+          o Across Europe we see a rich tradition of open source. The best open source
+             solutions used around the world are largely developed in Europe. We can find
+             undeniable success across many different industries and sectors.
+          o Open Source software has proven to be an efficient use of resources due to its
+             high reusability:
+                 î¯ The pooling of resources that open source allows benefits all actors and
+                     makes the solutions cheaper for the general public.
+                 î¯ World-class open source software has been developed by small teams
+                     with small budgets.
+                 î¯ Solutions once developed can be reused by other players without having
+                     to redevelop the same solution. Instead they can improve the existing
+                     solution and extend it to fit their needs.
+          o There is a focus on building long-term sustainable solutions in the Open Source
+             community rather than sways in the market.
+          o The European Union has a well-educated population able to make high-quality
+             contributions.
+          o Open Source forms a vital part of the technology supply chain for European
+             technology and industry companies, used both within the products and during the
+             research & development process.
+  Â·   Weaknesses:
+          o There is a proven record of lobbying influence by large corporations working
+             against the public interest and Open Source.
+          o Recognition and awareness of excellent existing open source solutions is lacking.
+          o Open Source solutions often have to compete against corporations with vastly
+             greater financial resources, making it harder to deliver at the same speed and
+             scale.
+         o   Personal circumstances of potential contributors sometimes prevent them from
+             contributing (care-work, financial needs, ...).
+         o   Europe lacks a hardware ecosystem, which means we have to coordinate with
+             manufacturers who are elsewhere with wants and needs that do not necessarily
+             align with ours.
+         o   Political willpower sways depending on current trends rather than the long term
+             needs.
+         o   Adoption of an Open Source solution often does not result in financial
+             investments, especially by institutional and corporate players. This leads to a
+             situations where the creators of the technology do not have enough resources to
+             maintain it sustainably. In effect, links in the technology supply chain are relied on
+             and taken for granted, but can be weak in reality.
+
+2. What is the added value of open source for the public and private
+sectors? Please provide concrete examples, including the factors
+(such as cost, risk, lock-in, security, innovation, among others) that
+are most important to assess the added value.
+  Â·   Transparency, which increases security
+  Â·   Ability to switch solutions and providers to avoid vendor lock-in
+  Â·   Real ownership over the solution and the knowledge that surrounds it. Adoption does not
+      submit the user to the will of the provider.
+  Â·   Real collaboration is possible between different groups. People with different interests
+      can collaborate to make good solutions for eveyone.
+  Â·   The largest tech companies are in the USA and the profits they generate in the EU (by
+      customers and public institutions) currently go to the USA instead of supporting the
+      economy of the EU. This could be changed with the use of open source software.
+  Â·   Acceleration of product and service development starting from a common, shared
+      resource base.
+
+3. What concrete measures and actions may be taken at EU level to
+support the development and growth of the EU open-source sector
+and contribute to the EUâs technological sovereignty and cybersecurity
+agenda?
+  Â·   Wide adoption of solutions created within the EU, especially Open Source solutions.
+  Â·   Creation of a EU Souvereign Tech Fund to support the maintainance of critical
+      infrastructure open source software.
+  Â·   Encourage other institutions to contribute back to Open Source projects (financially or
+      otherwise) when they adopt and use them.
+  Â·   Proper legal and financial consequences when the lack of usage of Open Source has
+      negative consequences. These negative consequences include solutions going out of
+      support, security issues and bugs that cannot be addressed due to lack of access,
+      security breaches that cannot be scrutinised and more.
+  Â·   Regulate processes for when hardware used in the EU is no longer supported by its
+      vendor. Mandate that the software it relies on is published under an open source license.
+  Â·   Focus education on transmitting foundational technology skills. Train people with
+      souvereign solutions (e.g. do not focus on teaching them how to use a specific product
+      but rather how to solve the underlying problem with the program as a tool to achieve it).
+
+4. What technology areas should be prioritised and why?
+  Â·   Consumer technology because it affects the wider population.
+  Â·   Technology used in public administrations because it is vital for resilience and
+      sovereignty.
+  Â·   We did notice that AI was mentioned throughout the document several times in places
+      that surprised us. It is important to us that regulators do not get seduced by the latest
+      trends but rather that they understand we are establishing long term foundations.
+
+5. In what sectors could an increased use of open source lead to
+increased competitiveness and cyber resilience?
+  Â·   Public administration: Governments would be less dependant on non-EU tech
+      companies and have more ownership and transparency over the deployed solutions. In
+      addition the data they hold would not leave the EU.
+  Â·   Education: The EU needs to train people on open source technology early so they are
+      not locked into non-sovereign solutions long-term.
+  Â·   Consumer technology: The technology EU citizens use every day (browsers, desktops,
+      messaging applications, ...) should have viable and attractive Open Source solutions.
+      This will make it less likely for them to be exposed to bad actors taking them over and
+      the financial interests of the companies operating them, which will not align with the best
+      interests of the EU public.
+  Â·   Social media: Public opinion and news consumtions these days is largely shaped by
+      social media. It needs to be owned and operated on open source solutions by public-
+      interest organisations in order to work for the benefit of citizens.
+  Â·   Industry: The shared technology base provided by Open Source forms a critical part of
+      the supply chain used in technology products developed and exported from Europe.
+      Unlike usually foreign-originated proprietary technology it is not subject to trade
+      restrictions and tariffs and instead offers guaranteed availability. As a result industry
+      retains the ability to develop, improve, manufacture and offer products and services in
+      uncertain political climates.

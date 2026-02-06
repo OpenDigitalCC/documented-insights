@@ -1,0 +1,1266 @@
+Ref. Ares(2026)1219145 - 03/02/2026
+
+Zur Ãberwindung einer suboptimalen
+Versorgung mit freier Open-Source-
+Software am Beispiel von CiviCRM
+von Florian Dieckmann, 67547 Worms, Stand 02.02.2026
+florian.dieckmann@polbeo.de
+[Abstract]
+Der Text untersucht die suboptimale Versorgung mit freier Open-Source-Software (FOSS) am
+Beispiel von CiviCRM, einer seit 20 Jahren weltweit fÃ¼r und von Nicht-Regierungs-Organisationen
+(NGO) entwickelten Software fÃ¼r Constituent-Relationship-Management, die innerhalb der EU Ã¼ber
+ein hohes Marktpotential verfÃ¼gt und bereits von Tausenden NGO innerhalb der EU genutzt wird.
+Die SuboptimalitÃ¤t der Versorgung mit CiviCRM wird im Text weder als temporÃ¤res Defizit noch
+als Ergebnis individuellen Versagens verstanden, sondern als stabiler Entwicklungspfad, der aus
+rationalen Einzelentscheidungen der beteiligten Akteure hervorgeht. Analytisch wird zwischen der
+Versorgung mit Softwarefunktionen und der AneignungsfÃ¤higkeit der Software unterschieden.
+Der Text gliedert sich in vier Schritte: Er beschreibt zunÃ¤chst eine beobachtbare SuboptimalitÃ¤t von
+Nutzung und Verbreitung, erklÃ¤rt diese als emergentes Resultat rationaler Entscheidungen im Sinne
+des Kollektivgutproblems nach Mancur Olson und diskutiert anschlieÃend institutionelle
+Governance-AnsÃ¤tze in Anlehnung an Elinor Ostrom zur Ãberwindung der SuboptimalitÃ¤t. Ziel
+dieser Analyse ist es, das bislang nicht gehobene Wohlfahrtspotential der Software sichtbar zu
+machen und Ansatzpunkte zu identifizieren, mit denen dieses unter realistischen institutionellen
+Bedingungen gehoben werden kann. In einem Exkurs wird die bestehende Governance-Struktur von
+CiviCRM rekonstruiert und hinsichtlich ihrer Reichweite, ReprÃ¤sentativitÃ¤t und LeistungsfÃ¤higkeit
+eingeordnet.
+ErgÃ¤nzend enthÃ¤lt eine Risikoanalyse mit Blick auf die geopolitische und rechtliche Verankerung
+zentraler Elemente der Governance von CiviCRM in den USA sowie einen explorativen Versuch,
+das AusmaÃ der suboptimal gebundenen Ressourcen und Wohlfahrtspotenziale zumindest
+nÃ¤herungsweise zu quantifizieren. AbschlieÃend wird die bestehende Situation nicht nur als
+strukturelles Problem, sondern auch als strategische Chance interpretiert: insbesondere fÃ¼r
+Implementierungsagenturen, die durch standardisierte Leistungen, Skalierung und eine konstruktive
+Einbindung in Governance-Strukturen zur Transformation des bestehenden Entwicklungspfades
+beitragen kÃ¶nnen.
+Der vergleichsweise groÃe Umfang des Textes ist bewusst gewÃ¤hlt. Er dient der Rekonstruktion der
+Argumentation und der systematischen VerknÃ¼pfung empirischer Beobachtungen und der Analyse
+institutioneller Arrangements sowie deren jeweiliger theoretischer Einordnung. Der Text ist als
+analytischer Referenzrahmen konzipiert; einzelne Abschnitte sind unabhÃ¤ngig voneinander lesbar.
+
+                                               -1-
+Inhaltsverzeichnis
+1. Ebenen einer suboptimalen Versorgung mit freier Open-Source-Software.....................................3
+2. Suboptimale Versorgung als Ergebnis rationaler Entscheidungen...................................................7
+3. SpeziallÃ¶sung fÃ¼r wenige â oder Infrastruktur fÃ¼r alle?...................................................................9
+   3.1 Suboptimal, aber stabil.............................................................................................................. 9
+   3.2 Zivilgesellschaft entfesseln......................................................................................................10
+4. Kollektive GÃ¼ter und rationale Unterversorgung: Das Grundproblem..........................................12
+5. Governance als institutionelle Bearbeitung â und das Risiko ihrer Verfehlung.............................14
+   5.1 Governance nach Ostrom: institutionelle Bearbeitung statt LÃ¶sung.......................................14
+   Exkurs: Governance-Strukturen von CiviCRM.............................................................................15
+      Globale Ebene........................................................................................................................... 15
+      Foren und Kommunikationsplattformen................................................................................... 15
+      EuropÃ¤ische Ebene.................................................................................................................... 16
+      Deutschsprachiger Raum.......................................................................................................... 16
+      Risikobetrachtung angesichts der politischen Entwicklungen in den USA..............................16
+   5.2 Das Ã¶konomische Gewicht der Nutzung: eine grobe Quantifizierung....................................17
+   5.3 Faktische Nicht-Beteiligung als Folge fehlender Vorstellbarkeit von Governance.................18
+   5.4 ReprÃ¤sentationsdefizit und das Risiko der Governance-Simulation........................................19
+   5.5 Institutionelle Leerstellen: fehlende Sichtbarkeit von EntscheidungsgegenstÃ¤nden,
+   Betroffenheit und Kosten...............................................................................................................22
+6. Zwei Pfade jenseits der Illusion vollstÃ¤ndiger LÃ¶sung...................................................................23
+   6.1 Kollektive Beschaffung: ein naheliegender, aber prekÃ¤rer LÃ¶sungsversuch...........................23
+   6.2 Strategische Konsolidierung durch Implementierungsagenturen: ein marktfÃ¤higer
+   Umgehungspfad............................................................................................................................. 24
+   6.3 Vom stabilen Gleichgewicht zur optimalen Versorgung: eine konstruktive Perspektive........25
+   6.4 Anreizkompatible Transformationsstrategien..........................................................................27
+7. Systemische Risiken stabiler SuboptimalitÃ¤t..................................................................................30
+8. Die NÃ¤he zum Alltag der Nutzung als strategisch gÃ¼nstige Position.............................................32
+Ãber den Autor................................................................................................................................... 33
+
+                                                                      -2-
+1. Ebenen einer suboptimalen Versorgung mit freier
+Open-Source-Software
+In zunehmend mehr gesellschaftlichen Bereichen baut digitale Infrastruktur auf freier Open-Source-
+Software (FOSS) auf. Sie wird gemeinschaftlich als Kollektivgut entwickelt und verspricht ihren
+Anwender*innen langfristige SouverÃ¤nitÃ¤t â anders als Softwaresysteme, die als exklusive GÃ¼ter
+eigentums- und lizenzrechtlich geschÃ¼tzt sind und stets wirtschaftliche AbhÃ¤ngigkeiten erzeugen.
+Gerade in zivilgesellschaftlichen Organisationen ermÃ¶glicht vielfach Ã¼berhaupt erst FOSS digitale
+Teilhabe und Zusammenarbeit. Insbesondere weil vergleichsweise hÃ¶here Kosten und schlechtere
+Nutzungsbedingungen proprietÃ¤rer Systeme dies gar nicht erst zulieÃen.
+Die Nutzung von FOSS geht im Alltag jedoch mit Spannungen einher, die sich teils in der
+LeistungsfÃ¤higkeit der Software zeigen, vielmehr aber noch in ihrer konkreten AneignungsfÃ¤higkeit,
+Wartbarkeit und Weiterentwicklung. Diese Spannungen werden im Folgenden am Beispiel von
+CiviCRM untersucht.
+CiviCRM ist eine Open-Source-Software zur Verwaltung von Kontakten und AktivitÃ¤ten, die seit 20
+Jahren fÃ¼r und von Non-Profit-Organisationen weltweit entwickelt wird. Sie wird in
+gemeinnÃ¼tzigen Organisationen meist als Werkzeug fÃ¼r operative Aufgaben wie die Abwicklung
+eines E-Mail-Massenversands, die Erstellung von Serienbriefen, die Termin- und
+AktivitÃ¤tenplanung oder fÃ¼r das Vorgangs- bzw. Fallmanagement genutzt. Die MÃ¶glichkeit, in
+CiviCRM Kontakte sowie Beziehungen zwischen diesen Kontakten zu verwalten, dient vielen
+Anwender*innen meist als leistungsstarkes Adressbuch und zur Gruppierung von
+Adressatenkreisen. Hinzu kommen Funktionen fÃ¼r SekundÃ¤rprozesse einer Organisation, wie etwa
+die Einwerbung, Bescheinigung und Verwaltung finanzieller Zuwendungen, die Verwaltung von
+Mitgliedern oder auch die Organisation von Veranstaltungen vom Einladungs- und
+Anmeldeverfahren bis hin zur Verwaltung von Teilnehmenden, der Abrechnung von
+TeilnahmegebÃ¼hren oder die Bescheinigung von Teilnahmen.
+Wer mit CiviCRM arbeitet â sei es als Anwender*in oder auch als externe Begleiter*in einer
+EinfÃ¼hrung dieser Software â, macht hÃ¤ufig eine ambivalente Erfahrung. Auf der einen Seite steht
+ein funktionsreiches und ausgesprochen leistungsfÃ¤higes System, das die komplexe Arbeit einer
+gemeinnÃ¼tzigen Organisation Ã¼berhaupt erst handhabbar macht. In diesem Sinn âtut das System,
+was es sollâ.
+Dennoch stellt sich oft ein GefÃ¼hl der Reibung ein. Die Installation und Instandhaltung der
+Software ist anspruchsvoll. Die QualitÃ¤t der Funktionen und Bedienbarkeit schwankt betrÃ¤chtlich
+innerhalb des weit verzweigten Systems. Neue Nutzer*innen benÃ¶tigen lange, um mit der Software
+produktiv zu werden. Selbst erfahrene Anwender*innen greifen regelmÃ¤Ãig auf externe
+UnterstÃ¼tzung zurÃ¼ck. Nutzer*innen berichten, dass sie bestimmte Funktionen zwar theoretisch
+kennen, praktisch aber meiden â nicht weil die Funktionen ungeeignet wÃ¤ren, sondern weil ihre
+Anwendung voraussetzungsvoll ist. Eine geringe HÃ¤ufigkeit bestimmter Anwendungssituationen
+fÃ¼hrt dazu, dass die richtige Benutzung mangels HÃ¤ufigkeit nicht ausreichend gelernt werden kann.
+Mangelnde intuitive Bedienbarkeit und ebenso mangelnde Dokumentation machen dann wiederholt
+eine teure Wiederaneignung erforderlich. In all diesen FÃ¤llen werden wiederkehrend
+
+                                               -3-
+projektbezogene Workarounds, wiederkehrende Schulungsbedarfe oder auch die Substitution im
+Prinzip vorhandener Funktionen durch andere, zusÃ¤tzliche Softwaresysteme zum Normalzustand,
+nicht zur Ausnahme.
+Diese Erfahrung ist kein RandphÃ¤nomen einzelner Fehlkonfigurationen oder unglÃ¼cklicher
+ProjektverlÃ¤ufe. Sie wiederholt sich Ã¼ber Organisationstypen und Einsatzkontexte hinweg. Sie tritt
+sowohl bei kleinen Vereinen als auch bei groÃen, ressourcenstÃ¤rkeren Organisationen auf. Und sie
+bleibt bestehen, selbst wenn das System Ã¼ber Jahre hinweg stabil betrieben wird.
+AuffÃ¤llig ist, dass diese Reibung selten als âFehlfunktionâ beschrieben wird. Kaum jemand wÃ¼rde
+behaupten, CiviCRM sei grundsÃ¤tzlich defekt. Vielmehr entsteht der Eindruck eines Systems, das
+fachlich Ã¼berzeugt, dessen Nutzung jedoch kontinuierlich vermittelt und abgesichert werden muss.
+Die eigentliche Arbeit mit dem System ist hÃ¤ufig untrennbar mit der Arbeit am System verbunden.
+Zum Aspekt der Nutzungserfahrung tritt eine zweite, nicht minder bemerkenswerte Beobachtung
+hinzu. Gemessen an seiner LeistungsfÃ¤higkeit und der Breite der mÃ¶glichen AnwendungsfÃ¤lle wird
+CiviCRM noch von Ã¼berraschend wenigen zivilgesellschaftlichen Akteuren eingesetzt.
+Der Markt potenzieller Anwender â Journalisten und Medienschaffende, Social Entrepreneure und
+Personen des Ã¶ffentlichen Lebens, Politiker aller politischen Ebenen, Initiativen,
+BÃ¼rgerbeteiligungsprojekte, Vereine, Parteien, Gewerkschaften oder gewerkschaftsnahe
+Organisationen, Stiftungen, karitative Einrichtungen und viele mehr â ist deutlich grÃ¶Ãer als die
+tatsÃ¤chliche Nutzerbasis vermuten lÃ¤sst. Noch dazu, wenn man die MÃ¶glichkeit in Betracht zieht,
+dass die Software nicht nur in den jeweiligen Verbandszentralen eingesetzt werden kann, sondern
+sich fÃ¼r den unabhÃ¤ngigen Einsatz in den subsidiÃ¤ren Einheiten der jeweiligen VerbÃ¤nde eignet. FÃ¼r
+den deutschsprachigen Raum lÃ¤sst sich Anfang 2026 nÃ¤herungsweise vermuten, dass vermutlich
+kaum mehr als 1000 aktive Instanzen der Software im Einsatz sind. Dabei ist der deutschsprachige
+Raum neben GroÃbritannien der in Europa bislang noch am stÃ¤rksten entwickelte Markt. Die
+Marktdurchdringung bleibt also offenkundig hinter den MÃ¶glichkeiten zurÃ¼ck.
+Diese geringe Verbreitung ist erklÃ¤rungsbedÃ¼rftig. Sie lÃ¤sst sich kaum allein durch fehlenden Bedarf
+oder durch Ã¼berlegene Konkurrenzangebote erklÃ¤ren. Denn die Anforderungen, die CiviCRM
+adressiert, sind weit verbreitet. AdÃ¤quate Alternativen existieren kaum und wenn, so doch meist als
+proprietÃ¤re Systeme, deren Preisbildung auf die oberen Marktsegmente der ressourcenstarken
+Akteure abzielt. Jenseits von CiviCRM oder den proprietÃ¤ren Herausforderern findet sich ansonsten
+nur StÃ¼ckwerk: Sammelsurien unterschiedlicher Softwares und jede Menge MedienbrÃ¼che, sofern
+Ã¼berhaupt Software zum Einsatz kommt.
+Es entsteht also der Eindruck, dass eine grundsÃ¤tzlich verfÃ¼gbare MÃ¶glichkeit zur StÃ¤rkung
+organisatorischer Gestaltungsmacht, zur Effizienzsteigerung zivilgesellschaftlichen Wirkens und
+nicht zuletzt zur UnterstÃ¼tzung demokratischer Beteiligung nur in begrenztem Umfang gehoben
+wird. Das Potenzial ist vorhanden â es wird jedoch nicht ausgeschÃ¶pft. Die Frage ist: Woran liegt
+das?
+In der folgenden Untersuchung betrachte ich CiviCRM als ein Gut im Sinne der GÃ¼tertheorie der
+politischen Ãkonomie. Ich befasse mich mit der Frage der OptimalitÃ¤t der Versorgung mit diesem
+Gut. Mit Blick auf FOSS am Beispiel von CiviCRM unterscheide ich dabei zwischen zwei Ebenen
+der Versorgung:
+
+                                                -4-
+Auf einer ersten Ebene lÃ¤sst sich die Versorgung mit Softwarefunktionen betrachten. Gemeint ist
+dabei die Frage, ob ein System die vorgesehenen Aufgaben erfÃ¼llen kann: ob es die notwendigen
+Datenstrukturen bereitstellt, zentrale GeschÃ¤ftsprozesse abbildet, technisch stabil arbeitet und mit
+vertretbarem Aufwand unterhalten werden kann. Bereits auf dieser Ebene zeigt sich eine
+strukturelle SuboptimalitÃ¤t der Versorgung. Die bereitgestellten Funktionen sind in erster Linie an
+den Anforderungen jener Akteure ausgerichtet, die die Kosten der Beschaffung und
+Weiterentwicklung der Software tragen. FÃ¼r diese Akteure sind die von ihnen beschafften
+Funktionen hinreichend gut: Sie erlauben die ErfÃ¼llung der eigenen Aufgaben und rechtfertigen
+damit die von ihnen getÃ¤tigte Investition. Funktionen und bestimmte QualitÃ¤ten dieser Funktionen,
+die fÃ¼r die Beschaffenden von nachgeordneter Bedeutung sind, werden hingegen nur eingeschrÃ¤nkt
+berÃ¼cksichtigt oder bleiben unzureichend ausgeprÃ¤gt. Dies gilt insbesondere dort, wo die
+Beschaffenden die Defizite des von ihnen beschafften Gutes durch die eigene fachliche oder
+technische Kompetenz kompensieren kÃ¶nnen, sodass der zusÃ¤tzliche Aufwand, der bei der
+Benutzung durch den Beschaffenden in Kauf genommen wird, geringer erscheint, als die
+Beschaffung eines optimaleren Gutes, dessen Benutzung weniger Aufwand bedeutete.
+Was in dieser Form fÃ¼r den Beschaffenden dann âgut genugâ ist, muss fÃ¼r andere Nutzergruppen
+nicht gleichermaÃen ausreichend sein. Insbesondere dann, wenn diese Anderen die Defizite des
+beschafften Gutes nicht ausgleichen kÃ¶nnen, weil sie weniger kompetent sind
+Vor diesem Hintergrund betrachtet ist CiviCRM hinreichend. Das System ist leistungsfÃ¤hig,
+technisch stabil, zukunftsfÃ¤hig und deckt eine Vielzahl zentraler AnwendungsfÃ¤lle ab. Die
+bestehenden MÃ¤ngel sind so spezifisch, dass sie die Hauptsache des Anwendungszwecks nicht
+vereiteln. Dennoch kann die Versorgung mit Softwarefunktionen nicht als optimal gelten, da sie
+durch selektive Nutzenorientierungen der die Software Beschaffenden geprÃ¤gt ist, die Ã¼ber den
+Kreis der Beschaffenden hinausreichende Anforderungen der Ã¼brigen Anwender*innen
+systematisch unterversorgt.
+Die zweite Ebene der Versorgung betrifft die AneignungsfÃ¤higkeit der Software, genauer die
+FÃ¤higkeit, sich als Anwender*in die Nutzung und NutzungsmÃ¶glichkeiten der Software selbst
+anzueignen, sie dauerhaft ohne fremde Hilfe benutzen und die eigene Nutzung im Rahmen der
+durch die Software gegebenen MÃ¶glichkeiten selbststÃ¤ndig ausbauen zu kÃ¶nnen.
+Auf dieser Ebene geht es nicht darum, ob Funktionen vorhanden sind, sondern darum, wie
+erschlieÃbar sie fÃ¼r die Anwender*innen sind. Das heiÃt, wie leicht sich erkennen lÃ¤sst, welche
+Funktionen existieren, wie verstÃ¤ndlich das jeweils zugrunde liegende Konzepte und die
+verwendeten Begriffe sind und in welchem MaÃe das System die Nutzer dabei unterstÃ¼tzt, eine
+eigenstÃ¤ndige Nutzung zu entwickeln..
+Auf dieser zweiten Ebene ist die Versorgung noch weit weniger optimal, als auf der ersten Ebene.
+Die vorhandene Dokumentation bezieht sich oft auf den Versionsstand, in dessen Zusammenhang
+die Dokumentation ursprÃ¼nglich entstanden ist. Die Dokumentation ist zudem stark fragmentiert,
+weil ganz unterschiedliche Autoren aus unterschiedlichen Motiven an teils ganz unterschiedlichen
+Orten zu unterschiedlichen Zeitpunkten und Versionen zur Bedienung der Software Texte oder
+Videos produziert haben. Falls Ã¼berhaupt. Suchmaschinen und auch cloud-basierte KI-Dienste
+liefern in Folge dessen Hinweise auf veraltete Problem-LÃ¶sungs-Tupel oder spekulieren Ã¼ber
+mÃ¶gliche Bedienungsweisen, die durch zwischenzeitliche VerÃ¤nderung der Software obsolet
+
+                                                -5-
+geworden sind. Ein technisch nachrangiger, fÃ¼r die Benutzung in diesem Zusammenhang aber
+relevanter Aspekt ist auch die laufende VerÃ¤nderung von Ãbersetzungen der in den
+BenutzeroberflÃ¤chen verwendeten Begriffe und Redewendungen.
+Nicht nur die Bedienung der Software, auch die verfÃ¼gbare Dokumentation setzt vielfach Vorwissen
+voraus. BenutzeroberflÃ¤chen und Funktionslogiken bauen auf konzeptionellen Annahmen auf, die
+sich aus der Nutzung selbst nicht ohne Weiteres erschlieÃen. Die Aneignung der Software ist in aller
+Regel kein linearer, schrittweise aufeinander aufbauender Lernprozess. Einmal erkannte Logiken
+lassen sich nicht zuverlÃ¤ssig extrapolieren, weil die in einem Bereich umgesetzte Logik der
+Bedienung nicht notwendig auch fÃ¼r einen anderen Bereich in der gleichen Software gilt. Die
+Nutzung ist dadurch wiederholt abhÃ¤ngig von externem Wissen. Die autodidaktische Aneignung ist
+grundsÃ¤tzlich mÃ¶glich, sie erfordert jedoch einen hohen zusÃ¤tzlichen Aufwand. Die gewonnenen
+Erkenntnis sind pflegebedÃ¼rftig und bleiben in vielen FÃ¤llen als Wissen an Personen und an deren
+spezifische Kompetenzen gebunden.
+Im Fall von CiviCRM zeigt sich, dass eine auf der ersten Ebene bestehende SuboptimalitÃ¤t Folgen
+auf der zweiten Ebene hat, die Unterversorgung auf der zweiten Ebene aber auch fÃ¼r sich ganz
+allein besteht. Die funktionale Ausrichtung an den Anforderungen derjenigen, die die Kosten der
+Entwicklung der Software tragen, ermÃ¶glicht LÃ¶sungen mit vielen Konfigurationsoptionen, die fÃ¼r
+die kostentragenden Akteure aufgrund ihrer eigenen Kompetenzen bedienbar sind. Andere
+Nutzergruppen hingegen, die weniger kompetent sind, werden sowohl mit der Unterversorgung auf
+der ersten Ebene hadern, als auch mit der Unterversorgung auf der zweiten Ebene, weil sie die
+LÃ¶sungsmÃ¶glichkeiten selbst als Problem empfinden und nicht bedienen kÃ¶nnen.
+Nur weil die Software als freie Open-Source Software lizensiert ist, bedeutet das also noch nicht,
+dass es ohne weiteres mÃ¶glich ist, sich die Software zu beschaffen und anzueignen. Es bedarf
+erstens auch der Kompetenz, sie zu installieren und kontinuierlich zu pflegen. Was dann an
+Funktionen vorhanden ist, bleibt zweitens schwer zugÃ¤nglich, ist mÃ¶glicherweise nicht vollstÃ¤ndig
+nutzbar und bleibt unter UmstÃ¤nden dauerhaft von externer UnterstÃ¼tzung abhÃ¤ngig.
+Die eingeschrÃ¤nkte AneignungsfÃ¤higkeit ist nicht nur ein Problem der Nutzung, sondern eine
+strukturelle Zugangsbarriere. Sie betrifft nicht allein bestehende Anwender*innen, sondern weit
+mehr noch potenzielle neue Nutzer, fÃ¼r die bereits der Aufwand der EinfÃ¼hrung und ErschlieÃung
+abschreckend wirkt. Die Verbreitung des an sich sehr guten und gesellschaftlich relevanten
+CiviCRM-Systems bleibt dadurch hinter dem gesellschaftlich wÃ¼nschenswerten und technisch
+sowie Ã¶konomisch mÃ¶glichen Umfang zurÃ¼ck.
+Diese Diagnose impliziert weder ein individuelles Versagen einzelner Akteure noch eine
+grundsÃ¤tzliche Kritik an der Software oder ihrer Community. Sie verweist vielmehr auf ein
+strukturelles SpannungsverhÃ¤ltnis zwischen selektiv verfÃ¼gbaren Softwarefunktionen , der
+Schwierigkeit deren Aneignung und der Verbreitung der Software, die unter ihren MÃ¶glichkeiten
+hinsichtlich ihrer potentiellen gesellschaftlichen Wirkung bleibt. Warum dieses SpannungsverhÃ¤ltnis
+nicht zufÃ¤llig ist und weshalb es sich trotz guter Absichten stabilisiert, ist Gegenstand der folgenden
+Abschnitte.
+
+                                                 -6-
+2. Suboptimale Versorgung als Ergebnis rationaler
+Entscheidungen
+Es liegt nahe, die SuboptimalitÃ¤t als eine Anklage zu lesen: als Schuldzuweisung gegenÃ¼ber jenen,
+die die Softwareentwicklung tragen. Das wÃ¤re jedoch unangemessen und wÃ¼rde niemandem gerecht
+werden.
+Aus eigener Anschauung kann ich bestÃ¤tigen, dass das Credo des in den Niederlanden abgehaltenen
+CiviCamp 2025 zutrifft: âCame for the software, stayed for the community.â Ohne ihre Community
+hÃ¤tte die Software im Jahr 2025 ihr zwanzigjÃ¤hriges JubilÃ¤um vermutlich nicht erreicht und wÃ¤re
+nicht weltweit im Einsatz. Ohne das gemeinsame VerantwortungsbewuÃtsein besÃ¤Ãe die Software
+heute weder die ihr eigene technische Reife, noch die ihr attestierbare ZukunftsfÃ¤higkeit.
+Dennoch existiert die beschriebene Unterversorgung. Denn die beobachteten Effekte kÃ¶nnen
+politikÃ¶konomisch auch dann auftreten, wenn alle Beteiligten nach bestem Wissen rational handeln.
+Die suboptimale Versorgung resultiert nicht aus Vorsatz, sondern ist ein emergenter Effekt rationaler
+Entscheidungen.
+Die Entwicklung einer Software wie CiviCRM erfordert fortlaufend Priorisierungsentscheidungen.
+Zeit- und Personalressourcen sind begrenzt. Die an die Software gestellten Anforderungen fallen
+unterschiedlich dringlich aus. Es ist naheliegend, Investitionen zunÃ¤chst dort zu tÃ¤tigen, wo â aus
+Sicht der KostentrÃ¤ger â der grÃ¶Ãte unmittelbare Nutzen zu erwarten ist: in der Behebung von
+Fehlern oder in der Anpassung an spezifische Anforderungen realer Projekte. Die Ãberarbeitung
+oder der Ausbau bestehender Funktionen sowie die Erweiterung durch HinzufÃ¼gen gÃ¤nzlich neuer
+Funktionen und MaÃnahmen zur Verbesserung der AneignungsfÃ¤higkeit werden typischerweise
+zuletzt berÃ¼cksichtigt.
+Verbesserungen besitzen eine geringe Dringlichkeit, solange die Software fÃ¼r die kostentragenden
+Nutzer*innen tut, was sie soll. Eine Erweiterung des Funktionsumfangs setzt in der Regel voraus,
+dass mindestens eine kostentragende Nutzerin oder Organisation einen hinreichend starken Anreiz
+besitzt, die Entwicklung zu finanzieren, die Erweiterung unter der GNU Affero General Public
+License Version 3 (AGPLv3) zu verÃ¶ffentlichen und sich dauerhaft als verantwortliche Maintainerin
+dieses Softwareteils zu engagieren. Sobald die zur Erlangung einer verbesserten oder erweiterten
+FunktionalitÃ¤t absehbaren Kosten das Budget und den voraussichtlichen Nutzen der zur
+KostenÃ¼bernahme Bereitwilligen Ã¼bersteigen, kommt es nicht zu deren Beschaffung. Konkret kann
+man das in den einschlÃ¤gigen Foren und Git-Repositories Ã¼berall dort beobachten, wo Feature
+Requests mit âneed fundingâ etikettiert still stehen.
+Sind Investitionen auf der funktionalen Ebene vergleichsweise gut zurechenbar und kurzfristig
+wirksam, so gilt das nicht fÃ¼r Investitionen in die AneignungsfÃ¤higkeit des Systems. Eine
+anwenderorientierte Dokumentation, die Durchsetzung einer konsistenten Begriffsbildung, die
+Vereinheitlichung einer intuitiven BenutzerfÃ¼hrung oder die Herstellung systematischer Lernpfade
+entfalten ihre Wirkung zeitverzÃ¶gert. Sie kÃ¤men zwar einer breiten, teilweise erst zukÃ¼nftigen
+Nutzerschaft zugute und wÃ¤ren deshalb strategisch fÃ¼r die Community attraktiv, fÃ¼r die bereits
+kompetenten Nutzer*innen bestehen aber nur geringe Anreize, angesichts ihrer knappen Ressourcen
+die Nutzung durch eine anwenderorientierte Dokumentation anzuleiten, diese Dokumentation
+kontinuierlich zu pflegen und die durch Gewohnheit entstehenden eigenen blinden Flecken zu
+
+                                                -7-
+erkennen zu wollen. Rationales Handeln fÃ¼hrt unter diesen Bedingungen dazu, dass MaÃnahmen
+zur Verbesserung der AneignungsfÃ¤higkeit zwar als wÃ¼nschenswert anerkannt werden, in konkreten
+Entscheidungssituationen jedoch regelmÃ¤Ãig nachrangig behandelt werden.
+Von diesen PhÃ¤nomenen sind alle Beteiligten betroffen. Entwickler*innen der Software orientieren
+sich an der LÃ¶sung konkreter technischer Probleme. Akteure, die die Implementierung der Software
+beratend begleiten, bei der Konfiguration zur Hand gehen und die Nutzer*innen schulen, richten
+ihre Arbeit an den Anforderungen zahlender Auftraggeber*innen aus. Anwenderorganisationen
+fokussieren auf ihre eigene ArbeitsfÃ¤higkeit. In keinem dieser FÃ¤lle existiert ein Motiv, das auf eine
+bewusste VernachlÃ¤ssigung kollektiver Interessen hindeutet. Vielmehr addieren sich die rationalen
+Entscheidungen aller Beteiligten zu einem systemischen Ergebnis, das aus der Perspektive des
+Gesamtsystems eine suboptimale Versorgung zur Folge hat â ein Muster, das fÃ¼r die Bereitstellung
+kollektiver GÃ¼ter charakteristisch ist.
+Bemerkenswert ist, dass diese Form der SuboptimalitÃ¤t stabil ist. Sie erzeugt keine unmittelbaren
+Krisen oder FunktionsausfÃ¤lle. Sie bildet ein belastbares, wenn auch ineffizientes Gleichgewicht.
+Gerade diese StabilitÃ¤t erschwert es, die SuboptimalitÃ¤t als solche zu erkennen . Sie erscheint nicht
+als Problem, sondern als Normalzustand: Das System bleibt nutzbar, Projekte werden umgesetzt,
+Organisationen arbeiten weiter, auch wenn die bereitgestellten Funktionen in ihrer QualitÃ¤t
+schwanken oder unzureichend sind, die AneignungsfÃ¤higkeit gering bleibt und die Verbreitung der
+Anwendung weit unter dem Marktpotential liegt. Es handelt sich bei alledem um eine rationale
+SuboptimalitÃ¤t.
+
+                                                 -8-
+3. SpeziallÃ¶sung fÃ¼r wenige â oder Infrastruktur fÃ¼r
+alle?
+3.1 Suboptimal, aber stabil
+Die suboptimale Versorgung ist kein vorÃ¼bergehender Zustand, sondern ein stabiler
+Entwicklungspfad. Begrenzte QualitÃ¤t und LeistungsfÃ¤higkeit auf der Ebene der
+Softwarefunktionen, begrenzte AneignungsfÃ¤higkeit und eine in Folge dessen vergleichsweise
+geringe Verbreitung der Software verstÃ¤rken sich wechselseitig.
+In diesem Pfad bleibt die Implementierung und Nutzung der Software dauerhaft auf vermittelnde
+Akteure angewiesen. Neue Nutzer*innen treten nur zÃ¶gerlich hinzu. Teile bereits vorhandener
+FunktionalitÃ¤ten bleiben ungenutzt, nicht weil es in der jeweils die Software nutzenden
+Organisation fÃ¼r diese Funktionen keine Verwendung gÃ¤be, sondern weil die Kosten der Aneignung
+zu hoch sind und sie von den Nutzer*innen meist nur unter externer Anleitung erschlossen werden
+kÃ¶nnen.
+TransaktionskostenÃ¶konomisch liegt die zentrale Knappheit nicht in der Software selbst, sondern
+in ihrer Nutzbarmachung. FÃ¼r neue Anwender entstehen erhebliche Kosten des Verstehens,
+Anpassens und Erlernens, die weder durch die Entlastung von Softwarelizenzkosten noch durch die
+formale Offenheit der Software wettgemacht werden. Diese Kosten sind real und fÃ¼r viele
+Organisationen nicht bewÃ¤ltigbar. Letzeres ist der Grund, warum die Kosten der Aneignung teils
+sogar Gegenstand eigens dafÃ¼r ausgereichter FÃ¶rdermittel von FÃ¶rderstiftungen wie beispielsweise
+der Deutschen Stiftung fÃ¼r Engagement und Ehrenamt werden.
+Die Transaktionskosten, die mit der QualitÃ¤t der Funktionen und den Kosten der Aneignung
+verbunden sind, werden als inhÃ¤renter Bestandteil der Nutzung der Software akzeptiert. Fallweise
+fÃ¼hrt ein Personalwechsel in der Anwenderorganisation zum Verlust bisheriger Praktiken, weil das
+Anwenderwissen stark personengebunden ist. In der Ãbergabe an Nachfolger*innen wird unter
+UmstÃ¤nden nur die Bedienung der fÃ¼r die Organisation existenznotwendigen Kernfunktionen
+vermittelt oder die Ãbergabe misslingt sogar vollstÃ¤ndig, was neuerliche Beratung und Schulung
+durch Externe notwendig macht. Die Software bleibt dadurch ein Versprechen, eine magische
+WundertÃ¼te, deren Potential hÃ¤ufig gar nicht gehoben wird.
+Auf der Angebotsseite der Agenturen, die die Implementierung der Software als Dienstleistung
+anbieten, verfestigt sich dieser Entwicklungspfad zusÃ¤tzlich. Das Wohlfahrtspotential des Gutes
+CiviCRM wird auch deshalb nicht gehoben, weil und solange die KapazitÃ¤ten der zahlenmÃ¤Ãig
+ohnehin begrenzten Implementierungsagenturen Ã¼ber Monate und Jahre hinweg ausgelastet sind.
+Diese KapazitÃ¤tsbindung fÃ¤llt mit vergleichsweise hohen Markteintrittsbarrieren zusammen, sodass
+kein nennenswerter Zuwachs neuer Implementierungsagenturen entsteht, wÃ¤hrend die bestehenden
+Implementierungsagenturen selbst kaum wachsen. Zwar nimmt die Zahl der BeschÃ¤ftigten stetig zu,
+der mehrjÃ¤hrige Zuwachs bewegt sich jedoch â aggregiert betrachtet â in absoluten Zahlen lediglich
+im niedrigen zweistelligen Bereich, auch wenn dies fÃ¼r einzelne Agenturen bereits eine
+Verdoppelung bedeutet haben mag. Die Rekrutierung neuen Personals erfolgt dabei hÃ¤ufig endogen:
+Neue Implementierungsberaterinnen stammen nicht selten aus dem Kreis der Anwenderinnen, die
+
+                                               -9-
+CiviCRM zuvor aus praktischer Nutzung kennen gelernt haben und auf der Grundlage dieses
+Erfahrungswissens schrittweise in beratende Rollen hineinwachsen.
+Heuristisch lÃ¤sst sich daraus schlieÃen, dass die gegenwÃ¤rtig geringe Zahl kompetenter
+Implementierungsanbieter im deutschsprachigen Raum kein Ausdruck begrenzter Nachfrage ist,
+sondern das Ergebnis hoher Eintritts- und Skalierungsbarrieren. Der Eindruck eines eng begrenzten
+Kreises dauerhaft ausgelasteter Akteure verweist damit weniger auf die tatsÃ¤chliche MarktgrÃ¶Ãe als
+auf die strukturelle Verengung des Marktzugangs.
+Bemerkenswert ist, dass der Markt auf diese Weise nicht an mangelnder Nachfrage, sondern an der
+fehlenden Skalierung seiner Angebotsseite unterversorgt bleibt. Die anhaltende Auslastung der
+Implementierungsagenturen fungiert nicht als Wachstumsimpuls, sondern als strukturelle
+Wachstumsbremse. Die bestehende Knappheit reproduziert sich damit selbst.
+Dieser Entwicklungspfad ist aber keineswegs dysfunktional. Die Versorgung ist hinreichend, das
+Wesentliche zu ermÃ¶glichen, nÃ¤mlich einen kontinuierlichen Betrieb zum Zwecke bestimmter
+Kernprozesse innerhalb versorgter Anwenderorganisationen. Deshalb ist sie stabil. Zugleich
+begrenzt dieser Pfad die Reichweite des Systems: Die Nutzung bleibt auf jene Akteure konzentriert,
+die Ã¼ber ausreichende Ressourcen, Kompetenzen oder externe Hilfe verfÃ¼gen. Die MÃ¶glichkeiten,
+die das System grundsÃ¤tzlich erÃ¶ffnet, werden so nur in einem Teil des potenziellen
+Anwendungsfeldes realisiert.
+
+3.2 Zivilgesellschaft entfesseln
+Der Entwicklungspfad stabiler SuboptimalitÃ¤t ist funktional, weil er die Beschaffung von CiviCRM
+Ã¼berhaupt erst ermÃ¶glicht und damit die Existenz der Software sichert. In diesem Sinne erfÃ¼llt er
+eine notwendige Bedingung fÃ¼r ihre Entstehung und ihren Fortbestand. Dieser Pfad verspricht
+jedoch keine weitere Entwicklung, sondern lediglich eine Stabilisierung auf einem auch weiterhin
+begrenzten Niveau.
+Innerhalb der CiviCRM-Community zeichnen sich jedoch Entwicklungen ab, die Ã¼ber diesen
+Zustand hinausweisen. AnsÃ¤tze wie die Dockerisierung zur ErmÃ¶glichung von One-Click-
+Installationen, die Ãberarbeitung von BenutzeroberflÃ¤chen durch neue Themes wie das âRiverleaâ-
+Template-Framework oder die Vereinfachung von OberflÃ¤chen mittels der Erweiterung âDucktapeâ
+deuten auf einen Entwicklungspfad hin, der nicht mehr allein auf die Sicherung des Bestehenden
+zielt. Vielmehr richtet er sich darauf, die Nutzungstiefe durch bestehende Anwender*innen zu
+erhÃ¶hen und zugleich die Verbreitung der Software insgesamt auszuweiten.
+Die Wirkungen eines solchen Pfadwechsels reichen Ã¼ber CiviCRM selbst hinaus und haben eine
+gesellschaftliche Dimension. PolitikÃ¶konomisch lÃ¤sst sich der gegenwÃ¤rtige Entwicklungspfad als
+Unterrealisierung eines kollektiven Gutes beschreiben. Das Wohlfahrtspotential, das aus der
+Nutzung von CiviCRM als Infrastruktur zivilgesellschaftlicher Selbstorganisation entsteht, wird
+unter den Bedingungen des bisherigen Pfades zu groÃen Teilen nicht realisiert. Ausschlaggebend
+hierfÃ¼r sind hohe Transaktions- und Aneignungskosten, die den Zugang zur Software begrenzen und
+ihre Nutzung verteuern.
+Der Wohlfahrtsgewinn bestÃ¼nde darin, bislang latente Potenziale wirksam werden zu lassen und
+damit den bisherigen pfadabhÃ¤ngigen Effizienzverlust zu Ã¼berwinden.
+
+                                              - 10 -
+Die Kosten, die den Wohlfahrtsgewinn noch vereiteln, sind kein unverÃ¤nderliches Merkmal der
+Software. Sie sind Ergebnis einer pfadabhÃ¤ngigen Entwicklungslogik, die fÃ¼r die tragenden Akteure
+hinreichend gut funktioniert und sich gerade deshalb stabilisiert. Der damit verbundene
+Effizienzverlust ist systematisch: Er resultiert nicht aus Fehlentscheidungen einzelner, sondern aus
+einer Struktur, in der bestehende Arrangements reproduziert werden, solange sie ihre
+Mindestfunktionen erfÃ¼llen.
+Ein Verlassen dieses Pfades bedeutet keinen radikalen Bruch, sondern eine Effizienzsteigerung.
+Sinkende Eintrittsbarrieren und eine konsolidierte Versorgung mit Funktionen werden es
+ermÃ¶glichen, einen grÃ¶Ãeren Teil der bislang ungenutzten HandlungskapazitÃ¤ten in einzelnen
+Organisationen wie auch gesamtgesellschaftlich zu realisieren. Ressourcen, die heute infolge der
+suboptimalen Versorgung in der Arbeit am System gebunden sind, kÃ¶nnten verstÃ¤rkt fÃ¼r die
+inhaltliche Arbeit zum Wohle eigentlicher Organisationszwecke eingesetzt werden â und zwar in
+einer deutlich grÃ¶Ãeren Zahl von Organisationen und mit einer grÃ¶Ãeren Zahl von Nutzer*innen.
+Der gesellschaftliche Output zivilgesellschaftlicher TÃ¤tigkeit nÃ¤hme zu.
+Dass eine solche Entwicklung heute schwer vorstellbar erscheint, ist selbst Ausdruck der
+beschriebenen PfadabhÃ¤ngigkeit. Sie beruht auf der verbreiteten Annahme, die hohen initialen
+Kosten der EinfÃ¼hrung und Nutzung von CiviCRM seien aus strukturellen GrÃ¼nden unvermeidlich
+und mÃ¼ssten sich bei einer Ausweitung der Nutzung proportional fortsetzen. Diese Annahme
+Ã¼bersieht, dass Effizienzgewinne gerade darin bestehen, eine wachsende Nutzung von einer
+proportionalen Ausweitung der Vermittlungs-, Implementierungs- und Betreuungskosten zu
+entkoppeln. Eine breitere Nutzung der Software impliziert daher nicht zwangslÃ¤ufig linear
+mitwachsende UmsÃ¤tze der Implementierungsagenturen.
+Der Unterschied zwischen den beiden beschriebenen Entwicklungspfaden betrifft nicht nur
+technische oder organisatorische Fragen, sondern den Horizont, innerhalb dessen SuboptimalitÃ¤t
+entweder als unvermeidlicher Begleiteffekt akzeptiert oder als gestaltbarer Zustand begriffen wird.
+Da die CiviCRM-Community von der gemeinsamen Arbeit fÃ¼r gemeinnÃ¼tzige Zwecke getragen
+wird, ist die Orientierung auf eine breitere und wirksamere Nutzung der Software bereits angelegt.
+Zugleich aber ist selbst den Mitgliedern der CiviCRM-Community hÃ¤ufig unklar, warum trotz
+geteilter Zielvorstellungen, hoher fachlicher Kompetenz und kontinuierlichen Engagements eine
+systematische Unterversorgung auf der Ebene der Softwarefunktionen und der AneignungsfÃ¤higkeit
+fortbesteht. Die ErklÃ¤rung hierfÃ¼r liegt nicht im Wollen der Beteiligten, sondern in den strukturellen
+Bedingungen kollektiver Bereitstellung. Diese Bedingungen bilden den Gegenstand der folgenden
+theoretischen Einordnung.
+
+                                                - 11 -
+4. Kollektive GÃ¼ter und rationale Unterversorgung: Das
+Grundproblem
+Die suboptimale Versorgung ist erklÃ¤rungsbedÃ¼rftig. Denn wie kommt es, dass sie fortbesteht,
+obwohl die Software bereits seit 20 Jahren entwickelt wird, obwohl die Bedarfe klar sind, obwohl
+fachliche Kompetenz vorhanden ist und obwohl kontinuierlich an der Weiterentwicklung von
+CiviCRM gearbeitet wird? Es erscheint wenig plausibel, dass die Ursache der Unterversorgung auf
+fortgesetzte individuelle Fehlentscheidungen, mangelnden Einsatz oder fehlende Einsicht
+zurÃ¼ckzufÃ¼hren ist. Viel nÃ¤her liegend ist die Vermutung, dass es sich um ein strukturelles Problem
+handelt, das sich mit Hilfe der Theorie kollektiver GÃ¼ter erklÃ¤ren lÃ¤sst, wie sie insbesondere von
+Mancur Olson entwickelt worden ist.
+Olson geht der Frage nach, warum bestimmte GÃ¼ter, deren Nutzen vielen zugutekommt, qualitativ
+und quantitativ unter ihrem gesellschaftlich wÃ¼nschenswerten Niveau verfÃ¼gbar werden. Seine
+zentrale Einsicht lautet, dass Unterversorgung unter den Bedingungen der Beschaffung eines
+Kollektivgutes das unbeabsichtigte Ergebnis im Zusammenspiel rationaler Entscheidungen
+einzelner Akteure ist.
+Das Grundproblem lÃ¤sst sich einfach formulieren: Wenn die Kosten der Bereitstellung eines Gutes
+von einzelnen getragen werden mÃ¼ssen, wÃ¤hrend der Nutzen vielen oder sogar allen zugutekommt,
+weil niemand vom Nutzen des einmal beschafften Gutes ausgeschlossen werden kann, entsteht zwar
+ein hoher kollektiver Ertrag, aber auch ein starker Anreiz, das Gut zwar zu nutzen, sich aber nach
+MÃ¶glichkeit nicht am Aufwand seiner Beschaffung zu beteiligen. Selbst Akteure, die den
+kollektiven Nutzen eines Gutes ausdrÃ¼cklich anerkennen, geraten so in eine Situation, in der es
+vernÃ¼nftig erscheint, eigene Investitionen zu vermeiden oder aufzuschieben, solange andere die
+Kosten tragen kÃ¶nnten.
+Laut Olson gilt: Ein Kollektivgut wird Ã¼berhaupt nur dann beschafft, wenn derjenige, der die
+Kosten trÃ¤gt, trotz der unvermeidlichen Mitnutzung durch andere einen hinreichend groÃen eigenen
+Nutzenanteil erzielt, der mindestens ausreicht, um die auf ihn entfallenden Kosten der Beschaffung
+zu rechtfertigen.
+Die SuboptimalitÃ¤t der Versorgung entsteht genau dadurch, dass der Beschaffende das Gut nur in
+dem Umfang beschafft, bis sein eigener Bedarf an Nutzen gedeckt ist. Der die Kosten tragende
+Beschaffende wird die Beschaffung abbrechen, sobald der Grenznutzen zusÃ¤tzlich beschaffter
+Eigenschaften des Gutes die auf ihn entfallenden Kosten nicht mehr rechtfertigt.
+Entscheidend ist dabei, dass dieser Abbruchpunkt nicht zufÃ¤llig ist, sondern strukturell. Das
+Kollektivgut wird nicht bis zu dem Punkt bereitgestellt, an dem der kollektive Nutzen optimal wÃ¤re,
+sondern nur bis zu dem Punkt, an dem der private Grenznutzen der kostentragenden Akteure ihre
+individuellen Grenzkosten deckt. Die Differenz zwischen beiden Punkten bildet den systematischen
+Kern der Unterversorgung.
+Bei Software verschÃ¤rft sich dieses Abbruchkriterium in besonderer Weise auf der Ebene der
+VerstÃ¤ndlichkeit und Bedienbarkeit. WÃ¤hrend Softwarefunktionen einen unmittelbaren Nutzen fÃ¼r
+die beschaffenden Akteure selbst entfalten, erzeugen Investitionen in Dokumentation, konsistente
+
+                                               - 12 -
+Bedienlogiken oder verbesserte NutzeroberflÃ¤chen ihren Nutzen Ã¼berwiegend fÃ¼r Dritte. Der
+private Grenznutzen solcher MaÃnahmen ist fÃ¼r die Kostentragenden gering, obwohl der kollektive
+Nutzen hoch wÃ¤re. Aus der Perspektive Olsons ist es daher rational, die Beschaffung genau an dem
+Punkt abzubrechen, an dem die eigene Nutzung gesichert ist â auch wenn die Software fÃ¼r andere
+Anwendergruppen weiterhin schwer zugÃ¤nglich bleibt.
+An diesem Punkt sind die Nutzenbedarfe derer, die das Kollektivgut mitnutzen, ohne sich an den
+Kosten zu beteiligen, nÃ¤mlich noch nicht gedeckt, aber die an der Beschaffung der Software
+unbeteiligten Leute kÃ¶nnen auch nicht ohne weiteres die Grenzkosten bewÃ¤ltigen, die die
+Beschaffung weiterer nutzenstiftender Merkmale erforderte. Mehr noch ist der Anreiz dieser
+Anwender*innen, einen Beitrag zur BewÃ¤ltigung dieser Grenzkosten zu leisten, geschwÃ¤cht, weil
+sie hoffen dÃ¼rfen, dass ein anderer - dessen Grenznutzen hÃ¶her wÃ¤re - diese Kosten tragen wird,.
+Auf diese Weise pendelt sich eine stabile suboptimale Versorgung mit kollektiven GÃ¼tern ein.
+Olson weist darauf hin, dass sich dieses Problem mit wachsender GrÃ¶Ãe des Kollektivs noch
+verschÃ¤rft, da der individuelle Beitrag eines Einzelnen statistisch an Bedeutung verliert â ein Effekt,
+der gerade bei erfolgreichen Open-Source-Projekten besonders ausgeprÃ¤gt ist.
+ÃbertrÃ¤gt man diese Ãberlegung auf CiviCRM, wird deutlich, dass zentrale Aspekte der Software
+den Charakter kollektiver GÃ¼ter haben. Dies betrifft die Ebene der Softwarefunktionen und in
+besonderem MaÃe die Ebene der AneignungsfÃ¤higkeit des Systems. Verbesserungen in der
+Dokumentation, eine konsistente Begriffsbildung, eine konsistente GeschÃ¤fts- und Bedienlogik,
+intuitiv bedienbare BenutzeroberflÃ¤chen und optimale Schulungsmaterialien kÃ¤men einer Vielzahl
+von Anwender*innen zugute, hinsichtlich der Grenzkosten ihrer Beschaffung hofft man jedoch auf
+die Anderen, wÃ¤hrend der eigene Grenznutzen zugleich so hoch ist, dass man sich stattdessen
+anderweitig behilft, um auch ohne weitere Investition von dem verfÃ¼gbaren Gut zu profitieren. Im
+Ã¼brigen sind die Kosten solcher kollektiv nÃ¼tzlicher Verbesserungen real und konkurrieren
+unmittelbar mit anderen, dringlicheren Ausgaben des Einzelnen, weshalb guter Wille allein meist
+nicht ausreicht, die als im Prinzip richtig erkannte Beschaffung zu finanzieren.
+Unter diesen Bedingungen ist es fÃ¼r Nutzer*innen der Software rational, Investitionen in
+projektspezifische Anpassungen, in die Behebung akuter Funktionsprobleme oder in Erweiterungen
+zu priorisieren, die einem klar umrissenen Nutzerkreis unmittelbar zugutekommen. Solche
+MaÃnahmen sind Ã¶konomisch klug.. DemgegenÃ¼ber bleiben Investitionen in kollektiv wirksame
+QualitÃ¤ten â insbesondere in die Konsolidierung bereits beschaffter Funktionen sowie in die
+AneignungsfÃ¤higkeit der Software â strukturell benachteiligt. Die daraus resultierende
+Unterversorgung entsteht nicht trotz rationalen Handelns, sondern gerade durch dessen konsequente
+Anwendung.
+Bemerkenswert ist dabei, dass diese Unterversorgung nicht zu InstabilitÃ¤t oder Funktionsversagen
+fÃ¼hrt. Olson zeigt, dass kollektive GÃ¼ter auch dann dauerhaft bereitgestellt werden kÃ¶nnen, wenn
+dies nur auf einem begrenzten Niveau geschieht. Solange ein MindestmaÃ an FunktionalitÃ¤t
+gewÃ¤hrleistet ist, entsteht kein akuter Handlungsdruck, die strukturellen Bedingungen der
+Bereitstellung grundlegend zu verÃ¤ndern. Auf diese Weise stabilisieren sich ineffiziente
+Gleichgewichte: Das System bleibt nutzbar, erfÃ¼llt seine Kernfunktionen und rechtfertigt damit
+fortlaufend die getroffenen individuellen Entscheidungen â auch wenn sein Potenzial bei weitem
+nicht ausgeschÃ¶pft wird.
+
+                                                - 13 -
+Olsons Theorie ist insofern gut geeignet, die suboptimale Versorgung mit CiviCRM zu erklÃ¤ren.
+Die Unterversorgung lÃ¶st sich nicht von selbst auf. Es geht um den Umgang mit ihr, die aus
+rationalem Handeln hervorgeht. FOSS wird als Kollektivgut systematisch nur bis zum Punkt der
+privaten Nutzenmaximierung der beitragenden Akteure bereitgestellt und bleibt notwendig
+unterhalb des gesellschaftlich optimalen Versorgungsniveaus.
+
+5. Governance als institutionelle Bearbeitung â und das
+Risiko ihrer Verfehlung
+5.1 Governance nach Ostrom: institutionelle Bearbeitung statt
+LÃ¶sung
+Wie lÃ¤sst sich diesem Problem der Unterversorgung institutionell begegnen? Wie kann die
+SuboptimalitÃ¤t zumindest begrenzt werden?
+Auf diese Frage ist der Governance-Ansatz von Elinor Ostrom anwendbar. Ostroms Arbeiten sind
+kein Gegenentwurf zur Analyse von Mancur Olson, sondern eine ergÃ¤nzende Perspektive. WÃ¤hrend
+Olson sich vor allem mit nicht-rivalen kollektiven GÃ¼tern befasst, deren Nutzung den Nutzenanteil
+anderer nicht schmÃ¤lert, untersucht Ostrom sogenannte Commons (GemeingÃ¼ter), bei denen
+Nutzung rival ist, etwa bei Trinkwasserreservoiren oder FischgrÃ¼nden. Entscheidend an Ostroms
+Beitrag ist, dass beobachtete Unterversorgung nicht allein aus den Eigenschaften des Gutes folgt,
+sondern wesentlich von der Ausgestaltung der Governance abhÃ¤ngt.
+Ostrom setzt nicht bei den Ursachen kollektiver Unterversorgung an, sondern bei der Frage, unter
+welchen Bedingungen kollektives Handeln trotz fortbestehender Anreizprobleme mÃ¶glich bleibt.
+Governance â verstanden als Gesamtheit formeller und informeller Regeln, Verfahren und Praktiken
+â bezeichnet in diesem Sinne keine LÃ¶sung des von Olson beschriebenen Kollektivgutproblems,
+sondern eine Form seiner institutionellen Bearbeitung. Durch Governance werden BeitrÃ¤ge
+koordiniert, Erwartungen stabilisiert und Konflikte handhabbar, ohne die zugrunde liegenden
+Anreizprobleme aufzuheben.
+Governance fÃ¼hrt daher nicht notwendig zu einer optimalen Bereitstellung kollektiver oder
+gemeinhin geteilter GÃ¼ter. Sie kann jedoch die Bedingungen verbessern. Diese Unterscheidung ist
+zentral. Governance operiert innerhalb der von Olson beschriebenen Grenzen; sie kann
+Entscheidungen strukturieren, aber nicht garantieren, dass kollektiv wÃ¼nschenswerte Leistungen in
+ausreichendem Umfang erbracht werden. MaÃstab von Governance ist daher nicht ihre bloÃe
+Existenz, sondern ihre Wirkung..
+FÃ¼r CiviCRM existiert eine Governance-Struktur. Die Entwicklung der Software ist eingebettet in
+organisatorische ZustÃ¤ndigkeiten, Entscheidungsprozesse und Ã¶ffentlich zugÃ¤ngliche Diskurse. Die
+Community verfÃ¼gt Ã¼ber institutionelle Arrangements, die Koordination ermÃ¶glichen und
+KontinuitÃ¤t sichern. Ob und in welchem Umfang diese Arrangements geeignet sind, gerade jene
+Aspekte des kollektiven Gutes in den Griff zu kriegen, die strukturell unterversorgt sind, ist damit
+jedoch noch nicht sicher. Ostroms Perspektive legt nahe, CiviCRM nicht als monolithisches
+Gemeingut zu behandeln. Governance muss vielmehr ausdrÃ¼cklich zwischen Teil-GemeingÃ¼tern
+unterscheiden, deren Nutzungs- und Beitragslogiken voneinander abweichen: (1) Core-Code und
+
+                                               - 14 -
+Architektur, (2) Module und Extensions, (3) Dokumentation, (4) UX/UI-Patterns sowie (5)
+WissensbestÃ¤nde wie Best Practices und Use-Case-Referenzen. Diese TeilgÃ¼ter haben
+unterschiedliche Nutzergruppen, Kostenstrukturen und ExternalitÃ¤ten. Eine Weiterentwicklung im
+Sinne Ostroms bestÃ¼nde daher zunÃ¤chst darin, diese Grenzen sichtbar zu machen und fÃ¼r die
+TeilgÃ¼ter eigenstÃ¤ndige Governance-RÃ¤ume zu etablieren, statt sie implizit allein dem Core-Prozess
+oder Marktlogiken zu Ã¼berlassen.
+Ostrom ist in diesem Zusammenhang nicht normativ zu lesen. Governance ist kein Versprechen auf
+die Ãberwindung kollektiver Unterversorgung, sondern ein Modus des Umgangs mit ihr. Wird
+dieser Unterschied nicht beachtet, droht Governance zu einer symbolischen Antwort auf ein
+weiterhin bestehendes Bereitstellungsproblem zu werden.
+
+Exkurs: Governance-Strukturen von CiviCRM
+Globale Ebene
+Die formale TrÃ¤gerorganisation von CiviCRM ist die CiviCRM LLC mit Sitz in den USA, genauer
+in San Francisco. Sie stellt die rechtlichen und organisatorischen Rahmenbedingungen des Projekts
+sicher, einschlieÃlich Marke, Domains und zentraler Infrastruktur.
+Die offizielle Projektwebseite ist https://civicrm.org. Dort werden Informationen zu Releases,
+Community-Strukturen, Veranstaltungen und Governance-relevanten Prozessen gebÃ¼ndelt.
+Die technische Entwicklung von CiviCRM ist Ã¶ffentlich einsehbar und grundsÃ¤tzlich dezentral
+organisiert, vollzieht sich jedoch nicht einheitlich auf einer einzigen Plattform. WÃ¤hrend zentrale
+Repositorien â darunter das Ã¶ffentlich sichtbare Repository unter https://github.com/civicrm â vor
+allem der Verbreitung, Dokumentation und niedrigschwelligen AnschlussfÃ¤higkeit dienen, findet die
+verbindliche Entwicklungsarbeit, einschlieÃlich Merge-Entscheidungen, Reviews und Release-
+Vorbereitung, primÃ¤r in der selbst gehosteten Entwicklungsumgebung unter https://lab.civicrm.org
+statt.
+Feature Requests, Bugreports und technische Diskussionen sind auf beide Plattformen verteilt und
+werden teils gespiegelt, teils bewusst getrennt gefÃ¼hrt. Entscheidungen entstehen dabei weniger
+durch formalisierte Beschlussverfahren als durch prozessuale Verdichtung: durch fortgesetzte
+Diskussion, technische Review-Praxis und letztlich durch die faktische Integration von Code in den
+Kern der Software.
+Einfluss auf die Weiterentwicklung erlangen vor allem jene Akteure, die dauerhaft BeitrÃ¤ge in Form
+von Code, Wartung, Review, Infrastrukturarbeit oder organisatorischer Koordination leisten. Die
+Governance der Software ist damit beitragsbasiert und leistungszentriert organisiert; sie ist nicht als
+reprÃ¤sentative Interessenvertretung der Gesamtheit der Nutzerschaft angelegt, sondern folgt implizit
+den Strukturen und Erfordernissen des Entwicklungsprozesses selbst.
+
+Foren und Kommunikationsplattformen
+FÃ¼r den Austausch und die Koordination nutzt die Community als zentrales Diskussionsforum
+Mattermost, erreichbar unter https://chat.civicrm.org. Daneben existiert als rege genutzte Q&A-
+
+                                                - 15 -
+Plattform der âCiviCRM Stack Exchangeâ unter https://civicrm.stackexchange.com/. Zuvor wurde
+das immer noch als Archiv durchsuchbare Forum unter https://forum.civicrm.org genutzt.
+Diese Formate dienen der Sichtbarmachung von Themen und der informellen Koordination.
+
+EuropÃ¤ische Ebene
+Auf europÃ¤ischer Ebene existiert keine eigenstÃ¤ndige juristische oder formale Governance-Instanz
+mit verbindlicher Entscheidungsmacht. Die Koordination erfolgt primÃ¤r Ã¼ber Netzwerke und
+wiederkehrende Community-Veranstaltungen. Zentrale Bedeutung kommt hierbei den CiviCamps
+zu. CiviCamps sind offene, selbstorganisierte Community-Konferenzen, die dem Austausch
+zwischen Entwicklerinnen, Implementierungsakteuren und Anwenderinnen dienen. Informationen
+zu CiviCamps finden sich gebÃ¼ndelt unter https://civicamp.eu/.
+CiviCamps fungieren als Foren zur Artikulation von Problemen, zur Diskussion von PrioritÃ¤ten und
+zur Anbahnung gemeinsamer Initiativen, verfÃ¼gen jedoch Ã¼ber keine formale
+EntscheidungsautoritÃ¤t. Beteiligung setzt physische oder organisatorische PrÃ¤senz voraus.
+
+Deutschsprachiger Raum
+Im deutschsprachigen Raum Ã¼bernimmt der Verein Software fÃ¼r Engagierte e.V.
+(https://www.software-fuer-engagierte.de) eine vermittelnde Rolle. Der Verein fungiert als
+organisatorischer TrÃ¤ger fÃ¼r Community-AktivitÃ¤ten, unterstÃ¼tzt Austausch und Qualifizierung und
+ist an der Organisation von CiviCamps beteiligt. Er dient als Ansprechpartner fÃ¼r
+zivilgesellschaftliche Organisationen und Implementierungsakteure im deutschsprachigen Raum.
+Mitgliedschaft und aktive Beteiligung sind freiwillig und ressourcenabhÃ¤ngig; eine formale
+ReprÃ¤sentation aller Anwender*innen ist damit nicht verbunden.
+Ostroms Prinzip polyzentrischer, verschachtelter Governance (ânested enterprisesâ) wÃ¼rde
+nahelegen, diese Ebenen nicht nur als lose Netzwerke zu belassen, sondern als thematische oder
+sektorale Einheiten mit klaren ZustÃ¤ndigkeiten auszubauen â etwa fÃ¼r âCiviCRM im politischen
+Raumâ, âMembership-zentrische Use-Casesâ oder âCiviCRM fÃ¼r Stiftungenâ. Solche Einheiten
+kÃ¶nnten kontextgebundene Standards, Referenz-Setups und Lernpfade verbindlich entwickeln und
+in die Gesamt-Governance einspeisen. So entstÃ¼nde Nachreifung im Kern, ohne Fragmentierung
+durch isolierte SonderlÃ¶sungen.
+
+Risikobetrachtung angesichts der politischen Entwicklungen in den USA
+Angesichts der aktuellen Entwicklungen der USA ist die Frage naheliegend, ob CiviCRM durch den
+Sitz der TrÃ¤gerorganisation in den USA gefÃ¤hrdet sein kÃ¶nnte. Immerhin basieren die
+GeschÃ¤ftsprozesse nicht weniger zivilgesellschaftlicher Organisationen innerhalb und auÃerhalb der
+USA auf dem Einsatz von CiviCRM. CiviCRM in BedrÃ¤ngnis zu bringen stellte also unter
+UmstÃ¤nden einen fÃ¼r politische Gegner interessanten Hebel dar, auch die Anwenderorganisationen
+in BedrÃ¤ngnis zu bringen. Aufgrund der Copyleft-Natur der GNU Affero General Public License ist
+das Risiko einer politischen Blockade juristisch aussichtslos. Es kÃ¶nnte jederzeit ein Fork der
+Software etstellt werden, unabhÃ¤ngig davon, ob die CiviCRM LLC kooperieren darf, die US-Server
+blockiert oder Github-ZugÃ¤nge gesperrt werden. Denn unabhÃ¤ngig von der HandlungsfÃ¤higkeit der
+
+                                              - 16 -
+LLC oder der Sperrung von Servern mit Code-Repositories bleibt der bereits lizensierte und
+verbreitete Code forkbar.
+Das Risiko eines Blockadeszenarios durch die USA besteht allein dann, wenn die Governance-
+Struktur zu schwach ausgebildet ist, die Koordinationskosten eines notwendig werdenden Forks zu
+bewÃ¤ltigen. Die mÃ¶gliche Verwundbarkeit der internationalen Community durch die Entwicklungen
+in den USA liegen nicht im Recht, sondern in einer mÃ¶glicherweise fehlenden institutionellen
+Redundanz.
+Das bereits ein gewisses ProblembewuÃtsein existiert, zeigt sich an der EinfÃ¼hrung der Arbeit mit
+einer von der CiviCRM LLC selbst gehosteten Gitlab-Instanz und der im Zusammenhang mit dieser
+Instanz gefÃ¼hrten Diskussion des physischen Standorts dieser Instanz.
+
+5.2 Das Ã¶konomische Gewicht der Nutzung: eine grobe
+Quantifizierung
+Die Frage nach der Angemessenheit von Governance-Strukturen gewinnt an analytischer SchÃ¤rfe,
+wenn man das Ã¶konomische Gewicht der bestehenden Nutzung betrachtet. FÃ¼r CiviCRM liegt
+hierzu keine systematische Statistik vor. Gleichwohl lÃ¤sst sich das AusmaÃ der gebundenen
+Ressourcen anhand plausibler Annahmen grob schÃ¤tzen.
+Nimmt man â bewusst konservativ â 1.000 Instanzen an, die jeweils von durchschnittlich fÃ¼nf
+hauptamtlichen Personen genutzt werden, ergibt sich eine GrÃ¶Ãenordnung von rund 5.000
+professionellen Nutzer:innen. Bei â ebenfalls eher konservativ geschÃ¤tzt - durchschnittlich 7.500 â¬
+EinfÃ¼hrungskosten pro Instanz entspricht dies einem einmalig gebundenen Initialkapital von etwa
+7,5 Mio. â¬. Rechnet man zudem mit rund 150 â¬ monatlichen Unterhaltskosten pro Instanz (Hosting,
+Wartung, Updates, wiederkehrende Beratung), ergibt sich eine laufende Bindung von rund 1,8 Mio.
+â¬ pro Jahr. Diese BetrÃ¤ge sind nicht rÃ¼ckholbar, sondern amortisieren sich ausschlieÃlich Ã¼ber
+fortgesetzte Nutzung.
+Diese grobe Quantifizierung markiert nur die Untergrenze. Je nach tatsÃ¤chlicher Zahl produktiver
+Instanzen, nach EinfÃ¼hrungstiefe, nach intern gebundener Arbeitszeit und nach Umfang externer
+UnterstÃ¼tzung liegt die reale Kapital- und Kostenbindung plausibel hÃ¶her. Zugleich sind die nicht-
+monetÃ¤ren Investitionen â Kompetenzaufbau, Prozessanpassungen, Datenpflege und Integration â
+fÃ¼r die StabilitÃ¤t der Nutzung oft entscheidender als die reinen GeldbetrÃ¤ge. Gerade diese nicht-
+monetÃ¤ren Investitionen erzeugen erhebliche Wechselkosten und binden Organisationen langfristig
+an das System.
+
+Bereits unter vorsichtigen Annahmen ergibt sich ein gebundenes Organisationskapital in
+MillionenhÃ¶he â und bei realistischeren Annahmen (mehr Instanzen, hÃ¶here EinfÃ¼hrungsbudgets,
+mehr interne Arbeitszeit und mehrjÃ¤hrige Nutzung) plausibel im zweistelligen Millionenbereich.
+Governance-relevante Defizite â insbesondere in Dokumentation, Begriffslogik und UX-Konsistenz
+â schlagen unmittelbar in entsprechende ProduktivitÃ¤tsverluste um. Schon geringe Reibungsverluste
+skalieren: Wenn 5.000 professionelle Nutzer:innen im Schnitt nur 30 Minuten pro Woche durch
+Defizite insbesondere auf der Ebene der AneignungsfÃ¤higkeit der Software verlieren, entspricht das
+
+                                               - 17 -
+Ã¼ber 100.000 Arbeitsstunden pro Jahr â in dieser Modellrechnung 130.000 Stunden. Selbst bei
+konservativ angesetzten 40 â¬ pro Stunde liegt der daraus resultierende Wohlfahrtsverlust bei Ã¼ber 4
+Mio. â¬ jÃ¤hrlich.
+CiviCRM ist fÃ¼r viele Anwenderorganisationen keine einfach austauschbare Software, sondern Teil
+ihrer institutionellen Infrastruktur. Die Nutzung ist stabil, weil sie auf getÃ¤tigten Investitionen
+aufbaut und weil ein Wechsel mit Risiken und Kosten verbunden wÃ¤re. Diese Wechselkosten sind
+nicht nur abstrakt. Datenmigration (inklusive Historien und Relationen), Prozess-Neumodellierung,
+Schulung, Parallelbetrieb und Risikopuffer bewegen sich â grob und konservativ geschÃ¤tzt â hÃ¤ufig
+im Bereich von 20.000 bis 50.000 â¬ pro Organisation. Damit wird ein Exit fÃ¼r einzelne Anwender
+rational unattraktiv, selbst wenn die Governance als unzureichend erlebt wird.
+Es gibt zwei entscheidende Unterschiede zwischen CiviCRM als FOSS und proprietÃ¤ren
+Konkurrenzprodukten. Erstens geht der Einsatz von CiviCRM mit keinen vom Softwarehersteller
+vorsÃ¤tzlich gesteuerten Lock-in-Effekten einher. Der Betrieb der Software birgt insofern kein
+Kostenrisiko, weil Hersteller Wechselkosten nicht preispolitisch ausnutzen kÃ¶nnen und auch ein
+Aufwuchs an Nutzer*innen oder eine Erweiterung der genutzten Funktionsbereiche nicht zu einer
+lizenzrechtlich bedingten Teuerung fÃ¼hrt. Dies hat, ganz nebenbei, auch Vorteile hinsichtlich der
+Datensicherheit, weil es nicht durch den Fehlanreiz der Kostenvermeidung zu Accountsharing
+kommt.
+Zweitens verfÃ¼gt CiviCRM als FOSS Ã¼ber eine partizipative Governance-Struktur, an der
+Anwenderorganisationen grundsÃ¤tzlich teilnehmen kÃ¶nnen â und aus Sicht der weiteren Analyse
+auch teilnehmen mÃ¼ssten. Anwenderorganisationen sind weniger bloÃe âNutzendeâ eines freien
+Gutes, sondern faktisch Co-Investoren in eine Infrastruktur, deren Wert von langfristigen
+Entwicklungs- und Governance-Entscheidungen abhÃ¤ngt.
+Vor diesem Hintergrund tritt aber ein MissverhÃ¤ltnis zutage. WÃ¤hrend das Ã¶konomische und
+institutionelle Gewicht der Nutzung erheblich ist, bleibt die Beteiligung der Anwender*innen an der
+Governance des Projekts Ã¼berraschend begrenzt. Die bestehende Governance-Struktur reprÃ¤sentiert
+damit nur in eingeschrÃ¤nktem MaÃe jene Organisationen, die faktisch einen groÃen Teil der Kosten
+der Nutzung tragen und deren ArbeitsfÃ¤higkeit von der QualitÃ¤t des Systems abhÃ¤ngt.
+Diese Diskrepanz macht deutlich, dass es bei der Governance von CiviCRM nicht um symbolische
+Beteiligung oder Community-IdentitÃ¤t geht, sondern um die institutionelle ReprÃ¤sentation
+erheblicher gebundener Ressourcen. Es liegt die Vermutung nahe, dass ein GroÃteil der
+Anwender*innen trotz ihres Ã¶konomischen Gewichts nicht in Governance-Prozesse eingebunden
+ist. Welche strukturellen Ursachen dieser vermuteten Nicht-Beteiligung zugrunde liegen, ist daher
+zu klÃ¤ren.
+
+5.3 Faktische Nicht-Beteiligung als Folge fehlender
+Vorstellbarkeit von Governance
+Eine begrenzte Beteiligung der Anwenderinnen an der Governance von CiviCRM lÃ¤sst sich nicht
+hinreichend als bloÃes Ergebnis individueller Kosten-Nutzen-AbwÃ¤gungen erklÃ¤ren. Selbst jene,
+die erhebliche Ressourcen in der Nutzung der Software gebunden haben, beteiligen sich hÃ¤ufig
+nicht an ihrer Governance. Zwar beschreibt die Theorie kollektiver GÃ¼ter, warum Unterversorgung
+
+                                               - 18 -
+stabil bleibt; sie erklÃ¤rt jedoch nicht, warum Anwenderinnen selbst dort fernbleiben, wo sie
+erhebliche Ressourcen in die Nutzung investiert haben. Die Nicht-Beteiligung verweist daher auf
+ein institutionelles Problem.
+Dieses Problem liegt weniger in fehlender Betroffenheit, sondern in einer vorgelagerten HÃ¼rde:
+Beteiligung setzt eine Vorstellung davon voraus, wo Entscheidungen entstehen, wie sie
+beeinflussbar sind und welche Rolle Anwender*innen dabei Ã¼berhaupt einnehmen kÃ¶nnen. Wo diese
+Orientierung fehlt, wird Nicht-Beteiligung Ã¼blich â unabhÃ¤ngig davon, wie groÃ das gebundene
+Interesse ist.
+FÃ¼r viele Anwenderorganisationen bleibt unklar, wie die Governance von CiviCRM funktioniert
+und auf welche Weise Entscheidungen zustande kommen. Ebenso bleibt offen, wie alternative
+Governance-Arrangements aussehen kÃ¶nnten und welche Unterschiede sie bewirken wÃ¼rden. Vor
+allem fehlt eine nachvollziehbare Vorstellung davon, welche Rolle Anwender*innen selbst in
+bestehenden oder mÃ¶glichen Strukturen einnehmen kÃ¶nnten.
+Sobald Governance fÃ¼r die Anwender*innen als handlungsrelevant und zugÃ¤nglich vorstellbar wird,
+greifen die von Mancur Olson beschriebenen Probleme: Dann stellt sich die Frage, wer die Kosten
+der Artikulation und Beteiligung trÃ¤gt, wÃ¤hrend der Nutzen verbesserter Governance diffus verteilt
+ist. Fehlt jedoch bereits die Vorstellbarkeit, wird diese zweite Ordnung des Problems gar nicht
+erreicht â Beteiligung scheitert dann nicht an AbwÃ¤gung, sondern an Unanschaulichkeit.
+Unter diesen Bedingungen ist Beteiligung keine naheliegende Option. Governance erscheint nicht
+als gestaltbarer Raum, sondern als Hintergrundprozess ohne klaren Zugang. Nicht-Beteiligung ist
+daher weniger das Ergebnis einer bewussten Entscheidung, als vielmehr Ausdruck fehlender
+Orientierung. Wo institutionelle Rollen, Verfahren und Wirkungen nicht expliziert sind, bleibt
+Teilhabe unwahrscheinlich.
+Dieser Befund verschiebt den analytischen Fokus. Nicht mangelnder Gemeinsinn oder rationale
+ZurÃ¼ckhaltung erklÃ¤ren die geringe Beteiligung, sondern eine Governance, die fÃ¼r einen GroÃteil
+der Anwenderinnen nicht als handlungsrelevant erfahrbar ist. Damit ist der Ãbergang zu der Frage
+vorbereitet, unter welchen Bedingungen Governance zwar prÃ¤sent ist, ihre Wirkung jedoch begrenzt
+bleibt.
+
+5.4 ReprÃ¤sentationsdefizit und das Risiko der Governance-
+Simulation
+Beobachtungen legen die Vermutung nahe, dass trotz bestehender Governance-Strukturen ein
+erheblicher Teil der Anwenderinnen institutionell unterreprÃ¤sentiert bleibt â obwohl gerade diese
+Anwenderinnen in erheblichem Umfang finanzielle, organisatorische und personelle Ressourcen in
+die Nutzung des Systems gebunden haben, jedoch bislang selbst nicht in die Entwicklung der
+Software investiert sind. Dieses MissverhÃ¤ltnis bildet den Ausgangspunkt fÃ¼r das Risiko einer
+bloÃen Simulation von Governance.
+Mit Governance-Simulation ist keine bewusste TÃ¤uschung gemeint, sondern eine Konstellation, in
+der formale Strukturen und Verfahren den Eindruck wirksamer Steuerung erzeugen, ohne die
+Bereitstellungsbedingungen des kollektiven Gutes tatsÃ¤chlich signifikant zu verÃ¤ndern. Diese
+
+                                              - 19 -
+Konstellation ist nicht zufÃ¤llig, sondern rational erklÃ¤rbar. Governance-Simulation entsteht dort, wo
+Governance ausreicht, um Erwartungen zu stabilisieren und Koordination zu ermÃ¶glichen, ohne die
+Kosten struktureller VerÃ¤nderungen auszulÃ¶sen. Sie bildet ein Gleichgewicht, in dem formale
+Beteiligung existiert, wÃ¤hrend jene Akteure, deren Alltag und ArbeitsfÃ¤higkeit besonders betroffen
+sind, institutionell kaum wirksam eingebunden sind. Governance ist zwar prÃ¤sent, ihre Wirkung
+bleibt jedoch auf die Organisation bestehender Prozesse beschrÃ¤nkt, bei denen es sich aktuell vor
+allem um Prozesse der Softwareentwicklung handelt. Strukturell werden all jene QualitÃ¤ten des
+Gutes kaum tatsÃ¤chlich verbessert, deren InteressentrÃ¤ger in der Governance-Struktur abwesend
+sind.
+Die Kriterien zur Beurteilung dieser Verfehlung lassen sich aus den Arbeiten von Elinor Ostrom
+selbst ableiten. Ostrom misst Governance nicht an ihrer formalen Existenz, sondern an ihrer
+RÃ¼ckbindung an reale Nutzungspraktiken. MaÃgeblich sind dabei die VerstÃ¤ndlichkeit von Regeln,
+die Zuordnung von Rollen, die tatsÃ¤chliche Beteiligung der Betroffenen sowie die MÃ¶glichkeit,
+institutionelle Arrangements an Nutzungserfahrungen anzupassen.
+Unter diesen MaÃstÃ¤ben verfehlt Governance ihre Funktion, wenn Entscheidungsprozesse fÃ¼r einen
+GroÃteil der Anwender*innen nicht nachvollziehbar sind und keine klaren Rollen fÃ¼r ihre
+Beteiligung vorsehen. Governance bleibt dann formal, ohne kollektives Handeln im Sinne Ostroms
+zu ermÃ¶glichen. Sie organisiert Verfahren, ohne tatsÃ¤chlich Verantwortung zu verteilen. Die Gefahr
+bloÃer Governance-Simulation besteht Ã¼berall dort, wo fÃ¼r bestimmte TeilgÃ¼ter keine verbindlichen
+Entscheidungsarenen existieren. FÃ¼r CiviCRM betrÃ¤fe dies insbesondere die QualitÃ¤t von
+Softwarefunktionen, von Anwender*innen beratene kontinuierliche Verbesserungsprozesse (KVP),
+UX-Standards, Dokumentations-Mindestanforderungen und Deprecation-Regeln. Ostroms Prinzip
+der âcollective-choice arrangementsâ wÃ¼rde hier verlangen, dass jene, die von RegelÃ¤nderungen
+betroffen sind, institutionell an deren Festlegung mitwirken kÃ¶nnen â nicht als unverbindliche
+Konsultation, sondern in Arenen mit klarer ZustÃ¤ndigkeit und spÃ¼rbarer Wirkung. Besonders
+problematisch ist dies dort, wo Governance nicht an das tatsÃ¤chliche Gewicht der Nutzung
+rÃ¼ckgebunden ist.
+Es stellt sich die offene Fage, ob die erhebliche Kapitalbindung der Anwender in den bestehenden
+Governance-Strukturen eine institutionelle Entsprechung findet und ob Rollen, Verfahren und
+Kennzahlen existieren, die diese gebundene Wertdimension systematisch reprÃ¤sentieren oder
+schÃ¼tzen.
+Diese Entkopplung wird zusÃ¤tzlich durch die Anreizstruktur auf Seiten der vermittelnden Akteure
+stabilisiert. Implementierungsagenturen, die dauerhaft ausgelastet sind, stehen unter geringem
+Ã¶konomischem Druck, auf eine grundlegende VerÃ¤nderung der Bereitstellungsbedingungen des
+Gutes hinzuwirken. Die bestehende Nachfrage bestÃ¤tigt vielmehr die FunktionsfÃ¤higkeit des
+gegenwÃ¤rtigen Arrangements. In einem solchen Arrangement wird Unterversorgung nicht als Risiko
+sichtbar, sondern als handhabbarer Zustand normalisiert. Solange Vermittlungsleistungen knapp und
+nachgefragt sind, besteht kein unmittelbarer Anreiz, jene strukturellen Defizite wirksam anzugehen,
+deren Beseitigung die eigene Vermittlungsrolle perspektivisch entwerten wÃ¼rde.
+Diese Konstellation ist nicht Ausdruck partikularer Interessen oder bewusster Blockade, sondern
+Ergebnis rationalen Verhaltens innerhalb gegebener Rahmenbedingungen. Die Ãberlastung der
+Implementierungsagenturen wirkt dabei doppelt stabilisierend: Sie begrenzt nicht nur die
+
+                                                - 20 -
+Ausweitung der Nutzung des Gutes, sondern reduziert zugleich die Wahrscheinlichkeit, dass aus der
+Gruppe der zentralen Akteure Impulse zur Ãberwindung der strukturellen Unterversorgung
+hervorgehen.
+Ein potenzieller Anreiz zur VerÃ¤nderung ergibt sich allenfalls indirekt aus den Belastungen dieses
+Arrangements selbst. Die hohe und dauerhaft gebundene Auslastung geht nicht selten mit
+erheblichem Beratungs- und Koordinationsdruck einher. Projektarbeit ist durch wechselnde
+Anforderungen, unklare Abgrenzungen zwischen technischer UnterstÃ¼tzung und organisatorischer
+Beratung sowie durch eine hohe VolatilitÃ¤t der Nachfrage gekennzeichnet. Unter diesen
+Bedingungen kann der Wunsch entstehen, das eigene GeschÃ¤ftsmodell in Richtung stabilerer,
+planbarer und stÃ¤rker standardisierter Arbeitsprozesse weiterzuentwickeln.
+Ein solcher Strukturwandel wÃ¤re jedoch kein automatisches Ergebnis der bestehenden
+Marktsituation, sondern setzte voraus, dass die langfristigen Vorteile geringerer VolatilitÃ¤t und
+besser planbarer Arbeitsorganisation hÃ¶her gewichtet werden als die kurzfristigen ErtrÃ¤ge aus
+anhaltend hoher Nachfrage. Der damit verbundene Anreiz bleibt daher kontingent und individuell,
+nicht kollektiv wirksam. Er reicht fÃ¼r sich genommen nicht aus, um die strukturelle
+Unterversorgung des Gutes systematisch zu Ã¼berwinden.
+Besonders problematisch wird diese Entkopplung dort, wo Governance nicht an das tatsÃ¤chliche
+Gewicht der Nutzung rÃ¼ckgebunden ist. Entsteht kein institutioneller Zusammenhang zwischen
+Nutzung, Kosten und Einfluss, bildet sich ein ReprÃ¤sentationsdefizit aus. Governance kann in
+diesem Fall bestehende Entscheidungsasymmetrien stabilisieren und AnschlussmÃ¶glichkeiten fÃ¼r
+partikulare Interessen erÃ¶ffnen, ohne dass dies regelwidrig wÃ¤re. Governance-Strukturen laufen
+dann Gefahr in die Kritik zu geraten, nicht als Hebel zur Bearbeitung struktureller Unterversorgung
+zu dienen, sondern als Referenzrahmen, der Kritik entkrÃ¤ftet, ohne die zugrunde liegenden
+Bereitstellungsbedingungen zu verÃ¤ndern. Mehr noch: Die, die sich in dieser Governance-Struktur
+engagieren, laufen Gefahr, ihr Engagement als Strategie der Verfolgung partikularer Interessen
+vorgeworfen zu bekommen.
+Die Gefahr der Governance-Simulation besteht nicht im Fehlen von Institutionen, sondern in ihrer
+OberflÃ¤chlichkeit. Ostroms Ansatz macht diese Grenze sichtbar: Governance verliert ihre Funktion,
+wenn sie nicht mehr zur ErmÃ¶glichung gemeinsamen Handelns beitrÃ¤gt, sondern dessen Darstellung
+Ã¼bernimmt. Damit verschiebt sich die Analyse auf die Frage, wo die bestehenden Governance-
+Strukturen systematisch leer laufen: Welche EntscheidungsgegenstÃ¤nde, Betroffenheiten und
+Kosten bleiben unsichtbar â und welche institutionellen Voraussetzungen fehlen, um diese
+Leerstellen Ã¼berhaupt thematisieren zu kÃ¶nnen?
+Gerade deshalb ist eine Weiterentwicklung im Sinne Ostroms weniger als Machtverschiebung zu
+verstehen, sondern als Explizierung von Regeln dort, wo heute implizite Markt-, Reputations- und
+Zufallslogiken wirken. Differenzierte Teil-Commons, kongruente Rollen, wirksame
+Entscheidungsarenen, Monitoring, abgestufte Folgen und niedrigschwellige KonfliktlÃ¶sung wÃ¼rden
+Governance nicht âgrÃ¶Ãerâ, sondern funktionaler machen â und damit die Gefahr der Governance-
+Simulation mindern: nicht durch mehr Beteiligungsrhetorik, sondern durch handlungsfÃ¤hige
+Institutionen, die allen Anwender*innen bekannt sind.
+
+                                               - 21 -
+5.5 Institutionelle Leerstellen: fehlende Sichtbarkeit von
+EntscheidungsgegenstÃ¤nden, Betroffenheit und Kosten
+Die vorangegangenen Abschnitte haben gezeigt, dass die suboptimale Versorgung mit CiviCRM im
+Sinne der Theorie kollektiver GÃ¼ter erklÃ¤rbar ist und dass bestehende Governance-Strukturen diese
+Unterversorgung institutionell bearbeiten. In der Perspektive von Mancur Olson erscheint sie als
+rational stabilisiertes Ergebnis individueller Entscheidungen unter Bedingungen diffuser
+Nutzenverteilung. Zugleich wurde mit Elinor Ostrom Governance als MÃ¶glichkeit eingefÃ¼hrt, mit
+dieser strukturellen Unterversorgung institutionell umzugehen, ohne ihre Ursachen jemals ganz
+auflÃ¶sen zu kÃ¶nnen. Die Frage nach Governance ist vor diesem Hintergrund nicht normativ, sondern
+funktional zu verstehen: als Frage nach den institutionellen Voraussetzungen, unter denen das
+bestehende, bislang nur teilweise realisierte Wohlfahrtspotential des kollektiven Gutes besser
+erschlossen werden kann. Entscheidend ist nicht, dass Governance existiert, sondern was sie
+sichtbar und verfÃ¼gbar macht.
+Drei Dimensionen sind hierfÃ¼r zentral: erstens die Sichtbarkeit der EntscheidungsgegenstÃ¤nde,
+zweitens die Sichtbarkeit von Betroffenheit und drittens die Sichtbarkeit der mit Entscheidungen
+verbundenen Kosten. ZugÃ¤nglichkeit setzt Rollen voraus. Solange BeitrÃ¤ge und Betroffenheiten nur
+informell meritokratisch abgebildet werden, bleibt unklar, wer wofÃ¼r zustÃ¤ndig ist und wer wessen
+Perspektive institutionell einbringt. Ostrom-konform wÃ¤re daher eine explizite
+Rollendifferenzierung, etwa in Form funktional abgegrenzter Steward-Rollen (Core, Module,
+Dokumentation, UX) sowie Delegiertenrollen (Implementer-Delegates, User-Delegates).
+Entscheidend wÃ¤re nicht formale Gleichrangigkeit, sondern Kongruenz: Wer die Folgen von Doku-
+oder UX-Defiziten trÃ¤gt, muss dort Rechte und Pflichten erhalten â ohne damit notwendigerweise
+Ã¼ber geringfÃ¼gige rchitekturfragen mitzuentscheiden.
+Das zentrale Defizit der bestehenden Governance-Strukturen liegt in der fehlenden Sichtbarkeit der
+EntscheidungsgegenstÃ¤nde. FÃ¼r viele Anwender*innen bleibt nicht nur unklar, wer entscheidet,
+sondern bereits, worÃ¼ber entschieden wird und welche Alternativen Ã¼berhaupt zur Disposition
+stehen. Governance erscheint damit nicht als Ort relevanter Entscheidungen, sondern als abstrakter
+Hintergrundprozess.
+Dies zeigt sich auch in der Praxis. Anwender*innen sind Ã¼blicherweise weder Teil von
+Vereinsstrukturen noch von Arbeitsgruppen oder Informationsverteilern, die sich gezielt mit den
+von ihnen genutzten CiviCRM-Funktionen oder mit den Aneignungsproblemen ihres Arbeitsalltags
+befassen. Entsprechend erfahren sie nicht, wann Ã¼ber genau jene Fragen diskutiert wird, die ihre
+Nutzung prÃ¤gen, und kÃ¶nnen ihre Betroffenheit institutionell kaum verorten. Betroffenheit bleibt
+damit eine individuelle Erfahrung, wird jedoch nicht in eine institutionell anschlussfÃ¤hige Kategorie
+Ã¼bersetzt. Weder NutzungsintensitÃ¤t noch AbhÃ¤ngigkeit von bestimmten Funktionen oder
+Aneignungsleistungen werden systematisch erfasst oder reprÃ¤sentiert. Governance operiert folglich
+ohne belastbare RÃ¼ckmeldung darÃ¼ber, wen Entscheidungen in welchem AusmaÃ betreffen.
+Diese Intransparenz hat eine weiterreichende Folge. Wo EntscheidungsgegenstÃ¤nde und
+Betroffenheit nicht sichtbar sind, kÃ¶nnen sich Anwender*innen auch nicht als potenzielle
+KostentrÃ¤ger verstehen. Sie erkennen weder, an welchen Stellen eine Beteiligung an den Kosten fÃ¼r
+sie sinnvoll wÃ¤re, noch welchen kollektiven Nutzen eine solche Beteiligung hÃ¤tte. Ebenso fehlt eine
+
+                                               - 22 -
+erkennbare und effiziente Struktur, Ã¼ber die sich Kostenbeteiligung bÃ¼ndeln und wirksam
+organisieren lieÃe. âMake it happenâ und âNeeds fundingâ-Impulsen fehlt die tragende Breite der
+mÃ¶glichen Basis einer Community, die von der Governance-Struktur organisiert werden kann.
+Hinzu kommt, dass Kosten nicht nur finanziell, sondern auch zeitlich und organisatorisch anfallen.
+AufwÃ¤nde fÃ¼r Wiederaneignung, Schulung, Workarounds oder externe Beratung werden im Alltag
+zwar erfahren, jedoch nicht als kollektive Kosten sichtbar gemacht. Ohne eine solche Sichtbarkeit
+fehlt eine Grundlage fÃ¼r Entscheidungen.
+Damit bleibt nicht nur Beteiligung an Entscheidungen aus, sondern auch die MÃ¶glichkeit, kollektiv
+wirksame QualitÃ¤ten gezielt zu finanzieren und zu priorisieren. Investitionen in
+AneignungsfÃ¤higkeit, Dokumentation oder konzeptionelle Konsistenz erscheinen nicht als
+gemeinsames Projekt der Nutzenden, sondern als Angelegenheit anderer Akteure. Die strukturelle
+Unterversorgung dieser Bereiche wird so nicht nur hingenommen, sondern durch fehlende
+Sichtbarkeit von EntscheidungsgegenstÃ¤nden, Betroffenheit und Kosten aktiv stabilisiert.
+Diese Leerstellen betreffen ausgerechnet jene Aspekte der GÃ¼terversorgung, die fÃ¼r die ErhÃ¶hung
+des Wohlfahrtspotentials zentral sind. Solange Governance Entscheidungsfragen, Betroffenheit und
+mÃ¶gliche Kostenbeteiligung nicht explizit macht, bleibt sie auf die Verwaltung eines suboptimalen
+Gleichgewichts beschrÃ¤nkt. Die folgenden Ãberlegungen setzen daher an der Frage an, welche
+Entwicklungspfade unter diesen Bedingungen realistisch erscheinen, um dieses Gleichgewicht
+zugunsten einer verbesserten Versorgung zu verschieben â entweder durch kollektive Mechanismen,
+durch marktfÃ¤hige UmgehungslÃ¶sungen oder durch Hebel, die Sichtbarkeit und Vergleichbarkeit
+systematisch erhÃ¶hen.
+
+6. Zwei Pfade jenseits der Illusion vollstÃ¤ndiger LÃ¶sung
+6.1 Kollektive Beschaffung: ein naheliegender, aber prekÃ¤rer
+LÃ¶sungsversuch
+Kollektive Beschaffung ist kein abstraktes Ideal gemeinsamer Verantwortung , sondern ein
+konkreter Mechanismus: Mehrere Anwenderorganisationen verstÃ¤ndigen sich darauf, bestimmte
+Leistungen gemeinsam zu finanzieren, deren Nutzen vor allem kollektiv wirksam ist.
+Innerhalb der CiviCRM-Community existieren hierfÃ¼r bereits erprobte Formate. Sogenannte
+âMake-it-happenâ-Initiativen dienen dazu, Mittelzusagen fÃ¼r klar umrissene Entwicklungs- oder
+Konsolidierungsvorhaben zu sammeln, um diese gemeinsam zu finanzieren. Solche Initiativen
+machen kollektive Beschaffung praktisch handhabbar: Sie bÃ¼ndeln Zahlungsbereitschaft,
+formulieren konkrete Ziele und versuchen, die Kosten fÃ¼r kollektiv wirksame Verbesserungen auf
+mehrere Schultern zu verteilen. Zugleich zeigen sie jedoch auch die Grenzen dieses Ansatzes, wo
+die Governance-Struktur das Potential nicht mobilisieren kann, da nicht jede Initiative die
+notwendige Finanzierung erreicht.
+Aus normativer Perspektive ist dieser Pfad plausibel. Er adressiert genau jene Bereiche der
+GÃ¼terversorgung, die strukturell unterfinanziert sind, obwohl ihr Nutzen weithin anerkannt ist.
+
+                                               - 23 -
+Aus politikÃ¶konomischer Sicht bleibt dieser Ansatz jedoch fragil. In der Perspektive von Mancur
+Olson ist gerade die Finanzierung kollektiv wirksamer Leistungen instabil, solange individuelle
+BeitrÃ¤ge nicht mit klar zurechenbaren individuellen ErtrÃ¤gen verbunden sind. Auch gut begrÃ¼ndete
+Vorhaben sind unter diesen Bedingungen anfÃ¤llig dafÃ¼r, dass Beteiligung ausbleibt oder sich auf
+wenige besonders engagierte Akteure konzentriert.
+Die in Abschnitt 5 beschriebenen Bedingungen einer suboptimalen Governance verschÃ¤rfen diese
+Problematik. Wo EntscheidungsgegenstÃ¤nde, Betroffenheit und mÃ¶gliche Kostenbeteiligung nicht
+transparent sind, kÃ¶nnen sich Anwender*innen nur schwer als Teil eines gemeinsamen
+Finanzierungsprojekts verstehen. Selbst vorhandene Zahlungsbereitschaft findet dann keinen
+effizient funktionierenden Kanal, Ã¼ber den sie gebÃ¼ndelt und verstetigt werden kÃ¶nnte. Und selbst
+wenn Transparenz hergestellt wÃ¤re, bliebe kollektive Finanzierung Olsonzufolge weiter prekÃ¤r.
+Hinzu kommt, dass kollektive Beschaffung in der Regel episodisch bleibt. âMake-it-happenâ-
+Initiativen kÃ¶nnen punktuell erfolgreich sein, sie sind jedoch auf fortlaufende Mobilisierung,
+Aufmerksamkeit und Zustimmung angewiesen. Als dauerhafter Mechanismus zur Sicherung
+kollektiv wirksamer QualitÃ¤ten erweisen sie sich daher als instabil. Vor allem, wenn auch die
+Governance-Struktur oberflÃ¤chlich ist.
+Vor diesem Hintergrund erscheint kollektive Beschaffung weniger als tragfÃ¤higer Entwicklungspfad
+denn als analytischer Referenzpunkt. Sie macht sichtbar, welche Form der Koordination theoretisch
+geeignet wÃ¤re, das Wohlfahrtspotential des kollektiven Gutes zu heben, und zugleich, warum eine
+solche Koordination unter realen Bedingungen nur begrenzt verlÃ¤sslich zustande kommt. Gerade
+diese Begrenztheit bildet den Kontrast, vor dem ein zweiter Pfad an Kontur gewinnt, der ohne
+kollektive Entscheidungs- und Finanzierungsakte auskommt und dennoch auf eine Verbesserung der
+GÃ¼terversorgung zielt.
+
+6.2 Strategische Konsolidierung durch
+Implementierungsagenturen: ein marktfÃ¤higer Umgehungspfad
+Der zweite Pfad setzt nicht auf kollektive Beschaffungsentscheidungen, sondern auf individuelle
+Entscheidungen marktlicher Akteure.
+Implementierungsagenturen sind intermediÃ¤re Akteure, die die Transaktionskosten der Aneignung
+senken. Ihr GeschÃ¤ftsmodell beruht nicht vorrangig auf der Bereitstellung der Software, sondern auf
+der Ãbersetzung eines suboptimal beschafften Kollektivgutes in die individuell nutzbare
+Anwendung. Solange diese individuellen Aneignungskosten hoch bleiben, besteht aus
+Ã¶konomischer Sicht kein struktureller Anreiz, die Ursachen dieser Knappheit vollstÃ¤ndig zu
+beseitigen. Die Unterversorgung wird damit nicht nur hingenommen, sondern funktional
+Bestandteil eines stabilen Marktarrangements. WÃ¤hrend Governance-Strukturen die Erwartung
+erzeugen kÃ¶nnen, dass Unterversorgung institutionell bearbeitet wird, ermÃ¶glichen
+Implementierungsagenturen deren praktische Kompensation gegen Entgelt. Daraus entsteht im
+Ã¼brigen ganz real die Gefahr der bloÃen Simulation von Governance, sofern Governance-Prozesse
+vorrangig von Implementierungsagenturen geprÃ¤gt werden. Aus Sicht der Anwender*innen handelt
+
+                                               - 24 -
+es sich dann um ein Principle-Agent-Problem: Die Anwender*innen als Prinzipale, die
+Implementierungsagenturen als ihre schwer zu kontrollierenden Agenten.
+Implementierungsagenturen agieren in direkten VertragsverhÃ¤ltnissen mit einzelnen
+Anwenderorganisationen. Ihre Investitionsentscheidungen folgen damit einer Logik, die mit den
+Annahmen von Mancur Olson vereinbar ist: Sie lohnen sich dort, wo Nutzen zurechenbar ist und
+sich Ã¼ber mehrere Projekte hinweg realisieren lÃ¤sst.
+Vor diesem Hintergrund kann die gezielte Verbesserung der Versorgung mit Kernfunktionen und
+AneignungsfÃ¤higkeit ein strategisches Eigeninteresse eines CiviCRM anbietenden
+Marktteilnehmers darstellen. Wer Nutzungsmuster standardisiert â im Sinne stabilisierter
+Anwendungslogiken â, verstÃ¤ndliche OberflÃ¤chen bereitstellt und reproduzierbare
+EinfÃ¼hrungslogiken entwickelt, reduziert projektbezogene Anpassungskosten und erschlieÃt
+zugleich Marktsegmente, die vom Ã¼blichen GeschÃ¤ftsmodell der lastenheftgetriebenen
+Customization und Implementierung abweichen. AneignungsfÃ¤higkeit wird dann ein produktives
+Merkmal eines Angebots.
+Dieser Ansatz wirkt ohne kollektive Entscheidung. Verbesserungen entstehen durch wiederholte
+Einzelentscheidungen unter Ã¤hnlichen Bedingungen und verfestigen sich dort, wo sie sich in der
+Praxis bewÃ¤hren. Auf diese Weise kÃ¶nnen auch kollektiv wirksame QualitÃ¤ten entstehen, ohne
+zuvor kollektiv finanziert oder beschlossen zu werden. Governance-Strukturen werden dadurch
+nicht ersetzt, sondern entlastet, da die EntscheidungsgegenstÃ¤nde klarer und die Nutzung stabiler
+werden.
+Die Wirkung dieses Pfades reicht Ã¼ber einzelne Projekte hinaus. Durch die Reifung der
+Bereitstellung von Kernfunktionen und AneignungsfÃ¤higkeit sinken die Kosten der EinfÃ¼hrung und
+Nutzung. Dadurch wird CiviCRM fÃ¼r Organisationen attraktiv, die bislang durch hohe
+Aneignungskosten von einer Nutzung abgehalten wurden. Die Verbreitung kann unter diesen
+Bedingungen sprunghaft ansteigen, wodurch sich das Wohlfahrtspotential des kollektiven Gutes
+insgesamt erhÃ¶ht.
+Der strategische Konsolidierungspfad beschreibt damit keinen idealtypischen Ausweg aus dem
+Kollektivgutproblem, sondern einen realistischen Mechanismus zur Verschiebung des bestehenden
+Gleichgewichts: weg von projektbezogener SonderlÃ¶sung, hin zu einer breiter nutzbaren, besser
+aneignungsfÃ¤hige und damit gesellschaftlich wirksameren Infrastruktur.
+
+6.3 Vom stabilen Gleichgewicht zur optimalen Versorgung: eine
+konstruktive Perspektive
+Was verÃ¤ndert sich, wenn CiviCRM bis zum kollektiv optimalen Versorgungsniveau beschafft
+wird? Die Frage richtet sich nicht auf einzelne Verbesserungen, sondern auf die systemischen
+Effekte einer anderen Bereitstellungslogik.
+Eine optimale Versorgung betrÃ¤fe nicht primÃ¤r den Funktionsumfang, sondern die
+AneignungsfÃ¤higkeit des Systems. Dokumentation, Begriffslogik, BenutzerfÃ¼hrung und Lernpfade
+wÃ¤ren so beschaffen, dass Nutzung nicht mehr an Expertenwissen gebunden ist. Das Gut wÃ¼rde gut
+benutzbar und allgemein zugÃ¤nglich bereitgestellt. Damit wÃ¤re jene zweite Ebene der Versorgung
+
+                                               - 25 -
+mit AneignungsfÃ¤higkeit vollstÃ¤ndig beschafft, die im bisherigen Gleichgewicht strukturell
+unterfinanziert bleibt.
+Der zentrale Ã¶konomische Effekt einer solchen Beschaffung lÃ¤ge in der Senkung von
+Transaktionskosten. FÃ¼r Organisationen bestÃ¼nden die relevanten Kosten dann nicht mehr im
+Verstehen, Ãbersetzen und Absichern der Nutzung, sondern in der Transformation und Erweiterung
+von Prozesen der Organisation. Der Aufwand der EinfÃ¼hrung verlÃ¶re seinen abschreckenden
+Charakter. Damit wÃ¼rden bislang ausgeschlossene Akteure handlungsfÃ¤hig, ohne dass hierfÃ¼r
+vermittelnde Leistungen zwingend erforderlich wÃ¤ren. Dieser Effekt ist als Wohlfahrtsgewinn zu
+verstehen, weil er Ressourcen freisetzt, die bislang in der Arbeit am System gebunden sind.
+Es verÃ¤nderte sich dann auch die Marktstruktur. Im bisherigen Zustand entsteht eine Marktnische
+fÃ¼r Implementierungsagenturen, weil zwischen der suboptimalen Bereitstellung des fÃ¼r sie
+kostenlosen Kollektivgutes und der Zahlungsbereitschaft potenzieller Nutzer eine LÃ¼cke besteht.
+Diese LÃ¼cke besteht aus Transaktionskosten der Aneignung. In der Ãkonomie bezeichnet Arbitrage
+die Nutzung solcher Kosten- oder Preisunterschiede durch vermittelnde Akteure.
+Implementierungsagenturen agieren in diesem Sinne als Arbitrageure, indem sie die Differenz
+zwischen niedrigen Bereitstellungskosten der Software und hohen Aneignungskosten der Nutzer
+gegen Entgelt Ã¼berbrÃ¼cken. Sie verkaufen nicht das Gut, sondern die Reduktion der
+Zugangsbarrieren. Solange diese Differenz besteht, ist dieses GeschÃ¤ftsmodell rational und legitim.
+Mit wachsender AneignungsfÃ¤higkeit schrumpft jedoch der Arbitragespielraum. Der Markt
+verschwindet dadurch nicht, sondern verÃ¤ndert seinen Charakter. Die WertschÃ¶pfung verlagert sich
+dann von notwendiger Ãbersetzung hin zu optionaler Spezialisierung, inhaltlicher Beratung und
+organisatorischer Entwicklung.
+Zugleich erweitert sich der Markt. Die derzeit weltweit geringe Zahl kompetenter
+Implementierungsagenturen ist kein MaÃ fÃ¼r die Nachfrage, sondern ein Effekt hoher
+Eintrittsbarrieren. Solange Aneignung nur Ã¼ber implizites Expertenwissen, fragmentierte
+Dokumentation und informelle Netzwerke mÃ¶glich ist, bleibt der Kreis der Anbieter klein. Mit
+wachsender AneignungsfÃ¤higkeit sinken diese Eintrittskosten. Weitere Dienstleister kÃ¶nnen
+CiviCRM wirtschaftlich erschlieÃen, ohne zuvor jahrelang projektspezifisches Wissen
+akkumulieren zu mÃ¼ssen. Aus einem begrenzten, wissensbasierten Oligopol entsteht ein
+differenziertes DienstleistungsÃ¶kosystem mit mehr Anbietern, stÃ¤rkerer Spezialisierung und realem
+Wettbewerb. Optimale GÃ¼terversorgung verengt den Markt nicht, sie vergrÃ¶Ãert ihn.
+In einer solchen Perspektive lÃ¤sst sich auch eine grobe AbschÃ¤tzung der mÃ¶glichen Marktstruktur
+vornehmen. FÃ¼r den deutschsprachigen Raum erscheint es plausibel, dass selbst bei konservativer
+Betrachtung eine deutliche Ausweitung und Differenzierung der Anbieterlandschaft mÃ¶glich wÃ¤re.
+Ein enger Kern hochspezialisierter Implementierungsagenturen fÃ¼r komplexe Migrationen und
+hochindividuelle Integrationen wÃ¼rde bestehen bleiben und sich allenfalls moderat vergrÃ¶Ãern.
+Daneben kÃ¶nnte jedoch eine wesentlich breitere Schicht allgemeiner Implementierungsdienstleister
+entstehen, die standardisierte EinfÃ¼hrungen und typische AnwendungsfÃ¤lle wirtschaftlich bedienen.
+ErgÃ¤nzt wÃ¼rde dieses Feld durch einen wachsenden Kreis einzelner Berater*innen und
+Trainer*innen sowie durch komplementÃ¤re Dienstleistungen wie Hosting, Wartung, Datenschutz-
+oder Prozessberatung. Die Software wÃ¼rde fÃ¼r bereits etablierte Dienstleister adaptierbar, sodass sie
+
+                                                - 26 -
+das Potential ihrer Beratungsleistungen im Zusammenhang mit der Software anzubieten in der Lage
+wÃ¤ren.
+Heuristisch gesprochen lieÃe sich unter Bedingungen optimaler GÃ¼terversorgung nicht nur ein
+marginaler Zuwachs, sondern ein Mehrfaches der heutigen Anbieterzahl erwarten: aus einem
+kleinen, wissensbasierten Oligopol wÃ¼rde ein regional und funktional ausdifferenziertes
+DienstleistungsÃ¶kosystem, das breitere Nachfrage adressieren und zugleich neue Nachfrage erst
+hervorbringen kÃ¶nnte.
+SchlieÃlich wirkt eine optimale Versorgung auf die Governance zurÃ¼ck. Wo AneignungsfÃ¤higkeit
+gegeben ist, verlieren kompensatorische Arrangements an Bedeutung. Governance muss weniger
+verdecken und kann stÃ¤rker koordinieren. Beteiligung wird nachvollziehbarer, weil
+EntscheidungsgegenstÃ¤nde und Betroffenheit sichtbar werden. Die zuvor beschriebene Gefahr der
+Governance-Simulation verliert an Gewicht, da strukturelle Defizite nicht mehr behauptet oder
+relativiert, sondern durch niedrigschwellige ZugÃ¤nglichkeit empirisch fÃ¼r viele Ã¼berprÃ¼fbar sind.
+
+6.4 Anreizkompatible Transformationsstrategien
+Die folgenden Transformationsstrategien setzen nicht voraus, dass kollektive Beschaffung oder
+Governance zuverlÃ¤ssig gelingen. Sie reagieren vielmehr auf die in Abschnitt 5.5 beschriebenen
+institutionellen Leerstellen: die fehlende Sichtbarkeit von EntscheidungsgegenstÃ¤nden,
+Betroffenheit und Kosten unter Bedingungen stabiler SuboptimalitÃ¤t. Es wird danach unterschieden,
+unter welchen Bedingungen sie wirksam werden kÃ¶nnen: als genuin kollektive LÃ¶sung (im Sinne
+von Abschnitt 6.1), als marktfÃ¤higer Umgehungsmechanismus (im Sinne von Abschnitt 6.2) oder
+als flankierende VerstÃ¤rkung beider Pfade. Entscheidend ist, dass keine der Strategien allein auf
+Kooperationsbereitschaft angewiesen ist.
+Ein erster Hebel ist die kollektive Beschaffung einer anwenderorientierten Dokumentation, einer
+anwenderfreundlichen BenutzerfÃ¼hrung und anwenderfreundliche Onboarding-Pfaden.
+Entscheidend ist dadurch Kosten der Aneignung sichtbar zu senken und damit einen
+Effizienzgewinn kollektiv wirksam zu machen. Denn diese QualitÃ¤ten lassen sich als Infrastruktur
+begreifen, deren Nutzen sich Ã¼ber viele Projekte hinweg entfaltet, deren Finanzierung jedoch
+individuell schwer leistbar ist. Ihre Realisierung erscheint wahrscheinlicher, wenn kollektive
+Beschaffungsmechanismen tatsÃ¤chlich greifen wÃ¼rden (im Sinne von Abschnitt 6.1). FÃ¼r
+Implementierungsagenturen existiert ein rationales Eigeninteresse an diesem Hebel durch die
+Aussicht auf sinkenden Beratungsaufwand zu grundlegenden Themen, sodass kundenseitige
+Ressourcen vermehrt auf fortgeschrittene Fragestellungen verwendet werden kÃ¶nnen. FÃ¼r
+Anwenderorganisationen reduzieren sich AbhÃ¤ngigkeiten und langfristige Nutzungskosten. Bleibt
+kollektive Finanzierung jedoch aus, stellt sich Frage, was dann durch unternehmerisches Handeln
+im Sinne von Abschnitt 6.2 mÃ¶glich ist.
+Ein zweiter Hebel liegt in der Sichtbarmachung von QualitÃ¤t durch vergleichbare Kriterien,
+Benchmarks oder Zertifizierungen. Sichtbarkeit meint hier nicht symbolische Zertifizierung,
+sondern die Herstellung entscheidungsrelevanter Vergleichbarkeit: QualitÃ¤ten mÃ¼ssen so dargestellt
+sein, dass sie in Auswahl-, Vergabe- und Priorisierungsentscheidungen tatsÃ¤chlich berÃ¼cksichtigt
+werden kÃ¶nnen. Es kÃ¶nnte Monitoring als beauftragte Community-Funktion organisiert werden,
+
+                                               - 27 -
+die Unterversorgung institutionell sichtbar macht. Dieser Hebel kann sowohl kollektiv verwirklicht
+werden (im Sinne von Abschnitt 6.1), etwa durch gemeinschaftlich definierte QualitÃ¤tskriterien und
+Benchmarks, als auch als Marktmechanismus wirken (im Sinne von Abschnitt 6.2), wenn einzelne
+Anbieter bestimmte QualitÃ¤ten strategisch sichtbar und vergleichbar machen, um sich gegenÃ¼ber
+alternativen Angeboten zu differenzieren. Die Wirksamkeit dieses Hebels hÃ¤ngt nicht primÃ¤r von
+formaler Governance ab, sondern davon, ob QualitÃ¤tsinformationen institutionell anschlussfÃ¤hig
+sind â das heiÃt, ob sie systematisch in Entscheidungs-, Vergabe- und Investitionsprozesse
+einflieÃen. Er bleibt wirkungslos, wenn fÃ¼r die Nachfrageseite Intransparenz fortbesteht und
+qualitative Unterschiede nicht als relevante Entscheidungsdimension wahrgenommen oder
+operationalisiert werden kÃ¶nnen.
+Ein dritter Hebel betrifft die Ausgestaltung von Governance selbst, insbesondere die institutionelle
+StÃ¤rkung und Gleichstellung von BeitrÃ¤gen zur AneignungsfÃ¤higkeit der Software mit BeitrÃ¤gen zu
+Softwarefunktionen oder Technik. Dieser Hebel ist strikt an funktionierende Governance-Strukturen
+gebunden (im Sinne von Abschnitt 6.1). Ohne verbindliche Regeln zur Priorisierung, kollektiv
+zwingende QualitÃ¤tskriterien zur AneignungsfÃ¤higkeit von OberflÃ¤chen und Nutzungslogiken,
+denen Software-Releases unterworfen werden (âRelease-Gatesâ) und
+Dokumentationsanforderungen, lÃ¤sst sich nicht sicherstellen, dass entsprechende BeitrÃ¤ge
+zuverlÃ¤ssig erbracht werden. Ostroms Prinzip abgestufter Sanktionen lÃ¤sst sich hier als
+regelgebundene QualitÃ¤tsdisziplin Ã¼bersetzen, ohne moralische Zuschreibung: etwa âkeine Freigabe
+ohne Minimal-Dokuâ, ein expliziter âexperimentalâ-Status fÃ¼r unzureichend dokumentierte
+Funktionen oder eine reduzierte Prominenz im UI fÃ¼r ungewartete Module. Der Punkt ist nicht
+Bestrafung, sondern die institutionelle Bearbeitung von Regelabweichungen durch klare, abgestufte
+Folgen.
+Ein marktfÃ¶rmiger Ersatz ist hier nicht mÃ¶glich, weil strategische Designentscheidungen sowie
+Entscheidungen Ã¼ber Feature- oder Mergerequests, Ã¼ber Ausgestaltungen von OberflÃ¤chen oder
+Ã¼ber Ãbersetzungen die freie Open-Source-Software als Voraussetzungen definieren, die dann fÃ¼r in
+der WertschÃ¶pfungskette nachgelagerte Akteure, wie bspw. Implementierungsagenturen, Berater
+oder Anwender gesetzt sind. Governance kann hier allenfalls durch marktliche Entwicklungen
+entlastet, aber nicht ersetzt werden.
+Ein ergÃ¤nzender institutioneller Hebel liegt in niedrigschwelligen KonfliktlÃ¶sungsmechanismen .
+Wo Konflikte heute faktisch durch Stillstand, stilles Nicht-Mitmachen oder informelle Machtspiele
+âgelÃ¶stâ werden, wÃ¼rde eine Schlichtungsinstanz helfen â etwa bei Architektur-vs-UX-Konflikten,
+Core-vs-Implementer-Interessen oder kurzfristiger Kundenlogik vs. langfristiger Gemeingutpflege.
+Entscheidend ist geringe Transaktionslast: KonfliktlÃ¶sung muss leichter sein als RÃ¼ckzug.
+Ãffentliche Finanzierung und Vergabepolitik wirken als externer VerstÃ¤rker. Sie sind weder rein
+kollektiv noch rein marktfÃ¶rmig, sondern setzen auÃerhalb des Systems an. Ihre Wirksamkeit hÃ¤ngt
+davon ab, ob FÃ¶rder- und Vergabekriterien die mitteleinwerbenden Akteure tatsÃ¤chlich auf offene,
+wiederverwendbare und dokumentierte Ergebnisse verpflichten. Solche Mittelvergaben kÃ¶nnen
+sowohl kollektive Beschaffung stabilisieren (im Sinne von Abschnitt 6.1) als auch marktfÃ¤hige
+Konsolidierung begÃ¼nstigen (im Sinne von Abschnitt 6.2), entfalten jedoch keine eigenstÃ¤ndige
+Steuerungswirkung ohne institutionelle AnschlussfÃ¤higkeit an Entscheidungs-, Koordinations- und
+Nutzungsstrukturen der Governance von CiviCRM.
+
+                                               - 28 -
+Ein fÃ¼nfter Hebel ist die Standardisierung wiederkehrender AnwendungsfÃ¤lle. Referenz-Setups,
+klare Trennung von Standard und Spezialisierung sowie reproduzierbare EinfÃ¼hrungspfade kÃ¶nnen
+unabhÃ¤ngig von kollektiven Entscheidungen entstehen. Dieser Hebel ist primÃ¤r dem marktfÃ¤higen
+Umgehungspfad zuzuordnen (im Sinne von Abschnitt 6.2). Einzelne Implementierungsagenturen
+kÃ¶nnen ihn aus eigenem Interesse verfolgen, um Projektlaufzeiten zu verkÃ¼rzen, EinstiegshÃ¼rden zu
+senken und neue Marktsegmente zu erschlieÃen. Kollektive Koordination ist hierfÃ¼r hilfreich, aber
+nicht notwendig.
+Zusammenfassend zeigt sich, dass nur ein Teil der Transformationsstrategien auf funktionierende
+kollektive Beschaffung und Governance angewiesen ist. Nur manche Hebel bleiben auch dann
+wirksam, wenn kollektive LÃ¶sungen prekÃ¤r bleiben oder ausbleiben. Diese Asymmetrie ist aber
+auch eine gute Nachricht: Immerhin erÃ¶ffnet sie die MÃ¶glichkeit, das bestehende Gleichgewicht
+auch dann schrittweise zu verschieben, falls der institutionelle Durchbruch ausbleibt. Es besteht die
+begrÃ¼ndete Hoffnung, dass eine optimalere GÃ¼terversorgung nicht durch einen einzelnen
+Mechanismus entsteht, sondern aus dem Zusammenspiel kollektiver und marktfÃ¶rmiger Dynamiken
+unter realistischen Bedingungen. Sichtbarkeit erweist sich damit als institutioneller Hebel. Sie
+ersetzt Governance nicht, kann sie jedoch entlasten und wirksam ergÃ¤nzen, indem sie
+EntscheidungsgegenstÃ¤nde, Betroffenheit und Kosten aus der Unsichtbarkeit holt. Erst wo QualitÃ¤t
+vergleichbar wird, kÃ¶nnen kollektive und marktfÃ¶rmige Dynamiken Ã¼berhaupt ansetzen.
+
+                                               - 29 -
+7. Systemische Risiken stabiler SuboptimalitÃ¤t
+Die folgenden Ãberlegungen fassen die Probleme versunkender Kosten und PfadabhÃ¤ngigkeiten,
+die UnterreprÃ¤sentation bestehender und potenzieller Anwender, die MÃ¶glichkeit einer bloÃen
+Governance-Simulation als emergentem Risiko und das AusmaÃ des nicht-gehobenen
+Wohlfahrtpotentials nochmals als systemische Risiken stabiler SuboptimalitÃ¤t zusammen.
+Die StabilitÃ¤t der bestehenden VerhÃ¤ltnisse beruht wesentlich auf versunkenen Kosten. Mit der
+EinfÃ¼hrung und Nutzung von CiviCRM sind finanzielle Aufwendungen, organisatorische
+Anpassungen und der Aufbau personengebundenen Wissens verbunden, die nachtrÃ¤glich nur
+begrenzt reversibel sind. Unter diesen Bedingungen ist der Verbleib im System hÃ¤ufig rationaler als
+ein Wechsel, selbst wenn die AneignungsfÃ¤higkeit als unzureichend erlebt wird. StabilitÃ¤t entsteht
+so nicht aus Zufriedenheit, sondern aus Kostenvermeidung. Suboptimale Strukturen gewinnen
+faktische LegitimitÃ¤t, ohne auf aktiver Zustimmung zu beruhen.
+Governance-Strukturen bilden vor allem jene Akteure ab, die dauerhaft BeitrÃ¤ge leisten kÃ¶nnen.
+Anwenderorganisationen mit begrenzten Ressourcen bleiben demgegenÃ¼ber schwach vertreten.
+Perspektiven, die AneignungsfÃ¤higkeit, Lernbarkeit und Alltagstauglichkeit betreffen, lassen sich
+institutionell schwerer artikulieren als funktionale oder technische Anforderungen. Hinzu kommt
+eine systematische Leerstelle: die Interessen jener Akteure, die CiviCRM nicht nutzen, weil sie an
+den HÃ¼rden der Aneignung scheitern oder eine EinfÃ¼hrung verwerfen. Diese potenziellen Anwender
+bleiben unsichtbar, gerade weil ihre Abwesenheit als fehlender Bedarf missverstanden werden kann.
+Governance orientiert sich damit primÃ¤r an bestehender Nutzung und verengt ihren Blick auf
+gegenwÃ¤rtige Interessen.
+Aus dem Zusammenspiel versunkener Kosten, stabiler Nutzung und asymmetrischer Beteiligung
+entsteht das Risiko einer Governance-Simulation. Gemeint ist eine Konstellation, in der formale
+Strukturen und Verfahren wirksame Steuerung suggerieren, ohne die strukturell unterversorgten
+QualitÃ¤ten des kollektiven Gutes zu adressieren. Von Ostrom inspirierte Governance kann in diesem
+Fall die mit Olson erklÃ¤rbare Unterversorgung verdecken, statt sie zu bearbeiten. Gerade
+funktionierende Systeme sind hierfÃ¼r anfÃ¤llig: Weil sie keinen akuten Handlungsdruck erzeugen,
+verfestigt sich ein Status quo, der aus der Sicht der Beteiligten legitim erscheint, zugleich aber seine
+eigene Reichweite begrenzt.
+Die Tragweite dieser Risiken zeigt sich im Blick auf das nicht realisierte Potenzial. Einer
+begrenzten Zahl produktiver Installationen mit hohen gebundenen Investitionen steht ein deutlich
+grÃ¶Ãerer Kreis potenzieller Anwender gegenÃ¼ber, deren Nutzung nie zustande kommt. Die
+entgangenen Effizienzgewinne, KoordinationsmÃ¶glichkeiten und Wirkungen bleiben unsichtbar,
+weil sie nie realisiert wurden. SuboptimalitÃ¤t erscheint hier nicht als Verlust, sondern als bislang
+ausbleibende MÃ¶glichkeit. FÃ¼r diejenigen aber, die durch das suboptimale Arrangement begÃ¼nstigt
+sind, erscheint die noch nicht realisierte MÃ¶glichkeit wei ein Versprechen auf nie versiegende
+AbsatzmÃ¶glichkeiten.
+Diese Risiken lassen sich nicht durch einzelne Reformen auflÃ¶sen. Sie sind Ausdruck struktureller
+Spannungen stabiler Systeme. Die Aufgabe von Governance besteht daher weniger in der
+Herstellung optimaler ZustÃ¤nde als in ihrer fortlaufenden Bearbeitung. Governance bewÃ¤hrt sich
+
+                                                 - 30 -
+nicht durch Harmonie, sondern durch die FÃ¤higkeit zur institutionellen Selbstbeobachtung. Wo
+diese Wachsamkeit fehlt, droht SuboptimalitÃ¤t zur unsichtbaren NormalitÃ¤t zu werden.
+
+                                              - 31 -
+8. Die NÃ¤he zum Alltag der Nutzung als strategisch
+gÃ¼nstige Position
+Die bisherigen Abschnitte haben gezeigt, dass die suboptimale Versorgung mit CiviCRM kein
+Ausrutscher und kein Ãbergangszustand ist. Sie ist das Ergebnis stabiler Strukturen, wie sie fÃ¼r
+kollektive GÃ¼ter typisch sind. Daraus folgt jedoch nicht, dass VerÃ¤nderung nur durch groÃe
+Reformen, neue Governance-Gremien oder kollektive Kraftakte mÃ¶glich wÃ¤re.
+HandlungsspielrÃ¤ume entstehen vielmehr dort, wo ohnehin tÃ¤glich Entscheidungen getroffen
+werden: in der praktischen Arbeit mit dem System.
+Ein solcher Wandel kann insbesondere von Implementierungsagenturen ausgehen. Wer CiviCRM
+regelmÃ¤Ãig einfÃ¼hrt, anpasst und betreibt, sieht sehr genau, wo Nutzer*innen hÃ¤ngen bleiben,
+welche Fragen immer wieder auftauchen und welche Nutzungsmuster sich in unterschiedlichen
+Organisationen bewÃ¤hren. Diese NÃ¤he zum Alltag der Nutzung i eine praktische
+Beobachtungsposition, aus der sich strategische Entscheidungen ableiten lassen.
+Statt jede Installation als Sonderfall zu behandeln, kann es wirkungsvoll sein, sich bewusst auf
+einen stabilen Kern und auf gut wiederholbare AnwendungsfÃ¤lle zu konzentrieren. Wenn hÃ¤ufig
+genutzte Szenarien klar abgegrenzt, zuverlÃ¤ssig umgesetzt und verstÃ¤ndlich dokumentiert werden,
+entsteht nach und nach etwas, das vielen hilft: ein gemeinsamer Referenzrahmen. Die
+AneignungsfÃ¤higkeit verbessert sich dann nicht abstrakt, sondern ganz konkret entlang realer
+Nutzungssituationen, die andere wiedererkennen und Ã¼bernehmen kÃ¶nnen.
+Ein solcher Ansatz steht nicht im Gegensatz zu kollektiver Governance, wie sie in den
+vorangegangenen Kapiteln diskutiert wurde. Im Gegenteil: Er kann Governance sogar entlasten. Wo
+Nutzungsmuster stabiler und verstÃ¤ndlicher werden, lassen sich Fragen, Interessen und Konflikte
+klarer benennen. Governance muss dann weniger Grundsatzdebatten Ã¼ber diffuse Probleme fÃ¼hren,
+sondern kann sich auf Ã¼berschaubare, greifbare Themen beziehen.
+Wichtig ist dabei, diesen Weg nicht als Ersatz fÃ¼r Governance zu missverstehen. Strategische
+Konsolidierung hebt die strukturelle Unterversorgung kollektiver GÃ¼ter nicht auf. Sie kann jedoch
+ihre Folgen abmildern und sichtbarer machen. Sie erweitert reale NutzungsmÃ¶glichkeiten und
+schafft zugleich Voraussetzungen dafÃ¼r, dass kollektive Fragen Ã¼berhaupt sinnvoll gestellt werden
+kÃ¶nnen.
+VerÃ¤nderung erscheint in dieser Perspektive weder als heroischer Akt noch als delegierbare
+Aufgabe. Sie entsteht aus dem Zusammenspiel von Praxis und Institution, von individuellen
+Entscheidungen und kollektiver Aufmerksamkeit. Eine breitere, wirksamere Nutzung von CiviCRM
+ist dann kein fernes Ideal, sondern das Ergebnis vieler begrenzter, aber gerichteter Schritte.
+Der entscheidende Punkt ist deshalb nicht, ob sich strukturelle Spannungen jemals vollstÃ¤ndig
+auflÃ¶sen lassen. Entscheidend ist, ob sie wahrgenommen werden. Wachsamkeit bedeutet hier,
+SuboptimalitÃ¤t nicht als gegeben hinzunehmen, sondern sie immer wieder zum Ausgangspunkt von
+Lernen zu machen â in der Weiterentwicklung der Software ebenso wie in der Weiterentwicklung
+ihrer Governance.
+
+                                               - 32 -
+Ãber den Autor
+Florian Dieckmann ist Politik- und Sozialwissenschaftler (Magister, UniversitÃ¤t Leipzig) mit
+langjÃ¤hriger Erfahrung an der Schnittstelle von Technologie, politischer Organisation und
+gesellschaftlicher Beteiligung. Nach Stationen in der internationalen Solarindustrie war er von 2015
+bis 2023 in geschÃ¤ftsfÃ¼hrender Funktion fÃ¼r die Digitalisierung partizipativer Prozesse
+verantwortlich â von Organisations- und VerÃ¤nderungsprozessen Ã¼ber Partei- und
+Gewerkschaftsarbeit bis hin zu BÃ¼rgerbeteiligungsverfahren bspw. im Rahmen des
+Standortauswahlgesetzes.
+Heute arbeitet er als Implementierungsberater fÃ¼r Constituent Relationship Management auf Basis
+von CiviCRM, einem Open-Source-System fÃ¼r gemeinnÃ¼tzige und politische Organisationen.
+Nebenberuflich befasst er sich mit der politischen Ãkonomie digitaler Werkzeuge, der
+WertschÃ¶pfung politischer Arbeit sowie mit dezentralen Kommunikations- und
+Informationsinfrastrukturen. Sein Schwerpunkt liegt auf LÃ¶sungen fÃ¼r Transparenz, Teilhabe und
+digitale SouverÃ¤nitÃ¤t.
+
+                                               - 33 -

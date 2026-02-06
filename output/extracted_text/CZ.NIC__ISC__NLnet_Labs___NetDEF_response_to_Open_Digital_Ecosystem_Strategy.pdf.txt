@@ -1,0 +1,305 @@
+Ref. Ares(2026)1216834 - 03/02/2026
+
+          Joint response to the Open Digital Ecosystem Strategy
+
+We, the undersigned organisations, are responsible for the development and maintenance of some
+of the most well-known and widely adopted Open Source Internet Infrastructure Software.
+
+CZ.NIC (www.nic.cz) is an association responsible for running the registry for the top level domain
+of the Czech Republic (.CZ). CZ.NIC also develops and maintains a set of open source software in
+the area of internet infrastructure like routing daemon BIRD and DNS servers Knot DNS and Knot
+Resolver.
+
+Internet Systems Consortium, Inc (www.isc.org) a not-for-profit company (operating under US
+IRC section 501(c)3) based in the US), is dedicated to developing software and offering services in
+support of the Internet infrastructure. âISC is responsible for developing and distributing three
+widely-deployed open source Internet networking software systems: BIND9, ISC DHCP, and Kea
+DHCP, and operating one of the 13 root name server systems of the Internet.
+â
+NLnet Labs (www.nlnetlabs.nl) is a Dutch, independent public benefit organisation founded in 1999.
+Its mission is to write open-source software and contribute to open standards for the Domain Name
+System and (safe) inter-domain routing, thereby improving the robustness, security and reliability of
+the Internet. NLnet Labs maintains widely used implementations for DNS including NSD and
+Unbound, and the safety of inter-domain routing including Krill and Routinator.
+
+Network Device Education Foundation (NetDEF - www.netdef.org) is a US 501(c)3 not-for-profit
+company registered in California. NetDEF hosts and maintains the public CI/CD infrastructure for
+FRR (the Free Range Routing project). NetDEF also ensures compliance, maintains, tests and
+develops code for most of the routing protocols in FRR. FRR is used widely as the routing stack on
+everything from home routing gateways, enterprise routers and data center infrastructure.
+
+ This submission provides evidence from the perspective of four non-profit organizations
+ employing maintainers for long-lived open source projects in the public interest.â
+ Two of us are based in Europe, two of us are based in the US. All four employ EU-based
+ maintainers.â
+ We respond together, reflecting that open source is a global movement, without borders.
+1. What are the strengths and weaknesses of the EU open-source sector?
+
+What are the main barriers that hamper adoption and maintenance of high-quality and
+secure open source?
+The Internetâs two core pillars (the Domain Name System and IP routing) are technology areas
+where open source software is both invisible and dominant. Our software is used by operators of
+internet and telecommunication infrastructure, as well as national top level domain registries around
+the world.
+
+EU public and private sector undervalue their open source
+dependencies
+Since open source is freely-available, our primary challenge is funding software maintenance
+and quality assurance activities. We attempt to minimize costs by taking advantage of free
+services, while also trying to raise revenue, via charitable grants and sale of professional support
+services.
+
+There remains a disconnect between the engineers that select the open source software we
+develop to operate their critical infrastructure and their organisationâs willingness to fund sustained
+development â the easiest mode of behavior for most companies is to be a free rider. In contrast to
+physical network equipment, deploying (gratis) open source software is less often backed by a
+budget. In particular, we perceive private-sector organisations in the EU to be likely to assume
+funding will be taken care of by others.
+
+We suggest concrete measures corresponding to this observation in Section 3.2.
+
+Most open source development and distribution infrastructure
+is US-based
+Another structural weakness lies in the reliance on US-based technology companies. Every
+open source project requires development infrastructure; a shared software development
+environment that enables collaboration and a stable platform for version controls; a group/project
+communications system, such a chat or email, compute resources for building and testing the
+software; hosting resources, for publishing and storing the software and associated files. These
+resources cost money.
+
+Most low-cost or free infrastructure for open source development and distribution is
+operated by the big US tech giants Microsoft (Github), Amazon and Google. In most cases, there
+is no cost-equivalent alternative from an EU organization. Historically, it is difficult to start or grow a
+business that can effectively compete with these entrenched low-cost providers, but it is a
+weakness to have a sole source in the market for these infrastructure services.
+
+We suggest concrete measures corresponding to this observation in Section 3.3.
+
+                                                    2
+Available funding is short-term and feature-focused
+Funding for both services, and personnel must be stable, as abrupt changes in funding cause
+disruption and loss of momentum. Maintainer turnover can result in significant loss of intellectual
+capital for the project, and modifying systems to migrate from one development environment to
+another can consume scarce resources without contributing anything productive for the software
+users. For this reason, programs which award grants for a year, or for even shorter periods,
+are not the best way to support a stable long-term maintenance in the open source
+ecosystem. While we would love to see more grant funds, we would like to see more funding
+available for maintaining existing open source, not just new projects or new features, and this would
+be most useful if the grants cover a multi-year period. Ideally downstream users should be fully
+funding maintenance.
+
+When designing new approaches to funding open source, it is important to consider that open
+source organizations are development-heavy, and generally have limited resources to
+engage in contract negotiation or extended procurement cycles. While it is important to have
+accountability whenever public money is expended, the resulting work product is publicly visible in
+the case of open source development and maintenance. Therefore, it should be possible to
+minimize the process and contractual overhead required, to make funding more accessible to open
+source projects. Low-overhead approaches have been pioneered by the likes of NLnet and
+Sovereign Tech Agency using cascade funding models.
+
+We suggest concrete measures corresponding to this observation in Section 3.2.
+
+What are the main barriers that hamper sustainable contributions to open-source
+communities?
+
+Sustaining maintainers is the bottleneck
+It is challenging for casual users to make useful technical contributions to large, complex software
+systems. Every contributed patch requires extensive review by the maintainers, and often requires
+extension, addition of tests, and documentation. Not infrequently, community-contributed patches
+cause problems in other areas of the code, or conflict with features the contributor isnât using. For
+these reasons, we have found that our open source projects require a staff of dedicated or nearly
+dedicated core maintainers. Even if the user community is willing to contribute some development,
+there must be a skilled team of core maintainers, who will need some funding to sustain their work.
+
+AI technology will not replace human maintainers
+As of this writing, we have found LLM-based tooling to be more effective at wasting maintainer time
+(bogus vulnerability reports, nonsensical code contributions by well-intentioned individuals who do
+not understand what these algorithms produce), than at alleviating the bottleneck of core
+maintenance. Even if LLM tools for reviewing code improve to the point where they are significantly
+useful, open source projects will still need humans to direct the tools, interact with the user
+community, and to take responsibility for managing the projects.
+
+                                                 3
+Sustainable open source is less about attracting sporadic volunteer contributions and more about
+ensuring that the necessary coordination, review, and operational continuity can be maintained over
+time.
+
+2. What is the added value of open source for the public and private sectors?
+The Internet relies on open standards and open source implementations of these standards to
+function. We contributed to research by ICANNâs Security and Stability Advisory Committee (SSAC)
+titled âThe Domain Name System Runs on Free and Open Source Software (FOSS)â that elaborates
+on this claim for the Domain Name System. The Internetâs routing system similarly runs on open
+source software. The BIRD routing daemon is used at internet exchanges all over the world to
+provide their route server function. 100s of millions of home routers on the planet use FRR (or
+previous incarnations Quagga or Zebra). All known relying party software for Route Origin Validation
+(ROV), a routing security technology that is seeing global adoption, is open source.1
+
+3. What concrete measures and actions may be taken at EU level to support the
+development and growth of the EU open-source sector and contribute to the EUâs
+technological sovereignty and cybersecurity agenda?
+
+3.1 Digital Resilience Plan
+Recent geopolitical and trade developments have demonstrated that Europeâs dependence on
+nonâEU digital infrastructure, including cloud services and software platforms, can quickly translate
+into systemic vulnerability. To safeguard the continuity of essential digital operations, the EU should
+establish a Digital Resilience Plan â analogous to the resilience planning obligations introduced for
+telecommunications under the upcoming Digital Networks Act (DNA).
+
+This plan would define coordinated preparedness and response measures in the event that political
+or commercial actions by the United States or other third countries restrict European access to
+cloud, hosting, or software services. Any such disruption could severely affect core functions of the
+internal market, cybersecurity operations, and public digital services.
+
+The Digital Resilience Plan should:
+
+      -â   Map the EUâs critical dependencies on nonâEuropean digital infrastructure, cloud services,
+           and software collaboration platforms.
+      -â   Define fallback strategies and operational continuity measures for sudden disruptions
+           affecting USâbased digital services
+      -â   Support the growth, funding, and readiness of EUâbased openâsource software projects and
+           platforms that can serve as interoperable and immediately deployable alternatives under
+           stress conditions.
+      -â   Ensure that public investment and procurement mechanisms, including those linked to CRA
+           and NIS2 implementation, prioritise openâsource components (co-)maintained within EU
+           jurisdiction.
+
+1
+    https://rov-measurements.nlnetlabs.net/stats/
+
+                                                    4
+   -â   Coordinate crossâsector recovery planning between national cybersecurity authorities, digital
+        infrastructure providers, and openâsource communities maintaining core Internet
+        technologies.
+
+By formally integrating EUâbased openâsource software and neutral development infrastructure into
+the resilience framework, the European Commission would strengthen both technological
+sovereignty and supply chain security. The goal is not isolation, but preparedness â ensuring that
+Europeâs digital ecosystem remains operational, secure, and sustainable even under geopolitical
+stress.
+
+3.2 Use existing hooks in the CRA and its implementation
+
+ We call upon the EC to leverage existing hooks in the CRA and its implementation:
+    1.â Expedite developing the voluntary security attestation programme into an instrument
+        that can fund sustainable maintenance of open source software
+    2.â Establish that âdue diligenceâ under Article 13(5) involves verifying that any integrated
+        components are from âfull-fundedâ sustainable projects.
+    3.â Execute the Union-wide dependency assessment (in ADCO CRA) to further increase
+        visibility into the role of open source as the foundation of our current digital ecosystem
+
+Expedite developing the Voluntary security attestation programme
+Open source maintainers, or their project stewards, who invest in the development process and
+documentation improvements required to meet CRA requirements should be able to recoup all of
+their maintenance costs and some of their development costs. We ask the EC to expedite
+developing the voluntary attestation program for the CRA.
+
+Link âdue diligenceâ obligations to project sustainability
+In Section 1, we argued that sustaining maintainers is the bottleneck for sustainable contributions to
+open source software. We posited that sustainable open source is less about attracting sporadic
+volunteer contributions and more about ensuring that the necessary coordination, review, and
+operational continuity can be maintained over time.
+To sustain organisations like ours, as well as individuals who would prefer to make open source
+maintenance their careers, funding is a necessity. The CRA can provide for a new system of
+incentives that provides a source of funding if and only if the âdue diligenceâ obligation connects
+directly to the aforementioned voluntary security attestations program.â
+To do so, we recommend the EC to ensure that there is a tight closed-loop expression of
+maintenance costs in the attestations (Article 25) with due diligence requirements (Article 13(5)) â
+Responsible parties inside Manufacturers should clearly appreciate that using components from
+underfunded open source projects should be expressly called out in the cybersecurity risk
+assessment (Article 13(2-4)) and does not represent âindustry best practiceâ. Manufacturers should
+be assessed by Market Surveillance Authorities on whether they are using underfunded open
+source projects and whether they are engaging in community support or just free-ridership. A
+virtuous feedback loop should be expressly considered in developing the program.
+
+                                                  5
+Execute the Union-wide dependency assessment
+The ADCO CRA should execute on its Art 13(25) ability to perform Union-wide dependency
+assessment on open source components. To make this at all possible, the result of the
+standardisation efforts at CEN/CENELEC corresponding to EU 2024/2847 (CRA), Annex A, part II,
+para 1 should be critically examined to meet the stated objectives in the law text.
+
+Without a firm requirement on Manufacturers to produce SBOMs that include stable and globally
+unique identifiers that identify components and their specific versions, data quality will be
+problematic. There can be no such census and EU dependency on open source software will be
+underreported, remain politically undervalued and its potential as a crucial contributor to the EUâs
+technological sovereignty, security and competitiveness underutilized.
+
+While initiatives like Germanyâs Sovereign Tech fund are promising and welcome, and should be
+scaled-up to EU-level,2 direct funding of all of the deserving open source projects is probably
+infeasible. With sufficient investment, and building upon existing open source census efforts, the
+CRA Union-wide dependency assessment should create a source of open data to prioritize
+investment by public and private sectors alike.
+
+3.3 Level the playing field for open source development
+
+    We call upon the EC to:
+       4.â Set a procurement norm for IT projects involving open source components. Such norms
+           should recognize community commitment and project engagement rather than solely
+           lowest cost bids.
+       5.â Fund EU-based services open source developers need
+
+Procurement norms should support open source development
+The EC should set a procurement norm for itself, the EU member states and the private sector to
+require a budget line item for all IT projects involving open source components targeted at
+sustaining upstream development communities. Such a norm would be in line with ENISA guidance
+on the NIS2 implementing act for the digital sector.3
+Responding to commercial RFPs and dealing with government contracts are outside the expertise
+and beyond the capabilities of many open source project teams.
+Systems integrators and consultants providing these services who contract to provide these
+services under publicly-funded contracts should be required to ensure that the actual maintainers
+are fully-funded and sustainable for the duration of the tender. If necessary prioritizing some portion
+of their revenues to fund the actual maintainers of that open source. This would better enable
+governments to adopt and successfully use open source at scale, while also providing some support
+to maintainers.
+2
+  See e.g. âFunding Europeâs Open Digital Infrastructure: The Economic, Legal, and Political Feasibility of an
+EU Sovereign Tech Fund (EU-STF)â
+3
+  European Union Agency for Cybersecurity (ENISA), NIS2 Technical Implementation Guidance (report,
+Publications Office of the European Union, 2025): âConsider supporting the communities developing and
+maintaining FOSS and invest in a mutually beneficial relationship with them. Where effective, this could
+involve relationships with the relevant OSS steward that âprovid[es] support on a sustained basis for the
+development and ensures the viability of those products.ââ
+
+                                                      6
+Fund EU-based services open source developers need
+Funding development infrastructure and services for open source can also stimulate the
+development of EU-based cloud services. Currently, open source developers rely heavily on free
+services from Microsoft (GitHub software version control, CI/CD and publishing), Amazon/AWS (free
+or reduced-cost computing, publication), and Google (email, storage and document collaboration).
+Providing European alternatives to these dominant providers will make the open source community
+more resilient, while developing the European tech sector.â
+â
+To give a concrete example, the strategy could stimulate growth of the multiple small, alternative
+community-led development platforms that already exist for open source development services.4 It
+would strengthen digital resilience if the EU encouraged the growth of multiple smaller, interoperable
+hosting and collaboration platforms operated under European jurisdiction. Targeted funding or
+procurement preference could stimulate the ecosystem, ensuring that open source communities are
+not structurally reliant on a few commercial providers outside the EU.
+
+4. What technology areas should be prioritised and why?
+The technology areas of focus should be derived from a competent technical risk analysis, (e.g via
+the Digital Resilience Plan described in Section 3.1) and focus on areas where service description
+would lead to widespread infrastructure and/or security failures.
+
+Proposed priority areas:
+   -â Networking applications, such as DNS, BGP, DHCP, and associated systems
+   -â Open source networking stacks, and the Linux kernel itself.
+   -â Maintenance of the most widely-used cryptography libraries, and on-going development of
+      post-quantum cryptography libraries.
+   -â Systems used for centralized administrative user authorization and access controls for
+      network devices and critical applications.
+   -â Open collaboration on Internet protocol development, including collaboration on
+      development of solutions to newly-discovered security challenges to existing protocols. (This
+      work cannot be simply delegated to the biggest, most well-funded technology companies,
+      there should be funding for smaller open source organizations to participate as well.)
+
+5. In what sectors could an increased use of open source lead to increased
+competitiveness and cyber resilience?
+/no response/
+
+4
+  Codeberg e.V. is a registered non-profit association based in Berlin, Germany. SourceHut is a sole
+proprietorship based in Hoorn, the Netherlands.
+
+                                                  7

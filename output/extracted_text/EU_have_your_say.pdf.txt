@@ -1,0 +1,125 @@
+Ref. Ares(2026)1224410 - 03/02/2026
+
+Non siamo un'alternativa marginale: il software libero Ã¨ il
+punto di riferimento
+Nel percorso con i nostri clienti, emerge una narrativa ricorrente che ci dipinge come un'alternativa persino
+marginale alle soluzioni mainstream. Questa percezione Ã¨ errata, e intendiamo comunicarla con la massima
+chiarezza e eloquenza.
+
+Storia:
+Quando ho iniziato cercavo delle soluzioni che potessero proteggere anche le piccole realtÃ  artigianali allo
+stesso livello delle realtÃ  piÃ¹ grandi. Ho dovuto scegliere il software libero perchÃ© non esistevano alternative
+in grado di darmi lo stesso grado di libertÃ  di integrazione e le stesse garanzie di continuitÃ  e sicurezza. Ho
+scoperto che le soluzioni che studiavo andavano molto bene anche per le realtÃ  piÃ¹ strutturate e gli obiettivi e
+clienti raggiunti lo dimostrano.
+La nostra infrastruttura monitorata permette di spezzare la catena creata da licenze ed incompatibilitÃ . Si puÃ²
+sostituire lâhardware solo quando servono maggiori performance o sfruttarlo fino a fine vita evitando sprechi
+inutili, riclassificandolo senza rinunciare alla stabilitÃ , alla continuitÃ  ed alla sicurezza
+Da piÃ¹ di 10 anni siamo al fianco delle aziende che seguiamo per poter permettere loro di lavorare in assoluta
+tranquillitÃ , le tecnologie che abbiamo portato quella volta, che usiamo ancora, sono in assoluto le migliori,
+neppure un cryptolocker Ã¨ in grado di fermarle, in pochi minuti siamo in grado di ripristinare tutto il sistema al
+momento precedente lâinfezione permettendo di fatto alla azienda di ricominciare a lavorare come niente
+fosse. Lo facciamo grazie a ZFS, non esistono ancora al momento alternative proprietarie: chi Ã¨ quindi
+lâalternativa?
+Noi non siamo un'alternativa: rappresentiamo il punto di riferimento. Con "noi" intendiamo l'insieme delle
+aziende capaci di operare con il software libero. Non si tratta di presunzione: Ã¨ il software libero stesso a
+costituire il vero punto di riferimento, non un'opzione secondaria. Ecco alcuni nostri casi di successo.
+
+Infrastruttura sovrana conforme a NIS2
+Strumenti: Proxmox VE (virtualizzazione clusterizzata), Proxmox Backup, Wazuh (identificazione
+vulnerabilitÃ ), Zabbix (monitoraggio), FreeIPA con autenticazione multi-fattore, ZFS (storage), CEPH (cluster
+storage).
+Caso di successo: Loacker, dove abbiamo costruito un'infrastruttura centralizzata su piÃ¹ sedi con diversi
+cluster.
+Di seguito un articolo su âLa Repubblicaâ che parla del nostro caso di successo: Loaker
+Benefici: Osserviamo una dinamica evolutiva nei progetti affidatici. Rendiamo i clienti partecipi attraverso
+una formazione approfondita, cosicchÃ© il loro personale interno acquisisca competenze per gestire
+autonomamente molti interventi iniziali da noi eseguiti, mantenendo responsabilitÃ  e sicurezza dei sistemi.
+
+                                                      1 di 5
+
+                                             https://continuity.space
+                                                 Sede direzionale:
+                           via Maestri del lavoro 20/H - 33083 Villotta di Chions (PN)
+Questo genera autonomia, ma anche un flusso crescente di nuovi incarichi. A differenza dei competitor,
+portiamo nell'azienda know-how strutturale grazie al software libero e al nostro modello di business su di esso
+fondato. Non temiamo di condividerlo: esso Ã¨ il pilastro del nostro approccio. Il cliente paga meno, riceve
+maggiore valore, compie operazioni piÃ¹ ampie e resta al passo con una tecnologia in accelerazione. Possiamo
+personalizzare gli strumenti sulle necessitÃ  reali, seguirlo passo dopo passo, condividere tutte le informazioni
+richieste o gestire integralmente le sue esigenze.
+
+Google Workspace cerca di essere un alternativa ma non puÃ² competere (Suite
+ComeInClasse)
+Strumenti: Nextcloud, Moodle, Collabora, OnlyOffice, Authentik, BigBlueButton, Matrix, Mastodon.
+Casi di successo: Numerose scuole nel centro-nord Italia;
+Benefici: Con Moodle, abbiamo supportato gli insegnanti di sostegno nella creazione di materiali riutilizzabili
+e condivisibili. Abbiamo ripristinato la dinamica tradizionale della "schedina della maestra Maria", usata per
+decenni da generazioni di insegnanti â interrotta dall'avvento di Google e Microsoft. Negli account scolastici
+Google, ad esempio, gli insegnanti italiani legano i dati a profili personali: al cambio di scuola, perdono tutto,
+e la scuola disperde risorse non strutturate organizzativamente. Abbiamo sostituito Google con Nextcloud,
+sviluppando per anni con alcune scuole â una in particolare â automazioni che, da un foglio di lavoro, ricreano
+fedelmente le cartelle preesistenti, gli "armadietti" scolastici. Ora Ã¨ possibile condividere documenti sensibili,
+come report per alunni disabili, fornendo account temporanei a esterni, senza rischi di email insicure. Questo
+sistema ricapitalizza il valore portato dagli insegnanti, con strumenti moderni che accelerano il lavoro e
+ottimizzano i tempi. Moodle si rivela una "macchina per produrre tempo libero": dopo un anno, la scuola ha a
+disposizione contenuti pronti, modificabili, riutilizzabili e condivisibili potendo cosÃ¬ attingere anche ai
+contenuti delle altre scuole.
+La gerarchia data dallâautenticazione centralizzata permette di gestire i vari istituti, il provveditorato puÃ²
+riassegnare gli insegnanti alle scuole in modo facile e senza che questi perdano i loro materiali didattici. Gli
+strumenti scelti, in quanto liberi, sono predisposti alla federazione permettendo alle scuole di proteggere i loro
+dati ma anche condividere parte di questi serenamente con altre scuole
+La Repubblica ci ha contattato per fare un articolo su questi casi di successo: ComeInClasse
+
+Altri prodotti basati su software libero consolidati per clienti business
+I servizi che offriamo ai nostri clienti prevedono un utilizzo massivo di questi prodotti.
+Vaultwarden (gestione credenziali in modo centralizzato), Debian, AI locale, Proxmox Mail Gateway, Odoo,
+OpnSense
+
+AI locale
+Con l'avvento dell'intelligenza artificiale, essere proprietari delle proprie infrastrutture e comprendere a fondo
+cosa viene assorbito dalle informazioni che mettiamo a disposizione â anche attraverso social come
+
+                                                       2 di 5
+
+                                             https://continuity.space
+                                                 Sede direzionale:
+                           via Maestri del lavoro 20/H - 33083 Villotta di Chions (PN)
+WhatsApp, Facebook e simili â Ã¨ fondamentale. Lo Ã¨ per motivi economici, poichÃ© questi dati valgono
+tantissimo, ma anche per ragioni strategiche: farsi "studiare" da un'intelligenza artificiale senza rendersene
+conto richiede una valutazione attentissima.
+L'intelligenza artificiale Ã¨ anche una tecnologia della quale non possiamo rinunciare. Esattamente come
+abbiamo fatto con l'energia nucleare, dobbiamo fare la stessa cosa con l'intelligenza artificiale, creare un
+CERN di appassionati che come obiettivo ha quello di condividere tutte le conoscenze, cosÃ¬ da diventare dagli
+ultimi che siamo al mondo su questa tecnologia, ai primi. Com'Ã¨ stato col CERN! Quando Ã¨ stato fondato il
+CERN eravamo messi molto, molto peggio. Uno dei valori economici piÃ¹ importanti del CERN Ã¨ la
+condivisione delle conoscenze e dei risultati: esattamente come il software libero.
+Portiamo due anni di esperienza formativa nelle scuole (primaria e secondaria): nÃ© insegnanti nÃ© studenti
+sanno che l'AI non possiede vere conoscenze. Gli studenti non ne traggono benefici reali: vengono
+danneggiati, mutilati. Gli insegnanti â specie quelli di sostegno â potrebbero guadagnarne, ma devono gestire
+dati sensibili: necessitano di un'AI dedicata.
+
+Conclusioni
+Investire nel software libero avvantaggia tutti. Finanziare aziende e progetti basati su di esso garantisce un
+ritorno automatico: i fondi generano codice pubblico, accessibile e valorizzabile da chiunque â un principio
+matematico inevitabile, che produce piÃ¹ valore rispetto al software proprietario.
+Questo valore viene condiviso non da province, comuni o Stati, ma dall'intera Unione Europea: milioni di
+utenti che da domani oggi ieri possono lavorare su sistemi sovrani, migliorandoli secondo logiche umane,
+come individui che elevano la qualitÃ  della vita, non come risorse da monetizzare. Definiamo collettivamente
+obiettivi di sviluppo, aggiornamento ed evoluzione centrati sulla qualitÃ  della vita. Ã possibile fare business
+profittevole divertendosi. Invece che consumare, stai creando valore per la tua comunitÃ .
+
+                                                      3 di 5
+
+                                             https://continuity.space
+                                                 Sede direzionale:
+                           via Maestri del lavoro 20/H - 33083 Villotta di Chions (PN)
+                           4 di 5
+
+                  https://continuity.space
+                      Sede direzionale:
+via Maestri del lavoro 20/H - 33083 Villotta di Chions (PN)
+                           5 di 5
+
+                  https://continuity.space
+                      Sede direzionale:
+via Maestri del lavoro 20/H - 33083 Villotta di Chions (PN)

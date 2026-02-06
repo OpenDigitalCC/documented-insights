@@ -1,0 +1,232 @@
+# Documented Insights - EU Consultation Analysis
+# .gitignore
+
+# ============================================================================
+# DATA FILES (Large, not suitable for Git)
+# ============================================================================
+
+# Attachments (PDFs, DOCX) - downloaded from EC website
+data/attachments/
+data/extracted_text/
+
+# Database volumes (managed by Docker)
+postgres-data/
+
+# Ollama model files (large, downloaded separately)
+ollama-models/
+
+# ============================================================================
+# OUTPUT FILES (Generated, can be recreated)
+# ============================================================================
+
+# Generated reports
+output/*.md
+output/*.html
+output/*.pdf
+
+# Except keep example/template files
+!output/README.md
+!output/.gitkeep
+
+# Logs
+output/logs/
+*.log
+
+# Embeddings and word index
+output/embeddings.log
+output/word-index.txt
+output/failed_downloads.txt
+
+
+# Temporary/test outputs
+output/test_*.md
+output/test_*.html
+
+# ============================================================================
+# DEVELOPMENT/PHASE DIRECTORIES (Superseded)
+# ============================================================================
+
+# Development phase directories (content integrated into main)
+domain-config-system/
+phase2-query-builder/
+
+# ============================================================================
+# PYTHON
+# ============================================================================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.pytest_cache/
+
+# ============================================================================
+# PERL
+# ============================================================================
+
+# Perl module build
+blib/
+pm_to_blib
+*.bak
+*.old
+*.swp
+*~
+
+# ============================================================================
+# DOCKER
+# ============================================================================
+
+# Environment file (contains credentials - use .env.example instead)
+.env
+
+# Docker volumes
+*.volume
+
+# ============================================================================
+# EDITOR / IDE
+# ============================================================================
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+*.swp
+*.swo
+*~
+
+# Emacs
+*~
+\#*\#
+.\#*
+
+# ============================================================================
+# OPERATING SYSTEM
+# ============================================================================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+.directory
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE_BIN/
+
+# ============================================================================
+# BACKUP FILES
+# ============================================================================
+
+*.backup
+*.bak
+*.old
+Makefile.backup
+*.pl.backup
+
+# ============================================================================
+# TEMPORARY FILES
+# ============================================================================
+
+tmp/
+temp/
+*.tmp
+/tmp/
+
+# ============================================================================
+# DEPRECATED SCRIPTS (Superseded, safe to ignore if present)
+# ============================================================================
+
+# Bash batch script (superseded by Perl version)
+scripts/batch_llm_extract.sh
+
+# Test script (superseded by 10_generate_llm_report.pl)
+scripts/test_llm_positions_section.pl
+
+# Early LLM attempts
+scripts/05_llm_batch_analysis.pl
+
+# Example/demo scripts
+scripts/example_domain_usage.pl
+
+# CSV loader (using JSON instead)
+scripts/01_load_csv.pl
+
+# One-time setup scripts
+create_project_structure.sh
+init_git.sh
+
+# ============================================================================
+# WHAT GETS COMMITTED
+# ============================================================================
+
+# Core configuration:
+# ✓ compose.yml, Dockerfile.perl, .env.example, Makefile
+# ✓ data/european-open-digital-ecosystems-all-responses.csv (source data)
+
+# SQL schema:
+# ✓ sql/*.sql
+
+# Code:
+# ✓ lib/*.pm (DomainConfig, DomainQuery, LLMPositionReport)
+# ✓ scripts/01_load_json.pl, 02*.pl, 03*.pl, 04*.py
+# ✓ scripts/06-12*.pl, 10_llm_extract_positions.py
+# ✓ scripts/requirements-llm.txt
+
+# Domain configurations:
+# ✓ domains/*.conf, domains/README.md
+
+# Documentation:
+# ✓ README.md, PROJECT_SUMMARY.md, *.md in root
+
+# EXCLUDED (regeneratable or sensitive):
+# ✗ Attachments, database volumes, model files
+# ✗ Generated reports, logs
+# ✗ .env (credentials)
+# ✗ Development phase directories
+# ✗ Build artifacts

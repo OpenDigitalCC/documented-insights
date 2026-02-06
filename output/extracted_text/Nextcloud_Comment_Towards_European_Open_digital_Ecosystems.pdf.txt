@@ -1,0 +1,224 @@
+Ref. Ares(2026)357876 - 14/01/2026
+
+What are the strengths and weaknesses of the EU open-source sector?
+
+Strengths:
+
+    1. Vibrant and active Open Source communities with a pool of highly motivated and
+       knowledgeable contributors, backed by viable Open Source companies in Europe. These
+       are numerous, and can be can be build upon and expanded.
+
+    2. Competitiveness and diversity spur innovation and are the breeding ground for a strong
+       and vital digital economy, backed by vibrant cross-border Open Source communities.
+
+    3. Interoperability of Open Source solutions make it easy to adjust and customize to
+       individual requirements of organizations.
+
+    4. Security: There are two main drivers behind the security benefits of open source, which
+       align very well with European values.
+       First is transparency. Open Source means the code is free to be inspected. This might seem
+       to give attackers a benefit, but practice has shown that the âsecurity through obscurityâ
+       approach in IT is ineffective and transparency results in less security issues. This is, in part,
+       because âthe good guysâ can find and report issues. But, as studies show, it is also because
+       the transparency enforces a greater degree of discipline and improved work processes that
+       result in higher quality code.
+       Second is shared ownership. There are typically multiple parties involved in open source
+       projects - one or more companies, home users, employees of other companies and so on.
+       This brings in more creativity and innovation but also reduces the time to detect and fix
+       problems - including security issues.
+       The alignment of these with European values of transparency and shared ownership mean
+       Europe has an inherent advantage in building and exploiting open source compared to
+       more closed, authoritarian societies.
+
+    5. Decentralization and resilience: As with security, the benefit of not relying on a single
+       party contributes to more resilience of the ecosystem, as the disappearance of one player
+       wonât take down the entire project. Combined with the typically greater and easier
+       interoperability further reduces strategic reliance and thus helps improve the resilience of
+       critical infrastructure.
+
+    6. Peer-to-peer learning: Transparency and trust are two of the key pillars of Open Source
+       development. Learning with and from each other in a community of like-minded peers
+       helps cater for a safe and supervised, resilient infrastructure that also makes it easier for
+       new users to migrate their systems and look for answers for potential challenges ahead.
+
+    7. Public money, public code: Funding open source projects and buying European Open
+       Source solutions mean the taxpayers money stays in Europe and invest in new projects to
+       expand our digital ecosystem. Furthermore, the money is spent on solutions that benefit
+       everyone.
+
+Weaknesses:
+
+    1. Lack of commercial drive: Motivation in European Open Source communities is often
+       based on values, and less commercially driven than in the US, which makes it less visible
+       and harder to maintain
+
+    2. Reputation and public perception: To this day, Open Source projects are often regarded as
+       the nerdy product that is not stable, capable, and scalable enough, let alone secure and
+       even lacks usability. Setting standards and adopting open source solution can help clean up
+       those false notions, and help make the benefits of Open Source more visible.
+
+    3. Lack of sustainability: Open Source projects often suffer from inadequate investment, like
+       donations and short-term subsidies. However, a sustainable business model should draw
+       from a wide range of revenue sources, including both stable public funding as well as
+       private investments.
+
+    4. Lack of preparedness and visibility: Applying for certifications or ensuring regulatory
+       compliance is more challenging for open source companies as this has not been looked into
+       much. Authorities are prepared for propietary software but open source seems to be an
+       afterthought if any.
+
+What are the main barriers that hamper (i) adoption and maintenance of high-quality and
+secure open source; and (ii) sustainable contributions to open-source communities?
+
+    1. Anti-competitive behavior of Big Tech: Bundling of products, thwarting interoperability,
+       and locking customers in for a sense of false convenience (at the cost of sacrificing your
+       privacy)
+
+    2. Complex procurement: As outlined above, the processes around procurement are often
+       too complex and next to impossible for SMEs to take part in. The public sector also âalignsâ
+       with the bundling of Big Tech, that is, they often procure bundles that precisely follow the
+       offerings of Big Tech, excluding SMEs that offer partial solutions. Of course there can be
+       legitimate reasons to procure bundled services but these also increase dependencies and
+       vendor lock-in risks. For example, a cloud solution for file sharing should not be tied to a
+       specific cloud hosting vendor. The ability to host a solution anywhere gives great
+       opportunities for cost savings and reduces dependencies. Yet every tender demands a
+       combined hosting and software solution.
+
+    3. Lack of effort to diversify: Often no effort whatsoever is expended investigating the markt
+       options and evaluating other solutions than the most dominant Big Tech products. And if
+       such efforts are put in, it is usually with the implied goal to simply justify picking the Big
+       Tech solution. For example, by demanding highly specific and often small features to be
+       available. And without talking to the vendor if these could be implemented on short notice,
+       these become blockers.
+
+    4. Lack of strategic purchasing and industrial policy in the public sector: National
+       governments rarely if ever use their massive market power to improve the market or
+       encourage European companies to develop alternatives. Rather, they only strengthen the
+       dominance of Big Tech by actively preferring their solutions over local technology.
+
+    5. Fear: IT management steers clear from alternatives from Big Tech, going out of their way to
+       pick âsafeâ, established solutions even if there are viable local vendors. âNobody ever got
+       fired for buying IBMâ seems to be the cause. This might be due to difficulties with
+       interoperability and migration, which the Big Tech firms make intentionally hard.
+       Moreover, the (perceived) cost of training and the unwillingness of employees to work with
+       different technologies make it harder to move away from proprietary SaaS solutions.
+
+    6. Higher demands put on open source vendors than proprietary vendors. Where, for
+       example, a purchasing department seems to be entirely comfortable with using Microsoft
+       SaaS solutions despite the dependency issues, legal and trade risks, a local Open Source
+       vendor will be put under extreme scrutiny to avoid âdepending on a single vendorâ.
+       Licenses, development practices and privacy policies are extensively vetted. This is
+       stunning, given the enormous gap in dependence between running Open Source Software
+       from a local vendor on own infrastructure versus relying on a proprietary SaaS service
+       under US jurisdiction. Suddenly even a support contract with a local vendor for fully Open
+       Source Software that is otherwise entirely hosted in-house is suspect, despite the current
+       situation being one where a foreign company can entirely shut down the service for any
+       reason whatsoever and at any time.
+
+What is the added value of open source for the public and private sectors? Please provide
+concrete examples, including the factors (such as cost, risk, lock-in, security, innovation, among
+others) that are most important to assess the added value.
+
+Open Source is the only solution if Europe wants to have any kind of serious, value-adding IT
+industry and any degree of technological independence from US Big Tech. Some examples:
+
+    â¢ Local open source firms bring high added-value development jobs, while foreign Big Tech
+      firms do most development in either the USA or off-shored in cheap low-cost countries,
+      and within Europe they mostly hire sales, marketing and local support people.
+
+    â¢ Open Source solutions can be adapted to the customers needs, are often designed to run
+      locally and tend to be far more flexible. This not only gives increased benefit to the
+      customers but also generates much higher paid jobs at the companies that use that
+      software.
+
+    â¢ Due to the reduced vendor lock-in and open, collaborative development processes, Open
+       Source solutions tend to align better with the needs of customers, not abandoning features
+       that customers want or adding anti-features like reducing the features of on-premises
+       servers to push customers to the cloud like Microsoft is currently doing with Microsoft
+       Exchange. The decoupling of software versus hosting service also increases competition
+       and reduces costs.
+
+    â¢ The open innovation model of Open Source accelerates innovation and could be a huge
+      driver for Europe, once we stop the foreign proprietary tech firms from smothering or
+      buying the innovative firms.
+
+Overall the risks are much lower on so many levels:
+
+    â¢ GDPR compliance
+
+    â¢ full control over data
+
+    â¢ full control over user accounts and the technology itself
+
+    â¢ high security due to transparent maintenance in and from the community with quicker bug
+      fixes and security patches
+
+What concrete measures and actions may be taken at EU level to support the development and
+growth of the EU open-source sector and contribute to the EUâs technological sovereignty and
+cybersecurity agenda?
+
+Regulatory measures:
+
+a) Effective enforcement of EU laws like GDPR, DSA, and DMA: Mere fines are not enough, as
+paying those sums take too long (if at all in the end) and do not affect big corporations who have
+budgeted this into their financial planning.
+
+Furthermore, Big tech must be prevented from buying rising competitors to thwart competition.
+
+b) Changes to public procurement:
+
+    â¢ Buy European preference: When there is one or more European solution available for the
+      requirement, a European solution should be preferred over a non-European one.
+      Establishing concrete definitions of what constitutes a European company supports such
+      efforts, such as paying the majority of taxes in the EU and having a registered office and HQ
+      in Europe, being founded in the EU and under European law etc. so that taxes and
+      revenues can be used to reinvest in innovation and a thriving digital ecosystem in Europe.
+
+       It should further be considered to divide the tender requirements and put it on offer for
+       different providers when it is clear that a fraction of the requirements cannot be delivered
+       from European providers. So instead of handing it then over to one single non-European
+       provider, the playing field for SME is more leveled and caters for improved competition and
+       higher security.
+
+    â¢ Strengthening the demand side: Public administrations should be role models and migrate
+      to European open source solutions, hereby demonstrating its scalability, security, and
+      capabilities as well as the governmentâs trust in our own European solutions.
+
+    â¢ Cutting red tape: The processes are currently so complex it is hard to follow through,
+      especially for smaller municipalities. Hence for convenience and risk aversion reasons, the
+      requirements and criteria donât change which results in preventing other providers from
+      taking part in the first place. It is also very difficult to take part as bidding consortia across
+      countries.
+
+    â¢ Unbundle services: stop implicitly or explicitly aligning with the bundles that proprietary
+      vendors offer. Demand a separate file sharing solution, independent from hosting. Demand
+      a separate office suite, suitable for any operating system. Buy hardware that is not only
+      working with a single vendorsâ operating system. And so on.
+
+    2. Challenges of the internal market:
+
+a) Buying and selling to other countries in the EU is extremely difficult and needs to be simplified
+in order to speed up innovations and make Europe an attractive place to found new businesses.
+
+b) The same goes for hiring which is equally challenging across European borders. This is not just a
+problem for companies, but it also negatively impacts the respective labor markets and once
+again, hinders innovation when you cannot build enough diversity across your teams as planned.
+
+All this can be accomplished without any addtional funds, as the millions (of tax money) that is
+currently spend for Non-European solutions, could be used to re-invest within Europe, to enhance
+Open Source ecosystems and avoid the brain drain.
+
+What technology areas should be prioritised and why?
+
+70% of the effort should go into those solutions that are already available and are hence easy to
+migrate. Again, this will support Europe's IT sector as massive spending that currently goes to
+foreign companies gets redirected to the EU, enabling our innovators to start building and
+expanding capabilities.
+
+30% of the effort should go into fixing the most critical strategic dependency challenges Europe
+face - critical services around self defense, health care and core infrastructure.
+
+In what sectors could an increased use of open source lead to increased competitiveness and
+cyber resilience?
+
+see above

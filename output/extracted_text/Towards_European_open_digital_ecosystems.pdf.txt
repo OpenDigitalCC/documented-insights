@@ -1,0 +1,300 @@
+Ref. Ares(2026)1225827 - 03/02/2026
+
+                                               â      â       â
+
+           Towards European Open Digital
+                    Ecosystems
+                                          03 February 2026
+Submitted by:
+   ââ   Alessandro Giugno (Interactions Group, Institute of Computer Science, University of St. Gallen)
+   ââ   JÃ©rÃ©my LemÃ©e (Interactions Group, Institute of Computer Science, University of St. Gallen)
+   ââ   Luka Bekavac (Interactions Group, Institute of Computer Science, University of St. Gallen)
+   ââ   Simon Mayer (Interactions Group, Institute of Computer Science, University of St. Gallen)
+
+The Interactions Research Group at the University of St. Gallen welcomes the
+Commissionâs initiative on Open-Source Digital Ecosystems and especially supports an
+open-source strategy that advances citizen-centric autonomy, strong privacy protection, open
+innovation, and reduced dependence on foreign technologiesâwithout compromising global
+interoperability and connectivity. The group investigates technology-mediated interactions in
+complex socio-technical systems, with a particular focus on human-centered, autonomous, and
+pervasive computing environments. Our work spans open and adaptive systems, cyber-physical
+systems, multi-agent systems, and regulatory-aware computing, and regularly engages with the
+societal, economic, and governance implications of digital infrastructures. Based on our
+research and experience with deploying and governing open systems, we view open digital
+ecosystems as a foundational requirement for transparency, accountability, and long-term
+European technological sovereignty.
+
+1. What are the strengths and weaknesses of the EU
+open-source sector?
+
+What are the main barriers that hamper (i) adoption and
+maintenance of high-quality and secure open source; and (ii)
+sustainable contributions to open-source communities?
+
+(i) Adoption and Maintenance
+
+Adoption of OSS is not an issue in general, but it is specific to domains or stacks. For example,
+Kubernetes, a tool to provide highly available web services, is a de-facto industry standard
+despite the fact that it is OSS. To give another example, the â2025 Open Source Security and
+Risk Analysis reportâ of Black Duck Software found that 97% of their analysed code bases
+contained OSS. However, in some parts of the technology stack or even in whole domains,
+adoption is lower, as we will point in the following section.
+
+Fear of Liability in High Risk Applications and Resulting Regulatory Requirements
+In high risk applications, for example in the driving function stack in the automotive industry,
+OSS is often not adopted because of the risk of liability. If a faulty piece of OSS leads to liability,
+e.g., an autonomous vehicle causing an accident, the company that adopted OSS in their stack
+is liable. To externalize the resulting economical risk, certified/proprietary software provided by
+suppliers is often preferred. Additionally, because of that risk, software development processes
+in automotive are highly regulated. The required documents to comply with the regulation often
+simply do not exist for OSS. Developing all OSS according to automotive standards is
+impractical as is providing said documents retrospectively. Both, the risk of liability and the
+regulation to mitigate liability, are two major challenges for adoption and consequently also
+maintenance of OSS in Industry.
+
+Low Availability of OSS-Powered Devices in the Consumer Market and Low Perceived
+User Experience
+Consumers still perceive the user experience of OSS operating systems as inferior to
+proprietary solutions. While the user experience of, e.g., some Linux distribution increased to a
+level that non-digital-native may use it without issues, the offer of devices that come without an
+OSS operating system is limited. Owners are free to install a different OS after the purchase but
+a system installation already requires a skill level that exceeds the average usersâ knowledge
+and/or willingness, hampering the adoption of OSS operating systems in the consumer market.
+This is not only the case for computers, but also for smartphones. Base Android is OSS but
+nearly all default installations of Android by major smartphone manufacturers are proprietary
+variations, e.g., including Google apps. The alternative iOS is a proprietary OS and other
+alternatives to Android and iOS are marginal.
+
+Perceived Low Deployability to OSS- and EU-Infrastructure
+As mentioned before, consumers still perceive the user experience of OSS operating systems
+as inferior to proprietary solutions, but this is not limited to the consumer market. Similarly, the
+developer experience of deploying and operating services on an EU- or OSS-infrastructure is
+falling behind those of proprietary solutions. Today, BigTech platforms offer an unmatched
+developer experience: students, independent developers, startups, and researchers, can deploy
+and host services via Cloud services globally with minimal effort, often in just a few clicks and at
+no cost. Outside these ecosystems, achieving comparable deployability remains
+disproportionately complex and resource-intensive, creating huge incentives to host and deploy
+on non-EU commercial platforms. Strengths of the EU open-source sector are the existing
+initiatives that already provide important building blocks; EuroHPC offers world-class compute
+capacity, and IPCEIs have mobilized significant investment in cloud and edge infrastructure.
+This gap is not primarily a lack of compute capacity, but a lack of developer-facing, open, and
+frictionless deployment infrastructure. The EU assets mentioned above are largely inaccessible
+to everyday developers and small actors due to high adoption barriers, administrative
+complexity, and the absence of integrated, easy-to-use deployment workflows. Lessons learned
+from Gaia-X are particularly relevant: interoperability frameworks and governance models alone
+are insufficient if they do not result in concrete, usable services for developers.
+
+(ii) Sustainable Contributions
+Desynced Communities and Companies
+Companies often do not perceive a contribution to OSS as beneficial but as investment without
+return or, in the worst case, as investment into the competition. Contributions that flow back from
+the community remain hidden. For example, a bug that is fixed by the community is silently
+incorporated into the code base without causing resource allocation to implement, delegate or
+mitigate its consequences. As a result, if a company uses OSS and issues are found and fixed,
+the contributions are kept in private forks. This creates overhead during maintenance and
+ultimately leads to divergence thereby destroying the main benefit of OSS.
+
+No OSS Communities Facilitation
+Since OSS communities rely on unpaid efforts of volunteers, they often struggle with finding
+contributors. The resulting conditions can facilitate security vulnerabilities, as has been
+demonstrated in the case of xzutils.
+
+2. What is the added value of open source for the
+public and private sectors?
+
+Please provide concrete examples, including the factors (such as
+cost, risk, lock-in, security, innovation, among others) that are
+most important to assess the added value.
+
+As mentioned in the first question, in some domains or parts of the technology stack, OSS is
+highly adopted, demonstrating the economical value that it brings to commercial applications.
+For example, the business model of Red Hat OpenShift is entirely based on OSS (Kubernetes,
+in this case) and provided as OSS itself. Since Kubernetes solves a problem that came with
+containerization, it would not exist, if Docker had not open-sourced their containerization in the
+first place. Besides saving costs for inhouse, custom software solutions, the added value of
+OSS is that it can probably trigger a chain of innovations from which both private and public
+sectors benefit tremendously. In this case, the innovation decreased outages of web services
+and time to market of new software products.
+The predominance of proprietary operating systems in the consumer market significantly
+hampers such innovation dynamics. Hardware manufacturers increasingly prioritize drivers and
+optimizations for a small number of dominant proprietary operating systems, reinforcing
+technical lock-in and creating high switching costs for users, developers, and public
+administrations. This feedback loop limits competition, constrains user choice, and structurally
+disadvantages alternative and open platforms, including those developed or governed within the
+EU. More critically, the widespread use of proprietary consumer operating systems is often
+conditional on extensive data collection practices that are opaque to users and difficult to
+meaningfully opt out of. In the age of data-driven and AI-based services, this results in a
+systematic transfer of behavioral, biometric, and contextual data to a small number of
+non-European actors. This data asymmetry provides these actors with a durable competitive
+advantage in AI development, platform optimization, and market expansionâadvantages that
+European companies and public-interest actors cannot realistically replicate under current
+conditions.
+
+These dynamics are fundamentally misaligned with core European values and policy objectives.
+Pervasive data extraction undermines the principles of data minimization, purpose limitation,
+and user autonomy enshrined in EU data protection law. Concentrated control over operating
+systems and data pipelines weakens individual freedom of choice, erodes meaningful consent,
+and limits the ability of public authorities to enforce European regulatory standards. At a societal
+level, this model fosters forms of surveillance capitalism and techno-feudal dependencies,
+where users, developers, and even states become structurally reliant on opaque, non-auditable
+infrastructures governed outside the EUâs democratic and legal framework. In contrast,
+open-source operating systems and software stacks enable transparency, auditability, and
+contestability at the foundational layers of the digital ecosystem. They allow public and private
+actors to verify data flows, adapt systems to local legal and societal requirements, and retain
+control over critical digital infrastructure. From a European perspective, the added value of open
+source therefore extends beyond cost savings or innovation efficiency: it is a prerequisite for
+aligning digital infrastructure with fundamental rights, democratic accountability, and long-term
+technological sovereignty.
+
+3. What concrete measures and actions may be
+taken at EU level to support the development and
+growth of the EU open-source sector and contribute
+to the EUâs technological sovereignty and
+cybersecurity agenda?
+Foster OSS Communities
+The key to any OSS endeavor lies within the community that builds and maintains the OSS
+project. We propose A.) to make companies, small and large, an integral part of these
+communities and B.) to fund individuals that contribute to OSS that is relevant to the EU.
+
+   A.â Make companies an integral part of the OSS communitiesâ
+       This could be achieved by a risk fund that partly re-imburses if faulty OSS leads to
+       liabilities. The fund could be covered to both, financial contributions of companies to the
+       risk fund as well their proven relevant and sustainable contributions to OSS projects.
+   B.â Fund individuals who contribute to OSS projectsâ
+       These projects might be twofold; it could be available for specific contributions that are in
+       the interest of the EU or consist of reimbursement for proven relevant and sustainable
+       contributions to OSS projects. Only EU citizens should be able to apply for the funding.
+       For the first case, the EU could provide a dedicated market place for freelance work. The
+       Archlinux User Repository has a voting system to indicate interest in packages.
+       Providing such a feature in the market place could also democratize what is in the
+       interest of the EU or be used as an indicator for the relevance.
+
+Strengthen the Offer of OSS-powered Consumer Devices
+   -â   Consumer PCs should be available with a preinstalled open-source operating system
+        (e.g., a Linux distribution) as a standard variant alongside proprietary alternatives. In
+        principle, such devices should be cheaper due to the absence of licensing fees. In
+        practice, however, current manufacturing and supply-chain processes are often
+        optimized for a single default operating system, making alternative installations more
+        costly. EU-level measures should therefore focus on reducing these structural
+        frictionsâfor example through public procurement, support for standardized installation
+        and certification workflows, or temporary cost-offset mechanismsâso that OSS-based
+        variants are not priced at a disadvantage.â
+
+   -â   Smartphone manufacturers should ensure the availability of open-source Android
+        configurations alongside proprietary variants, or provide technically straightforward
+        mechanisms to replace proprietary components with OSS alternatives. This would
+        reduce long-term lock-in to proprietary mobile ecosystems while preserving innovation
+        and competition at the platform level.â
+
+   -â   Consumer smartphones should provide access to at least one open and interoperable
+        mechanism for application distribution outside proprietary app store ecosystems. The
+        objective is to guarantee user choice, transparency, and contestability, rather than to
+        mandate a specific solution. Open-source app stores (e.g., F-Droid) serve as concrete
+        examples of such mechanisms.
+Increase Deployability to OSS- and EU-Infrastructure Demonstrate
+To be effective, European deployability infrastructure must prioritize practical outcomes such as
+standardized open-source cloud stacks, self-service access, predictable pricing (or free tiers),
+and simple deployment pipelines comparable to those offered by hyperscalers and Big Tech.
+The EU should therefore ensure that publicly funded compute, cloud, and data center
+resourcesâwhether under EuroHPC, IPCEIs, or successor initiativesâare complemented by
+open, developer-centric platforms that enable âdeploy with two clicksâ experiences for
+open-source projects. Making sovereign infrastructure usable by developers is a prerequisite for
+reducing dependency on proprietary platforms.
+
+4. What technology areas should be prioritised and
+why?
+
+Artificial Intelligence
+
+Artificial Intelligence is becoming a basic industrial/commercial/military infrastructure and will
+likely be a core economic basis in the next few years. In order to become independent from
+proprietary providers, it is essential that the software stack of AI, including training data,
+algorithms to train and run AI, and AI model weights themselves, are all open source.
+
+Data Ecosystems / Open Data
+Open and interoperable data ecosystems are a prerequisite for sustained innovation, fair
+competition, and European technological sovereignty. Today, many European companies rely on
+proprietary data infrastructures and platforms operated outside the EU, resulting in data flows
+(âdata pipesâ) that leave the continent and create long-term strategic dependencies. This
+weakens Europeâs ability to retain economic value, to enforce its regulatory framework, and to
+develop independent digital capabilities.
+Strengthening open data ecosystems would improve access to data for European actors,
+reduce vendor lock-in, and foster innovation across sectors. In this context, decentralized data
+stores represent a particularly important direction, as they align with core European values such
+as user control, privacy, and decentralization. Open specifications such as SOLID (Social Linked
+Data) provide a concrete and mature technical foundation for such ecosystems. Solid defines an
+architecture in which individuals or organizations store their data in personal data pods that are
+logically and administratively decoupled from the applications that access them. Applications
+interact with data via standardized, open protocols and semantic web technologies, rather than
+through proprietary APIs or platform-specific data silos. This separation of data storage from
+application logic enables users and organizations to retain control over where their data resides,
+who can access it, and for what purposes. Despite their technical maturity, Solid-based
+approaches have so far seen limited adoption, primarily due to the lack of user-friendly
+interfaces, developer tooling, and large-scale reference deployments. Targeted EU support
+could therefore play a decisive role by funding production-ready implementations, integrating
+Solid-based data stores into public-sector digital services, and promoting their use in strategic
+domains such as health, mobility, and public administration. Doing so would reduce structural
+dependence on non-EU data platforms, strengthen European data autonomy, and enable open,
+competitive, and privacy-preserving data ecosystems.
+
+Operating Systems
+Given current geopolitics and US administration, the dependency of Europe on Windows, Apple,
+and other US-owned products is a major strategic risk. The use of open source operating
+systems (e.g., Linux distributions, BSD distributions) would contribute in making Europe more
+independent from US providers. While the Linux Foundation, supervising the development of
+the Linux kernel and other open source projects, is hosted in the US, open source operating
+systems can be more easily audited, and improved.
+
+User Agents and Information Filtering Systems
+User agentsâincluding web browsers, recommender systems (for example those used in
+decentralized social networks such as Bluesky), and emerging AI agentsâhave become critical
+digital intermediaries that determine how users access, filter, and prioritize information. As such,
+they directly influence public discourse, economic behavior, and democratic processes. In line
+with the objectives of the Digital Services Act (DSA), increased transparency and auditability of
+recommender and ranking systems is essential to enable meaningful oversight, risk
+assessment, and user choice. Open-source implementations of user agents and recommender
+systems provide a concrete and effective means to achieve these objectives by enabling
+independent inspection, verification, and accountability.
+From a Digital Markets Act (DMA) perspective, dominant proprietary user agents act as
+gatekeepers that reinforce lock-in, self-preferencing, and dependency on non-EU platforms.
+Supporting open and interoperable user agents is therefore necessary to lower barriers to entry,
+foster competition, and ensure contestability in downstream digital markets. Finally, media
+pluralism and freedom of information require that information filtering mechanisms are not
+controlled by a small number of opaque actors. Open-source user agents allow users and
+public-interest actors to understand, adapt, and diversify information curation logic, thereby
+strengthening pluralism and resilience against manipulation. For these reasons, the EU must
+prioritise the development, adoption, and deployment of open-source user agents and
+information filtering systems as a core component of its digital sovereignty, regulatory
+enforcement, and democratic resilience agenda.
+
+5. In what sectors could an increased use of open
+source lead to increased competitiveness and cyber
+resilience?
+We specifically suggested how to address OSS adoption in high risk applications, which include
+automotive and transport. We also proposed how to strengthen the ties between company and
+community contributors, which is domain independent. Considering the report of Black Duck
+Software (see question 1), which showed that 97% of their analysed code bases contain OSS,
+this would affect a lot of sectors. Similarly, improved deployability could yield a domain
+independent, cross-sector improvement.
+
+Software infrastructure consists of shared, foundational software components that support the
+development, execution, and operation of applications. Such categories of software include OS,
+browsers, AI infrastructure (e.g., LLM weights, training data, code to train or run a model), and
+software that is being used to control physical devices (e.g., drivers) We consider that it is
+crucial for this type of software to be open source. This is of importance for many reasons:
+    -â Individual consumer (privacy, freedom of choice,...)
+    -â Administration (sovereignty)
+    -â Strategic (dependency of critical infrastructure)
+    -â Maintainability
+
+Beyond foundational software infrastructure, data ecosystems and user agents are
+cross-sectoral areas where increased use of open source can significantly improve
+competitiveness and cyber resilience. Open and interoperable data ecosystems are critical
+across sectors such as health, mobility, energy, manufacturing, and public administration.
+Open-source data infrastructures reduce vendor lock-in, strengthen data sovereignty, and
+enable transparent, auditable data governance, thereby improving both resilience and
+innovation capacity. Similarly, user agentsâincluding browsers, recommender systems, and
+emerging AI agentsâact as key intermediaries between users, services, and data. Open-source
+user agents increase transparency and accountability, reduce gatekeeper power, and support
+regulatory oversight, contributing to market contestability, democratic resilience, and
+cybersecurity across sectors.

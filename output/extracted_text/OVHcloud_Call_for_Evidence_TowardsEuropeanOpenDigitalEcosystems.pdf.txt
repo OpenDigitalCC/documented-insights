@@ -1,0 +1,212 @@
+Ref. Ares(2026)1223000 - 03/02/2026
+
+    OVHCLOUD CONTRIBUTION TO THE CALL FOR EVIDENCE FOR THE INITIATIVE: âTOWARDS EUROPEAN
+                                 OPEN DIGITAL ECOSYSTEMSâ
+
+INTRODUCTION
+
+OVHcloud, the leading European cloud provider, welcomes the opportunity to contribute to the European
+Commissionâs initiative âTowards European open digital ecosystemsâ, in response to the questions suggested
+in the Call for Evidence.
+
+Together with the upcoming Cloud and AI Development Act, these initiatives can provide a coherent
+framework to strengthen Europeâs digital sovereignty and competitiveness. Open-source software is a
+strategic asset and a key enabler of this objective.
+
+OVHcloud considers open source to be a foundational layer of Europeâs digital infrastructure. It enables
+control over critical technologies, reduces dependency and vendor lock-in, supports security and
+transparency, and fosters innovation and competition aligned with European values.
+
+Europe already benefits from a large and widely adopted open-source ecosystem, yet it remains fragmented
+and structurally fragile. Insufficient long-term funding, weak incentives for upstream contribution, and
+reliance on non-European platforms limit its ability to scale and to sustain mission-critical software.
+
+This initiative presents an opportunity for the EU to strengthen its capacity to sustain and adopt open source
+through a horizontal and enabling approach. Complementing the Cloud and AI Development Act, such an
+approach should focus on shared foundations, ecosystem sustainability, and long-term resilience, ensuring
+that open source delivers lasting strategic and economic value for Europe.
+
+ANSWERS TO THE QUESTIONS
+
+1. What are the strengths and weaknesses of the EU open-source sector? What are the main barriers
+   that hamper (i) adoption and maintenance of high-quality and secure open source; and (ii)
+   sustainable contributions to open-source communities?
+
+The European open-source ecosystem is distinguished by its scale, diversity, and decentralized nature.
+According to Harvard Business School (2024), Europe accounts for approximately 18.5 million open-source
+contributors, around 15.4% of the global total,1 working across a broad spectrum of technologies, sectors, and
+use cases.
+
+This breadth of participation has given rise to numerous vibrant and highly specialized communities, fostering
+continuous experimentation, collaboration, and innovation. The ecosystemâs decentralization enhances its
+resilience by limiting dependence on individual communities or foundations and reducing the risk of
+technological lock-in tied to those maintaining critical projects.
+
+In addition, Europe demonstrates a high level of open-source adoption among public and economic actors. In
+France, for instance, the MarkessâCNLLâNumeumâSystematic Open Source Monitor France (2023) reports that
+9 out of 10 public organisations and 8 out of 10 private companies rely on open-source technologies.2 Together,
+these factors provide Europe with a strong and mature foundation from which to further develop, scale, and
+consolidate its open-source capabilities.
+
+1
+    The Value of Open Source Software, Harvard Business School (2024)
+2
+    Markess-CNLL-Numeum-Systematic, Open Source Monitor France, Rapport 2023
+
+                                                                                                            1/4
+Despite its significant potential, the European open-source ecosystem continues to face challenges related to
+visibility and understanding, particularly among decision-makers and non-technical stakeholders. The
+strategic value of open source is frequently underestimated or insuï¬iciently communicated, limiting its
+consideration in policy and investment decisions.
+
+The major structural weakness lies in the lack of long-term, predictable funding mechanisms. While the
+ecosystemâs diversity is a key strength, its high level of fragmentation, combined with limited federation and
+coordination, hampers the ability of European projects to scale, achieve critical mass, or attain global
+leadership. As a result, there are relatively few large-scale, well-resourced communities capable of sustaining
+complex, mission-critical software in the long term.
+
+In addition, institutional incentives remain underdeveloped. Existing policies and public procurement
+frameworks rarely encourage organisations not only to adopt open-source software, but also to actively
+contribute back to the communities that develop and maintain it. This imbalance weakens the sustainability
+of the ecosystem and limits Europeâs ability to fully capitalize on its open-source assets.
+
+2. What is the added value of open source for the public and private sectors? Please provide concrete
+   examples, including the factors (such as cost, risk, lock-in, security, innovation, among others) that
+   are most important to assess the added value.
+
+Open-source software delivers substantial added value for both public and private actors by addressing a
+range of strategic priorities, including cost control, market competition, vendor lock-in, security and trust, and
+innovation capacity. Rather than being only a technical alternative, open source represents a structural
+approach to building more resilient and competitive digital systems.
+
+Open-source improves cost eï¬iciency: By reducing or eliminating licensing fees and redirecting investment
+toward implementation, customization, integration, and skills development, open-source ensures that digital
+spending generates long-term value and local economic activity rather than recurring payments tied to
+proprietary licenses. It also lowers barriers to adoption and reduces the total cost of ownership throughout
+the software lifecycle.
+
+Open-source promotes healthier and more competitive markets: Competition takes place at the level of
+services, support, and innovation instead of being constrained by a single vendorâs technology stack,
+roadmap, or pricing model. This dynamic limits monopolistic situations, increases supplier diversity, and
+creates stronger incentives for quality and performance.
+
+Open-source reduces vendor lock-in: By granting users the freedom to audit, adapt, and maintain software
+independently or through any qualified service provider. This flexibility mitigates long-term operational and
+strategic risks, strengthens business continuity, and enhances negotiation power.
+
+Open-source strengthens security, transparency, and trust: Public access to source code enables independent
+audits and peer review, helping vulnerabilities to be identified and addressed more quickly. Transparency also
+supports accountability and confidence in software used for sensitive or high-impact use cases.
+
+Open-source is a driver of innovation and agility: By enabling reuse, collaboration, and rapid iteration, open-
+source allows organizations to build on existing components rather than duplicating eï¬ort, reducing time to
+market and increasing adaptability.
+
+3. What concrete measures and actions may be taken at EU level to support the development and
+   growth of the EU open-source sector and contribute to the EUâs technological sovereignty and
+   cybersecurity agenda?
+
+To support the development and long-term growth of the European open-source ecosystem, and to directly
+contribute to the EUâs objectives in technological sovereignty and cybersecurity, the European Union should
+implement a coordinated set of measures:
+
+                                                                                                              2/4
+1) Establish a clear EU industrial policy for open-source: The EU should explicitly recognize open-source
+   as a strategic industrial asset. Rather than prioritizing specific products, this should focus on
+   strengthening core, cross-cutting technological foundations, especially in priority domains such as cloud,
+   cybersecurity, data infrastructure and AI stacks; mapping critical technological dependencies to
+   understand where Europe relies on external components and where risks are concentrated; and aligning
+   open-source priorities with broader EU industrial, security, and resilience agendas. A clear policy
+   framework of this kind would create predictability for investment and send a strong signal that open-
+   source is a foundational pillar of European digital capability-building.
+
+2) Support open-source communities while reducing fragmentation through stronger federation:
+   Europe benefits from a rich and diverse open-source landscape, but excessive fragmentation can limit the
+   ability of projects to scale. The EU can preserve this diversity while increasing collective eï¬ectiveness by
+   supporting communities through financial support, while also funding cross-community coordination
+   and shared tools. At the same time, establishing a large-scale European open-source foundation could
+   provide a strong backbone for the ecosystem by supporting foundational building blocks, ensuring
+   continuity, and oï¬ering governance and legal support. The objective would not be to centralize the
+   ecosystem, but to enable European open source to reach critical mass through better coordination and
+   structural support.
+
+3) Reduce strategic dependence on non-European platforms and infrastructure: Technological
+   sovereignty extends beyond source code to include the platforms, hosting environments, and governance
+   mechanisms that underpin the software development lifecycle. The EU could support European
+   alternatives for code hosting (i.e.: GitHub), continuous integration and delivery. It could also enable public
+   and critical infrastructure actors to rely on EU-hosted or interoperable development and collaboration
+   platforms, while ensuring portability so projects are not structurally tied to a single non-European
+   provider. While reliance on global tools will remain necessary, the EU should avoid situations where
+   critical open-source workflows are dependent on a single stakeholder.
+
+4) Incentivize upstream contributions from organisations using open source: The sustainability of the
+   European open-source ecosystem depends on moving beyond a consumption-based model. The EU can
+   encourage greater reinvestment by introducing mechanisms that promote, or require, upstream
+   contributions when public funding is used to develop or adapt open-source software. The aim is to
+   normalize contribution as a standard element of responsible digital operations rather than an optional or
+   philanthropic activity.
+
+5) Invest in education, skills, and sustainable career pathways for maintainers: Finally, long-term
+   resilience requires sustained investment in skills. The EU should strengthen the talent pipeline by
+   integrating open-source development practices into higher education and vocational training,
+   recognizing open-source development and maintainership as a professional role, and supporting
+   fellowships, apprenticeships, and mobility programmes across European ecosystems.
+
+4. What technology areas should be prioritized and why?
+
+The EU should adopt a horizontal and enabling approach to open-source. Selecting particular areas or end
+solutions indeed risks locking public investment into short-lived choices, duplicating market or community
+eï¬orts, and reducing flexibility in the face of rapid technological change.
+
+Instead, the EU should focus on financing the shared technological foundations that all digital sectors rely on
+(core infrastructure software, developer tools, security and trust components, interoperability layers), and the
+long-term maintenance, governance, and documentation capacities that keep these building blocks reliable
+and secure. By investing in the means to build rather than in end products, the EU maximizes reuse across
+sectors, avoids competing with existing ecosystems, and enables public administrations, companies, and
+communities to develop context-specific solutions.
+
+                                                                                                             3/4
+This horizontal approach does not preclude strategic focus. The EU can and should prioritize foundational
+technology domains where structural dependencies remain strongest â such as cloud infrastructure,
+cybersecurity, data infrastructures, and AI stacks â and which form the critical base upon which other digital
+technologies are built.
+
+5. In what sectors could an increased use of open-source lead to increased competitiveness and cyber
+   resilience?
+
+An increased use of open-source can strengthen both competitiveness and cyber-resilience across all critical
+sectors, including public administrations, operators of essential and vital services, and innovation-driven
+industries.
+
+These sectors rely on complex digital infrastructures, and open source can reduce dependency on single
+vendors, improve transparency and auditability, and enable faster identification and remediation of
+vulnerabilities. In the public sector, it supports sovereignty, accountability, and long-term cost control, while
+for operators of essential services, it enhances resilience through interoperability and the ability to adapt
+systems without contractual or technical lock-in. For innovation-intensive industries, open-source is a key
+enabler of competitiveness, allowing companies to build on shared foundations, protect their innovations by
+retaining control over critical technologies, and accelerate time to market.
+
+CONCLUSION
+
+Open source is a strategic asset for Europe, underpinning digital sovereignty, cybersecurity, and
+competitiveness. While Europe benefits from a rich and widely adopted open-source ecosystem, its long-term
+sustainability requires stronger structural support. Fragmentation, limited funding, and insufficient incentives
+for contribution continue to constrain Europeâs ability to maintain and scale critical digital technologies.
+
+The EU should therefore adopt a horizontal and enabling approach that recognizes open source as a
+foundational layer of the European digital stack. By investing in shared foundations, maintenance, skills, and
+governance, while aligning these efforts with the Cloud and AI Development Act, the EU can ensure that open
+source delivers lasting resilience, innovation, and strategic autonomy for Europe.
+
+About OVHcloud
+OVHcloud is a global player and the leading European cloud provider operating over 500,000 servers within 46
+datacenters across 4 continents to reach 1,6 million customers in over 140 countries. Spearheading a trusted
+cloud and pioneering a sustainable cloud with the best performance-price ratio, the Group has been leveraging
+for over 20 years an integrated model that guarantees total control of its value chain: from the design of its
+servers to the construction and management of its data centers, including the orchestration of its fiber-optic
+network. This unique approach enables OVHcloud to independently cover all the uses of its customers so they
+can seize the benefits of an environmentally conscious model. OVHcloud now oï¬ers customers the latest-
+generation solutions combining performance, predictable pricing, and complete data sovereignty to support
+their unfettered growth.
+
+                                                                                                             4/4

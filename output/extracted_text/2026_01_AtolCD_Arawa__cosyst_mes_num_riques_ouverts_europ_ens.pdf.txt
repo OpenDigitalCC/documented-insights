@@ -1,0 +1,320 @@
+Ref. Ares(2026)1157068 - 02/02/2026
+
+Call for evidence : ÃcosystÃ¨mes numÃ©riques ouverts europÃ©ens - Janvier 2026
+
+Proposition de contribution dâAtol CD + Arawa.
+
+1. PrÃ©sentation
+
+Atol CD est une entreprise franÃ§aise de services numÃ©riques spÃ©cialisÃ©e dans lâintÃ©gration et le
+
+dÃ©veloppement de solutions Open Source depuis 2000, accompagnant quotidiennement ses
+
+clients - notamment des administrations publiques, des collectivitÃ©s territoriales, des organismes
+
+de recherche et des acteurs privÃ©s - dans leur transformation numÃ©rique via des solutions
+
+ouvertes, pÃ©rennes et souveraines. Arawa, entreprise franÃ§aise spÃ©cialiste des solutions
+
+collaboratives open source et faisant partie dâAtol CD, est reconnue pour son positionnement en
+
+tant que sociÃ©tÃ© militante de lâopen source et de la souverainetÃ© numÃ©rique. Le modÃ¨le Arawa
+
+permet une crÃ©ation de valeur autour du dÃ©veloppement et de lâintÃ©gration de technologies 100
+
+% libres, accompagnÃ© dâun investissement important en R&D et de contributions Ã 
+
+lâÃ©cosystÃ¨me et aux logiciels dÃ©veloppÃ©s par les partenaires.â
+
+2. Valeur ajoutÃ©e de lâOpen Source
+
+Nous soulignons que lâOpen Source nâest pas seulement un choix technologique, mais une
+
+philosophie et un levier stratÃ©gique pour :
+
+   ââ Renforcer la souverainetÃ© numÃ©rique, en Ã©vitant la dÃ©pendance aux technologies
+
+       propriÃ©taires et en favorisant la maÃ®trise des systÃ¨mes dâinformation.
+
+   ââ Promouvoir lâinteropÃ©rabilitÃ© et la portabilitÃ© des solutions, facilitant lâintÃ©gration entre
+
+       systÃ¨mes et la rÃ©utilisation de composants logiciels. Ã titre dâillustration, une Ã©tude de
+
+       2024, malgrÃ© son pÃ©rimÃ¨tre limitÃ© estimait que si les chaque entreprise devait dÃ©velopper
+
+       Ã  nouveau les logiciels open source quâelle utilisait, la valeur de ce dernier Ã©tait de lâordre
+
+       de 2 Ã  13 billions (13 milles milliards) de dollars. https://papers.ssrn.com/abstract=4693148
+
+   ââ Stimuler lâinnovation collaborative, en mutualisant les efforts de dÃ©veloppement et en
+
+       capitalisant sur les retours dâexpÃ©rience rÃ©els des utilisateurs.
+
+                    SAS au capital social de 153 410â¬ immatriculÃ©e au RCS de Dijon sous le nÂ°429 715 378
+                 dont le siÃ¨ge social est situÃ© ZAE Les Terres dâOr, 21220 Gevrey-Chambertin - 03 80 68 81 68
+                                            TVA intracommunautaire FR 44429715378
+ââ Assurer une transparence accrue de la sÃ©curitÃ© logicielle, grÃ¢ce Ã  lâouverture du code et
+
+   Ã  lâexamen communautaire afin de rendre les systÃ¨mes pleinement auditables au regard
+
+   des exigences NIS2 et RGPD.
+
+ââ Permettre une meilleure maÃ®trise des coÃ»ts, via lâÃ©limination des licences propriÃ©taires
+
+   tout en soutenant des modÃ¨les Ã©conomiques innovants basÃ©s sur les services et
+
+   contributions.â
+
+   Ces bÃ©nÃ©fices sont prÃ©sentÃ©s et analysÃ©s dans notre Livre Blanc Open Source 2026, qui
+
+   met en avant les avantages stratÃ©giques, techniques et organisationnels du modÃ¨le Open
+
+   Source.â
+
+   Les investissements publics dans lâOpen Source produisent des actifs rÃ©utilisables par
+
+   dâautres administrations, favorisant la mutualisation et un meilleur retour sur
+
+   investissement des fonds publics.
+
+ââ RÃ©silience des systÃ¨mes. LâOpen Source contribue Ã  la rÃ©silience des systÃ¨mes
+
+   dâinformation en rÃ©duisant les risques liÃ©s Ã  la dÃ©pendance Ã  un fournisseur unique, aux
+
+   changements unilatÃ©raux de conditions contractuelles ou aux ruptures de service.
+
+ââ RÃ©versibilitÃ©. Contrairement aux approches propriÃ©taires oÃ¹ la rÃ©versibilitÃ© est souvent
+
+   thÃ©orique ou coÃ»teuse, lâOpen Source permet une rÃ©appropriation effective du code, des
+
+   donnÃ©es et des processus, y compris en cas de changement de prestataire. Cela favorise
+
+   la continuitÃ© technique et permet de contrer lâenfermement chez un fournisseur (vendor
+
+   lock-in).
+
+ââ DurabilitÃ© des systÃ¨mes numÃ©riques. La capacitÃ© Ã  maintenir, adapter et prolonger la
+
+   durÃ©e de vie des logiciels Open Source contribue Ã  une approche plus durable du
+
+   numÃ©rique, en limitant lâobsolescence logicielle forcÃ©e. Il est Ã©galement plus facile
+
+   dâorganiser des migrations de systÃ¨mes et donnÃ©es.
+
+ââ Effet structurant sur les compÃ©tences locales. Le recours Ã  des solutions Open Source
+
+   favorise le dÃ©veloppement de compÃ©tences locales et europÃ©ennes, en permettant aux
+
+   Ã©quipes internes et aux prestataires de travailler sur des technologies ouvertes et
+
+   transfÃ©rables.
+
+ââ SÃ©paration claire entre Ã©dition logicielle et service. Le modÃ¨le Open Source permet une
+
+   dissociation plus nette entre la solution logicielle et les services associÃ©s, facilitant la mise
+
+   en concurrence, la transparence des coÃ»ts et lâadaptation aux besoins spÃ©cifiques,
+
+   permet de structurer des filiÃ¨res Ã©conomiques
+
+                  SAS au capital social de 153 410â¬ immatriculÃ©e au RCS de Dijon sous le nÂ°429 715 378
+               dont le siÃ¨ge social est situÃ© ZAE Les Terres dâOr, 21220 Gevrey-Chambertin - 03 80 68 81 68
+                                          TVA intracommunautaire FR 44429715378
+    ââ RÃ©duction des risques juridiques Ã  long terme. La maÃ®trise du code source et des
+
+        formats ouverts rÃ©duit les incertitudes juridiques liÃ©es Ã  lâÃ©volution des licences
+
+        propriÃ©taires, aux audits contractuels ou aux litiges transfrontaliers.â
+
+3. Obstacles Ã  lâadoption de lâOpen Source (barriÃ¨res identifiÃ©es)
+
+Bien que l'Open Source offre de nombreux avantages, il prÃ©sente Ã©galement des enjeux et des
+
+dÃ©fis qui doivent Ãªtre pris en compte pour une adoption rÃ©ussie. :
+
+a) ModÃ¨le Ã©conomique et Financement des projetsâ
+
+Lâopen Source repose encore largement sur des activitÃ©s bÃ©nÃ©voles et individuelles de
+
+contributeurs parfois solitaires. Cet Ã©tat de fait invite Ã  travailler activement sur la pÃ©rennitÃ© de la
+
+maintenance des outils dont se servent les institutions et sur la conception de modÃ¨les dâaffaires
+
+demandant des formes dâengagement encore peu rÃ©pandues.
+
+b) Gouvernance et Fragmentationâ
+
+Beaucoup de logiciels sont portÃ©s par des communautÃ©s Ã©parses qui intÃ¨grent Ã  la fois des
+
+individus, des fondations et des entreprises. Cette richesse de lâÃ©cosystÃ¨me conduit Ã  une
+
+gouvernance parfois trÃ¨s Ã©clatÃ©e et cette absence de Â« guichet unique Â» peut parfois effrayer.
+
+SâinsÃ©rer dans lâopen source requiert donc des efforts importants.
+
+c) Support et Maintenanceâ
+
+Certains composants sont portÃ©s par des communautÃ©s ne fournissant aucun support technique
+
+ou fonctionnel contractuel, ce qui peut donner lâimpression de ne pas pouvoir obtenir ces services
+
+sur les logiciels. Pourtant, des structures pallient ce manque en les offrant de faÃ§on contractuelle.
+
+Il y a donc un effort particulier Ã  faire pour accÃ©der Ã  ces structures expertes, gÃ©nÃ©ralement de
+
+petite taille et trÃ¨s spÃ©cialisÃ©es.
+
+d) Enjeux de compÃ©tences et de formationâ
+
+Les services hÃ©gÃ©moniques par leur extrÃªme large surface dâutilisation conduisent Ã  des Â«
+
+standards de fait Â» et donc Ã  ce que les Ã©quipes soient plus facilement expertes de ceux-ci. Il y a
+
+donc un enjeu fort dâaccompagnement et de recrutement afin de sâassurer que les Ã©quipes
+
+                     SAS au capital social de 153 410â¬ immatriculÃ©e au RCS de Dijon sous le nÂ°429 715 378
+                  dont le siÃ¨ge social est situÃ© ZAE Les Terres dâOr, 21220 Gevrey-Chambertin - 03 80 68 81 68
+                                             TVA intracommunautaire FR 44429715378
+puissent devenir efficaces sur lâadministration et lâutilisation des logiciels open source qui
+
+viendraient remplacer les solutions existantes.
+
+e) Domination des "Grands Acteurs"â
+
+Les structures hÃ©gÃ©moniques Ã©tant en place dans les systÃ¨mes dâinformation, il est plus difficile
+
+de justifier le passage Ã  des solutions diffÃ©rentes dont les logiciels open source. Il faut donc une
+
+force plus importante de conviction et de volontÃ© pour rÃ©aliser des remplacements de logiciels
+
+propriÃ©taires par ces solutions alternatives.â
+
+4. Propositions de mesures concrÃ¨tes au niveau de lâUE
+
+Pour renforcer lâÃ©cosystÃ¨me Open Source en Europe, voici quelques pistes pouvant Ãªtre
+
+explorÃ©es:
+
+a) CrÃ©ation dâun fonds europÃ©en dÃ©diÃ© Ã  lâOpen Sourceâ
+
+Un instrument financier spÃ©cifiquement dÃ©diÃ© au soutien de projets Open Source dâintÃ©rÃªt
+
+stratÃ©gique europÃ©en (couvrant dÃ©veloppement, gouvernance, sÃ©curitÃ©, automatisation des
+
+tests, documentation, etc.) permettrait de stimuler lâinnovation tout en consolidant lâÃ©cosystÃ¨me
+
+communautaire et professionnel. On songera notamment Ã  poursuivre, renforcer et dÃ©multiplier
+
+des initiatives essentielles comme Next Generation Internet (NGI). â
+
+-> Soit une utilisation des fonds directement Ã  des entreprises pour les aider.â
+
+-> Soit mÃ©cÃ©nat de compÃ©tences pour contribuer aux projets.â
+
+-> Soit un mÃ©canisme inspirÃ© du Google Summer of code.
+
+b) DÃ©veloppement dâinfrastructures partagÃ©es pour lâOpen Sourceâ
+
+La mise en place de plateformes de collaboration, dâhÃ©bergement, de laboratoires dâessais ou
+
+dâenvironnements de simulations techniques sous lâÃ©gide europÃ©enne faciliterait lâindustrialisation
+
+des solutions Open Source avec notamment prise en compte des problÃ©matiques de sÃ©curitÃ©
+
+(analyse des vulnÃ©rabilitÃ©s, etc.).
+
+c) Renforcement des synergies entre acteurs publics et communautÃ©sâ
+
+Favorisant la co-conception entre administrations publiques, entreprises Open Source et
+
+communautÃ©s (via par exemple des contrats cadres de co-dÃ©veloppement) permettrait de mieux
+
+aligner les besoins mÃ©tiers et les dÃ©veloppements techniques.(en gros : meilleure adÃ©quation
+
+                     SAS au capital social de 153 410â¬ immatriculÃ©e au RCS de Dijon sous le nÂ°429 715 378
+                  dont le siÃ¨ge social est situÃ© ZAE Les Terres dâOr, 21220 Gevrey-Chambertin - 03 80 68 81 68
+                                             TVA intracommunautaire FR 44429715378
+entre besoins mÃ©tiers et solutions techniques -> rÃ©sultat : moins de retour en arriÃ¨re, et moins
+
+dâeffet âusine Ã  gazâ / accÃ©lÃ©ration )
+
+d) Renforcement de l'utilisation de formats standards et protocoles ouvertsâ
+
+Le renforcement des synergies entre administrations publiques, entreprises Open Source et
+
+communautÃ©s, notamment via des dispositifs de co-conception et des contrats-cadres de
+
+co-dÃ©veloppement, permettrait de mieux aligner les besoins mÃ©tiers avec les dÃ©veloppements
+
+techniques. Cette approche favoriserait des solutions plus pertinentes et opÃ©rationnelles, en
+
+limitant les retours en arriÃ¨re, en Ã©vitant les effets Â« usine Ã  gaz Â» et en accÃ©lÃ©rant les cycles de
+
+conception et de dÃ©ploiement.
+
+e) Harmonisation des pratiques de gouvernance et des cadres juridiquesâ
+
+La formalisation de bonnes pratiques europÃ©ennes en matiÃ¨re de licence, gouvernance et
+
+responsabilitÃ© juridique des projets Open Source encouragerait une adoption plus large dans le
+
+secteur public.â
+â
+
+f) Accompagnement des structures par la commande et lâÃ©volution des critÃ¨res de sÃ©lectionâ
+
+Certains porteurs de          projets open source sont freinÃ©s par un manque dâopportunitÃ©s et
+
+dâactivitÃ©s. Afin de faire foisonner lâÃ©cosystÃ¨me du logiciel open source et les structures le faisant
+
+fonctionner, lâEurope pourrait enrichir ses systÃ¨mes dâÃ©valuation pour que le critÃ¨re dâouverture du
+
+code soit un avantage et alimenter cet Ã©cosystÃ¨me par de la commande de fonctions ou de
+
+support, ce qui reviendrait de faÃ§on prosaÃ¯que Ã  utiliser ces logiciels comme les outils propriÃ©taires
+
+du marchÃ©. De mÃªme, lâEurope pourrait simplifier lâaccÃ¨s aux marchÃ©s pour cet Ã©cosystÃ¨me, soit en
+
+baissant les barriÃ¨res pour les structures de petites tailles, soit en sollicitant des entitÃ©s ayant
+
+pour ambition de rassembler les organisations spÃ©cialisÃ©es telles Open Source Experts ou le CNLL
+
+en France.â
+
+5. Conclusion
+
+LâOpen Source nâest plus simplement une alternative, mais une option stratÃ©gique Ã  part entiÃ¨re.
+
+Bien accompagnÃ©, il combine innovation, maÃ®trise des coÃ»ts, sÃ©curitÃ© et flexibilitÃ©, tout en offrant
+
+aux organisations les moyens de construire des systÃ¨mes durables et Ã©volutifs. Adopter lâOpen
+
+Source, câest faire le choix dâune transformation numÃ©rique maÃ®trisÃ©e et tournÃ©e vers lâavenir.
+
+                      SAS au capital social de 153 410â¬ immatriculÃ©e au RCS de Dijon sous le nÂ°429 715 378
+                   dont le siÃ¨ge social est situÃ© ZAE Les Terres dâOr, 21220 Gevrey-Chambertin - 03 80 68 81 68
+                                              TVA intracommunautaire FR 44429715378
+A propos dâAtol CD.â
+Atol CD est une entreprise franÃ§aise spÃ©cialisÃ©e dans la transformation numÃ©rique et lâintÃ©gration de
+solutions open source. Elle accompagne les organisations publiques et privÃ©es dans leurs projets de
+dÃ©matÃ©rialisation, de gestion documentaire, de data intelligence et de dÃ©veloppement sur mesure. Acteur
+reconnu de lâÃ©cosystÃ¨me open source, Atol CD allie expertise technologique et engagement pour un
+numÃ©rique souverain, durable et Ã©thique.
+
+www.atolcd.comâ
+
+A propos dâArawa.â
+Arawa est une sociÃ©tÃ© franÃ§aise spÃ©cialisÃ©e dans lâintÃ©gration et le dÃ©veloppement de solutions
+collaboratives open source. Elle accompagne les organisations publiques et privÃ©es dans le dÃ©ploiement de
+logiciels open source bureautiques et collaboratifs (Nextcloud, LibreOffice, Collabora Online, OnlyOffice,
+BigBlueButton, Element, Tracim, OpenProject...). Les services d'Arawa (conseil, intÃ©gration, support,
+maintenance, hÃ©bergementâ¦) permettent la mise en place de solutions Ã  la carte adaptÃ©es au contexte et
+aux enjeux de chaque organisation.
+
+www.arawa.frâ
+
+Contact : AmÃ©lie SIRUGUE, responsable communication a.sirugue(at)atolcd.com
+
+                     SAS au capital social de 153 410â¬ immatriculÃ©e au RCS de Dijon sous le nÂ°429 715 378
+                  dont le siÃ¨ge social est situÃ© ZAE Les Terres dâOr, 21220 Gevrey-Chambertin - 03 80 68 81 68
+                                             TVA intracommunautaire FR 44429715378

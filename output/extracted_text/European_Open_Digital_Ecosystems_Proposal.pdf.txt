@@ -1,0 +1,63 @@
+Ref. Ares(2026)1213905 - 03/02/2026
+
+  EU Consultation Feedback â Human-Centric and
+             Open Digital Ecosystem
+
+Policy Area
+
+Digital Rights, Digital Governance, Open Digital Ecosystems, Digital Strategic Autonomy
+
+Objective of the Contribution
+
+To support the development of a human-centric, open, and sovereign European Digital Ecosystem
+through a rights-based regulatory framework that strengthens democratic governance, professional
+accountability, and citizensâ trust.
+
+Context and Rationale
+
+The digital domain has become a European Digital Public Space where fundamental rights are
+exercised and essential services are delivered. This space requires democratic governance under
+the rule of law, comparable to territorial, maritime, and airspace domains, in line with the European
+Declaration on Digital Rights and Principles.
+
+Key Proposal
+
+The proposal introduces a comprehensive governance framework based on Digital Strategic
+Autonomy, recognizing enforceable rights over personal and collective digital assets, establishing
+an Independent Digital Public Authority for Regulation and Guarantee (SIN), and defining
+mandatory professional accountability for critical digital roles.
+
+Governance and Institutional Framework
+
+An Independent Digital Public Authority coordinates digital policies, assists citizens, regulates
+operators, and cooperates with EU institutions and national authorities. Its mission is to ensure
+resilience, continuity, and protection of fundamental rights in the European Digital Public Space.
+
+Professional Accountability
+
+Legally defined roles of Certified Digital Professionals and Certified Digital Support Practitioners are
+introduced. A mandatory License to Code certifies competence, ethical conduct, and legal
+accountability for individuals performing critical digital functions.
+
+Impact on Public and Private Actors
+Public and private organizations are required to employ licensed professionals for digital functions
+affecting systems, data, security, and essential services. Non-compliance is subject to
+proportionate and effective sanctions.
+
+Digital Artifacts and Supply Chain Security
+
+Executable Digital Artifacts must ensure traceable authorship and accountability through
+cryptographic signatures linked to valid professional licenses. License revocation renders artifacts
+invalid for execution until compliance is restored.
+
+Open Source and Openness
+
+The framework fully supports Free and Open Source Software. Licensing requirements apply
+exclusively to professional responsibility in regulated execution contexts and do not limit access,
+modification, or redistribution of source code.
+
+Expected European Added Value
+
+The proposal strengthens trust, interoperability, security, and democratic oversight across the
+European Digital Ecosystem, contributing to Digital Strategic Autonomy while preserving openness,
+innovation, and fundamental rights.

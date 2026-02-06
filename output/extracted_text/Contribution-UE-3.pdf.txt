@@ -1,0 +1,129 @@
+Ref. Ares(2026)1225954 - 04/02/2026
+
+Qui suis-je
+Je suis formateur en informatique et professionnel de lâinformatique depuis 26 ans. Je forme des futurs
+professionnels dans diffÃ©rents domaines: assistance informatique, systÃ¨mes et rÃ©seaux, dÃ©veloppement. Je suis
+avec passion lâÃ©volution des technologies de lâinformation depuis prÃ¨s de 40 ans.
+
+Propositions
+
+LâUE comme havre du logiciel libre
+LâavÃ¨nement des LLM est en train de dÃ©truire lâÃ©cosystÃ¨me du logiciel comme illustrÃ© dans cet article : https://
+korben.info/vibe-coding-tue-open-source.html
+
+LâUE a donc un atout Ã  poser: elle peut jouer un rÃ´le prÃ©pondÃ©rant pour tout lâÃ©cosystÃ¨me libre en offrant une
+infrastructure dâaccueil pour tous ces projets, aussi bien en terme de moyen que de financement. Vouloir baser sa
+politique numÃ©rique autour du logiciel libre sans traiter les difficultÃ©s mentionnÃ©es dans lâarticle citÃ© engendrera
+un fort risque dâÃ©chec.
+
+Ainsi certains projets subissent des attaques (https://fr.wikipedia.org/wiki/
+Attaque_de_XZ_Utils_par_porte_d%C3%A9rob%C3%A9e) qui ciblent des maillons essentielles de lâÃ©cosystÃ¨me.
+
+Solutions proposÃ©es:
+
+   â¢ financer des fondations/organisations dÃ©veloppant des logiciels libres
+   â¢ favoriser le dÃ©veloppement de logiciel libre en aidant/encourageant les organisations et/ou entreprises par
+    des aides financiÃ¨res ou en termes de moyens
+   â¢ mettre en place un ou plusieurs organismes fournissant des moyens (hÃ©bergement, ressources humaines,
+    expertise de sÃ©curitÃ©) aux projets libres.
+
+Dâautres moyens peuvent Ãªtre envisagÃ©s afin de faire de lâUE une destination accueillante pour les talents des
+contributeurs Ã  ces logiciels et renforcer lâexpertise technologique sur les territoires. Voir ces investissements
+comme pouvant rapporter des gains Ã©quivalents Ã  ceux induits par les infrastructures routiÃ¨res et Ã©nergÃ©tiques
+permet de se rendre compte de leur intÃ©rÃªt pour lâUnion.
+
+DurabilitÃ© des Ã©quipements
+Il est nÃ©cessaire dâempÃªcher les utilisateurs dâÃªtre dÃ©possÃ©dÃ©s des Ã©quipements achetÃ©s Ã  cause de lâobsolescence
+logicielle (une des causes majeures de lâobsolescence programmÃ©e).
+
+Pour cela il faut faciliter le dÃ©ploiement de solutions alternatives . Pour cela:
+
+   â¢ obliger les constructeurs qui souhaitent commercialiser des Ã©quipements dans lâUnion Ã  libÃ©rer toute la
+    documentation de leurs Ã©quipements lorsque ceux-ci deviennent obsolÃ¨tes afin de permettre le
+    dÃ©veloppement de logiciels alternatifs Ã  leurs solutions propriÃ©taires
+
+                                                                                                                     Page 1 / 3
+   â¢ obliger les constructeurs dâordinateur Ã  proposer une alternative libre Ã  leurs solutions logicielles incluant des
+    pilotes et applications proposant les mÃªmes performances que leurs logiciels propriÃ©taires
+   â¢ obliger les vendeurs dâordinateur Ã  vendre lâappareil soit nu, soit avec un systÃ¨me dâexploitation propriÃ©taire
+    payÃ© sÃ©parÃ©ment, soit avec un systÃ¨me dâexploitation libre: en nâÃ©tant pas enfermÃ© dans un Ã©cosystÃ¨me
+    propriÃ©taire dÃ¨s lâacquisition dâun Ã©quipement, lâutilisateur moyen pourra le conserver sur le long terme.
+   â¢ accompagner les entreprises dans la migration ou le renouvellement de leurs parcs logiciels vers des systÃ¨mes
+    libres (par exemple en utilisant WINE (https://winehq.org))
+
+InteropÃ©rabilitÃ© des solutions logicielles
+En enfermant ses utilisateurs dans un Ã©cosystÃ¨me verrouillÃ© Apple ne protÃ¨ge pas les utilisateurs ou nâamÃ©liore pas
+leur expÃ©rience: depuis quelques annÃ©es, la qualitÃ© logicielle de leurs produits se dÃ©gradent (bugs de plus en plus
+nombreux). Ce nâest pas la seule firme dans ce cas.
+
+Pour empÃªcher cela il faut obliger les fournisseurs/constructeurs/Ã©diteurs Ã  proposer des solutions dâÃ©change ET
+de migration de leurs donnÃ©es.
+
+Par exemple, pour le cas dâiOS:
+
+   â¢ obliger lâapplication Notes Ã  :
+          â¦ fournir une solution dâimport/export de donnÃ©es
+          â¦ proposer lâenregistrement des donnÃ©es sur des serveurs non iCloud
+   â¢ obliger iOS Ã  intÃ©grer des solutions de sauvegarde cloud alternatives Ã  iCloud (par exemple NextCloud) pour
+    toutes les applications du systÃ¨me.
+
+Ces exemples ne sont pas exhaustifs.
+
+Pour les logiciels et applications, ceux intÃ©grÃ©s dans un systÃ¨me propriÃ©taire doivent proposer une fonction
+dâimportation et exportations de donnÃ©es sans entrave notamment pour les gestionnaires de mot de passes. Des
+solutions de synchronisation de donnÃ©es avec des logiciels libres permettraient Ã©galement de lever de nombreux
+freins.
+
+Documentation
+
+La documentation Ã  jour des formats de stockages des bases de donnÃ©es et outils/applications propriÃ©taires devrait
+Ãªtre accessible en tant que droit pour tout citoyen ou entreprise de lâUE.
+
+Note
+
+La publication de ces Ã©lÃ©ments ne constituent jamais une entrave Ã  la propriÃ©tÃ© intellectuelle.. au contraire : ils
+permettent de sâassurer que le constructeur /Ã©diteur/ fabricant respecte les rÃ©glementation en facilitant lâaudit de
+leur systÃ¨me (ex: RGPD, absence dâobsolescence programmÃ©e, facilitation de la recherche et dÃ©tection de failles de
+sÃ©curitÃ© )
+
+                                                                                                                 Page 2 / 3
+Adoption des systÃ¨mes libres
+Les utilisateurs nâadoptent pas les systÃ¨mes libres car ceux-ci nâintÃ¨gre pas suffisamment de concepts
+ergonomiques facilitant leur adoption.
+
+LâUE doit financer et favoriser le dÃ©veloppement dâenvironnements de bureaux (environnements graphiques pour
+les systÃ¨mes dâexploitations) en aidant au dÃ©veloppement de lâergonomie (et pas seulement Ã  leur dÃ©veloppement
+technique).
+
+Les environnements de bureau devront Ãªtre ouverts et interopÃ©rables.
+
+Un ou plusieurs organismes financÃ©s par lâUE devront permettre aux dÃ©veloppeurs/Ã©diteurs de logiciels libres de
+dÃ©velopper des solutions plus ergonomiques, notamment en contribuant via des propositions et des soumissions
+de demandes dâÃ©volution.
+
+Ces organismes pourront Ã©galement proposer des formations sur lâergonomie/UX aux dÃ©veloppeurs/Ã©diteurs de
+logiciels libres.
+
+ExpÃ©rience utilisateur
+Les utilisateurs utilisent trÃ¨s mal lâoutil informatique Ã  cause dâune formation largement insuffisante.
+
+Plusieurs Ã©tudes le montrent montrent une en sont une illustration partielle:
+
+   â¢ Menter, H. (2023). Desktop Skills Decline: A Study of University Students and the Mobile-First Impact on
+     Digital Literacy.
+   â¢ Peres, S. C., Napier, H. A., & Lane, H. C. (2005). Keyboard Shortcut Usage: The Role of Social Context
+     and Training. Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 49(17),
+     1603-1607.
+   â¢ Selker, T., & Burrell, A. (1997). Two-handed input. IBM Systems Journal / IBM Research Report. (Ãtude
+     sur le âHoming Timeâ et le transfert clavier-souris).
+   â¢ Cockburn, A., et al. (2016). Skill Acquisition and the Crossover Effect: Keyboard Shortcuts vs. Graphical
+     User Interfaces. (Ãtude indexÃ©e PubMed / ResearchGate sur les courbes dâapprentissage).
+
+Propositions de solutions
+
+Faciliter et financer des formations complÃ¨tes sur lâutilisation des logiciels, et les intÃ©grer dans les cursus scolaires.
+Pour cela la formation des enseignants sera indispensable, avec un principe essentiel : ne pas considÃ©rer que
+parce que les gens savent se servir dâun ordinateur, ils savent sâen servir correctement, a fortiori les enseignants et
+formateurs.
+
+                                                                                                                    Page 3 / 3

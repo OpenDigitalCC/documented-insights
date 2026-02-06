@@ -1,0 +1,147 @@
+Ref. Ares(2026)1225867 - 03/02/2026
+
+   Call for Evidence on the European Open Digital Ecosystem Strategy
+
+             Feedback by Jehan PagÃ¨s, GIMP Maintainer
+
+Background
+
+I am the maintainer and main developer of GIMP, a widely known Community-driven Free
+Software for high-end image creation and manipulation. Our software has reached the old age (for a
+software!) of 30 years in 2025 and is downloaded several dozens of thousands times a day. A
+large portion of European citizens and organizations likely have GIMP installed on their computers.
+
+GIMP is entirely developed by volunteers, from all across the world, some of which are doing it as
+a hobby, others trying to make a living. In the context of this feedback, it is useful to state that the
+development has been led by European citizens for more than a decade. I am myself French and
+living in France.
+
+Despite all of this, even a huge software like GIMP never felt particularly supported by
+governments or the European Union. Therefore we are very much interested about such an initiative
+which may initiate a change.
+
+Strength and Weaknesses of the EU Open-Source sector
+Though many Free Software projects have ties to the US, the field reality is that a major part of
+development is actually EU-based. This is the case of GIMP, but also of many other major software.
+
+The ties to the US usually take the shape of umbrella organizations, "fiscal hosts". This is also our
+case historically, though we did consider various times to change to an European fiscal host, or have
+a second entity here.
+
+Clearly the European Union has nothing to be ashamed of, in terms of software capability. It has the
+technical skills and "brains". Yet it has not been making it easy for these skilled people to organize
+themselves in non-governmental organizations. Furthermore many European countries are not
+considering organizations creating Free and Open Source Software as "public interest" projects,
+allowing tax deductible donations, known to be a really helpful way to support non-governmental
+organizations.
+
+Therefore it is very clear to me that the European Union has all the necessary "seeds" for growing
+an extremely strong, secure and sovereign Free and Open Source ecosystem. If the governments
+were to start facilitating and supporting umbrella organizations producing these software, and
+officially declare the associated work as of public interest, hence making donations tax-deductible
+(for any European Union citizen donating to any European Union NGO creating Free and Open
+Source Software â even if not in the same EU country â, as defined per their license from a list of
+known licenses in order to avoid parasitic projects), this would break one of the main barriers
+blocking many Free and Open Source projects from having their fiscal host in Europe.
+
+Added value of Open Source for the public and private sector
+Some affirm that proprietary software (often US-based) may be better. Though this itself is
+debatable, what is not debatable is: imagine if a Community, Free Software project like us had the
+same funds. Imagine if instead of having companies and public organizations paying millions of
+EUR in licenses every year, they funded Free and Open Source Software. The situation would
+improve so fast that none would be able to affirm anymore that proprietary software is better.
+
+The question had been biased from the start if you compare multi-billion dollar companies with
+projects often born out of community (made of extremely skilled people, for sure, but still with very
+limited means, often unable to make a living from their Free and Open Source contributions, hence
+requiring a "food job"). So we need to change the questionâs context.
+
+In the long run, funding Open Source project will be a lot more effective and a lot cheaper than
+paying licenses for proprietary software.
+
+But the bigger added value of Free Software is not just the price. You have actual control over your
+software! Say you find a bug or you need a feature. If the publisher is one of the huge US
+corporation, if you happen to be a huge European company or governmental organization, you
+might be able to get a support contract. It will cost a lot (money which will therefore leaves the EU
+towards the US) and you would not be certain it will be exactly how you want. You will also not be
+certain that no backdoor will exfiltrate your data and that foreign governments may not request your
+data (through for instance the USA PATRIOT Act).
+The software publisher may also simply refuse. They are a business and have such right.
+
+With Free Software, any private or public institutions can simply organize to fix or improve the
+software. Even for small organizations, or even simple citizens, if you are many enough, you can
+join together and organize to fund developers on a shared project and customize the software
+exactly how you need it. This is not only cheaper, it is like a super-power which is impossible
+otherwise. In the end, you take advantage of dozens of years of international collaboration by
+extremely skilled individuals thanks to which you obtain 99% of the software for free and you add
+the remaining 1% to get exactly what you need.
+
+This is not theoretical and I have experience of this. For instance, I work with a graphical artist who
+was a teacher at CY Cergy Paris University for several years. One year, she encountered an
+annoying bug in GIMP, which she asked me about. I fixed it this same day and the next day, she
+could show what she needed to to her students. This kind of things is impossible when you have no
+control of your tools.
+
+Another example is that I regularly work for a Libre Art animation film making production,
+producing completely Free movies with Free Software. We completely control our tools for the
+production. Now our "power" is limited since it is such a small entity with limited funds. But you
+can only imagine what a bigger entity can do with ability to tweak their working tools however they
+need.
+
+To conclude, it is obvious that Open Source tools drive innovation and that they would give anyone
+the power to do anything they need to do (you still need to give yourselves the means to this end by
+doing some work or paying people, but the point is that it is possible at all! It is not possible with
+proprietary software). Nothing beats the full control of your means of production. No risk of a
+software publisher suddenly pulling the rug under you, no lock in, no sudden fee changes or
+increasing subscription rates, no losing your data anymore because of unwanted format changes.
+
+Note: this is not by far the only âadded valueâ of Open Source, but such a feedback document is
+not enough to list all the advantages so I went for the main point in my opinion: the control of your
+tools.
+Concrete Measures
+As a conclusion, here are suggested measures and actions to be taken at EU level:
+
+   â¢   Facilitate the creation of non-governmental organizations developing Free and Open Source
+       Software.
+   â¢   Grant such NGOs the "public interest" label, hence allowing individuals and companies to
+       donate to software they use, encouraged with tax deduction for their donations. This would
+       help making sure important software are sustainably developed and maintained, and will
+       support their growth and evolution.
+   â¢   Support Free Software projects financially through a EU funds. Not only the web
+       infrastructure software, or AI, but also desktop software.
+   â¢   Public institutions should use Free Software on servers and desktops. This would span
+       from the OS (Linux) to desktop software (LibreOffice, GIMP, etc.). This must be
+       accompanied by proper training of civil servants because one of the common error for
+       failed migrations are often lack of training rather than software issues.
+   â¢   The European Union should also have their own internal teams of developers. You should
+       not only rely on funding external teams. The EU should take "ownership" of the technology
+       they use by actually contributing.
+       You find a bug? You may report it. But if you can fix it and contribute a patch proactively,
+       itâs even better. By sharing teams across countries, combined to supporting upstream
+       developers of projects, this would also share the costs, making this all extremely cheap and
+       efficient while allowing extreme adaptability of software for your needs.
+   â¢   Software patents should be banned. They only impede innovation.
+   â¢   Education should prioritize Free Software. One of the biggest point of entries of all the
+       big US proprietary software are simply schools. By training young generations to specific
+       software, they ensure most of them won't ever want to change. All the big corporations
+       know this, which is why they are giving special "discounts" to schools and universities.
+       These discounts are nothing more than the "free drug sample" of street dealers, at industrial
+       level. And school directors signing such contracts are complicit. The European Union should
+       put a stop to this and prioritize Free and Open Source tools in academic curriculum.
+
+Technology Area to prioritize
+I believe this is up to each entity to determine what they use and what they really need. Such choice
+should not be influenced by trends. In particular do not forget the software which you take for
+granted. Often it means these may be the most critical ones in your work, and therefore what you
+should prioritize to make sure it stays relevant and sustainable.
+If I stick to our own case for instance, we know GIMP is massively used in public administration,
+which makes sense since graphics are everywhere! Some topics are fancier (3D, video, AI, webâ¦).
+But still images are used even more than videos. So I do hope a EU initiative for Open Source
+would not forget any of these base projects (both infrastructure and desktop) which everyone take
+for granted (until they are not and then you realize too late the error when the software is in critical
+condition).
+
+Sectors which would benefit from increase use of Open Source
+I believe any sector would benefit from Free and Open Source Software. It is as simple as that. As
+said, it is about the control of your tools. Do you want to leave this control in the hands of someone
+else?

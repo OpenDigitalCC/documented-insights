@@ -1,0 +1,318 @@
+Ref. Ares(2026)1217920 - 03/02/2026
+
+Numeum contribution to the European
+Commission Call for Evidence on Open Digital
+Ecosystems
+Executive summary
+The European Commission aims to boost European technological sovereignty by
+leveraging open-source technologies. Building on its 2020â2023 Open Source Software
+Strategy, the Commission plans to strengthen support for open digital ecosystems
+through a new strategic approach. While Europe benefits from a strong and mature open-
+source ecosystem, it still lacks a comprehensive industrial policy to support the
+development and adoption of open-source technologies across governments and
+companies.
+
+The potential of open-source to boost competitiveness and reduce dependencies is
+widely recognised. Leveraging open-source technologies therefore appears to be a key
+asset for the EUâs global digital and innovation strategy.
+
+Numeum represents 2,500 digital companies in France, from start-ups and SMEs to large
+industrial and services groups. Many of our members in the service and the software
+industry are open-source players. Their input is highly valuable in identifying key barriers
+and developing strategic recommendations supporting open-source development and
+adoption across Europe.
+
+Numeum welcomes the Commissionâs initiative and recognises the importance of
+setting a new open-source strategy. Numeum stands ready to support European
+institutions in further discussions and in contributing to the development of this strategy.
+Our Contribution
+1) Strengths and weaknesses of the EU open-
+source sector
+The European Union benefits from a strong and mature open-source ecosystem, with
+18.5 million contributors representing 15.4% of the global total 1. In terms of adoption,
+open-source components are part of all technological frameworks, and open-source
+technologies are used by almost all organisations: in France, nine out of ten public
+organisations and eight out of ten private companies rely on open-source technologies2.
+The total estimated value of publicly available open-source code is â¬8.8 trillion3,
+generating between â¬65 and â¬95 billion annually for EU GDP. A 10% increase in
+contributions could generate up to â¬100 billion in additional economic growth4.
+
+Despite these strengths, the European open-source ecosystem faces structural
+weaknesses that threaten its long-term sustainability.
+
+    (i)      Key barriers to adoption, maintenance and secure use
+
+Limited visibility and understanding.
+
+    â¢     Many companies and public administrations still lack a clear understanding of
+          open-source solutions, their governance models, and the role of integrators and
+          service providers. This knowledge gap often leads decision-makers to favour well-
+          known proprietary solutions, even when open-source alternatives are technically
+          and economically superior.
+
+Insufficient long-term funding for open-source components.
+
+    â¢     Although open-source is widely used and delivers significant economic value, it
+          remains under-recognised as a strategic asset among public and private actors,
+          often leading to underinvestment and insufficient support.
+
+Contribution limited to a small number of actors
+
+    â¢     While public and private organisations are major consumers of open-source
+          software, only a limited number actively contribute to its development. As a
+
+1
+  The Value of Open-source Software, Harvard Business School (2024)
+2
+  Open-source Monitor France, Markess-CNLL-Numeum-Systematic Report (2023)
+3
+  The Value of Open-source Software, Harvard Business School (2024)
+4
+  Study about the impact of open-source software and hardware on technological independence, competitiveness and
+innovation in the EU economy, European Commission (2021)
+
+                                                                                                              2
+          result, many critical components depend on a small group of maintainers,
+          creating risks related to sustainability, security, and long-term resilience.
+          Consuming open-source without contributing back is unsustainable in the long
+          term, creates structural dependencies and limits Europeâs ability to influence
+          project roadmaps that are critical to its digital infrastructure.
+
+   (ii)       Barriers to sustainable contributions
+
+Lack of effective public policies and incentives
+
+   â¢      Open-source contributions should be considered a strategic investment.
+          European public administrations and companies should actively contribute to the
+          open-source projects that are critical to their technical infrastructure.
+
+Insufficient integration of open-source in education and training
+
+   â¢      Open-source is still inadequately covered in computer science and engineering
+          curricula. As a result, skill levels are uneven, and many graduates lack the
+          practical knowledge required to work on or contribute to open-source
+          infrastructures such as Linux or core middleware components.
+
+Regulatory uncertainty.
+
+   â¢      Certain regulatory frameworks, particularly those related to liability, are not well
+          adapted to the collaborative and decentralised nature of open-source
+          development. This uncertainty can discourage voluntary contributions, especially
+          when code is co-developed and redistributed by diverse actors without traditional
+          contractual relationships.
+
+2) Added value of open source for the public
+and private sectors
+Open-source refers to a legal framework for software development based on access to
+source code and licensing schemes that allow any holder of a copy of the software the
+rights to use, modify, and redistribute the work. Open-source is generally associated with
+an open, collaborative, and decentralized development model. Open-source delivers
+significant added value across multiple dimensions:
+
+Cost efficiency, competition and reduced lock-in:
+
+   â¢      Open-source mitigates dependency on single vendors and reduces lock-in risks.
+          By enabling portability and interoperability, it strengthens competition among
+          suppliers, lowers switching costs, and protects organisations from unilateral
+          pricing or contractual changes.
+
+                                                                                            3
+Security, transparency and trust:
+
+   â¢   The open and auditable nature of open-source code enables thorough security
+       assessments, including by cybersecurity authorities when required.
+          o For example: transparency regarding code, contributors and development
+             processes enhances trust and facilitates compliance with cybersecurity
+             and regulatory frameworks (e.g. the use of SBOMs for CRA compliance).
+
+Innovation and agility
+
+   â¢   Open-source accelerates innovation by enabling the reuse of existing
+       components, the mutualisation of development efforts and rapid
+       experimentation. Organisations can focus their resources on high value-added
+       use cases rather than rebuilding foundational technologies.
+          o For example: in AI, open-source models enable fine-tuning, reuse and
+             adaptation to specific cultural, linguistic or sectoral contexts without
+             retraining models from scratch. Thus, open-source is also a way to favour
+             frugal innovation using frameworks and models that have already been
+             developed or trained.
+          o For example: in the automotive sector, particularly in Software-Defined
+             Vehicles, open-source components enable manufacturers to build
+             shared, non-differentiating layers, while focusing their resources on high
+             value-added services.
+
+Accessibility
+
+   â¢   Open-source solutions often include accessibility features developed by
+       contributors or enable their development. As such, open source is an essential
+       resource for people with specific accessibility needs.
+          o For example: LibreOffice offers several APIs, such as the Java Accessibility
+              API (JAA) and the UNO Accessibility API (UAA) delivering accessibility
+              features.
+
+3) Concrete EU-level measures to support the
+open-source ecosystem
+A coherent and ambitious EU strategy is required to fully leverage open-source for
+technological sovereignty and cybersecurity.
+
+                                                                                      4
+Establish a European industrial policy for open-source
+
+   â¢   Recognise open-source as a strategic industrial asset for Europeâs technological
+       competitiveness and strategic autonomy.
+
+   â¢   Shift from a consumption-based approach to a contribution-based strategy, in
+       which public funding and procurement actively support upstream contributions.
+
+   â¢   Preserve a global support for open-source without restricting policies based on
+       geographical location, ensuring Europe benefits from the â¬8.8 trillion global value
+       of open-source rather than creating silos.
+           o True strategic autonomy is defined by digital agency i.e., the right to
+              inspect, modify and exit rather than the geographic origin of the code.
+
+   â¢   Establish coordinated and structured interactions with the leading global open-
+       source foundations and organisations hosting open-source projects.
+
+   â¢   Harmonise the Single Market for open-source services by removing cross-border
+       administrative friction so that European SMEs can scale service-based business
+       models across all 27 Member States.
+          o It involves improving public sector understanding of open-source
+             governance and intellectual property models as well as promoting
+             international recognition of open-source standards and certifications
+             (e.g., Common Criteria).
+
+Support communities in maintaining critical components
+
+   â¢   Identify and support critical open-source components used in European public
+       and private infrastructures.
+
+   â¢   Provide long-term funding mechanisms to ensure continuous contribution,
+       maintenance, security updates and effective governance.
+
+   â¢   Build on and scale existing initiatives aimed at auditing and securing open-source
+       software used by public institutions.
+          o European and national cybersecurity agencies should collaborate with the
+              open-source ecosystem to audit and secure core open-source
+              components. France has been leading the way with ANSSI closely working
+              with some open-source providers.
+
+                                                                                        5
+Incentivise contributions by administrations and companies
+
+    â¢   Support and invest in the creation of OSPOs (Open-source Program Offices5) in
+        public administrations and large industries to structure open-source governance,
+        strengthen contributions and maximize long-term strategic value.
+
+    â¢   Enable and encourage public servants to contribute to open-source communities
+        as part of their professional activities.
+
+    â¢   Introduce fiscal incentives for private companies contributing to open-source
+        projects.
+
+    â¢   Develop clear governance and coordination structures at EU level, involving
+        research institutions, administrations and industry.
+
+Leverage public data and research
+
+    â¢   Reinforce open data policies specifically for sectorial and theme-specific
+        datasets.
+           o Public research acts as a key factor in constituting niche datasets that are
+               high value for companies (these datasets are notably useful in the field of
+               AI). Support to public research in this area should be increased.
+
+Education and skills
+
+    â¢   Make open source a core component of computer science and engineering
+        curricula in public education.
+
+    â¢   Support continuous professional training on open-source development, security
+        and community governance.
+
+    â¢   Promote awareness-raising and trainings on open-source for non-technical
+        profiles (e.g. lawyers that have to understand open-source licence)
+
+Regulatory and standardisation alignment
+
+    â¢   Ensure that EU regulations (cybersecurity, AI, liability) take into account the
+        specificities of open-source in order to avoid discouraging voluntary
+        contributions.
+           o For example, the Cyber Resilience Act (CRA) still fails to adequately
+               address the specific characteristics of open source. Although liability
+               applies only to open-source products provided through commercial
+
+5
+ An Open-source Program Office (OSPO) is a dedicated internal unit within an organisation (public or
+private) that coordinates, governs and scales open-source activities.
+
+                                                                                                       6
+              activities, this distinction does not reflect well the realities of open-source
+              development and distribution i.e. could donations exceeding development
+              costs be considered a commercial activity? Moreover, the CRA, initially
+              designed for physical products, struggles to apply to open-source digital
+              good: does each copy of a piece of software constitute a distinct product
+              placed on the market, or does a âchildâ copy inherit the market placement
+              date of the âmasterâ copy?
+
+   â¢   Promote open-source solutions as reference implementations for European
+       standards and interoperability frameworks.
+
+   â¢   Favour the integration of open-source experts and open-source foundations into
+       standardisation bodies such as CEN-CENELEC and ETSI to ensure that European
+       standards are compatible with open-source licences and principles.
+
+Public Procurement
+   â¢   Promote open-source in public procurement especially for critical infrastructure
+       in order to reduce dependencies and favour the development of European open-
+       source suppliers.
+
+   â¢   Clarify open-source software warranties in public procurement by proposing a
+       Shared Responsibility framework: product warranties are not compatible with
+       community-provided open-source code and create a structural barrier to its
+       adoption in public procurement. However, maintenance and support services
+       (SLAs) can be provided by companies with a dedicated contract.
+
+4) Priority technology areas
+Open-source should be supported across all technology domains due to the benefits it
+can bring to the European digital and innovation ecosystem. However, two areas require
+particular attention.
+
+Artificial Intelligence: open-source AI is essential to foster innovation, competitiveness
+and reduce dependencies.
+   â¢ Priority should be given to supporting the development of open-source AI: this
+        includes open-source datasets for training models, open-source models, training
+        and inference and software.
+   â¢ Moreover, open-source AI favours auditability which is essential for ensuring
+        trusted adoption in critical infrastructure.
+
+                                                                                           7
+Cloud and edge computing: support open-source cloud and edge infrastructure is
+essential to reduce Europe digital dependencies.
+   â¢ Europe needs an open-source stack including virtualisation, operating systems
+      and orchestration, to manage massive edge-to-cloud data safely and
+      independently.
+
+5) Sectors with the highest potential impact
+Open source, generally speaking, leads to increased competitiveness and cyber
+resilience. Its adoption should therefore benefit all sectors. However, four sectors could
+benefit the most under the framework of the next strategy.
+
+Public sector
+   â¢ Public institutions benefit from using open-source solutions that reduce
+       dependency. Moreover, the public sector can lead by example, using public
+       procurement to encourage the broad adoption of open-source solution and
+       helping the business-development of open-source actors.
+
+Critical infrastructures
+    â¢ Open source is crucial for reducing dependencies and ensuring transparency,
+       thereby enhancing global security and resilience.
+
+SMEs and startups
+  â¢ Open-source lowers barriers to entry, reduces development costs, and
+      accelerates innovation.
+
+Mobility and automotive
+  â¢ The transition to Software-Defined Vehicles requires massive amounts of code.
+       Sharing non-differentiating open-source software stacks accelerate innovation
+       and reduces costs for European manufacturers facing global competition.
+
+                                                                                        8

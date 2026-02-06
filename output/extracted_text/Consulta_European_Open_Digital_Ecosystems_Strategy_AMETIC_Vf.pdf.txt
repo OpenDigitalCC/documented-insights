@@ -1,0 +1,62 @@
+Ref. Ares(2026)1153925 - 02/02/2026
+
+Propuesta de respuesta de AMETIC a la consulta pÃºblica de la
+ComisiÃ³n Europea sobre âTowards European open digital
+ecosystemsâ
+
+1. Â¿CuÃ¡les son las fortalezas y debilidades del sector de cÃ³digo abierto de la UE?
+   Â¿CuÃ¡les son las principales barreras que dificultan (i) la adopciÃ³n y el
+   mantenimiento de un cÃ³digo abierto de alta calidad y seguro; y (ii)
+   Â¿contribuciones sostenibles a comunidades de cÃ³digo abierto?
+    --
+
+2. Â¿CuÃ¡l es el valor aÃ±adido del cÃ³digo abierto para los sectores pÃºblico y privado?
+   Por favor, proporciona ejemplos concretos, incluyendo los factores (como
+   coste, riesgo, fijaciÃ³n, seguridad, innovaciÃ³n, entre otros) que son mÃ¡s
+   importantes para evaluar el valor aÃ±adido.
+    --
+
+3. Â¿QuÃ© medidas y acciones concretas pueden tomarse a nivel de la UE para
+   apoyar el desarrollo y crecimiento del sector de cÃ³digo abierto de la UE y
+   contribuir a la agenda de soberanÃ­a tecnolÃ³gica y ciberseguridad de la UE?
+    Como medidas para desarrollar el sector cabe citar las siguientes:
+
+         â¢   FinanciaciÃ³n especÃ­fica de la UniÃ³n Europea destinada tanto a
+             empresas desarrolladoras de cÃ³digos abiertos como a acciones de
+             divulgaciÃ³n dirigidas a la ciudadanÃ­a, para explicar en quÃ© consisten
+             estas tecnologÃ­as y cuÃ¡l es su utilidad prÃ¡ctica.
+         â¢   ElaboraciÃ³n de normas de autorregulaciÃ³n tÃ©cnica por parte de las
+             empresas del sector, que permitan que otras compaÃ±Ã­as o entidades
+             interesadas puedan adoptar de manera voluntaria dichos estÃ¡ndares
+             para desarrollar sus propios cÃ³digos abiertos.
+         â¢   CreaciÃ³n de una empresa de capital pÃºblico privado dedicada al
+             desarrollo de software de cÃ³digo abierto, comenzando por soluciones
+             aplicables al sector pÃºblico. Otra opciÃ³n serÃ­a que una empresa
+             dominante en el sector asumiera obligaciones de servicio pÃºblico en
+             materia de cÃ³digo abierto, por razones de interÃ©s general, poniendo
+             gratuitamente a disposiciÃ³n de las Administraciones pÃºblicas aquellos
+             desarrollos que resulten mÃ¡s Ãºtiles para los procedimientos que
+             gestionan.
+4. Â¿QuÃ© Ã¡reas tecnolÃ³gicas deberÃ­an priorizarse y por quÃ©?
+--
+
+5. Â¿En quÃ© sectores podrÃ­a un mayor uso del cÃ³digo abierto conducir a una mayor
+   competitividad y resiliencia cibernÃ©tica?
+     Uno de los sectores donde mayor uso podrÃ­a tener el cÃ³digo abierto es el sector
+     pÃºblico. La transparencia que supone disponer de informaciÃ³n sobre el
+     software, poder estudiarlo y proponer mejoras constituye una garantÃ­a de su
+     aceptaciÃ³n tanto en el mercado como por las Administraciones pÃºblicas.
+     AdemÃ¡s, el carÃ¡cter ejemplarizante que puede ejercer el sector pÃºblico
+     utilizando cÃ³digos abiertos funcionarÃ­a como una polÃ­tica palanca para su
+     implantaciÃ³n. Al mismo tiempo, se favorecerÃ­a la eliminaciÃ³n de sesgos en la
+     elaboraciÃ³n del software, reduciendo o eliminando los riesgos de
+     discriminaciÃ³n que pueden derivarse del uso de la inteligencia artificial o de
+     internet.
+
+     Otro Ã¡mbito donde los cÃ³digos abiertos pueden tener una gran implantaciÃ³n es
+     el sector de la edificaciÃ³n. Debe tenerse en cuenta el proceso de digitalizaciÃ³n
+     de los edificios nuevos y de la renovaciÃ³n de los existentes, que se estÃ¡
+     financiando y que ya cuenta con un extenso marco normativo a nivel de la UniÃ³n
+     Europea. La existencia de cÃ³digos abiertos en los softwares utilizados en los
+     edificios puede contribuir a abaratar el proceso de digitalizaciÃ³n del sector,
+     ademÃ¡s de facilitar la interoperabilidad y la evoluciÃ³n tecnolÃ³gica.

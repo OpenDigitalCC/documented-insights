@@ -1,0 +1,425 @@
+Ref. Ares(2026)1223279 - 03/02/2026
+
+Sovereign Tech Agency GmbH Â· Gartenstr. 7 Â· 10115 Berlin Â· Germany
+
+                                                                           3 February 2026
+
+Towards European open digital ecosystems
+Response to the Call for Evidence
+
+The Sovereign Tech Agency welcomes the opportunity to contribute to the European
+Commissionâs Call for Evidence informing the forthcoming European Open Digital
+Ecosystem Strategyand supports the Commissionâs recognition of technological sovereignty
+as a core objective of the current mandate, and of open source as a critical contributor to
+competitiveness, cybersecurity, and resilience.
+
+This initiative is timely and aligned with the EUâs broader digital and industrial policy
+agenda, including forthcoming initiatives in cloud, data, and AI. Open-source software
+underpins nearly all modern digital technologies and is deeply embedded across critical
+sectors. It reduces external dependencies, improves supply-chain transparency, and
+strengthens vulnerability management. However, the maintenance, security, and long-term
+stewardship of widely used components remain structurally underprovided, creating
+systemic risks that market mechanisms and project-based funding alone do not address.
+
+Drawing on the Sovereign Tech Agencyâs operational experience, this submission treats
+critical open-source components as open digital infrastructure, meaning the shared
+software foundations such as libraries, standards, and developer tooling on which both the
+public and private sectors depend. Securing this infrastructure requires sustained
+investment in maintenance, security, and stewardship, delivered through strategic public
+procurement and coordinated funding mechanisms rather than ad-hoc adoption incentives
+or short-term projects. On this basis, the submission identifies concrete security and
+resilience risks and proposes targeted, proportionate EU-level actions, particularly in
+stewardship, procurement, and coordination, to deliver durable gains in technological
+sovereignty, competitiveness, and innovation across the Single Market.
+Sovereign Tech Agency GmbH Â· Gartenstr. 7 Â· 10115 Berlin Â· Germany
+
+1. What are the strengths and weaknesses of the EU open-source sector? What are the
+   main barriers that hamper (i) adoption and maintenance of high-quality and secure
+   open source; and (ii) sustainable contributions to open-source communities?
+
+    1.1. Strengths of the EU open-source sector
+
+    Europe is home to a large, growing, and relevant open-source developer base.
+    The EU hosts one of the largest open-source developer and maintainer communities
+    worldwide, contributing to globally critical projects across operating systems,
+    cryptography, networking, databases, programming languages, and cloud infrastructure.
+    Platform data indicate that Europe hosts a large and growing open-source developer
+    base. GitHub reports multi-million developer populations in the UK, Germany, France, and
+    other European countries, with sustained year-on-year growth of approximately 19 to 24
+    percent, with particularly strong momentum in Southern Europe.1 Longitudinal studies
+    further support the conclusion that Europe has steadily increased its share of global
+    open-source contributions over time.2 At the same time, open source is near-ubiquitous
+    in deployed software: the 2025 Open Source Security and Risk Analysis (OSSRA) found
+    that 97 percent of commercial codebases contained open-source components,
+    accounting for around 70 percent of total code.
+
+    Foundational role in key technology domains.
+    Open-source components form the backbone of critical technology areas including cloud
+    computing, containerisation, cybersecurity tooling, data infrastructure, AI frameworks,
+    and industrial control systems. Census data from the Linux Foundation show that widely
+    used open-source dependencies are concentrated in core ecosystems such as Java,
+    Python, .NET, and increasingly Rust, which underpin public services, industrial systems,
+    and cybersecurity tooling3. These are domains in which European developers, public
+    administrations, and firms are particularly active, reinforcing the EUâs strategic stake in
+    the long-term health, security, and governance of global open-source infrastructure. In
+    practice, many of these components are effectively non-substitutable and underpin
+    innovation and competition across multiple downstream markets. A Commission-
+    commissioned study estimated that EU companies invested around â¬1 billion in open-
+    source software in 2018, associated with â¬65 to â¬95 billion in economic impact,
+    illustrating the high leverage of investment in open digital infrastructure.4
+
+    Growing institutional recognition.
+    At EU level there is increasing formal recognition of open source as an enabler of digital
+    autonomy (e.g., the Commissionâs âThink Openâ strategy and related interoperability
+1
+  https://github.blog/news-insights/octoverse/octoverse-2024/
+2
+  https://arxiv.org/abs/2203.15369
+3
+  https://www.linuxfoundation.org/research/census-iii
+4
+  https://digital-strategy.ec.europa.eu/en/library/study-about-impact-open-source-software-and-hardware-
+technological-independence-competitiveness-and
+                                                                                                                2
+Sovereign Tech Agency GmbH Â· Gartenstr. 7 Â· 10115 Berlin Â· Germany Â· www.sovereign.tech Â· info@sovereign.tech
+Sovereign Tech Agency GmbH Â· Gartenstr. 7 Â· 10115 Berlin Â· Germany
+
+    initiatives)5. If aligned with procurement and funding mechanisms, this momentum can
+    translate into more stable and predictable demand and greater institutional support for
+    under-resourced critical open digital infrastructure.
+
+    1.2. Weaknesses of the EU open-source sector
+
+    Chronic underinvestment in maintenance and security.
+    Despite near-universal adoption, large-scale commercial code audits reveal a structural
+    mismatch between reliance on open source and the resources devoted to its long-term
+    maintenance and security. According to OSSRA 2025, over 90 percent of codebases
+    contained outdated open-source components, many more than ten versions behind
+    current releases or no longer actively maintained. This dependenceâmaintenance gap
+    translates directly into risk: 81% of assessed codebases contained high- or critical-risk
+    vulnerabilities, often in components where patches were already available.6 This pattern
+    reflects a deeper economic asymmetry between the value extracted from open source
+    and the resources reinvested in its upkeep. A Harvard Business School study estimates
+    that recreating widely used OSS would cost approximately $4.15 billion, while the
+    demand-side value to firms is estimated at $8.8 trillion, implying that firms would need
+    to spend roughly 3.5Ã more on software in the absence of OSS7. In practice, this gap
+    manifests as systemic under-provisioning of maintenance, security hardening, and
+    stewardship for components that function as de facto digital infrastructure.
+
+    Fragmented institutional accountability.
+    Whilst attention to open source has increased at both EU and Member State levels,
+    there is currently no clearly mandated public actor responsible for the long-term health,
+    security, and governance of critical open-source dependencies at EU level. This
+    fragmentation is particularly problematic in the European context, where digital services
+    and supply chains operate at Single Market scale and beyond, but responsibility for
+    open-source infrastructure remains largely national, project-based, or informal. As a
+    result, the costs of maintaining and securing shared open-source dependencies are
+    borne unevenly, while the benefits accrue broadly, creating persistent collective-action
+    failures in which no individual Member State or user has sufficient incentive to invest at
+    the scale required for systemic resilience.
+    Recent instruments such as the European Digital Infrastructure Consortium (EDIC), and
+    in particular the Digital Commons EDIC, provide an important legal and governance
+    framework for coordinating multi-country digital infrastructure projects. However, while
+    EDICs can host and operate shared infrastructure, they do not in themselves resolve the
+
+5
+  https://commission.europa.eu/about/departments-and-executive-agencies/digital-services/open-source-
+software-strategy_en
+6
+  https://www.blackduck.com/content/dam/black-duck/en-us/reports/rep-ossra.pdf
+7
+  https://www.hbs.edu/ris/Publication%20Files/24-038_51f8444f-502c-4139-8bf2-56eb4b65c58a.pdf
+                                                                                                                3
+Sovereign Tech Agency GmbH Â· Gartenstr. 7 Â· 10115 Berlin Â· Germany Â· www.sovereign.tech Â· info@sovereign.tech
+Sovereign Tech Agency GmbH Â· Gartenstr. 7 Â· 10115 Berlin Â· Germany
+
+    gap in sustained, EU-level responsibility for the identification, prioritisation, and long-
+    term stewardship or maintenance of critical open-source dependencies across sectors.
+    Public administrations across Member States are significant users and developers of
+    open source software, as documented in OSOR case studies on cross-government
+    adoption, yet the EU lacks a unified institutional mechanism to coordinate sustained
+    investment, long-term stewardship, and strategic governance of shared dependencies8.
+
+    Regulatory pressure without corresponding support capacity.
+    EU regulatory initiatives, most notably the Cyber Resilience Act, increasingly expect
+    open-source components to meet standards of security, transparency, documentation,
+    and vulnerability management. While these obligations are primarily addressed to
+    downstream manufacturers and integrators, compliance in practice partly depends on
+    the capacity of upstream open-source projects to implement secure development
+    processes, coordinated vulnerability disclosure, and timely patching. Foundations and
+    fiscal hosts (such as Linux Foundation or Apache Software Foundation) can play an
+    important enabling role in supporting projects with governance, legal, and compliance-
+    related processes, and the CRAâs recognition of âopen source stewardsâ reflects this
+    function.9 However, many widely used projects remain unaffiliated with such entities,
+    and even where foundations are involved, they typically lack the mandate and resources
+    to absorb the potential costs of regulatory compliance across shared dependencies. As a
+    result, regulatory expectations placed on downstream users are not systematically
+    matched by upstream investment in the open-source projects on which compliance
+    partially depends.
+
+    1.3. Barriers to adoption and maintenance of high-quality and secure open source &
+         sustainable contributions to open-source communities
+
+    Existing procurement frameworks favour proprietary models
+    Despite progress in some Member States and municipal contexts, public procurement
+    frameworks across the EU often prioritise single-vendor accountability, warranties, and
+    short-term cost comparisons, while undervaluing upstream maintenance, contribution,
+    and ecosystem sustainability. This discourages adoption of open-source solutions
+    unless they are re-captured through proprietary service or licensing models.
+
+    Security capacity gaps
+    Many critical projects lack funded capacity for vulnerability triage, coordinated
+    disclosure, patch development, and rapid response, despite being embedded in sensitive
+    systems. High-profile incidents in recent years (Log4J, xz-utils) have illustrated how
+    under-resourced maintenance can translate into systemic security risk. Evidence from
+
+8
+  https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/multiple-case-
+study-public-sector-open-source
+9
+  https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024R2847
+                                                                                                                4
+Sovereign Tech Agency GmbH Â· Gartenstr. 7 Â· 10115 Berlin Â· Germany Â· www.sovereign.tech Â· info@sovereign.tech
+Sovereign Tech Agency GmbH Â· Gartenstr. 7 Â· 10115 Berlin Â· Germany
+
+     commercial codebase audits suggests that open source is near-ubiquitous in practice
+     (96% of audited codebases contained OSS) but often under-resourced in deployment.10
+
+     Misaligned organisational incentives.
+     Within both public and private organisations, upstream contributions such as
+     maintenance, refactoring, documentation, and security hardening are often treated as
+     discretionary or reputational activities rather than as core responsibilities linked to
+     dependency management and operational risk. Research and industry surveys
+     consistently show that while commercial entities (from large industry players to SMEs)
+     rely heavily on open-source components in production, incentives to invest in their long-
+     term health are weak and informal, reinforcing free-rider dynamics and underinvestment
+     in critical dependencies.
+
+2. What is the added value of open source for the public and private sectors? Please
+   provide concrete examples, including the factors (such as cost, risk, lock-in, security,
+   innovation, among others) that are most important to assess the added value.
+
+     Private sector value
+     For the private sector, open source lowers barriers to entry and supports innovation by
+     providing shared foundations on which firmsâparticularly SMEsâcan build differentiated
+     products and services without rebuilding commodity infrastructure. This accelerates
+     development cycles and supports more competitive and diverse markets.
+     Open source also reduces supply-chain risk. Improved governance and maintenance of
+     widely reused components lowers exposure to cascading failures across value chains,
+     benefiting firms regardless of size. Transparency and shared stewardship make it easier
+     to assess dependencies, manage vulnerabilities, and comply with emerging regulatory
+     requirements, contributing to both competitiveness and cyber resilience.
+
+     Key assessment factors: development time, availability of reusable components,
+     dependency depth, transitive risk, governance and maintenance capacity.
+
+     Public sector value
+     For public administrations, open source increases transparency, interoperability, and
+     long-term control over core digital systems. OECD research on public-sector digital
+     innovation shows that open-source building blocks (or âflexible infrastructureâ) used in
+     areas such as digital identity, registries, messaging, or interoperability layers can be
+     reused and adapted across institutions and borders, enabling multi-vendor sourcing and
+     reducing dependence on a single supplierâs roadmap or licensing model11. This
+     strengthens digital sovereignty while improving resilience and upgradeability.
+
+10
+  https://www.blackduck.com/content/dam/black-duck/en-us/reports/rep-ossra.pdf
+11
+  https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/10/enabling-digital-innovation-
+in-government_ae259f62/a51eb9b2-en.pdf
+                                                                                                                5
+Sovereign Tech Agency GmbH Â· Gartenstr. 7 Â· 10115 Berlin Â· Germany Â· www.sovereign.tech Â· info@sovereign.tech
+Sovereign Tech Agency GmbH Â· Gartenstr. 7 Â· 10115 Berlin Â· Germany
+
+    Open source also enables upstream security improvements that benefit all downstream
+    users simultaneously. Targeted maintenance and security hardening of widely used
+    libraries and infrastructure components reduces systemic risk across multiple public
+    services, rather than shifting risk between proprietary vendors. While transition and
+    integration costs exist, sustained investment in shared open-source components lowers
+    total cost of ownership over time by avoiding repeated licensing, duplicated
+    development, and crisis-driven remediation following security incidents or vendor
+    withdrawal.
+
+    Key assessment factors: switching and exit costs, standards compliance, supplier
+    concentration, maintenance activity, vulnerability management capacity, total cost of
+    ownership.
+
+3. What concrete measures and actions may be taken at EU level to support the
+   development and growth of the EU open-source sector and contribute to the EUâs
+   technological sovereignty and cybersecurity agenda?
+
+    Strengthen and scale the existing Sovereign Tech Fund
+    Calls to establish an EU-level Sovereign Tech Fund reflect the demonstrated success of
+    the existing Sovereign Tech Fund, in operation since 2022. Established by the German
+    government and operated by the Sovereign Tech Agency, it already functions in practice
+    as a European mechanism for securing and maintaining critical open-source
+    components used across the EU and globally. The issue at stake is therefore not the
+    absence of a European Sovereign Tech Fund, but how the existing and proven
+    instrument is recognised and reinforced in line with past EU Open Source Strategies and
+    the forthcoming Open Digital Ecosystem Strategy. With the establishment of the Digital
+    Commons EDIC, in which the Sovereign Tech Agency is active on behalf of Germany, an
+    EU-level framework for coordinated investment in shared digital commons and
+    infrastructure is now in place.
+
+    Experience demonstrates that building an effective, upstream, maintainer-centric
+    funding mechanism cannot be achieved quickly through the creation of new structures.
+    Establishing additional EU-level funds or agencies would risk duplicating an already
+    functioning instrument, slowing delivery, and dispersing scarce expertise, while offering
+    no clear added value in terms of security or resilience. Action at EU level should
+    therefore focus on scaling what already works.
+
+    In practice, the Sovereign Tech Fund contracts upstream maintenance, security
+    hardening, and stewardship work for critical open-source components that underpin
+    public-sector and commercial digital systems. Evidence shows that under-maintenance
+    of widely used open-source dependencies is a source of cybersecurity and resilience
+
+                                                                                                                6
+Sovereign Tech Agency GmbH Â· Gartenstr. 7 Â· 10115 Berlin Â· Germany Â· www.sovereign.tech Â· info@sovereign.tech
+Sovereign Tech Agency GmbH Â· Gartenstr. 7 Â· 10115 Berlin Â· Germany
+
+     risk.12 Procuring maintenance and security work at the software infrastructure layer
+     delivers high leverage relative to cost.13
+
+     The Sovereign Tech Fund should be used as the primary vehicle for EU-level investment
+     in the maintenance and security of critical open-source infrastructure, aligned with
+     priorities under NIS2, the Cyber Resilience Act, and the technological sovereignty
+     agenda. The DC-EDIC could serve as an appropriate coordination and relay mechanism,
+     avoiding the creation of parallel structures while enabling EU funding to be deployed
+     rapidly and effectively.
+
+     Prioritise open source in public procurement and digital government
+     Issue EU-level procurement guidance and model clauses that enable contracting for
+     maintenance, upstream contribution, and long-term support, rather than only feature
+     delivery. Procurement frameworks should support multi-vendor sourcing, reuse of open-
+     source digital building blocks, and exit-friendly arrangements to reduce lock-in.
+     Procurement is one of the EUâs strongest demand-side levers. Without reform, open-
+     source adoption risks being re-captured into proprietary service models that undermine
+     sustainability and technological sovereignty. EU-level action could therefore focus on
+     lowering structural procurement barriers by developing:
+     â¢ reusable model contracts;
+     â¢ practical evaluation guidance for procurement officers on security, interoperability,
+        governance, and sustainability of open-source solutions and vendors;
+     â¢ shared registries or directories of evaluated open-source solutions and components
+        (building on existing national or European initiatives), to support reuse and reduce
+        duplication of assessment efforts.
+
+4. What technology areas should be prioritised and why?
+
+     Security-Critical Infrastructure
+     Encryption implementations, authentication systems, and core cryptographic libraries
+     should be the EU's top investment priority. These components protect every layer of
+     digital society and economy yet are chronically underfunded relative to their importance,
+     often maintained by small teams despite being embedded in millions of systems.14 15
+     Simultaneously, the emergence of quantum computing requires proactive migration to
+     quantum-resistant algorithms. Investments should also support modernisation of legacy
+     security code where needed, as older implementations often lack the architectural
+     flexibility to integrate post-quantum algorithms, carry expanded attack surfaces from
+
+12
+   https://www.enisa.europa.eu/sites/default/files/2026-
+01/ENISA%20Threat%20Landscape%202025_v1.2.pdf
+13
+   https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/document/funding-
+open-source-case-study-sovereign-tech-fund
+14
+   https://github.blog/open-source/inside-the-breach-that-broke-the-internet-the-untold-story-of-log4shell/
+15
+   https://arxiv.org/abs/2412.05887
+                                                                                                                7
+Sovereign Tech Agency GmbH Â· Gartenstr. 7 Â· 10115 Berlin Â· Germany Â· www.sovereign.tech Â· info@sovereign.tech
+Sovereign Tech Agency GmbH Â· Gartenstr. 7 Â· 10115 Berlin Â· Germany
+
+     deprecated features, and impose maintenance burdens that discourage new
+     contributors. Code modernisation efforts should also consider sustainability, audibility
+     and memory-safety.
+
+     Software Security and Regulatory Compliance Infrastructure
+     Package managers, dependency resolution systems, and software bill of materials
+     (SBOM) tooling form chokepoints where a single vulnerability can cascade to millions of
+     downstream applications.16 This priority gains urgency with the Cyber Resilience Act and
+     related legislation, which create new requirements for vulnerability disclosure, security
+     maintenance, and supply chain transparency for products incorporating open-source
+     components. Public investment serves a dual purpose: improving baseline security while
+     helping European open source sector meet compliance obligations without the burden
+     falling on under-resourced maintainers. Funding reproducible builds tooling, SBOM
+     generation, and secure package distribution ensures regulatory requirements translate
+     into sustainable security improvements.
+
+     Operating System Foundations and Embedded Systems Tooling
+     Core operating system components and tooling for embedded systems development
+     underpin government IT, cloud computing, and connected devices across automotive,
+     medical, industrial, and telecommunications sectors. A significant share of global
+     internet traffic flows through networking equipment built with open-source embedded
+     systems tooling, and virtually every server depends on the same set of core operating
+     system components.17 Public investment scales efficiently because improvements
+     benefit all downstream users across sectors simultaneously, while reducing Europe's
+     dependence on proprietary alternatives.
+
+     Open Standards and Reference Implementations
+     Open standards are only as valuable as the implementations that bring them to life.
+     Without high-quality, freely available reference implementations, standards risk
+     remaining paper exercises or becoming captured by vendors who control the dominant
+     proprietary implementations.18 The EU should focus on investments in developing and
+     maintaining open-source reference implementations for strategically important
+     protocols and data formats, particularly in areas such as digital identity, secure
+     communications, document interchange, and federated services. These reference
+     implementations serve multiple functions: they validate that standards are
+     implementable, provide a baseline against which compliance can be tested, lower
+     barriers to entry for the European Software sector, and ensure that interoperability
+     remains grounded in publicly auditable code rather than dependent on any single
+
+16
+   https://ieeexplore.ieee.org/document/10621686
+17
+   https://ieeexplore.ieee.org/document/6786606
+18
+   https://journals.open.tudelft.nl/jos/article/view/7140
+                                                                                                                8
+Sovereign Tech Agency GmbH Â· Gartenstr. 7 Â· 10115 Berlin Â· Germany Â· www.sovereign.tech Â· info@sovereign.tech
+Sovereign Tech Agency GmbH Â· Gartenstr. 7 Â· 10115 Berlin Â· Germany
+
+     vendor's interpretation. This approach also strengthens Europe's voice in international
+     standards bodies, where standards often follow implementation capacity.
+
+5. In what sectors could an increased use of open source lead to increased
+   competitiveness and cyber resilience?
+
+     The greatest competitiveness and resilience gains arise in sectors characterised by high
+     dependency on shared software components, long system lifecycles, and asymmetric
+     risk between upstream maintenance and downstream use.
+
+     Cloud, edge, data, and AI-dependent industries.
+     Open source underpins most cloud, data, and AI stacks. Increased use of open source
+     reduces dependency on dominant non-EU platforms, supports competition in services
+     and deployment, and lowers systemic risk through shared maintenance of widely reused
+     components.
+
+     Critical infrastructure sectors (energy, transport, communications).
+     These sectors increasingly rely on software-intensive systems built on shared open-
+     source dependencies.19 Given the high prevalence of outdated and under-maintained
+     components cited in industry audits, upstream investment in open-source maintenance
+     and security has a direct impact on operational resilience and supply-chain security in
+     safety-critical environments.
+
+     Public administration and digital government.
+     Open source enables interoperability, reuse across administrations and borders, and
+     greater control over maintenance and securityâkey factors for resilience and long-term
+     cost efficiency.20 Public procurement can also act as a powerful demand-side lever:
+     empirical evidence from national procurement policies that explicitly favoured open
+     source shows that sustained public demand can increase upstream contributions, firm-
+     level adoption, start-up formation, and employment, with productivity and
+     competitiveness gains accruing domestically.21 This demonstrates that digital
+     government can actively shape resilient open-source ecosystems when procurement is
+     used strategically.
+
+19
+   https://www.linuxfoundation.org/research/energy-transformation-readiness-
+2023?hsLang=en&_gl=1*w6d57h*_up*MQ..*_ga*MTgxODMxNjIxNC4xNzcwMDMyMDcw*_ga_FBYHX832ZD*czE3
+NzAwMzIwNjkkbzEkZzAkdDE3NzAwMzIwNjkkajYwJGwwJGgw*_ga_BKD8K5CRV0*czE3NzAwMzIwNjkkbzEkZzA
+kdDE3NzAwMzIwNjkkajYwJGwwJGgw
+20
+   https://openknowledge.worldbank.org/entities/publication/c9b2358e-16e0-5144-83fe-e4abe719f073
+21
+   https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3355486
+                                                                                                                9
+Sovereign Tech Agency GmbH Â· Gartenstr. 7 Â· 10115 Berlin Â· Germany Â· www.sovereign.tech Â· info@sovereign.tech

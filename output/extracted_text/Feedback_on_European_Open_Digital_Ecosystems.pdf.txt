@@ -1,0 +1,165 @@
+Ref. Ares(2026)1029733 - 29/01/2026
+
+   Feedback on European Open Digital
+              Ecosystems
+
+Srdjan Randjelovic
+1. Strengths, weaknesses, and barriers to adoption
+and sustainability
+
+Strengths
+
+Europe possesses deep engineering talent and a mature
+research base that has consistently contributed to
+foundational open-source projects. Public institutions
+across several Member States have demonstrated that open
+technologies can deliver robust, interoperable digital
+servicesâparticularly where long-term maintenance and
+vendor independence matter most. Open source is already
+embedded in 70â90% of modern software stacks, meaning
+targeted interventions in sustainability and security yield
+disproportionate returns across the entire digital economy.
+
+Weaknesses and barriers
+
+The critical failure point is not project inception but long-
+term maintenance. Core libraries and infrastructure
+components often rely on precarious funding models and a
+handful of overextended maintainers. This fragility
+propagates upstream: when foundational elements lack
+sustainable governance, everything built atop them inherits
+that risk.
+
+Public procurement remains structurally misaligned with
+open-source realities. Tenders typically reward one-off
+delivery rather than ongoing maintenance, security
+patching, or community stewardshipâeffectively
+penalising the very activities that ensure longevity.
+Meanwhile, open-source-native companies face uneven
+access to growth capital; investors still struggle to model
+revenue around community-driven development, leaving
+promising ventures stranded between seed funding and
+scale.
+
+Infrastructure dependencies compound these issues.
+Hosting, CI/CD pipelines, artifact storage, and coordinated
+vulnerability disclosure are not optional extrasâthey form
+the operational backbone of viable ecosystems. Yet they
+are routinely underfunded and fragmented across
+jurisdictions.
+
+In regulated sectors, the obstacle is rarely license cost. It is
+integration complexity, compliance traceability, and the
+absence of reference implementations that demonstrate
+operational readiness within EU legal frameworks.
+
+2. Added value of open source for public and
+private sectors
+
+Open source delivers concrete advantages where lock-in
+carries strategic risk. Systems built on transparent
+foundations can be independently audited, forked if
+necessary, and integrated without proprietary gatekeeping.
+This directly affects procurement leverage and exit options
+ânot as theory, but as operational reality.
+Security improves not because "many eyes" magically find
+bugs, but because open toolchains enable supply-chain
+visibility, faster patch propagation, and third-party
+validation of critical components. Closed stacks obscure
+dependencies; open ones expose themâmaking
+remediation possible before incidents escalate.
+
+For SMEs, open source lowers the barrier to compete on
+service quality, integration expertise, and domain
+specialisation rather than reinventing foundational layers.
+Public institutions gain lifecycle resilience: budgets shift
+from perpetual licensing toward targeted investment in
+maintenance, customization, and skillsâaligning
+expenditure with actual value delivery rather than vendor
+dependency.
+
+3. Concrete EU-level measures
+
+       â¢Treat maintenance as strategic infrastructure. Fund
+       multi-year stewardship of critical componentsânot
+       just code development, but security hardening,
+       documentation, release engineering, and governance
+       capacity. The focus must shift from "starting
+       projects" to sustaining what already works.
+       â¢Reform public procurement templates to explicitly
+       accommodate maintenance contracts, security
+       update SLAs, and managed services. Enable public
+       bodies to purchase sustainability, not just initial
+       delivery.
+       â¢
+       â¢Establish shared "foundation infrastructure":
+       neutral hosting, build/release systems, vulnerability
+       coordination platforms, and artifact distribution
+       networks. These should operate as public digital
+       goods, not commercial dependencies.
+       â¢Streamline administrative pathways for open-
+       source SMEs seeking growth capital. Reduce
+       friction in accessing EU innovation funds while
+       preserving community governance models that
+       resist extraction.
+       â¢
+       â¢Fund practical adoption enablers: reference
+       architectures for legacy integration, migration
+       playbooks for regulated sectors, and interoperability
+       testing against dominant proprietary stacks.
+       Adoption stalls at the integration layerânot the
+       license layer.
+
+4. Priority technology areas
+
+Prioritise layers where dependency risk concentrates and
+value extraction occurs:
+       â¢Cloud and AI infrastructure (orchestration, data
+       platforms, MLOps tooling)âthese determine where
+       economic value accrues and where external
+       dependencies embed most deeply.
+       â¢Cybersecurity fundamentals: SBOM generation,
+       dependency provenance, vulnerability coordination,
+       and reproducible builds. These are baseline
+       requirements for trustworthy supply chainsânot
+       optional enhancements.
+       â¢Open hardware and edge/HPC toolchains where
+       feasible. Technological sovereignty spans the full
+       stackânot just software.
+       â¢
+
+5. Sectors where open source can raise
+competitiveness and cyber resilience
+
+       â¢Public administration: where auditability,
+       interoperability, and lifecycle cost control directly
+       impact service resilience and citizen trust.
+       â¢Automotive and advanced manufacturing:
+       software-defined systems now drive
+       competitiveness; open stacks enable faster iteration,
+       supply-chain transparency, and vendor
+       diversification.
+       â¢Healthcare and finance: sectors where traceability,
+       controlled change management, and regulatory
+       alignment benefit from verifiable components and
+       auditable workflows.
+       â¢Critical infrastructure operators: where long-term
+       maintainability and supply-chain security are non-
+       negotiable strategic requirements.
+       â¢
+Cross-cutting constraint: energy and grid capacity
+Scaling European cloud and AI capacity faces a hard
+operational constraint: predictable, affordable energy and
+timely grid connections. This is not an energy policy debate
+âit is a practical reality for data centres and HPC facilities.
+Without addressing this physical bottleneck, even the most
+promising open ecosystems struggle to scale inside Europe.
+The strategy should acknowledge that digital sovereignty
+requires physical infrastructure readiness. Concurrently, it
+can promote energy-efficient software practices (profiling,
+scheduling, optimisation tooling) and encourage
+procurement criteria that reward measurable efficiency and
+total lifecycle costânot just licensing terms.
+
+Submitted as written feedback only. Not seeking
+employment or follow-up engagement.

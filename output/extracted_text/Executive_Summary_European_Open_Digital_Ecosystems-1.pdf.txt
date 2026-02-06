@@ -1,0 +1,54 @@
+Ref. Ares(2026)163389 - 08/01/2026
+
+        From Open Components to Governable Digital
+                     Ecosystems
+                                      Executive Summary
+
+Submission to: European Commission â Call for Evidence on European Open Digital
+Ecosystems (Q1 2026)
+
+Context and Problem Statement
+European policy discourse increasingly recognises open source, open standards, and
+interoperability as strategic pillars for digital sovereignty, competitiveness, and cybersecurity.
+However, current policy and funding approaches exhibit a structural gap: while openness is
+promoted at the component and project level, insufficient attention is paid to the architectural
+layer required to make open systems governable, auditable, and operable at institutional
+scaleâparticularly in regulated public sectors such as healthcare, cloud infrastructure, and
+critical digital services.
+
+As a result, Europe continues to produce high-quality open components while remaining
+dependent on externally governed platforms that provide the missing integration of identity,
+policy enforcement, execution control, and auditability. This creates a contradiction between
+stated sovereignty objectives and actual deployment realities.
+
+Key Evidence and Observations
+â¢ Open source alone does not prevent lock-in; governance, identity, and policy layers determine
+real autonomy.
+â¢ Current funding models disproportionately favour large consortia, excluding solo developers
+and microâ SMEs who maintain foundational infrastructure.
+â¢ The discontinuation of cascade funding mechanisms (e.g. NGI) has reduced support for
+precisely the actors most critical to ecosystem resilience.
+â¢ Regulated domains require explicit accountability, escalation paths, and evidence
+continuityâfeatures rarely specified in open digital initiatives.
+
+Architectural Insight
+The core challenge is not a lack of innovation or talent, but the absence of shared architectural
+contracts that translate openness into operational capability. Successful platforms dominate not
+because of superior infrastructure, but because they provide integrated governance: unified
+identity, enforceable policy, deterministic execution boundaries, and verifiable audit trails.
+Without an equivalent open and Europeanâ governed substrate, digital sovereignty remains
+aspirational.
+
+Implications for EU Policy
+To achieve the objectives of the European Open Digital Ecosystems Strategy, policy
+instruments must evolve from supporting isolated projects to enabling shared architectural
+foundations. This includes funding and recognition for architectural definition work, sustained
+support for independent maintainers, and explicit linkage between openness and governance
+requirements in regulated sectors.
+
+Investing in this missing layer would unlock existing open source capacity, reduce systemic
+dependency on externally governed platforms, and allow European institutions to deploy open
+technologies with confidence, accountability, and public trust.
+
+Author: Seyed Reza Tousi
+Date: January 2026

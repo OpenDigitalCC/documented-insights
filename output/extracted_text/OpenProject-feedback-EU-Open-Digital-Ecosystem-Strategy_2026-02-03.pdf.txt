@@ -1,0 +1,199 @@
+Ref. Ares(2026)1224615 - 03/02/2026
+
+OpenProjectâs feedback to The European Open Digital
+Ecosystem Strategy
+
+1. Strengths and weaknesses of the EU open-source sector and
+main barriers
+Strengths of the EU open-source sector
+From OpenProjectâs perspective, the EU open-source ecosystem has developed significant
+structural strengths over the past years.
+   â¢   First, awareness and acceptance in the public sector are clearly increasing. Open source
+       is no longer seen primarily as a technical alternative, but as a strategic instrument to achieve
+       digital sovereignty, interoperability, transparency, and long-term cost control. Initiatives
+       such as Schleswig-Holsteinâs open-source strategy demonstrate that these goals can be
+       achieved and could be implemented at scale. A European exchange of experiences fosters
+       this new open source approach.
+   â¢   Second, the EU benefits from a strong engineering, research, and SME base. A growing
+       number of European companies build sustainable business models around open source
+       software, increasingly also in coordinated, ecosystem approaches such as openDesk, La
+       Suite, or Mijn Bureau. Those initiatives should even more collaborate on a European level.
+       And also much smaller open source projects are growing. This strengthens European
+       technological capacity while keeping value creation local (public money invested in the EU
+       (and not shipped overseas) ends in public code).
+   â¢   Third, many established open-source projects operate with mature governance structures
+       and a proven track record for successful public and private usage at scale, including
+       predictable release cycles, transparent decision-making, and traceability of changes. These
+       characteristics are particularly relevant for public-sector use and larger organizations, where
+       accountability and auditability are critical. There are already many great success stories of
+       open source software implementation, also from our side.
+Weaknesses and structural challenges
+Despite these strengths, several systemic weaknesses remain to be solved:
+   â¢   A key challenge is procurement and adoption. Public administrations frequently develop
+       or procure similar solutions in parallel, apply inconsistent evaluation criteria, and rarely
+       reuse solutions across organisational or national boundaries. This limits efficient scaling and
+       slows down learning effects.
+   â¢   Underfunding of maintenance remains a challenge. Essential work such as security
+       hardening, documentation, accessibility improvements, and support is rarely financed
+       sustainably. A stronger and more consistent preference for open-source solutions in public
+       procurement would significantly improve the sustainability of open-source vendors and their
+       ability to invest in long-term maintenance.
+   â¢   Furthermore, there are skills and capacity gaps within (public) administrations. Many
+       organisations lack experience with open-source-specific procurement and also usage,
+       internal service ownership, technical maintenance and structured contribution processes,
+       including legal and security reviews for upstream contributions.
+   â¢   Many organizations underestimate the change management aspect while managing the
+       transition from closed source to open source. Such a transition is a major change initiative
+       for organizations and should be prepared and executed carefully. Users switching to new
+       OSS products need guidance on their journey of change (e.g. education on FOSS, support in
+       use case translation from one product to another, trainings).
+   â¢   Education on FOSS, also outside of a technical bubble, is very relevant. Especially many
+       decision makers on C-level do not necessarily understand the benefits of FOSS products and
+       communities. There are many myths on open-source, which need to be addressed. A proper
+       education on FOSS and exchange of experiences could speed up transition from closed
+       source to open-source.
+Main barriers to adoption, maintenance, and sustainable contributions
+From our experience, the most significant barriers include:
+   â¢   Procurement practices that favour proprietary models, focusing on short-term feature
+       comparisons (e.g. Jira vs. OpenProject, Microsoft vs. ...) rather than long-term public value,
+       reuse potential, sovereignty, and maintainability. OSS-specific procurement is still not very
+       common and not yet the preferred option.
+   â¢   Perceived risks from open source, especially around security and continuity, but also loss
+       of efficiency, despite the transparency and auditability benefits that open source provides.
+   â¢   High friction for public-sector contributions and adaption, caused by unclear legal
+       guidance, missing Open Source Programme Offices (OSPO-like structures), and the absence
+       of standardised processes for the possibility of contributing improvements upstream. As well
+       as a lack of accompanying necessary change processes within the organization to foster the
+       adoption. OSS implementations often fail not because of the product, but because of a lack
+       of project management and change management, training, and ownership.
+Addressing this was already identified as a priority in the Commissionâs Open Source Software
+Strategy.
+2. Added value of open source for public and private sectors
+Added value for the public sector
+Open source creates concrete and measurable value for public administrations.
+   â¢   A central benefit is digital sovereignty and control over data and deployment.
+       Administrations can self-host solutions or select trusted EU-based hosting providers, retain
+       control over sensitive operational data, and reduce structural dependencies on non-EU
+       hyperscalers or single vendors. OpenProject explicitly supports both self-hosting and EU-
+       based hosting models to meet these requirements.
+   â¢   Open source also reduces vendor lock-in and improves interoperability. Open standards
+       and transparent interfaces make it easier to switch providers, audit integrations, and ensure
+       long-term access to all data.
+   â¢   Furthermore, transparency and auditability are intrinsic advantages. Access to source
+       code enables security reviews, compliance verification, and public accountability, which are
+       particularly important in critical public services.
+   â¢   Finally, open source enables reuse at scale. Once a solution is adopted and improved by one
+       administration, it can be reused by others, reducing duplicated spending and accelerating
+       digital delivery across the public sector.
+Added value for the private sector
+   â¢   Also for private sector the same benefits of digital sovereignty and data ownership apply.
+   â¢   For private organisations, open source enables faster innovation and broader ecosystem
+       choice. Companies can integrate, extend, and adapt software without restrictive licensing
+       constraints and collaborate more easily across organisational boundaries.
+   â¢   At the same time, switching costs and dependency risks are reduced. The ability to audit
+       code, self-host, or source support from multiple providers mitigates systemic risks
+       associated with single-vendor dependency.
+   â¢   Invest in European open-source technologies would result in many new jobs within EU
+       and would boost European economy. A study by Cigref gives a very tangible simulation
+       on that (source: https://www.cigref.fr/technological-dependence-on-american-software-and-
+       cloud-services-an-assessment-of-the-economic-consequences-in-europe).
+       â¦ 80% of total spending on cloud software and services for business use in Europe went to
+           US companies, representing a volume of â¬265 billion.
+       â¦ This spending, relating exclusively to cloud software and services for business use,
+           represents approximately 2 million direct, indirect, and induced jobs in the US.
+       â¦ The study also considers future scenarios. If 15% of this spending were retained within
+            the European economy by 2035, around 500,000 direct, indirect, and induced jobs
+            would be created, benefiting the European economy.
+Concrete example: OpenProject
+OpenProject is an open-source project management and collaboration software supporting classic,
+agile, and hybrid teams. It is widely used in public - as well as private-sector companies where data
+sovereignty, security, accessibility, and transparency are mandatory requirements.
+Open source is not just software, it shapes working methods, collaboration, and responsibility. OSS
+forces organizations to take transparency, collaboration, and responsibility seriously. This is
+particularly relevant in project management, where silos, shadow plans, and lack of transparency
+are common.
+OpenProject is often chosen because it enforces this transparency, not despite it.
+In practice, public administrations evaluate open-source solutions like OpenProject against criteria
+such as:
+   â¢   lock-in risk and exit options (data portability, interoperability),
+   â¢   security and compliance posture (auditability, updates, transparency),
+   â¢   hosting and data residency options (self-hosted or EU-based hosting),
+   â¢   total cost of ownership over the full lifecycle, not only initial licensing costs.
+   â¢   the option to collaborate on product development with the open source community, provide
+       feedback, sponsoring, or even upstream contributions with own developments (we have
+       quite a few success stories here for "private money, public code, public know-how").
+
+3. EU-level measures to support the open-source sector and
+technological sovereignty
+Procurement and adoption
+Procurement criteria should be modernised to explicitly value open source and open standards,
+portability, security maintenance commitments, and proven community governance, rather
+than (proprietary) vendor reputation alone. The EU should make âreuse firstâ a practical reality,
+supported by reusable building blocks, reference architectures, and clear guidance on when to reuse,
+buy, or build.
+In addition, OSS-friendly procurement such as frameworks or purchasing systems should be
+expanded to enable SME participation and to procure maintenance and support, not just the initial
+delivery.
+Organizations should be vigilant about"open washing"- when companies, especially big tech
+companies, falsely brand their products as âsovereignâ or open source or open standards to gain
+trust or market share while maintaining proprietary control. This deceptive marketing can lead
+organizations to adopt products that do not truly offer the transparency, flexibility, or data
+sovereignty they expect. It's especially crucial when evaluating so-called "sovereign" solutions from
+big tech companies, as these may still involve dependencies, jurisdictional exposure, or hidden
+vendor lock-in.
+Sustainability and maintenance funding
+Maintenance should be treated as critical digital infrastructure. Multi-year, outcome-oriented
+commitment is needed for security updates, dependency management, accessibility, documentation,
+and localisation.
+Targeted support should focus on critical dependencies and public-sector backbone tools,
+including collaboration platforms, identity systems, document collaboration, and interoperability
+components, building on the Commissionâs existing strategic direction.
+We as open source providers need predictability (multi-year contracts, clear responsibilities). Any
+short-term project funding or one-off contracts do little to foster innovation and sustainability.
+Without planning security, us as European OSS providers find it difficult to compete with US
+corporations.
+Security
+EU-level support mechanisms could include coordinated vulnerability disclosure support,
+funded security audits for widely used projects, and practical secure-by-design guidance
+tailored to open source.
+Shared compliance artefacts such as templates, checklists, and reference controls would
+significantly reduce duplicated compliance work for both OSS suppliers and public buyers.
+Capability building
+Public administrations should be supported in establishing OSPO-like structures, alongside
+standardised contribution policies covering legal, security, and release management aspects,
+enabling sustainable upstream contributions instead of local forks.
+
+4. Priority technology areas
+From OpenProjectâs perspective, priority should be given to horizontal enablers that create
+leverage across sectors:
+   â¢   Secure collaboration and productivity tools for the public sector (project and portfolio
+       management, collaboration workflows, knowledge management, document management), as
+       they are foundational for delivery capacity and cross-organizational coordination and
+       currently face high lock-in risks.
+   â¢   Interoperability and data portability tooling (open APIs, open standards, integration
+       layers, identity federation) to reduce fragmentation and enable cross-border services.
+   â¢   Cybersecurity foundations for open source, secure build pipelines, signing, and
+       vulnerability management, to reduce risks.
+   â¢   Cloud and deployment sovereignty enablers, such as container orchestration and
+       sovereign on-premises hosting to preserve choice of hosting and jurisdiction.
+   â¢   Trustworthy and open AI, 6including open and auditable AI models, transparent training
+       and inference pipelines, and AI tooling that can be deployed and operated under public-
+       sector control. Prioritising open approaches to AI is essential to avoid new forms of lock-in,
+       ensure accountability, and enable responsible use of AI in public administration. See AI not
+       as a âproductâ but as a function within existing open source stacks.
+These priorities align closely with the Commissionâs focus on autonomy, reuse, and security.
+
+5. Sectors with high potential for competitiveness and cyber
+resilience gains
+An increased use of open source would be particularly impactful in:
+   â¢   Public administration and government services, where large portfolios of internal and
+       citizen-facing systems could face sanctions and will benefit from reduced lock-in, higher
+       transparency, and greater sovereignty.
+   â¢   Critical infrastructure and regulated sectors such as energy, transport, health, public
+       safety, which require transparency and resilience against concentrated dependencies.
+   â¢   Education and research, where open collaboration, reproducibility, and skills development
+       are natural fits.
+   â¢   SME, open source ecosystems, where it enables collaboration, building strong European
+       companies and foster the open source ecosystems and partnerships.
+After all, across all sectors, open source improves cyber resilience through transparency, the
+ability to self-host, and reduced single-supplier risk.

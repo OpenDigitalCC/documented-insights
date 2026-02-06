@@ -1,0 +1,232 @@
+Ref. Ares(2026)1207884 - 03/02/2026
+
+Val Markovic
+Zagreb, Croatia
+25th January 2026.
+
+                                                                       European Commission
+                                                                       DG CNECT (Unit E.3) and
+                                                                       DG DIGIT (Unit B.2)
+
+Feedback on Initiative âTowards European open digital ecosystemsâ
+
+Reference: Ares(2026)69111
+
+Stakeholder Background & Expertise
+I am submitting this feedback in my capacity as a Software Engineer and Open Source ContribÂ­
+utor based in Croatia. My perspective is informed by a career dedicated to building the types
+of scalable, mission-critical digital infrastructures that the Commission identifies as vital for EU
+technological sovereignty.
+
+After completing my BS and MS in Computer Science at the University of Zagreb, I spent 15 years
+in Silicon Valley as an engineer and technical lead at Google, Meta, Microsoft, and LinkedIn.
+In these roles I was responsible for setting technical strategy in departments of hundreds of
+engineers and leading the development and maintenance of software systems generating tens of
+billions of dollars in annual revenue. All of these systems heavily utilized open source software.
+
+Additionally, as an active member of the open source community for over 25 years, I have
+contributed to dozens of projects and have created and maintained open source software utilized
+by millions of users. [1], [2]
+
+Having returned to the EU, I am deeply interested in helping the initiativeâs goal to âsupport the
+development and growth of the EU open source sector and contribute to the EUâs technological
+sovereignty and cybersecurity agendaâ. [3]
+
+I declare no relevant conflicts of interest. Specifically, I maintain no financial relationships with
+any US-based technology companies or their subsidiaries.
+
+                                                 1
+Response to Question 3
+I want to focus my feedback on the third question posed in the Commissionâs Call for Evidence:
+
+Question 3: What concrete measures and actions may be taken at EU level to support the
+development and growth of the EU open source sector and contribute to the EUâs technological
+sovereignty and cybersecurity agenda?
+
+I propose several concrete measures and actions.
+
+Provide an EU equivalent to the brilliant German Sovereign Tech Fund, opening an avenue
+for open source software (OSS) projects that directly benefit the EU to seek EU funding. Require
+that all such projects license their code under strong copyleft licenses like the GPLv3, AGPLv3,
+and the EUPL. Require open governance structures. Ensure that the economic value created
+through public funding remains available to the public.
+
+Create an EU version of Google Summer of Code. Such a program would provide additional
+monetary rewards for open source contributions to projects that fit the EUâs desired open source
+focus areas (cybersecurity, EU technological sovereignty and similar). Determine a list of key
+open source projects the EU would wish to see more contributions to. Publish a call for proposals
+from OSS maintainers working in these focus areas and explicitly invite the identified projects
+to participate in the program. Do not limit the program only to students, but reserve a portion of
+funding exclusively for students to support the next generation of OSS contributors. Model the
+EU program after Google Summer of Code which is widely regarded and known to work well.
+
+Create a publicly funded EU R&D Laboratory to produce open source software for public
+benefit. It would be similar to the European Organization for Nuclear Research (CERN) and the
+European Molecular Biology Laboratory (EMBL), but focused exclusively on producing open
+source software the EU needs and which the private sector does not believe to be profitable
+enough to invest in.
+
+The US government funds Department of Energy National Laboratories and Technology
+Centers [4]. These are predominantly focused on R&D for ânational securityâ (largely nuclear
+weapons), but they also significantly contribute to open source. The EUâs equivalent institution
+would instead focus entirely on open source software.
+
+The EU has no problem investing billions of euros in funding CERN and the EMBL for unprofÂ­
+itable yet societally valuable scientific research; development of open source software benefiting
+the EU should be no different. The private sector will not fund open source R&D that improves
+the security of our energy grid or the resilience of our communication networks. The EU must.
+
+Since all software produced by such an R&D institution would use the European Union Public
+Licence (EUPL) [5], private institutions could freely extend, contribute back to and ultimately
+
+                                                2
+profit from its development. Red Hat, Inc. makes billions of dollars in yearly revenue selling
+software based on and built around the open source Linux kernel. [6]
+
+Unlike CERN and the EMBL, such an EU open source R&D institution would produce output
+through its work (critical OSS infrastructure) that would directly economically benefit EU
+companies and citizens, boosting economic growth.
+
+This institution would be an attractive destination for the EUâs brightest young software
+engineers, reducing brain drain and improving the EUâs talent competitiveness. They would
+further develop their skills and roots in EU communities, likely resulting in their permanent
+commitment to the region.
+
+Mandate that all projects receiving EU funding must publish all created software under
+copyleft open source licenses (GPLv3, AGPLv3, and the EUPL). This would directly improve
+cybersecurity because EU citizens could inspect the source code and report security issues at no
+additional cost to the EU. It would also spur innovation because other EU citizens and companies
+could extend the software to support new initiatives and use cases. Due to copyleft licenses, these
+changes would also be contributed back to the public, creating a virtuous cycle of improvement
+and value creation that is common in open source.
+
+Mandate that private software stores support publishing, distributing and installing softÂ­
+ware without requiring approval from the store operator. Current mobile store practices
+from Google and Apple are a direct and present danger to EU technological sovereignty. Today
+it is not possible to publish software (open source or proprietary) for Appleâs mobile devices
+(iOS) without Appleâs explicit approval of each application. Googleâs Android supports installing
+software without using Googleâs Play Store (which they pejoratively call âsideloadingâ), but
+Google is actively working on making this process âhigh frictionâ [7] with the obvious goal of
+eventually preventing it altogether. Google (and Apple) take a cut of all app distribution through
+their stores; the ability to distribute apps without using Googleâs app store is a âmissed revenue
+opportunityâ.
+
+The exclusive control US tech giants exert over mobile app distribution is fundamentally
+incompatible with EU technological sovereignty and cybersecurity.
+
+Since these companies are under US jurisdiction, if any EU citizen, company or government
+institution decided to publish any software the US government found undesirable, the EU would
+have no recourse. If the US government mandated the removal of an application from mobile
+app stores, Google and Apple would be forced to comply.
+
+Imagine the next global pandemic happens and an EU public health institution wants to publish
+an app urging vaccination. Are we certain the current US government wouldnât object? Would
+we be willing to wager EU public health on it?
+
+                                                3
+While the Digital Services Act is a step in the right direction, it does not take away the power
+of US tech giants to a priori decide which software can be published for their platforms. While
+Google and Apple say their tight control over app distribution is required for user security, this
+is a false dichotomy that happens to align with their economic interests.
+
+The open source Linux desktop operating system experiences fewer security breaches than
+Googleâs and Appleâs proprietary mobile operating systems without mandating prior, centralized
+approval of all software. Linux does optionally provide centralized app distribution through
+built-in package managers, but users are free to install software from any source. Clearly, strong
+platform security does not require centralized software approval.
+
+The desktop computing market does not have this problem. While proprietary software stores
+exist for these platforms, their usage is not mandatory. Anyone can publish an application for
+Windows, macOS or Linux without requiring approval from a for-profit corporation.
+
+Had the desktop computing market followed the path of the mobile computing market where all
+app distribution is controlled by monopolistic for-profit corporations, the open source software
+movement would have never formed.
+
+Since the desktop computing market share is declining as younger generations shift to mobile-
+only lifestyles [8], we must act now to reclaim technological sovereignty and improve EU
+cybersecurity or risk becoming permanent technological vassals of the United States.
+
+Mandate the ability to install alternative operating systems on all mobile devices sold in
+the Union. Through cryptographic methods, Apple makes it impossible for the average user to
+replace the iOS operating system on their mobile device. [9] It is possible (though very difficult)
+to do so on Googleâs Android mobile devices, but Google is making it increasingly difficult. [10]
+
+This too is fundamentally incompatible with EU technological sovereignty and cybersecurity
+because Apple and Google have the ability to remotely force the removal or installation of
+any app on iOS and Android (respectively), including forcing installation of new operating
+system versions. If a US court order demanded US tech giants remove an app the US government
+dislikes (even if the app was developed in the EU and published exclusively for the EU market),
+Apple and Google would be forced to comply.
+
+Future US legislation could force Apple and Google to forcibly deploy an operating system
+update for their mobile platforms that contains security backdoors for exclusive use of the
+US Intelligence Community. The EU would have no ability to prevent deployment of such an
+update, no way to remove it and no alternative operating system to install on these devices.
+
+There are communities willing to provide alternative, open source operating systems for these
+platforms. GrapheneOS is one such example [11] and exists only because Android is open source.
+It is significantly more secure and private than Googleâs version of Android. [12]
+
+                                                4
+Mandating the ability to install alternative operating systems on all mobile devices would directly
+benefit EU technological sovereignty, cybersecurity and innovation. Open source implementaÂ­
+tions of mobile operating systems would be able to compete with proprietary ones like they can
+on the desktop market. Increased competition would lead to better products, more innovation
+and lower prices for EU citizens.
+
+Conclusion
+Recent geopolitical developments have highlighted the risks of the EUâs dependence on US-
+controlled technology. The open source software movement has the will and the ability to
+provide solutions to this problem, but itâs hampered in this mission by several factors:
+
+â¢ Lack of regulation mandating US tech giants allow easy installation of alternative operÂ­
+  ating systems on their mobile devices which are the future of personal computing. This must
+  change if the EU is to develop any meaningful technological sovereignty. Rent-seeking for-
+  profit corporations will not willingly give up tight control of these platforms as it is simply too
+  profitable; Appleâs Services gross profit margin reached a record 76.5% in the first quarter of
+  fiscal 2026. [13] Such eye-watering margins do not exist in competitive markets and are only
+  possible through monopolistic market domination.
+â¢ Lack of regulation mandating all projects receiving EU funding publish all created softÂ­
+  ware under copyleft open source licenses. EU citizens are paying for this software, yet it
+  remains locked away from the public. This is detrimental to the EUâs cybersecurity, innovation
+  and economic growth.
+â¢ Lack of EU funding for critical open source projects that benefit the public. The EU should
+  apply successful funding models that directly or indirectly fund open source projects, like the
+  German Sovereign Tech Fund, Google Summer of Code and the US Department of Energy
+  National Laboratories. It should also apply institutional funding models like CERN and the
+  EMBL to open source R&D. All such funding must require the software to be published under
+  copyleft licenses so that the public can durably benefit from its investment.
+
+Respectfully,
+
+                                                                                    Val Markovic
+
+                                                 5
+Bibliography
+[1]   S. V. Markovic, âSigil (application).â [Online]. Available: https://en.wikipedia.org/wiki/Sigil_
+      (application)
+[2]   S. V. Markovic, âYouCompleteMe.â [Online]. Available: https://github.com/ycm-core/
+      YouCompleteMe
+[3]   European Commission, âTowards European open digital ecosystems,â Ares(2026)69111, Jan.
+      2026.
+[4]   United States Department of Energy, âNational Laboratories and Technology Centers.â [OnÂ­
+      line]. Available: https://www.energy.gov/national-laboratories
+[5]   European Commission, âEuropean Union Public Licence.â [Online]. Available: https://eupl.eu/
+[6]   W. Chen, âRed Hat Enterprise Linux Revenue Statistics,â Dec. 23, 2025. [Online]. Available:
+      https://commandlinux.com/statistics/red-hat-enterprise-linux-revenue-statistics/
+[7]   A. Sharma, âGoogle confirms 'high-friction' sideloading flow is coming to Android,â Jan. 18,
+      2026. [Online]. Available: https://www.androidauthority.com/google-sideloading-android-
+      high-friction-process-3633468/
+[8]   âDesktop vs Mobile vs Tablet Market Share Europe,â Feb. 2026. [Online]. Available: https://gs.
+      statcounter.com/platform-market-share/desktop-mobile-tablet/europe#monthly-200901-202601
+[9]   Apple Inc., âBoot process for iPhone and iPad devices,â Feb. 18, 2021. [Online]. Available:
+      https://support.apple.com/en-gb/guide/security/secb3000f149/web
+[10] A. Li, âGoogle says Android Open Source Project not being 'discontinued' amidst Pixel change
+     impacting custom ROMs,â June 12, 2025. [Online]. Available:
+     https://9to5google.com/2025/06/12/android-open-source-project-pixel-change/
+[11] GrapheneOS Contributors, âGrapheneOS.â [Online]. Available: https://grapheneos.org/
+[12] GrapheneOS Contributors, âGrapheneOS.â [Online]. Available: https://grapheneos.org/features
+[13] Apple Inc., âFY26 Q1 Consolidated Financial Statements,â Jan. 2026. [Online]. Available:
+     https://www.apple.com/newsroom/pdfs/fy2026-q1/FY26_Q1_Consolidated_Financial_
+     Statements.pdf

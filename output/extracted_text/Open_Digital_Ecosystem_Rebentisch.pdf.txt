@@ -1,0 +1,142 @@
+Ref. Ares(2026)280827 - 12/01/2026
+
+European Open Digital Ecosystem
+
+ 1. What are the strengths and weaknesses of the EU open-source sector? What are the main
+ barriers that hamper (i) adoption and maintenance of high-quality and secure open source; and
+ (ii) sustainable contributions to open-source communities?
+ 2. What is the added value of open source for the public and private sectors? Please provide
+ concrete examples, including the factors (such as cost, risk, lock-in, security, innovation, among
+ others) that are most important to assess the added value.
+
+The strategic map concerning 'added value' opportunities was well described in
+the previous 2020-2023 strategy of the European Commission and there is not
+so much to add there except that the urgency to take action has been raised with
+the Draghi and Letta reports, geopolitical uncertainty and the increased
+importance of digital sovereignty. One could streamline the new strategy based
+on that analysis, ensuring a more long-term consistent view. The focus has
+shifted from open source ecosystems themselves to using open source as a
+leverage to advance broader policy goals, such as digital sovereignty and
+strengthening the European Union's position on the global digital stage. The
+2020-2023 Strategy [C(2020) 7149 final] is still spot on:
+
+Open source impacts the digital autonomy of Europe. Against the hyper-scalers in the cloud, it is
+likely that open source can give Europe a chance to create and maintain its own, independent digital
+approach and stay in control of its processes, its information and its technology, because:
+    -â   open source is independent of companies and countries. It minimises the risk of vendor
+         lock-in and getting caught up in political shenanigans or trade disputes;
+    -â   open source is the leading model and inherently provides the most flexible platform for
+         software development at the digital frontier, from blockchain, high-performance computing
+         and artificial intelligence to the internet of things;
+    -â   by leveraging open source, Europe can devise an approach to cloud computing and
+         software-as-a-service that balances their advantages and risks; being open promotes trust in
+         the Union and its institutions
+
+    -â
+What has changed, however, is the emergence of new legal instruments in
+Europe,       such    as    the   Cyber Resilience Act, which includes a specific
+terminological framework for open source and related statutory exclusions.
+Additionally, new digital market instruments like the Digital Markets Act must
+be taken into account. In these cases, evolving regulatory measures should be
+accompanied by tangible, complementary support: in the case of the CRA, by
+providing capacity for digital security on foundational layers such as open
+source programming libraries; in the case of the DMA, by supporting open
+source challengers to gatekeepers; and in the case of the AI Act, by envisaging
+activities related to (Cloud and) 'AI development'. â
+â
+In Germany some Federal States and the national level have adopted
+preferential provisions for open source in public sector use (e.g. OZG 2.0,
+EGov Law in ThÃ¼ringen etc.). A concern here is the fragmentation and slow
+adoption pace among Federal states, the European level could provide
+harmonisation or technical assistance in defining such clauses - where desired
+for public bodies, member states, federal states and municipalities - and issue
+European recommendations to that end.
+
+    3. What concrete measures and actions may be taken at EU level to support the development and
+    growth of the EU open-source sector and contribute to the EUâs technological sovereignty and
+    cybersecurity agenda?
+
+      1.â EU License Lacuna: The European level offers the European Union
+          Public License (EUPL), an open source copyleft license tested in all 27
+          member states and available in all European languages. However, no
+          equivalent exists for the more common and more simple case of
+          non-copyleft licenses. Quite a few state-owned enterprises and public
+          sector suppliers outright ban copyleft licenses. To address this gap, it is
+          suggested to additionally introduce a European non-copyleft license, so
+          European projects do not need to use U.S. licenses like Apache or MIT,
+          which do not fully fit our legal systems and require attribution to U.S.
+          technology centers unrelated to the European code and its stewardship.
+          The EU should further adopt a unified instrument for non-open source
+   code transparency (âshared sourceâ, for open hardware licenses based on
+   CERN proposals and an instrument for open source AI as defined by OSI.
+2.â Sustainable contributions and maintenance: The well-known cartoon
+   example of the âunknown maintainer in Nebraskaâ highlights the need to
+   support obscure critical components of modern software infrastructure.
+   The OFE has proposed an EU Sovereign Tech Fund to address this issue,
+   as current policies do not provide sufficient tools or resources. Germanyâs
+   Sovereign Tech Fund, with an annual budget of 30 million EUR, could
+   serve as a blueprint for an EU-wide implementation. The European
+   Union could also ensure maintenance volunteers receive attribution by
+   an EU open source maintainer price..
+3.â Given the importance of Open Source for the European industry and the
+   leverage for the single market, the creation of a new European Agency
+   for Open Source is suggested. At present, 30 EU agencies in the member
+   states serve European agendas.
+4.â The European Union should identify key open source conferences and
+   provide limited institutional funding and capacity building for open
+   source conferences. I mean established formats such as Europython,
+   Fosdem, OFE Open Source Policy Summit, Libre Graphics Meeting,
+   Open Tech Summit, Kubecon, and KDE Akademy. It should also promote
+   the creation of EU steward organisations established in Europe. Such a
+   program could also include travel assistance for European researchers
+   and open source stewards to attend key conferences in Europe and
+   abroad, such as Fossasia in Hanoi.
+5.â For cybersecurity, the ENISA should be tasked to commission open
+   source code reviews and fix issues that have been found, moving from a
+   reactive to a proactive stance. The development of static analysis tools
+   should be featured.
+6.â The European Union should provide substantial financial assistance for
+   the generic prototype EUOS public sector Linux. It would then be usable
+   in European product regulation as a reference system for electronics
+   manufacturers to disclose Linux platform support and, where applicable,
+   potential mandatory cross-platform support, such as in the context of
+   antitrust settlements.
+7.â The European level should investigate and seek a solution for the HDMI
+   2.1 interoperability case. HDMI Forum Rejects Open-Source HDMI 2.1
+   Driver Support Sought By AMD - Phoronix
+   8.â The EU should provide a new European ICT Standard Setting
+       Organisation for the 80:20 cases of XML / JSON / Open API formats,
+       where data formats and interfaces are well describable in technical
+       description languages. The pace of the existing SSOs is not useful for
+       these cases.
+   9.â The EU should seek to overcome its dependency on the Windows API
+       platform. For this reason, bridge technology should be supported by
+       substantial capacity building.
+   10.âThe EU should ensure that the development of web browser technologies
+       becomes less dependent on the reconnaissance-based business models of
+       the advertisement industry. Complementary to privacy regulation, the
+       EU should support web browsing technologies to the end to enhance the
+       privacy and security of users. After all, the currently dominant web
+       browser engines have roots in European open source.
+
+4. What technology areas should be prioritised and why?
+5. In what sectors could an increased use of open source lead to increased competitiveness and
+cyber resilience?
+
+I would recommend to focus on the âCore Platform Servicesâ under the Digital
+Markets Act, Annex I of the CRA implementing regulation Class I Important
+products with digital elements. Furthermore generic indispensable workplace
+software such as Office Productivity Suites and high-value industrial and
+automotive platforms, including ERP interoperability solutions such as
+e-Invoicing, and also the inter-banking transfer / digital euro as prioritised by
+the European Central Bank.
+
+Furthermore, the robust enforcement options under Article 7 of the DMA
+concerning video communications interoperability would benefit from
+reference implementations and platforms prepared for enhanced video call
+interoperability. In this context, the Janus WebRTC server from Naples plays a
+central role in all open video communications solutions.
+
+Justification: As a complement to regulatory action in these same prioritised
+fields; areas where there is strong political will to act or that are of critical
+importance to Europe's industrial positioning

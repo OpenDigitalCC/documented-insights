@@ -1,0 +1,307 @@
+Ref. Ares(2026)1209690 - 03/02/2026
+
+       EU Open-source Digital Ecosystems Consultation Submission
+              Global Forum for Media Development (GFMD)
+
+Submitted by: Bojana KostiÄ â Senior Digital Policy Advisor, GFMD
+
+Contact: bkostic@gfmd.eu
+
+Submission date: 3 February 2026
+
+About GFMD: Established in 2005, the Global Forum for Media Development (GFMD) is the
+largest global community for media development, media freedom, and journalism support
+organisations. As a not-for-profit, Belgian-registered AISBL (PIC number: 882063681 and EU
+Transparency Register number: 406057138984-97), GFMDâs main focus is to foster
+collaboration as well as an exchange of information and experience amongst its network of
+currently 219 member and partner organisations from over 80 countries with the aim to foster
+viable and independent journalism, greater transparency, and more pluralistic and sustainable
+media environments.
+
+GFMD represents a broad cross-section of the international media development and
+journalism support community and includes a significant proportion of actors from the Global
+Majority and across Creative Europe countries. It enjoys the authority, credibility, and
+independence to act as a trusted partner, and is thus well positioned to take a leadership role
+in the sector. Over the years, GFMD has strengthened its capacity and reputation both as a
+media development and journalism support network, but also as an advisor and consultant to
+intergovernmental organisations and major donors working in the field of media assistance.
+
+GFMDâs strongly independent profile is underpinned by a democratically elected governance
+structure that draws on multiple skills and diverse backgrounds. Since its establishment, it has
+embraced the principle of equality among members from different parts of the world in its
+constitution, work ethics, and objectives. Regional diversity, local expertise, and autonomy of
+the members are deeply rooted principles in GFMDâs network and actions.
+
+Rond Point Schuman 6, Box 5, Brussels 1040, Belgiumâ    â    â      â       â       â          1
+PIC: 882063681 | EU Transparency Register: 406057138984-97
+1. What are the strengths and weaknesses of the EU open-source sector? What are
+the main barriers that hamper (i) adoption and maintenance of high-quality and
+secure open-source; and (ii) sustainable contributions to open-source
+communities?
+
+Strengths and Weaknesses â Some of the strengths of the sector include (1) the many
+open-source communities that exist throughout Europe with dedicated, knowledgeable
+individuals actively building open-source tech across various networks and associations
+(ranging from the highly technical Chaos Computer Club of Germany, to the more
+business-centric Eurostack initiative), and (2) a growing awareness of and significant will to
+address the pitfalls of being depending upon closed-source tech, specifically from technology
+companies originating from outside of Europe. And despite the widespread (and often
+extractive, non-licensed) use of open-source technology and its value within commercial tech,
+Europe has a significant opportunity to be seen as the opposite â a support of and investor in
+such open-source technologies and communities.
+
+Amongst the weaknesses, it includes the lack of sustained channels for financing open-tech
+development, innovation, and market expansion since the overall landscape is not effectively
+distributed nor positioned to address consumer needs and expectations â notably there is a
+lack of tech tools to effectively support multi-person collaboration in an accessible,
+easy-to-use, and efficient manner.
+
+Moreover, keeping talent in Europe to build, contribute to, and commercialise existing
+bottom-up, open-source initiatives are also a challenge, but one that can be rectified with
+better support, subsidies, and incentives as well as focusing more on the educational system
+and talent pipeline for technology development, ranging from more support for secondary
+school and university programmes, training opportunities, digital literacy support, and other
+opportunities to build open-source capacity.
+
+Fragmentation could be a barrier as well, especially for scaling, considering Europeâs linguistic
+and market diversity across Member States. Yet, cross-border networks, local/national
+associations, clubs, and hackerspaces, and even regional/international bodies like the
+RÃ©seaux IP EuropÃ©ens (RIPE) community and Europe-wide conferences and gatherings help
+to bring those gaps.
+
+An interesting dynamic for the Commission and other EU bodies to consider is the policy,
+regulatory, and legal landscape, as it is both a potential strength and a potential weakness. On
+the one hand, it is fostering demand for sovereign, European-led, and compliant tech products
+and solutions â both within the public and private sectors, and amongst businesses and
+consumers. On the other hand, however, it often adds additional compliance burdens on
+smaller open-source projects and small- and medium-sized enterprise (SME) tech providers,
+especially if they are not formally incorporated and act as a loose network of developers and
+engineers working on mutually beneficial projects.
+
+Rond Point Schuman 6, Box 5, Brussels 1040, Belgiumâ    â    â       â       â       â      2
+PIC: 882063681 | EU Transparency Register: 406057138984-97
+As such, policy and regulatory development related to open-source technologies requires a
+space for meaningful engagement and the interaction of various stakeholders â from small,
+do-it-yourself (DIY) communities to large-scale product developers. Even though their ethical
+working principles of open-source tech are the same, their audiences and user bases are
+typically different. Thus, the European Commission is rightly positioned to address their needs
+and affordances through dialogue and by providing spaces to collaborate.
+
+Lastly, one of the biggest considerations for the EU is the public sectorâs role in open-source
+development, adoption, and commercialisation. Europeâs public sector has a huge role to play
+here, as examples from Denmark, Austria, and Germany migrating to European,
+open-source-centric tech providers demonstrate. It cannot be stressed enough how important
+government procurement, investments in public-interest digital infrastructure, and institutional
+adoption play in facilitating wider open-source support and adoption. Easing procurement
+barriers that favour established vendors (and changing incentive structures and procurement
+rules that favour European, open-source, and public-interest technology) could be a significant
+way to support open-source technologies, all while strengthening European digital sovereignty,
+independence, and resilience as well.
+
+Barriers â Regarding barriers, even though it is easy to understand the downsides of vendor
+lock-in from a cost, security, and access perspective, ultimately, accessibility, ease of use, and
+reliability will always be key drivers for mass adoption â whether for business-to-business
+uses or business-to-consumer, but especially the latter. This is, in our view, the greatest
+challenge â someone experiments with an open-source solution, it does not meet the same
+expectations (even if it provides relatively analogous functionality) â due to issues ranging
+from lack of money for support to not having enough features or the ability to integrate easily
+with existing services. Additionally, open-source developers often work on projects as a
+passion, but sustained use of open-source tools especially at scale requires significant
+resources, innovation, and expertise. Without long-term support, true innovative potential will
+be missed along with the lack of the ability to scale in a meaningful way, especially to new
+markets or customers.
+
+Another barrier to consider is the inherent tension between transparency and accountability,
+which are fundamental to the open-source ethos, and security vulnerabilities that can exist
+with publicly visible code along with the resource challenge of security maintenance, updates,
+patches, and the likelihood of breaking some parts of the code while updating others
+(particularly in under-resourced environments).
+
+Lastly, two other significant barriers to mention relate to licensing complexity and attribution.
+Open-source developers often experience challenges pertaining to license compatibility
+issues, intellectual property concerns, or legal uncertainty that can deter corporate adoption.
+This, coupled with the difficulty in demonstrating return on investment and/or the financial
+value of open-source contributions (despite being such an important component of the overall
+digital infrastructure landscape) could be a barrier to corporate participation, adoption, and/or
+scaling.
+
+Rond Point Schuman 6, Box 5, Brussels 1040, Belgiumâ    â     â       â       â      â       3
+PIC: 882063681 | EU Transparency Register: 406057138984-97
+2. What is the added value of open-source for the public and private sectors?
+Please provide concrete examples, including the factors (such as cost, risk, lock-in,
+security, innovation, among others) that are most important to assess the added
+value.
+
+It should be noted that open-source technologies are not a panacea. However, what is a
+unique strength for these technologies is how they are typically governed, reflective of many
+of Europeâs deepest values: democracy, consensus, cooperation, transparency, accountability,
+openness to new ideas as well as disagreement, sustainability, inclusiveness, mutual support,
+and innovation to name a few. Supporting open-source development is fundamentally aligned
+with the ethos of the European Union project.
+
+These governing values are also some of the most relevant added value for the public and
+private sectors over other kinds of technology and their development processes. Although
+closed-source or proprietary technologies are not inherently negative, when coupled with
+dominant positions and significant lobbying power regularly exercised within and across the
+critical digital infrastructure sector (as detailed in the Open Market Institute report,
+âEngineering the Cloud Commons: Tackling Monopoly Control of Critical Digital Infrastructureâ
+â
+https://www.openmarketsinstitute.org/publications/report-rethink-regulatory-approach-to-ess
+ential-cloud), dependency on those technologies often limits the innovative potential that
+comes with the open-source tech, an leads to the lack of consumer recourse for rising prices,
+the ability to migrate to other providers (i.e., vendor lock-in), the risk of surveillance or denial of
+access (as demonstrated by the case of the International Criminal Court and Microsoft â
+https://www.ejiltalk.org/justice-recoded-why-it-matters-that-the-international-criminal-court-e
+mbraced-open-source-software-and-ditched-microsoft/). In contrast, and especially with the
+proper support, open-source technology â and its underlying governance mechanisms â can
+help lower costs by, for instance, reducing licensing fees and increasing security by offering
+the ability to audit code and algorithms â returning the power and responsibility to the users.
+
+Additionally, crucial added value that open-source technology brings to both the public and the
+private sectors is interoperability. This cannot be stressed enough, and is critical to promoting
+sovereignty and resilience. Interoperability is one of the biggest antidotes to vendor lock-in
+that promotes innovation, a level playing field, and consumer choice and independence. As
+such, it should be actively prioritised and promoted since open standards, transparent
+protocols, and community-driven development naturally foster interoperability in ways that
+proprietary systems actively resist. Furthermore, interoperability and the open-source
+governance principles go hand-in-hand.
+
+Concrete examples of how the public and private sector within Europe have successfully
+adopted open-source technologies and demonstrated its value continue to grow. They include
+Schleswig-Holsteinâs âDeutschland-Stackâ vision for a digitally independent Germany and its
+switch                                     to                                    Nextcloud
+(https://nextcloud.com/blog/schleswig-holsteins-impulspapier-for-deutschland-stack-vision/),
+the     Austrian    governmentâs    switch     to    Nextcloud       and    its ecosystem
+
+Rond Point Schuman 6, Box 5, Brussels 1040, Belgiumâ    â        â       â        â       â       4
+PIC: 882063681 | EU Transparency Register: 406057138984-97
+(https://nextcloud.com/customers/nextcloud-sovereign-collaboration-austrias-federal-ministr
+y/),    and     the    Danish    governmentâs      embrace    of   open-source     solutions
+(https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/de
+nmark-embraces-open-source-software).
+
+Rond Point Schuman 6, Box 5, Brussels 1040, Belgiumâ    â    â    â      â      â       5
+PIC: 882063681 | EU Transparency Register: 406057138984-97
+3. What concrete measures and actions may be taken at the EU level to support the
+development and growth of the EU open-source sector and contribute to the EUâs
+technological sovereignty and cybersecurity agenda?
+
+(1) Expanding EU funding opportunities for open-source research and development (ranging
+from grants and Horizon programmes, to tax incentives, infrastructure support, and
+subsidies).
+
+(2) Offering significantly streamlined and less burdensome administrative/bureaucratic
+reporting for open-source communities (especially since many work on a voluntary basis) â
+this may seem at odds with the EUâs robust accountability requirements, but flexible and tiered
+reporting based on funding level, project maturity, community governance mechanisms, and
+the type of entity to which the project is awarded (along with how big that particular projectâs
+development community is) could help to alleviate it.
+
+(3) Promoting and incentivising European open-source technologies within public
+procurement processes, which could include offering preferential treatment or even mandates
+for EU-based or EU-governed open-source solutions (particularly in sensitive sectors related to
+national security, sovereignty, innovation, etc.).
+
+(4) Supporting open-source development through legal, regulatory, and policy mechanisms,
+specifically ones that advance public-interest principles within digital public infrastructure â
+principles such as but not limited to (a) ensuring it is mission-driven; (b) being rooted in open
+standards; (c) interoperable; (d) stakeholder inclusive; (e) environmentally sustainable; (f)
+decentralised; (g) emphasising transparency and public accountability; (h) community-driven;
+(i) secure and private by design; (j) inclusive of strong data governance and clear restrictions
+on use by third-parties; and (k) promoting democratic principles, both in terms of design and
+utility            (as               explained              in             this              post:
+https://www.linkedin.com/pulse/cost-control-competition-journalisms-case-public-interest-j4c
+ie/).
+
+(5) Create and facilitate new markets, tech products/services, and/or business models for
+open-source projects to be financially sustainable such as but not limited to improved tax
+treatment for dual-licensing technologies, frameworks for professional support services,
+procurement that values open-source companies, organisations, and projects, and incubators
+and accelerators for open-source startups and SMEs. In-line with sustainability considerations
+as it relates to finance and human capital, the EU could provide more financial and policy
+support, particularly related to connecting existing initiatives and assessing their potential for
+public use and scalability. This includes support for education, training, and workforce
+development for open-source projects, as well as for âcommunity infrastructureâ such as
+conferences and fora, translation services, documentation, mentorship, etc., which is
+important for building and sustaining open-source communities across borders, languages,
+generations, and markets in the long-term.
+
+Rond Point Schuman 6, Box 5, Brussels 1040, Belgiumâ    â     â       â       â       â      6
+PIC: 882063681 | EU Transparency Register: 406057138984-97
+(6) Funding security audits, bug bounty programmes, and/or invest in independent, dedicated
+security teams and help desks for critical open-source projects.
+
+(7) Lastly, designating interoperability, at minimum, as a core feature of all digital technologies
+adopted by the public sector would significantly boost the incentive to ensure private
+sector-facing technology includes it as well since the revenue opportunity from public
+procurement would justify the development investment while also facilitating new market
+opportunities within the private sector by prioritising such technologies â all while ensuring
+critical human rights safeguards are put in place.
+
+Rond Point Schuman 6, Box 5, Brussels 1040, Belgiumâ    â      â       â       â      â       7
+PIC: 882063681 | EU Transparency Register: 406057138984-97
+4. What technology areas should be prioritised and why?
+
+Technology priorities should be assessed across multiple strategic dimensions:
+
+From a user sovereignty and daily impact perspective, cloud-based infrastructure and
+services â including document editing, storage, collaboration tools, and communication
+platforms â should be prioritised. These tools affect hundreds of millions of European users
+daily and represent the areas of greatest vendor lock-in to non-EU proprietary systems.
+Supporting open-source alternatives here directly addresses both consumer choice and data
+sovereignty concerns while demonstrating tangible benefits to citizens.
+
+From a critical infrastructure and security perspective, priorities should include operating
+systems, databases, networking infrastructure, and cybersecurity tools that underpin public
+services, healthcare systems, energy grids, and telecommunications. These foundational
+technologies are essential to the EUâs technological sovereignty and resilience, and their
+open-source nature enables security auditing and reduces dependency on external vendors
+for critical systems.
+
+From a digital public infrastructure perspective, technologies that enable interoperability, data
+portability, and democratic governance should be prioritised as well. This includes identity
+management systems, data exchange protocols, and platforms for public service delivery. As
+mentioned in previous answers above, if technology is being implemented or mandated for
+the public, the public should have a say in how it is developed and what principles govern it. As
+such, open-source solutions are ideal for achieving this in practice.
+
+From an innovation and competitiveness perspective, emerging technology areas like
+artificial intelligence (AI) and machine learning frameworks, edge computing platforms,
+quantum computing, and development tools should receive support to ensure Europe is not
+locked out of future technology stacks and can compete globally while maintaining alignment
+with European values around transparency, accountability, and ethical AI.
+
+These priorities are interconnected; for example, secure foundational infrastructure enables
+trustworthy public services and innovation, which, in turn, support everyday productivity and
+collaboration.
+
+Rond Point Schuman 6, Box 5, Brussels 1040, Belgiumâ    â    â       â       â       â      8
+PIC: 882063681 | EU Transparency Register: 406057138984-97
+5. In what sectors could an increased use of open-source lead to increased
+competitiveness and cyber resilience?
+
+Cloud technologies for investigative journalism and public-interest causes â The
+Brussels-based Global Forum for Media Development (GFMD) and the Amsterdam-based
+Organized Crime and Corruption Reporting Project (OCCRP) are actively working on is the
+development of cloud technologies for the community of investigative journalism,
+accountability research, and others working on public-interest causes via the Journalism
+Cloud Alliance (JCA) (https://gfmd.info/cloud-alliance/).
+
+The JCA is addressing the critical challenges faced by investigative journalism and data
+newsrooms arising from the significant expenses and constraints associated with cloud
+computing. Through collaboration, collective action, and strategic partnerships, we are making
+cloud-based infrastructure and services more accessible, secure, affordable, and sustainable
+for newsrooms and public-interest initiatives worldwide.
+
+It exemplifies both the values of open-source and public-interest infrastructure reflected in our
+above-mentioned responses, all while demonstrably adding value and supporting innovation
+within the journalism ecosystem. Greater support for open-source ecosystems, digital
+resilience, and sovereign tech in Europe would be significant for us, since the cost of cloud
+infrastructure and services, control over journalistic data, technological self-determination,
+and the ability to innovate in the public-interest are imperative â and since the open-source
+culture that defined an earlier era of online journalism has collapsed
+(https://newsproduct.org/blog/journalism-lost-its-culture-of-sharing-heres-how-we-rebuild-it).
+It is, therefore, critical that we rebuild it, and now is our opportunity.
+
+Rond Point Schuman 6, Box 5, Brussels 1040, Belgiumâ    â    â       â       â       â      9
+PIC: 882063681 | EU Transparency Register: 406057138984-97

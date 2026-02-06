@@ -1,0 +1,97 @@
+services:
+  postgres:
+    image: pgvector/pgvector:pg16
+    container_name: documented-insights-postgres
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-sysadmin}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-changeme}
+      POSTGRES_DB: ${POSTGRES_DB:-documented_insights}
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+      - ./sql:/docker-entrypoint-initdb.d:ro
+    ports:
+      - "5432:5432"
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U sysadmin -d documented_insights"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  ollama:
+    image: ollama/ollama:latest
+    container_name: documented-insights-ollama
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama-models:/root/.ollama
+    restart: unless-stopped
+    deploy:
+      resources:
+        limits:
+          memory: 12G
+        reservations:
+          memory: 8G
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:11434/api/tags"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  python-embeddings:
+    image: python:3.11-slim
+    container_name: documented-insights-embeddings
+    volumes:
+      - ./scripts:/app/scripts:ro
+      - ./data:/app/data:ro
+      - ./output:/app/output
+      - ./sql:/app/sql:ro
+      - ./docs:/app/docs:ro
+    working_dir: /app
+    command: tail -f /dev/null
+    depends_on:
+      postgres:
+        condition: service_healthy
+      ollama:
+        condition: service_started
+    environment:
+      - OLLAMA_HOST=http://ollama:11434
+      - POSTGRES_HOST=postgres
+      - POSTGRES_DB=${POSTGRES_DB:-documented_insights}
+      - POSTGRES_USER=${POSTGRES_USER:-sysadmin}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD:-changeme}
+    restart: unless-stopped
+
+  perl-scripts:
+    build:
+      context: .
+      dockerfile: Dockerfile.perl
+    container_name: documented-insights-perl
+    volumes:
+      - ./scripts:/app/scripts
+      - ./data:/app/data
+      - ./output:/app/output
+      - ./sql:/app/sql:ro
+      - ./docs:/app/docs:ro
+      - ./lib:/app/lib          
+      - ./domains:/app/domains   
+    working_dir: /app
+    depends_on:
+      postgres:
+        condition: service_healthy
+    environment:
+      - POSTGRES_HOST=postgres
+      - POSTGRES_DB=${POSTGRES_DB:-documented_insights}
+      - POSTGRES_USER=${POSTGRES_USER:-sysadmin}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD:-changeme}
+    restart: unless-stopped
+
+volumes:
+  ollama-models:
+    driver: local
+  postgres-data:
+    driver: local
+
+networks:
+  default:
+    name: documented-insights-network

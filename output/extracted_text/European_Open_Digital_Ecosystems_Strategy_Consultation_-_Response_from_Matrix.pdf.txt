@@ -1,0 +1,570 @@
+Ref. Ares(2026)1225489 - 03/02/2026
+
+Response to Call for Evidence â â
+European Open Digital Ecosystem Strategy
+
+Response from the Matrix.org Foundation
+3 February 2026
+
+Table of content
+Introduction
+Strengths and weaknesses of the European open source sector
+    Lack of recurring scalable funding
+    Tragedy of the commons
+    Hurdles to set-up not-for-profit organisations to support the project
+    Fragmentation and lack of standardisation
+    Lack of adoption by the private sector
+The value of open source
+    Economic impact
+    Societal impact
+    Business impact
+        Impact on businesses choosing to build on open source
+        Impact on businesses choosing to use open source products
+Recommendations
+    1. More recurring contributions
+        Public procurement: mandate upstream contributions and supporting the industry
+        Promote frameworks providing a Sovereignty-check to prevent âsovereignty-washingâ
+        Mandate Contributions for Profitable Organisations
+        Set-up an EU-STF
+        Support open source projects in setting up a legal and financial structure
+    2. Unlock collaboration in the ecosystem to strengthen open source
+        Push for interoperability and open standards
+        Support open source user-facing products to improve their user experience
+        Quantify the risk of lack of digital sovereignty for private sector
+Conclusion
+
+ The Matrix.org Foundation C.I.C. â¢ 14 Turnham Green Terrace Mews, London, England, W4 1QU
+                    Registered in England â¢ Registration number 11648710
+Introduction
+We welcome the opportunity to participate in the call for evidence for the European Open Digital
+Ecosystem Strategy.
+
+The Matrix.org Foundation C.I.C. is the not-for-profit organisation responsible for being the
+neutral guardian of the Matrix open standard. Matrix is a protocol providing end-to-end
+encrypted and decentralised real-time communications, and is widely adopted (in particular
+amongst European public sector organisations) to provide sovereign, secure and interoperable
+communication and collaboration solutions. These are most often used as alternatives to
+proprietary applications like Microsoft Teams, WhatsApp, Discord or Slack.
+
+The main deliverable of the Foundation is the Matrix Specification, which defines the standard.
+The evolution of the specification is controlled by an open governance model. Matrix also is an
+open network of users and has a vibrant ecosystem of developers (both individual contributors
+in their spare time and professional developers), vendors (integrators, hosters, product
+developers) and users (individuals and professionals). This gives us a unique view into each
+of these open source ecosystem playersâ needs and challenges.
+
+As the adoption of Matrix grows amongst European public sector organisations, from national
+governments (France, Germany, Sweden, Luxembourg, the Netherlands, Belgium, Poland and
+more), to local governments, universities and multiple organisations within the European bodies,
+it is shaping up to become the standard for communication for the European Public Sector. This
+position allows us to have a good understanding of what it takes to move an entire (yet
+heterogene) industry from a closed system to an open standard.
+
+Besides, this paper has been mainly written by Amandine Le Pape who also is COO of Element,
+the leading Matrix vendor, giving her a strong understanding of the challenges of an open
+source business trying to grow by competing with a proprietary giant. Amandine is also
+the head of the Business and Impact section in the European Open Source Academy, giving her
+unique insights and approaches to the problem.
+
+ The Matrix.org Foundation C.I.C. â¢ 14 Turnham Green Terrace Mews, London, England, W4 1QU
+                    Registered in England â¢ Registration number 11648710
+Strengths and weaknesses of the European open
+source sector
+ The European open source ecosystem is very vibrant. The Open Source Impact Study
+commissioned by the European Commission in 2021 demonstrates it well. It is also much more
+fragmented and less funded than in places like the US, where BigTech companies provide
+significant support.
+
+It has always been strongly supported by the search for independence from non-European (and
+in particular American) software, and a strong sense of the need to keep sovereignty over oneâs
+data, and, as you are well aware, the geopolitical landscape is definitely accelerating this trend.
+So we gratefully welcome initiatives, like this consultation, from the European Commission and
+other European bodies to support this ecosystem.
+
+However the European open source ecosystem is facing several challenges, some specific to
+Europe, others intrinsic to open source.
+
+Lack of recurring scalable funding
+There are different reasons why open source software doesnât receive recurring funding. First,
+organisations using and benefitting from free open source software (OSS) donât understand why
+they should pay for something free (âwhy do you want me to pay for a license, the code is
+openâ, sic), not seeing the value behind investing in its maintenance. For some, the fact that
+OSS is free is even its key selling point.
+
+This has ended up popularising open source business models centered around non-scalable
+and not always recurring revenue like support or consulting.
+
+Open source software is also often mainly (if not entirely) produced and maintained by a
+community of voluntary developers, working on it in their free time and based across the world:
+if there is a central organisation managing the project, it usually is too small to have a specific
+governance or structure able to receive funds, let alone redistribute them equitably.
+
+Some organisations try to support the open source project they rely on by funding the
+development of a given feature or by contributing code, but without the subsequent funding or
+developer contribution to maintain and evolve said feature, this mostly creates a new burden on
+the project.
+
+Grants, which usually focus on supporting the development of new features or innovation, have
+also had little choice but be a one-off funding mechanism due to their structure, and the need for
+
+ The Matrix.org Foundation C.I.C. â¢ 14 Turnham Green Terrace Mews, London, England, W4 1QU
+                    Registered in England â¢ Registration number 11648710
+clear deliverables in order to release the money. They provide vital support for projects to invest
+and evolve, but the lack of followup is often an issue.
+
+The consequences of this lack of recurring funding are multiple. First the project stays limited
+by its current resources, which can be a problem if it is very popular. Popularity of an open
+source project will drive more external contributions which need to be reviewed, merged and
+supported, more feature requests, more bug fixes requests, and increase the pressure on
+security. The looming security requirements of the Cyber Resilience Act (CRA) on
+commercialised projects, might also be a deterrent for open source projects to seek commercial
+opportunities for funding, effectively reducing their potential routes for innovation.
+
+The lack of resources means that maintainers will have a hard time keeping up with security
+maintenance, bug fixes and feature evolutions, and may lead to them burning out. This at best
+makes it harder, if not impossible, to keep the software competitive against proprietary
+alternatives, and at worst, ends up in worldwide security disasters.
+
+The former is particularly true for OSS with an end-user facing interface: it is hard to build a
+competitive product without funding to support a proper product and design team, which
+is why so many open source alternatives have a subpar user experience, limiting their
+adoption.
+
+Tragedy of the commons
+Whilst open source developers are interested in making the world a better place and
+contributing value to the world, there will always be organisations trying to exploit it. Some
+legitimately, others deliberately.
+
+If the software is backed by a company, any organisation using the OSS to compete with the
+team who builds it on its own market without supporting development will hurt the project. Even
+if there is no harm meant. The upstream company will have a hard time competing on price with
+other companies providing the same software without having to bear the cost of its
+development, and will be forced to lock value behind proprietary walls in order to survive,
+lowering the bar of free features available to the ecosystem.
+
+Hurdles to set-up not-for-profit organisations to support the project
+One of the recurring themes when talking to open source project contributors is that even if
+they were getting funding, they wouldnât know how to receive it and how to distribute it.
+
+ The Matrix.org Foundation C.I.C. â¢ 14 Turnham Green Terrace Mews, London, England, W4 1QU
+                    Registered in England â¢ Registration number 11648710
+Typically, these groups are formed of a lot of independent developers, all based in different
+countries, mostly passionate about writing code, rather than the paperwork of setting up an
+organisation, even if there is often an interest in governance. So setting up a proper legal entity
+to receive and distribute funding usually comes with a lot of hurdles and questions:
+    ââ Where should it be based? The country of the leaders are not always most appropriate
+        nor not-for-profit friendly, and others may not be viable as they will require a local
+        address.
+    ââ How do I do it? It is hard and often costs money to figure out the best structure, write
+        articles of association, define contribution models, prepare annual reports, etc.
+    ââ Once I have it, how do I figure out how to redistribute the funds? Whilst there are
+        different models which work out there (e.g. Wordpressâ 5% pledge, Drupalâs contribution
+        credit system, Github sponsorsâ¦) it takes time and logistics to put it in place.
+
+Fragmentation and lack of standardisation
+One of Europeâs strengths is its diversity. But it really becomes a burden when it means it
+cannot remove existing solutions because it is too busy focusing on internecine conflicts instead
+of fighting the real enemy: the big closed monopolies.
+
+Take the example of a very current topic: open source alternatives to Office365. How many
+open source content management systems, file editing, email, calendaring, collaboration
+providers exist in Europe? How many of them lock their user into their software and grow their
+offering rather than collaborating or making it easy to switch to others for users to build their
+best Office365 open source alternatives? And thatâs ignoring governments developing their own
+suite and competing with the industry.
+
+If we want open source to be successful in replacing proprietary alternatives, we need to
+play as a team, not dilute our efforts by competing with one another, but by building one
+big market where everyone can get their share and compete with the real opponents. And
+we can do this by gathering around standards.
+
+It does come with its own toll: getting a community to agree on a standard can be time
+consuming, and a distraction from actually getting things done and improving oneâs software, in
+particular when said standard is actually developed within a big slow moving body, like IETF.
+This means that only big corporations can afford to participate and pay for the time spent and
+the travels to different meetings. We need the courage and creativity to reconsider
+standardisation processes in a way which is built for a fast paced innovation.
+
+We need to support small open source organisations in their standardisation efforts if we want
+open source to have a fighting chance against the proprietary monopolies. This requires a
+two-pronged approach of both empowering open source organisations with the tools and
+
+ The Matrix.org Foundation C.I.C. â¢ 14 Turnham Green Terrace Mews, London, England, W4 1QU
+                    Registered in England â¢ Registration number 11648710
+resources to engage with the standardisation process, whilst also breaking down these
+processes into simpler and more accessible structures.
+
+Lack of adoption by the private sector
+Whilst most public sector organisations in Europe are at least recommending, if not mandating,
+the use of open source, the open source industry canât really take off without adoption by the
+private sector.
+
+And whilst OSS is widely adopted by the private sector for some categories of software (e.g.
+core libraries, infrastructure management tooling, and more generally developer facing
+products), end-user facing applications are lagging behind.
+
+There are several reasons for this.
+
+First, BigTech is fully entrenched and has vendor-locked their users, making it extremely hard
+to move away. Whilst regulatory packages such as the DMA have made some progress in
+reducing bundling and other anti-competitive measures at the procurement stage, the reality is
+that once a lock-in has happened it is very unlikely that a private company will have the
+dedicated time and resources to move away.
+
+Second, even if the incumbent provides a way out, the company doesnât have an incentive to do
+so. Until now there was no real understanding by the private sector of the need for digital
+sovereignty. Luckily, with the threat growing, this is slowly changing, but it will take time unless
+we provide tools.
+
+And eventually, open source projects and companies, when not lacking the product and
+design nous to build appealing applications altogether thanks to a developer driven culture,
+have to juggle between the community and the customerâs needs, both of which may be
+trying to achieve different things. The community will be asking for features and user experience
+they enjoy, when the open source company may have to focus on a given user profile to keep
+the business afloat, targeting end users with different needs. And more importantly open source
+businesses cannot compete with the funding behind proprietary companies, let alone
+BigTech, when it comes to staff the product and design teams.
+
+ The Matrix.org Foundation C.I.C. â¢ 14 Turnham Green Terrace Mews, London, England, W4 1QU
+                    Registered in England â¢ Registration number 11648710
+The value of open source
+Open source software and hardware have a much wider reach than just the technology itself.
+They have an economic impact, a societal impact and an impact on businesses either building
+on it or using it.
+
+Economic impact
+From an economic perspective, the study commissioned in 2021 by the European Commission
+makes it clear, but here are few pointers:
+
+First, open source supports economic growth. Indeed, contributing to open source is an
+investment, and as the study points out, an increase of 10% in open source contributions in the
+EU would generate between 0.4% and 0.6% additional GDP per year.
+
+Then, open source increases competitiveness: with the core of the technology being a digital
+common, businesses can focus on differentiation and bringing value while users are free from
+vendor lock-in.
+
+Additionally, open source enables innovation: by bringing more eyes to a problem one can more
+easily unlock innovative solutions, as players with various backgrounds and experiences can
+come with fresh approaches.
+
+And eventually, open source can help create jobs. Again, as the study points out, a bigger and
+more competitive market creates more jobs, e.g. an increase of 10% in open source
+contributions in the EU would generate more than 600 additional ICT start-ups per year.
+
+Societal impact
+Open source is a key enabler for innovation and collaboration:
+   ââ It enables startups & research by lowering costs.
+   ââ It accelerates AI, science, and global collaboration, thanks to enabling scientific
+      reproducibility as researchers can share code and data publicly.
+   ââ It breaks geographic or corporate barriers as developers worldwide can contribute.
+   ââ It democratises access to technology and development, which in turn brings creative
+      solutions and innovation to R&D.
+
+Open source is a cultural movement.
+   ââ It promotes democracy of knowledge: anyone can learn from and contribute to the
+      source code.
+
+ The Matrix.org Foundation C.I.C. â¢ 14 Turnham Green Terrace Mews, London, England, W4 1QU
+                    Registered in England â¢ Registration number 11648710
+   ââ It builds digital literacy and education: students can study real-world codebases.
+   ââ It encourages transparency and trust, e.g. in security software, elections tech, or digital
+      rights.
+   ââ It brings accessibility (both in terms of impairment but also in terms of audience) as
+      anyone can go and play with the software.
+
+Business impact
+
+Impact on businesses choosing to build on open source
+Businesses choosing to build on open source will gain a lot of value from it.
+
+   1.â Accelerate innovation
+As explained above, open source reduces the costs of experimentation. It leverages the
+community ideas and contribution to find technical solutions and innovate faster.
+
+   2.â Cost savings
+Open source foundations allow companies to share maintenance and quality assurance,
+accelerate development and potentially time to market
+
+    3.â Focus on differentiating value rather than reinventing the wheel
+By participating in building the commodity in the open, embracing collaboration with the rest of
+the community, will enable businesses to focus efforts on the differentiating value of their
+products in the ecosystem.
+
+    4.â Improved reputation and visibility
+By being part of an open source community, a business will gain a new marketing channel and
+bring visibility of their company and products to customers, investors and potential hires. In
+particular if they work towards removing vendor lock-in, making them even more attractive to
+digital sovereignty conscious organisations.
+
+     5.â Influence
+Contributing to an open source project brings the opportunity to see oneâs product be accepted
+as a standard. If the company gains a prominent position in a community it will give them
+influence on its progress.
+
+   6.â Higher code quality and developer satisfaction
+More and more developers are looking for jobs which allow them to contribute to the greater
+good, and this is precisely what open source contribution does. Besides, working in the open
+keeps one honest on the quality of the code.
+
+ The Matrix.org Foundation C.I.C. â¢ 14 Turnham Green Terrace Mews, London, England, W4 1QU
+                    Registered in England â¢ Registration number 11648710
+Impact on businesses choosing to use open source products
+The first impact on businesses choosing to use open source products is digital sovereignty.
+The scale of it depends on the chosen product but in any case, if you use open source software
+it means you can customise it and run it anywhere you like. You are free to take control if
+you wish to.
+
+This automatically removes vendor lock-in, and even further, if the chosen software is part of a
+bigger ecosystem and you may be able to choose from a panel of vendors, in particular if the
+software uses a standard protocol, or the vendor made it easy to migrate.
+
+Open source also brings security by transparency: because the software is open, you can
+audit it, others may also already have audited it, you can trust it, unlike the black boxes of
+proprietary software.
+
+Open source should also bring the benefit of an entire community innovating, and each vendor
+focusing on bringing value on their specialised part. Although this is more true in a context of
+interoperable products.
+
+And eventually, because it is a more competitive environment (thanks to the lack of vendor
+lock-in), prices should be cheaper. However one needs to be careful about not letting the cheap
+prices be at the expense of the project itself, and be conscious about making sure the upstream
+is supported.
+
+All in all, using open source products lowers a business risk, both from a security perspective
+but also from a sovereignty one, although one needs to be careful about the amalgamation of
+sovereignty and buying European as they are orthogonal. Open source solves the sovereignty
+problem, which allows you to buy from any country because you know what is inside. If you
+choose to buy European, it should be to support the local economy, not for sovereignty reasons,
+as a proprietary European solution still vendor-locks you and still gives you a black-box you
+have no choice but trust.
+
+ The Matrix.org Foundation C.I.C. â¢ 14 Turnham Green Terrace Mews, London, England, W4 1QU
+                    Registered in England â¢ Registration number 11648710
+Recommendations
+We see two main axis in the measures and actions that can be taken at the EU level:
+   1.â Measures around ensuring there are more recurring contributions made to open source
+       software
+   2.â Measures which will help open source software compete against proprietary solutions
+
+   1.âMore recurring contributions
+As explained above, with more recurring contributions, open source projects will have more
+resources to spend on maintenance, security work, bug fixes and evolution of the product. This
+will avoid community members burn-out and ensure the longevity and quality of the software.
+These contributions could (and probably should) be both financial and human.
+
+Public procurement: mandate upstream contributions and supporting the
+industry
+Whilst the public sector is a great consumer of open source software, the procurement of the
+software and services around it often prioritises lowest prices, favouring companies freeriding
+on the software, and hurting those who actually invest in it and support it, thus bearing higher
+costs.
+
+A concrete measure would be to educate procurement professionals and ensure that any
+purchase of open source software mandates the support of the upstream project. The
+Open Source Business Alliance published last year a very relevant set of guidelines which gives
+concrete context and ideas on how this could be done, namely:
+   1.â Require a relationship with the Software Manufacturer / Community
+   2.â Ensure Upstream Publication of Modifications
+   3.â Ensure High-Quality Level 3 Support
+   4.â Secure the Supply Chain Through Support for Core Components
+
+One could add to that the idea of giving penalties for organisations not contributing upstream
+when procuring open source software.
+
+The public sector should also lead by example and should be encouraged to procure from the
+industry rather than build in-house.
+
+ The Matrix.org Foundation C.I.C. â¢ 14 Turnham Green Terrace Mews, London, England, W4 1QU
+                    Registered in England â¢ Registration number 11648710
+Promote frameworks providing a Sovereignty-check to prevent
+âsovereignty-washingâ
+Be it for the public or private sector, as digital sovereignty becomes a priority we see a lot of
+organisations jumping on the bandwagon and claiming to be âdigitally sovereignâ, when their
+solutions are entirely vendor-locked and sometimes not even under a European legal regime.
+
+To avoid this we should build and promote templates for procurement frameworks or
+questionnaires that can be reused by organisations who want to have a real
+understanding of the level of digital sovereignty a supplier is bringing. A first example of it
+was used in the recent Sovereign Cloud tender from the European Commission, where they
+âtranslated digital sovereignty into objective, measurable procurement criteria, showing a
+practical way forwardâ (source).
+
+Mandate Contributions for Profitable Organisations
+Whilst in an ideal world everyone using the OSS would contribute back, the fact it gives a free
+platform for the world to innovate is core to its raison-dâÃªtre. However there is no reason why
+very profitable organisations should not integrate at least some giving back to their development
+costs, in particular if the open source software is core to their business. Another consideration is
+that if all of the largely profitable companies contributed a little bit, the impact could be huge on
+the open source ecosystem.
+
+This could take the form of a requirement to contribute back if the organisation is
+profitable, either as direct line contribution, or a tax getting into a larger pot to be redistributed.
+A direct line contribution would have the advantages of:
+    1.â Less likely to be played by the bigger open source organisations and benefit even the
+        smaller projects the original organisation uses.
+    2.â Allowing the organisations to tailor their contribution so it reaches in priority the projects
+        which make a real impact for them.
+
+Another approach could be hybrid: private organisations contribute to a European instance
+set-up specifically to receive the funds and intentions, and redistribute to the target
+projects. Organisations would send the instance the amount of the contribution and projects
+they are targeting, and open source projects can get all donations at once. Both organisations
+and projects would only have one single entity to deal with. Examples of existing organisations
+providing this sort of services include Open Collective and Copie Publique.
+
+It is worth noting that financial contributions are not always the best solutions for open
+source projects, as they may not have the structure, or be able to scale the number of
+developers working on it, and in some cases providing expert developers who can grow
+
+  The Matrix.org Foundation C.I.C. â¢ 14 Turnham Green Terrace Mews, London, England, W4 1QU
+                     Registered in England â¢ Registration number 11648710
+their expertise and become proper maintainers of the project (as opposed to one-off feature
+contributors) might be a better way.
+
+Set-up an EU-STF
+The set-up of an European Sovereign Tech Fund could be one way to support the longevity of
+the ecosystem, in particular as more sustainable practices like procurement changes or
+potential taxes, get deployed widely.
+
+Open Forum Europeâs report provides a good starting point for the reflection around it.
+
+The key items from an industry perspective being to ensure it can support the recurring needs,
+not just one-off projects. Open Tech Fundâs FOSS Sustainability Fund might be something to get
+inspiration from.
+
+It is important to note that existing lines of funding like NGI are still key to the ecosystem
+and should be maintained: they support projects at a very early stage and fund some very
+specific projects which are always helpful. They are just not appropriate as a long term recurring
+funding mechanism and should be complemented with something more relevant.
+
+Support open source projects in setting up a legal and financial structure
+It is extremely complicated for very small (yet often critical) open source projects run by
+volunteers to figure out how to set-up an organisation to receive funds, let alone redistribute
+them amongst their contributors. The problem may be with the lead of the project who is not
+comfortable with dealing with operational matters, or the fact the project is mainly based in a
+country which doesnât have an easy way to do so. And eventually, if funds make it to the project,
+setting up a governance structure on how to redistribute them equally amongst volunteers is not
+trivial, although some projects do it well, and may create friction.
+
+Finding a way to support projects in setting up the infrastructure to receive funds and the
+governance to redistribute them amongst their contributors would be hugely beneficial for
+them to be able to receive the contributions. The work of the Software Freedom Conservancy
+may be interesting to look at.
+
+ The Matrix.org Foundation C.I.C. â¢ 14 Turnham Green Terrace Mews, London, England, W4 1QU
+                    Registered in England â¢ Registration number 11648710
+   2.âUnlock collaboration in the ecosystem to strengthen open
+      source
+
+Push for interoperability and open standards
+If we donât want a widely used proprietary technology to become the standard, we have to
+encourage open source companies to collaborate and bring a unified front around
+interoperability and open standards. This could take several forms.
+
+First it could be to financially support interoperability and open standards work in the
+industry, for example by integrating specific lines for funding in existing funding mechanisms
+(e.g. NGI).
+
+This support could help create new open standards when they donât exist. For example, there
+are a myriad of small independent players proposing one or more open source components that
+can be alternatives to Microsoft Office365. The industry would benefit from a standard that
+would allow the user to plug and play all these solutions to build their own custom Office365,
+based on what they already have or their specific needs. But that requires open source players
+to work together, build proof of concepts.
+
+Similarly, existing open standards (like Matrix) could benefit from support to implement
+certification or label programs, in order to drive adoption.
+
+And eventually, when the standardisation level reaches the need to work within bodies like IETF
+or W3C, it becomes a very expensive and time consuming work that small organisations cannot
+afford, leaving the big proprietary players to take control.
+
+So to summarise, the support towards interoperability and standardisation should help
+new standards emerge, existing standards to grow, and help small organisations to
+participate in standardisation efforts within standards bodies.
+
+And last but not least, we should not give up on the existing regulatory work promoting
+interoperability, like the Digital Market Act, ensuring there is enough budget for enforcement,
+or a different structure giving it more fire power. Another angle would be to find ways to support
+open source projects trying to implement the interoperability work.
+
+Support open source user-facing products to improve their user experience
+One key factor in the slow adoption of open source alternatives to proprietary user-facing
+applications is the often subpar user experience and polish. There may be several reasons for
+it, one being that often the development of these products are driven by developers which may
+
+ The Matrix.org Foundation C.I.C. â¢ 14 Turnham Green Terrace Mews, London, England, W4 1QU
+                    Registered in England â¢ Registration number 11648710
+not have the interest, or instincts, let alone training to get it right. But when an open source
+product is driven by a commercial company, it usually comes down to budget and focus.
+
+Budget because product and design resources are scarce and (especially good ones) very
+expensive. Open source companies often are bootstrapped and running on a shoe-string to
+keep the product secure, bug free and improving, whilst managing the communityâs
+contributions; so hiring a proper product and design team doesnât necessarily make it to the top
+of the list of investments.
+
+And focus because the revenue making customers may not be the same audience as the open
+source users, which may create conflict in product design when trying to drive revenue whilst
+keeping the goodwill of the community, who often end up becoming paying customers. Element
+is a great example of this, with the community expecting either a Discord or Signal replacement,
+and the customers looking to replace Teams, and all these three applications having a very
+different design and approaches.
+
+All in all, we donât have a concrete recommendation on how to do it yet, but we believe it is
+critical to find ways to support these organisations building user-facing products to do a
+better job of the user experience. It could be via training, workshops, funding to hire product
+or design, community workâ¦
+
+Quantify the risk of lack of digital sovereignty for private sector
+Whilst the threats of kill switch are concrete enough for top management to be aware and
+understand the high-level risk, budget distribution in organisations is always a very competitive
+process. Providing frameworks allowing the organisations to quantify said risk would
+make it easier for them to prioritise the required transition of their infrastructure (at least
+the critical parts of it) towards more secure and sovereign solutions, i.e. solutions based
+on open standards and open source.
+
+For example, in France, a Digital Resilience Index (Indice de Resilience NumÃ©rique or IRN,
+available on Gitlab) was announced at the end of January. The IRN is a framework helping
+organisations to measure their technological dependence at several levels of the organisation
+(application, data, platform, infrastructure, competencies) and alongside different angles
+(operations, technology, supply chain, data & AI, strategy, environment, security, economic and
+legal). Itâs fairly new but has been created in collaboration with several big organisations to
+ensure it would serve its purpose. The results of the analysis can help organisations prioritise
+their investment to solve the most urgent issues (if any).
+
+  The Matrix.org Foundation C.I.C. â¢ 14 Turnham Green Terrace Mews, London, England, W4 1QU
+                     Registered in England â¢ Registration number 11648710
+Conclusion
+To summarise, whilst the EU open source sector is very dynamic and, in aggregate across all
+countries, is at level with the US, it suffers from a different set of weaknesses. In particular the
+lack of recurring funding and revenue limits its evolution and scalability. Part of it is due to the
+belief that open source is free and overall lack of contribution back from organisations relying on
+open source. There are also logistical issues making it hard for some projects to set-up the right
+entity to actually receive financial contributions. Besides, the lack of interoperability and
+standardisation creates a very fragmented market which dilutes its energy competing locally
+rather than against the real threat. And eventually the lack of adoption by the private sector, due
+to lack of understanding of the added value and often subpar usability of the open source
+solution slows the growth of the ecosystem.
+
+Open source and open standards positively impact the world across the board: from the
+economy, to businesses and society at large.
+
+Our recommendations are split across two main themes. First the need for more recurring
+contributions to the projects, and second the need to unlock the collaboration within the open
+source ecosystem and with the rest of the industry to increase the use of open source and open
+standards, ultimately bringing more digital sovereignty and growth to the European economy.
+
+The former can be achieved by mandating upstream contribution within public sector
+procurement, promoting frameworks providing a âsovereignty-checkâ, mandating contributions
+for profitable organisations, setting up an EU-STF, and supporting open source projects in
+setting up legal structures and governance.
+
+The latter can be achieved by pushing for interoperability and open standards, supporting
+user-facing open source applications in their UX improvements, and providing tools for
+organisations to quantify their technological dependence to ease investment prioritisation.
+
+ The Matrix.org Foundation C.I.C. â¢ 14 Turnham Green Terrace Mews, London, England, W4 1QU
+                    Registered in England â¢ Registration number 11648710

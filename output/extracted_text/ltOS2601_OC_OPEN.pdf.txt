@@ -1,0 +1,240 @@
+Prot.Doc.: lt***2501                                                               Pag. 1
+
+                                                                                            Ref. Ares(2026)1195720 - 03/02/2026
+
+                                                                                                     To the
+                                                                                        European Commission
+
+                                                                                                          via email
+
+OC Open Consulting SB srl                                                     Ravenna (Italy), 03 Feb 2026
+       via Meucci 7
+  48121 Ravenna ~ Italy
+  Tel.: +39 0544 1766439
+    info@oc-group.eu            SUBJECT: Contribution to the Call for Evidence on the State of European
+     www.oc-group.eu            Open Source Software
+   VAT IT-02287590398
+                                Version 2.1 â Final (Policy, Ecosystem & Infrastructure-oriented)
+
+       SÃ¼dtirol Lab
+ Via R.da Sanseverino, 95       ________________________________________
+   38122 Trento ~ Italy
+                                1. Who we are
+
+                                Our company OC Open Consulting SB srl (further referred as OC) is a
+                                European âopen source e-learning and knowledge infrastructureâ company
+                                with over 20 years of experience in the adoption, development and long-term
+                                governance of open source platforms.
+
+                                We are listed in Italy as a âbenefitâ company operating for the improvement of
+                                environment, both for employees and the society.
+
+                                OC is an official service provider of ILIAS, an European open source learning
+                                and    knowledge   platform   widely   adopted     by   public   administrations,
+                                universities, research organisations and defense institutions. ILIAS is the
+                                official LMS of NATO.
+
+                                In this report we will make reference to our 20 years experience in open
+                                source e-learning projects, and give some suggestion based on our
+                                knowledge management experiences.
+
+                                OC is an active member of the ILIAS open source community, which brings
+                                together a wide European network of organisations and professionals
+                                collaborating on the development, governance and sustainable evolution of
+                                the platform.
+
+                                This community-based model represents a key strength of ILIAS, ensuring
+                                resilience, scalability and long-term continuity beyond single vendors or
+                                projects.
+
+                                      OC GROUP KNOWLEDGE IS VALUE
+Prot.Doc.: lt***2501                                                                 Pag. 2
+
+                       Operating across Europe and TÃ¼rkiye, with also customers in America and
+                       Asia, OC supports large-scale and mission-critical deployments that require
+                       not only software development, but also governance, security, interoperability,
+                       compliance, training and long-term sustainability. Ãand all this is made with
+                       open source software only.
+
+                       Our team of 15 professionals delivers end-to-end services including cloud and
+                       on-premise deployments, custom development, strategic consulting, content
+                       production, and communication and dissemination within complex EU-funded
+                       projects.
+
+                       Our work sits at the intersection of digital policy, education and skills, research
+                       and innovation, and institutional capacity building, where open source
+                       software functions as a strategic enabler rather than a standalone technical
+                       choice.
+
+                       ________________________________________
+
+                       2. Evidence from the field: open source as European knowledge infrastructure
+
+                       Based on our operational experience in the e-learning field, European open
+                       source software creates its greatest value when it is designed and governed
+                       as shared knowledge infrastructure.
+
+                       In our projects, ILIAS is used not only as a Learning Management System, but
+                       also as:
+
+                       â¢ a content and document management system,
+
+                       â¢ a repository for institutional and project knowledge,
+
+                       â¢ a platform for internal and external communication,
+
+                       â¢ a governance tool enabling auditability, traceability and regulatory
+                       compliance.
+
+                       Within our DIAMETER Horizon Europe project, involving 16 partners from
+                       multiple European countries and Australia, OC contributed to extending ILIAS
+                       as a common knowledge and communication platform for a complex industrial
+                       and research consortium.
+
+                       This included the development of SEO-oriented functionalities to improve
+                       discoverability of project outputs through search engines and AI-based tools,
+                       reducing fragmentation and dependence on external proprietary platforms,
+                       such as the US-based social networks.
+
+                       Beyond EU-funded projects, ILIAS deployments supported by OC currently
+                       serve:
+
+                           OC GROUP KNOWLEDGE IS VALUE
+Prot.Doc.: lt***2501                                                                  Pag. 3
+
+                       â¢ approximately 120,000 users in the Autonomous Province of Bolzano-South
+                       Tyrol (official citizens platform of the german-speaking minority in Italy),
+
+                       â¢ more than 43,000 users within the Belgian Ministry of Defence under a
+                       multi-year public contract.
+
+                       Across these contexts, advantages of open source results include:
+
+                       â¢ measurable reduction in the number of external proprietary tools,
+
+                       â¢ improved governance and continuity of institutional knowledge beyond
+                       project lifecycles, with reduction of supplier lock in
+
+                       â¢ increased security, auditability and compliance,
+
+                       â¢ enhanced interoperability with existing information systems through open
+                       standards.
+
+                       These use cases demonstrate that open source platforms, when properly
+                       governed within a strong community ecosystem, support knowledge
+                       continuity,   a   critical   yet   often   overlooked    requirement    for    public
+                       administrations, research and defence organisations.
+
+                       ________________________________________
+
+                       3. Key barriers to the adoption and sustainability of open source software
+
+                       Despite its strategic relevance, several structural barriers continue to limit the
+                       impact of European open source software:
+
+                       1.         Persistent misconception that open source equals âfreeâ
+
+                       Procurement and funding models often underestimate the long-term
+                       investment required for maintenance, security, governance and professional
+                       support.
+
+                       2.         Procurement frameworks focused on short-term products rather
+                       than long-term infrastructures
+
+                       Open source platforms function as evolving infrastructures, but are frequently
+                       evaluated using criteria designed for closed, vendor-centric solutions.
+
+                       3.         Economic and regulatory asymmetry with large non-EU vendors
+
+                       European open source SMEs and communities contribute to local
+                       ecosystems, upstream development and skills formation, while competing
+                       against global platforms benefiting from scale effects and market dominance
+                       (in the e-learning field the most famous is Moodle).
+
+                       4.         Insufficient recognition of knowledge sovereignty
+
+                            OC GROUP KNOWLEDGE IS VALUE
+Prot.Doc.: lt***2501                                                                  Pag. 4
+
+                       While data and cloud sovereignty are increasingly addressed, the strategic
+                       importance of controlling, preserving and reusing institutional knowledge
+                       (contents) through open platforms remains underrepresented.
+
+                       5.        Fragmentation and loss of knowledge after project completion
+
+                       Many EU-funded projects generate valuable knowledge that is not
+                       systematically preserved or reused, due to the lack of shared, sustainable
+                       knowledge infrastructures.
+
+                       ________________________________________
+
+                       4. What the European Union should do
+
+                       To strengthen the European open source ecosystem and its contribution to
+                       digital sovereignty, we recommend:
+
+                       1.        Establish structural funding mechanisms
+
+                       Support not only research and innovation, but also long-term maintenance,
+                       security and evolution of strategic open source infrastructures. Work to
+                       improve access to credit from investors, still very different scenario from US
+                       (for example, an Italian open source LMS such Docebo, migrated to USA in
+                       2013 as SAAS service, got a significan amount of investments and is today
+                       publicly listed in Toronto stock market and NASDAQ â we miss similar stories
+                       in Europe)
+
+                       2.        Adopt open sourceâaware public procurement policies
+
+                       Introduce criteria that recognise lifecycle costs, governance models,
+                       interoperability and upstream contributions, ensuring fair competition.
+
+                       3.        Promote guided adoption of open source in public administrations
+
+                       Define binding guidelines favouring open source solutions where functionally
+                       equivalent, including reuse of existing European platforms.
+
+                       4.        Invest in skills, training and professionalisation
+
+                       Support education and capacity-building programmes covering technical,
+                       organisational and governance aspects of open source software.
+
+                       5.        Strengthen institutional communication and visibility
+
+                       Actively promote European open source success stories, highlighting mature
+                       platforms and the SMEs and communities that sustain them.
+
+                            OC GROUP KNOWLEDGE IS VALUE
+Prot.Doc.: lt***2501                                                               Pag. 5
+
+                       ________________________________________
+
+                       5. Why this matters for European digital sovereignty
+
+                       European open source LMS-LCMS software is not only a technological
+                       choice, but a cornerstone of digital sovereignty, institutional resilience and
+                       democratic governance.
+
+                       By treating platforms such as ILIAS as shared European knowledge
+                       infrastructures,   sustained   by   active   communities    and      professional
+                       ecosystems, public institutions, research and industry can retain control over
+                       their knowledge, ensure interoperability, reduce dependency on external
+                       vendors and build sustainable digital ecosystems aligned with European
+                       values and long-term policy objectives.
+
+                       -------------------------
+
+                       Written by: Micaela Vichi ~ CEO
+
+                       T. +39 347 159 4044 / micaela@oc-group.eu
+
+                       OC Open Consulting srl
+
+                       T: +39 0544 1766439
+
+                       Via Meucci, 7
+
+                       48124 Ravenna (RA), Italy
+
+                       www.oc-group.eu - www.ilias.it
+
+                           OC GROUP KNOWLEDGE IS VALUE

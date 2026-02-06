@@ -1,0 +1,434 @@
+Ref. Ares(2026)1221815 - 03/02/2026
+
+Response to the European Open Digital
+Ecosystems Strategy
+Open Future welcomes the opportunity to contribute to this call for evidence, and welcomes
+the focus of the proposed strategy on open source software and technologies as a way to
+bolster digital sovereignty.
+
+Digital sovereigntyâunderstood as the âindependent and self-determined use and design of
+digital technologies and systems by the state, private organizations and individualsâ1 âis
+not merely a technological aspiration. It is the foundation of the European Unionâs ability to
+govern itself, safeguard democracy, foster prosperity, and lead the transition to a
+decarbonised economy. Without sufficient control over its digital infrastructure, the EU is
+sidelined in critical decisions about its future.
+
+A thriving open source ecosystem is the best path towards building not (just) European
+alternatives, but an ecosystem that supports alternative ways of developing technology that
+serves the needs of society. This approach goes beyond technical and economic autonomy,
+and towards a commitment to foundational values such as the respect for human dignity,
+freedom, democracy, equality, the rule of law, and human rights, as set out in Article 2 of the
+Treaty on European Union and the European Declaration on Digital Rights and Principles.
+
+In particular, in line with the recognition in the consultation of the key role played by the
+Digital Commons EDIC, the open source ecosystem should be understood not just in terms
+of products â openly licensed software code â but as digital commons. The call for evidence
+correctly identifies digital commons as shared online resources that are collectively created,
+maintained and governed by a community. Many of the open source development efforts
+targeted by this initiative also function as a digital commons, with various forms of collective
+or community governance.
+
+Digital commons underpin critical layers of the digital stack, and include web server
+software, programming libraries and protocols and operating system. Furthermore, open
+source software is a foundation for various platforms and infrastructures that function as
+digital commons. As an example, Wikipedia is built on open source code, a collectively
+managed resource, but also a knowledge platform that plays a key infrastructural role for
+various digital ecosystems, including the emergent generative AI ecosystem. Other
+
+1
+    This definition is drawn from the work of the Sovereign Tech Agency.
+examples of digital commons include platforms like Matrix, Decidim, Mastodon, or DHIS2.2
+These examples demonstrate that digital commons offer proven frameworks for scaling and
+delivering public value.3
+
+By fostering shared ownership and democratic governance, digital commons thus support
+digital sovereignty, understood not just as a stateâs ability to act independently, but also as
+providing individuals and communities with greater control over the digital environments on
+which they rely.
+
+The call for evidence emphasises the importance of a full cycle approach, considering the
+need not just to develop software, but to sustain, scale, bring to the market or the public
+infrastructures and solutions built on top of this software. This aligns with the framing of
+open source technologies as digital commons, which helps shift the focus from
+technological artefacts to the social and institutional conditions that sustain them. By
+recognising community and stewardship as core infrastructural elements, this approach
+provides the necessary foundation for sustaining, scaling, and deploying open technologies
+over time.
+
+Digital commons are also particularly suited for cooperation across Member States, as they
+address challenges that individual countries or private actors cannot solve alone. By
+enabling community-driven innovation and collective governance, digital commons provide
+a model for developing public digital infrastructure at scale. They support interoperability
+across borders, allow for cost sharing among governments, and enable national adaptation
+without sacrificing coordination. Digital commons initiatives also have the capability to
+bridge public and private sectors, while aligning with public interest goals.
+
+In this context, we respond below to the specific questions raised by the consultation, with a
+particular focus on mechanisms that support open source technologies, and the digital
+commons built on their basis.
+
+2
+  âActive communities of commoners and relevant commonsâ, a report published by CNRS as part of
+the NGI Commons project, offers an analysis of the various digital commons. See:
+https://commons.ngi.eu/2025/06/26/active-communities-of-commoners-and-relevant-commons/
+3
+  The report âDigital Commons as Providers of Public Digital Infrastructureâ offers examples of how
+digital commons function as a viable and valuable mechanism for providing digital infrastructure. See:
+https://commons.ngi.eu/2024/11/14/digital-commons-as-providers-of-public-digital-infrastructures/
+
+                                                2/11
+1. What are the strengths and weaknesses of the EU
+open-source sector? What are the main barriers that
+hamper (i) adoption and maintenance of high-quality and
+secure open source; and (ii) sustainable contributions to
+open-source communities?
+
+Strengths and Value add of Open Source and Digital Commons
+The strategy correctly identifies open source as an important way of building sovereignty,
+premised on source code availability, interoperability, and non-lock in. From the perspective
+of maintaining the self-determined use of technologies and the autonomy of institutions,
+simply switching to European alternatives that still rely on extractive and proprietary
+ecosystems that lock users into a relationship of dependence do not address the
+fundamental challenge. Further, open source is a more resilient approach to building
+meaningfully sovereign alternatives. European technology companies could still be bought
+out or acquired by foreign companies, undermining the objectives of the current push
+towards strategic autonomy. Open source based technologies in this case offer credible
+exit: institutions and businesses can more easily switch to alternative (european) providers
+without serious disruption to their activities.
+
+Further, much of the contemporary digital infrastructure is built upon Digital Commons. More
+than 70% of modern software depends on open source components. The European
+Commission's 2021 study on the economic impact of open source software and hardware
+recognized that open source software delivers a 3.5-fold return on investment and
+constitutes a form of Digital Commons requiring commons-based governance rather than
+purely market-based approaches.
+
+Barriers to Adoption, Maintenance and Sustainability
+We identify two main barriers that hamper development, adoption, and sustainability of
+open source and digital commons initiatives.
+
+Sustainable Contributions and Funding
+
+While the EU funds digital research and innovation through several programmes, the current
+model of support tends to be project-based, with limited support for continuity or scaling.
+Such a model does not meet the long-term needs of maintaining digital infrastructures. Such
+funding structures tend to incentivize feature development over critical tasks related to
+governance and sustainability. This risks leaving maintenance, security, documentation, or
+
+                                            3/11
+community building undervalued and underfunded. This gap not only undermines the
+growth of individual initiatives but prevents the emergence of sustainable Digital Commons
+that can strengthen the EUâs digital sovereignty.
+
+Beyond building technical infrastructure, deploying viable alternatives to dominant platforms
+also requires alternative business models and stewardship arrangements. Findings from the
+NGI Commons project suggest that Digital Commons rarely follow a single blueprint for
+organisational structure or governance. They evolve through processes of collective
+experimentation, in which communities iteratively develop governance and operational
+arrangements that fit their context and scale. This requires support for experimentation with
+alternative models such as cooperative ownership, public utility approaches, or
+community-governed infrastructures that can enable open technologies to mature into
+viable, sustainable alternatives.
+
+       Support for Critical Infrastructures
+
+Findings from the NGI Commons project indicate that while some digital commons may
+generate revenue through provisioning services, many foundational infrastructures may be
+unable to create viable income streams due to their open and shared nature. These
+infrastructures require direct, sustained public funding. As noted, open source and digital
+commons underlie much of the contemporary digital infrastructure, with up to 70% of
+modern software depending on open source components.
+
+While many such open source projects benefit from private contributions or commercial
+ecosystems, numerous othersâespecially small but widely used componentsâoperate
+under severe resource constraints. A 2024 survey found that 60% of European open source
+maintainers are unpaid, and most are sole maintainers of their projects. The consequences
+can sometimes manifest in the form of security vulnerabilities and governance deficits.
+
+As with any critical infrastructure, the digital systems underpinning social and economic life
+require predictable, long-term funding throughout their entire lifecycle. Public investment,
+best suited to supporting infrastructures that do not fully align with market logic, should
+enable the development, maintenance, and democratic governance of such shared digital
+resources, over their entire lifecycle, recognizing that digital commons can provide
+foundational infrastructure.
+
+Adoption Challenges
+
+The EU, through programmes such as NGI, already funds promising open source
+technologies with the potential for public value. However, these technologies also need
+demand side impetus to scale. Competing against dominant players with significant network
+effects and lock-in, as well as large amounts of capital, requires sustained and strategic
+
+                                              4/11
+procurement support. Public funding can help EU-based and open source providers scale
+and become more competitive, and more attractive avenues for further private investment.
+
+Unfortunately, current procurement practices favour established, non-EU technology
+providers and proprietary solutions, reinforcing vendor lock-in and limiting opportunities for
+European open source alternatives. By prioritizing short-term cost savings over long-term
+strategic objectives, including interoperability and autonomy, these practices de facto
+subsidize foreign technology with public funds.
+
+In the absence of a clear framework preferencing open source, as well as support and
+guidance on implementation, contracting authorities default to proprietary technologies and
+platforms. This perpetuates a dynamic where public bodies become further entrenched in
+proprietary ecosystems, public funds are not used strategically, and local or open-source
+solutions fail to receive support beyond pilot stages.
+
+Frameworks for procuring open solutions are also not tailored to the dynamics of open
+source development and address the sustainability of the ecosystem. For instance, in the
+context of open source software, public entities typically may not procure the software itself,
+which is already available under an open licence, but rather services related to support,
+operation, customisation, or further development.
+
+Overly narrow procurement criteria, such as an exclusive focus on price, can create
+incentives for practices such as underpricing tenders without allocating sufficient resources
+to in-house development or maintenance, excessive reliance on unpaid community
+contributions, or failing to contribute modifications back to the shared codebase. This
+results in value extraction from open source ecosystems and their contributing communities,
+rather than reciprocal and sustainable participation. It also places providers that invest in the
+long-term sustainability of open source ecosystems at a competitive disadvantage.
+Procurement frameworks should therefore include conditionalities that reward sustainable
+contribution practices and ensure that publicly funded improvements are made available
+upstream.
+
+2. What is the added value of open source for the public
+and private sectors? Please provide concrete examples,
+including the factors (such as cost, risk, lock-in, security,
+innovation, among others) that are most important to
+assess the added value.
+Please refer to our introductory comments and the response to Question 1 for a discussion
+of the added value of open source.
+
+                                              5/11
+3. What concrete measures and actions may be taken at
+EU level to support the development and growth of the EU
+open-source sector and contribute to the EUâs
+technological sovereignty and cybersecurity agenda?
+Reforming Funding Frameworks
+We support the key objective identified in the call, of continuing development and ensuring
+appropriate visibility of EU high-quality and secure open-source solutions and
+demonstrating their added value. To address issues of âdeployment, usability, software
+supply chain security and governance, maintenance of code and project sustainability to
+ensure take-up and upscalingâ, the EUâs approach to funding research and innovation
+requires reorientation, in alignment with the lifecycle of open source technologies and digital
+commons.
+This reorientation requires an integrated approach to funding: one that supports early
+experimentation; but also values maintenance and governance on par with technical
+innovation; and that provides medium- and long-term funding for scaling and stewardship of
+digital commons that underlie essential infrastructures.
+
+The NGI programmeâs cascade funding model is well adapted to the decentralised nature of
+open source communities, enabling a wide ecosystem of innovation and experimentation
+while maintaining alignment with EU priorities. The NGI model, which disburses funding
+through intermediaries embedded in the ecosystem, allows these organisations to leverage
+their understanding of community-driven development and domain-specific expertise. They
+can offer deeper support to applicants and grantees by providing guidance and mentorship,
+constructive feedback, and access to relevant networks.
+
+The impact of this model would be significantly strengthened if its principles were
+embedded in design choices across the EUâs wider funding architecture. This includes, for
+instance, eligibility requirements preferencing openness and interoperability, evaluation
+criteria that value governance and community sustainability, and funding instruments that
+support long-term stewardship rather than short-term delivery.
+
+Strategic Funding for Scale and Competitiveness
+
+In addition to support for experimentation and early-stage development, public funding
+should enable scaling and maturation of Digital Commons and public digital infrastructures
+that have the potential to become viable alternatives to dominant, extractive platform
+models. The focus should be on targeted and strategic support that allows commons-based
+initiatives in transitional phases to develop sustainable organisational and economic models.
+
+                                             6/11
+Commons-based alternatives must compete with incumbent platforms that benefit from
+entrenched network effects, access to capital, and closed ecosystems that externalise costs
+onto users and institutions. In this context, strategic public funding can play a
+market-shaping role by supporting scaling pathways that prioritise openness,
+interoperability, and public value, rather than extractive growth strategies.
+
+This requires funding mechanisms that go beyond short-term project grants and include
+time-bound operational support, and blended financial instruments that enable
+organisations to professionalise operations and invest in maintenance and reliability.
+
+This calls for staged or tiered funding pathways that allow successful initiatives to graduate
+to larger, multi-year support, based on rewarding maturity and governance capacity. By
+enabling promising Digital Commons to transition from prototypes into robust, competitive
+infrastructures, such mechanisms reduce dependency on closed and proprietary
+ecosystems while fostering genuinely competitive alternatives aligned with public-interest
+objectives.
+
+Support for Critical Infrastructures
+We support proposals for an EU-level instrument, such as an EU Sovereign Tech Fund
+(EU-STF), to address critical dependencies in the EUâs digital infrastructure, particularly by
+supporting strategically important open source components.
+
+Such an instrument should focus on five core activities:
+
+   ââ Systematically map open source dependencies across critical infrastructure to
+      identify under-maintained, vulnerable, or strategically important components.
+   ââ Procure and support maintainers to carry out essential upkeep of strategically
+      relevant open source projects.
+   ââ Fund security audits and expert-led interventions, delivered through trusted
+      intermediaries, to strengthen the cybersecurity posture of critical open source
+      components.
+   ââ Provide dedicated funding to enable widely used projects to improve, evolve, and
+      scale in line with strategic priorities.
+   ââ Support coordination, capacity-building, collaboration, and training across the open
+      source ecosystem to reinforce long-term sustainability.
+
+In addition to a focus on critical technical components, the scope of such an instrument
+should encompass the governance and community structures required to sustain Digital
+Commons over time. Addressing technical dependencies without investing in the social and
+organisational foundations that maintain these infrastructures risks reproducing fragility,
+rather than achieving meaningful and durable technological sovereignty.
+
+                                            7/11
+Critical open source infrastructure also underpins a resilient and pluralistic digital public
+space, including decentralized and interoperable communication platforms that support
+independence from proprietary, surveillance-driven platforms. Dependence on such
+platforms creates strategic vulnerabilities and threatens the integrity of public discourse. The
+scope of an instrument for critical open source infrastructure should squarely include
+support for decentralized alternatives to closed social media platforms.
+
+Public Procurement Support
+Public procurement can be a substantial strategic lever for digital sovereignty and support
+for digital commons. Through strategic procurement, public bodies can channel investment
+into open-source technologies, while also shaping markets in line with public values. The
+Digital Decade programme puts in place a target of moving all key public services online by
+2030. Without a coordinated digital sovereignty strategy, procurement practices can
+consolidate the dominance of proprietary Big Tech providers, instead of strengthening the
+digital commons and European industry.
+
+Public procurement reform can be central to the objective of promoting best practice and
+encouraging the public sector, specialised business sectors and large customers to
+contribute to and adopt open source. Adoption by the public sector can facilitate further
+demand from the private sector, along with being a powerful market shaping strategy to
+ensure that public funds maximise public value, through conditionalities.
+
+Strategically leveraging public procurement, can also address gaps in research and
+innovation funding, which often prioritizes early pilots over long-term sustainability and
+integration into infrastructure. Pre-commercial procurement provides a tool to steer research
+and innovation toward commercially viable solutions aligned with public needs and already
+on a pathway to adoption.
+
+The public procurement framework should embed openness, interoperability, and
+non-locking as guiding principles. This approach is central to a more assertive industrial
+policy that reframes procurement from simply a purchasing exercise into a strategic
+market-building effort.
+
+To advance this objective, procurement reform should prioritize: favor open-source solutions
+and avoid proprietary requirements that exclude open alternatives; mandate interoperability
+and exit rights, requiring that purchased systems can work together and integrate with other
+providers' services, preventing long-term dependency; demonstrable switching capability:
+for complex IT services, providers must demonstrate during the bidding process that they
+can actually transfer systems to competitors.
+
+Frameworks for procuring open solutions must also be tailored to the dynamics of open
+source development and address the sustainability of the ecosystem. Overly narrow
+
+                                             8/11
+procurement criteria, such as an exclusive focus on price, can create incentives for practices
+such as underpricing tenders without allocating sufficient resources to in-house
+development or maintenance, excessive reliance on unpaid community contributions, or
+failing to contribute modifications back to the shared codebase. This places providers that
+invest in the long-term sustainability of open source ecosystems at a competitive
+disadvantage. Procurement frameworks should therefore include conditionalities that reward
+sustainable contribution practices and ensure that publicly funded improvements are made
+available upstream.
+
+Implementing a framework that encourages (sustainable) open source procurement also
+requires providing additional guidance and support to contracting authorities, along with
+modifications to procurement rules to meaningfully prioritize open-source providers.
+
+Conditionalities related to cloud sovereignty and ecosystem sustainability need not operate
+as eligibility criteria for participation in tenders, but may instead be structured as contractual
+obligations to be fulfilled during execution. This limits excessive barriers to participation in
+tender processes, especially for SMEs, while enabling public bodies to iteratively shape
+markets and create incentives in the direction of strategic outcomes.
+
+The Digital Commons EDIC as a Coordination Vehicle
+The Strategy already recognises the synergy with the Digital Commons EDIC. The EDIC can
+play a role in meeting the objective of âsupporting market integration, especially with legacy
+systems and policy alignment.â
+
+While EU funding has launched many innovative digital projects, the absence of a stable,
+long-term institutional home for governance and stewardship means that many promising
+initiatives fail to achieve lasting impact or scalability. Alongside sustained investment in
+research and innovation, Digital Commons in particular depend on durable governance
+frameworks to ensure their continued development and uptake. Without such frameworks,
+the impact of public investment risks remaining fragmented and failing to translate into
+sustainable deployment.
+
+The Digital Commons EDIC provides the legal and operational framework for Member States
+to jointly develop, govern, and sustain digital infrastructure, enabling long-term policy
+alignment and shared cost management.
+
+The Digital Commons EDIC could act as an institutional anchor by: hosting critical projects
+and coordinating multi-country initiatives; managing funding flows to ensure continuity from
+research to deployment; maintaining shared digital tools and infrastructure for the public
+good; providing one-stop ecosystem support to both suppliers and users of open source
+technologies.
+
+                                              9/11
+For the Digital Commons EDIC to effectively fulfil this role, it must be backed by adequate,
+predictable, and sustainable resources.
+
+4. What technology areas should be prioritised and why? 5.
+In what sectors could an increased use of open source
+lead to increased competitiveness and cyber resilience?
+As noted, open source technologies and Digital Commons that underpin critical digital
+infrastructures should receive priority. These components represent the greatest vectors of
+risk from a sovereignty and cybersecurity perspective if left without sustained support.
+
+In addition, the deployment of open source and Digital Commons solutions in the public
+sector should be prioritised, as the dependence of public institutions on proprietary
+ecosystems poses a clear threat to their autonomy and ability to perform public functions.
+Change in the public sector can also have catalytic effects, channeling demand and
+investment from the private sector towards open technologies, ensuring sustainability of
+open source ecosystems, and contributing to broader shifts in market behaviour.
+
+Open and interoperable communication platforms are central to digital sovereignty. Digital
+communication platforms that shape public discourse in Europe are currently concentrated
+among a small number of dominant corporations whose advertising-driven business models
+prioritise engagement over democratic values. These platforms amplify disinformation,
+contribute to declining institutional trust, and weaken societal cohesion, posing significant
+challenges to democratic discourse.
+
+While regulatory instruments such as the Digital Services Act address platform
+accountability, they do not create the structural alternatives needed for genuinely
+democratic digital public spaces. There is therefore a need to recognise sovereign digital
+communication spaces as critical public digital infrastructure and to invest in open, publicly
+governed, interoperable, and decentralised alternatives to prevent corporate or state
+capture.
+
+In addition the EU should support a holistic public AI approach that combines measures
+related to the provision of compute, data, and AI models. Public AI represents a vision of
+open source AI development that prioritises the public interest and operates under public
+control or ownership. The AI Continent Action Plan (including Apply AI and Data Union
+strategies) includes actions that contribute to such a strategy for Europe. However, a key
+element remains missing: robust and sustained support for the development of
+state-of-the-art European open-source AI models. This gap can be explicitly addressed and
+foregrounded through the Open Digital Ecosystems Strategy.
+
+                                            10/11
+Strategically prioritising open source and interoperable technologies also has important
+implications for the cloud sector. Even with greater adoption of open source software, cloud
+infrastructure remains the foundational layer upon which other elements of public digital
+infrastructure, from government services to communication platforms, are built. At present,
+this critical layer is largely controlled by non-EU providers.
+
+Public procurement reform can create an enabling environment for directing investment to
+âsovereignâ cloud providers, by leveraging procurement at the software and platform layers
+to strategically channel demand towards providers meeting defined criteria related to the
+infrastructural layers. This can shift the cloud market towards service unbundling, mandatory
+interoperability and data portability and guaranteed migration capabilities, and transparent
+pricing. This aligns with the recognition in the call for evidence that there are synergies with
+this strategy and the upcoming cloud and AI development act.
+
+About Open Future
+Open Future (TR: 936143941653-07) is a European think tank that develops new
+approaches to an open internet that maximize societal benefits of shared data, knowledge
+and culture.
+
+                                             11/11

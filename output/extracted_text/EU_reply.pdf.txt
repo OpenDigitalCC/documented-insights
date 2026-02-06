@@ -1,0 +1,46 @@
+Ref. Ares(2026)1094093 - 30/01/2026
+
+I am writing in the name of LINBIT HA-Solutions GmbH. LINBIT is an Austrian company that writes and publishes open-
+source infrastructure software. The company was established in 2001, so it has been in existence for 25 Years. I
+adjusted the business multiple times. Today, we are about 35 FTEs (employees and freelancers) in Austria and about 10
+FTEs in the USA.
+
+We mainly sell support services and access to software repositories containing pre-built packages of the open source
+software we produce. We create storage virtualization software (âsoftware-defined storageâ), primarily for data centers
+and corporations (B2B). In that sense, LINBIT is an open-source company, as our revenue stream depends on the
+adoption and success of our open-source software.
+
+A major boost to LINBITâs success was (and is) the uncertainty and disruption created in the virtualization market
+following Broadcom's acquisition of VMware. That created a high number of organisations that decided to migrate
+away from VMWare (which was like the de facto industry standard). These VMware refugees turn in part to open-source
+hypervisors and, with that, to LINBIT for its storage virtualization solution.
+
+The EU cannot create such a global market disruption, but by setting rules for its own data-processing needs, it would
+send a strong signal to the European IT sector.
+
+Commercial software corporations (mainly from the US) influence policymakers at all levels through their lobbying
+efforts, leveraging deep pockets.
+
+The EU could help by implementing policies for its own data processing to comply with regulations mandating open
+source software in support of its digital sovereignty. A law beats a lobbying effort.
+
+I wish the EU would set up guidelines for education. Austria rolled out laptops for schoolchildren. Apart from being
+done hastily, it creates all sorts of challenges for parents who need to limit their children's digital media consumption.
+Information for parents and enforcement possibilities for limitations are coming years after as an afterthought. But the
+point I want to make is that it is a Microsoft monoculture that is presented to our children. Digital sovereignty starts in
+education.
+
+The EU should set policies requiring member states to teach their children about the existence of open-source software
+and its advantages, as well as the value of digital sovereignty. There are plenty of Laptops on the market with Linux pre-
+installed. The Linux Professional Institute has training material ready. Everything is ready, just ignored by the policy
+makers in my country. I guess it needs a clear signal from the EU to the member states to get movement in that
+direction.
+As bullet points:
+
+     â¢ We'd love to see EU guidelines to prioritize open source for EU data processing solutions.
+     â¢ We'd love to see clear signals to prioritize open source solutions in education.
+
+PS: I created this document on my Fedora Linux workstation, using LibreOffice. All open source software.
+
+Dipl.-Ing. Philipp Reisner
+GeschÃ¤ftsfÃ¼hrer LINBIT HA-Solutions GmbH

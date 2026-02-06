@@ -1,0 +1,80 @@
+Ref. Ares(2026)1225452 - 03/02/2026
+
+Call for Evidence - European Open Digital Ecosystem Strategy
+                     Erlang Ecosystem Foundation (EEF) position
+We, the Erlang Ecosystem Foundation (EEF) â a global community of people who create and work
+in several programming languages (mostly Elixir, Erlang and Gleam) that are based on the Erlang
+Virtual Machine (VM) â have for the last two years been working on community tooling and
+infrastructure to address cybersecurity issues, as well as NIS2 and CRA compliance. We are
+already the default CVE Numbering Authority (CNA) for packages in our three language spaces.
+Similarly, we intend to become a Steward as defined in the CRA.
+
+The Communityâs Security Working Group is very active and has a comprehensive roadmap for
+CRA compliance. For the last 18 months we have had a very productive joint CRA compliance effort
+that was funded by Herrmann Ultraschall, who have submitted their own statements here.
+
+  This submission provides evidence from the perspective of a small US based non-profit
+  organization developing community support for long-lived open source projects in the public
+  interest.â
+  Our Ecosystem covers three computer languages and their associated tools and libraries
+  which are all ultimately based on open source virtual machine technology developed at
+  Ericsson in Sweden over 40 years ago.â
+  The community has many thousands of actively involved developers and maintainers
+  covering over 60 thousand source code repos and packages.â
+
+1. What are the strengths and weaknesses of the EU open-source
+sector? What are the main barriers that hamper (i) adoption and
+maintenance of high-quality and secure open source; and (ii)
+sustainable contributions to open-source communities?
+We echo the position and sentiments of the Internet Society Switzerland Chapter (ISOC-CH)
+submission.
+
+2. What is the added value of open source for the public and private
+sectors?
+We echo the position and sentiments of the Internet Society Switzerland Chapter (ISOC-CH)
+submission.
+
+The value of OSS in the economy can be only partially estimated based on a fraction of the activity.
+On a per-product basis the value received for OSS by a manufacturer, minus the expenditure on
+direct OSS contribution is effectively negative because manufacturers do not, as a rule, even
+estimate or account for the value received in OSS.
+3. What concrete measures and actions may be taken at EU level to
+support the development and growth of the EU open-source sector
+and contribute to the EUâs technological sovereignty and
+cybersecurity agenda?
+  a.â Get serious about âPublic Money, Public Codeâ
+  b.â Adjust the public procurement choice algorithm from just âlowest bidder winsâ to a method
+      that ensures that upstream libraries and projects that are part of the bid are also covered for
+      maintenance and support. (Ensure that intermediaries, system houses or integrators do not
+      just undercut or free-ride off upstream projects)
+
+ We call upon the EC to leverage existing hooks in the CRA and its implementation:
+
+    1.â Hone the voluntary security attestation program into an instrument that can
+        expose the full maintenance costs of open source software. Projects should clearly
+        attest to their costs (direct and indirect) and maintenance work effort and indicate
+        their level of cost coverage from downstream consumers (e.g. âthis project is at
+        present only 25% (say) fully fundedâ).
+    2.â Establish that âdue diligenceâ under Article 13(5) involves verifying that any
+        integrated components are from âfull-fundedâ sustainable projects.
+    3.â Execute the Union-wide dependency assessment (in ADCO CRA) to further
+        increase visibility into the role of open source as the foundation of our current digital
+        ecosystem
+
+4. What technology areas should be prioritised and why?
+  a.â European based cloud infrastructure with compatible APIs for running workloads across
+      member states.
+  b.â Scalable, fault-tolerant and efficient cloud services that add utility at low compute overhead.
+  c.â Technology with European or independent (non-commercial) governance
+  d.â Technology that increases leverage of European OSS and innovation instead of solution
+      providers driving toward proprietary solutions or approaches that reinforce non-sovereign
+      outcomes.
+  e.â Deliberately seek OSS solutions instead of commercial offerings, otherwise they will not
+      mature or become viable sovereign alternatives. Choose technical applications of increasing
+      complexity and scale to manage risk, but at the same time invest directly in OSS
+      development and deployment to drive the maturity.
+  f.â To extend the above point, find ways to incentivise European companies to develop such
+      projects and services.
+5. In what sectors could an increased use of open source lead to
+increased competitiveness and cyber resilience?
+     [no response]

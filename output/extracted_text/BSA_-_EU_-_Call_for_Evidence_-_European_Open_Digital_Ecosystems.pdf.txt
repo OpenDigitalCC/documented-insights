@@ -1,0 +1,197 @@
+Ref. Ares(2026)1217924 - 03/02/2026
+
+                                                                                                 February 3, 2026
+
+    BSA CONTRIBUTION ON THE EUROPEAN OPEN
+         DIGITAL ECOSYSTEMS STRATEGY
+Response to the European Commissionâs Call for Evidence
+
+The Business Software Alliance1 welcomes the opportunity to provide input to the European Commissionâs
+Call for Evidence on the future European Open Digital Ecosystems Strategy.
+
+BSA is the global trade association of the enterprise software industry, representing companies that are
+leaders in artificial intelligence, cybersecurity, cloud computing, and other cutting-edge and breakthrough
+technologies, including quantum computing. We operate in over 20 markets in the US, Europe, and Asia,
+advocating for policies that build trust in technology so that every industry sector and the public can benefit
+from innovation.
+
+BSA supports the EUâs ambition to review its approach to open source by releasing a new Strategy, updating
+the framework introduced by the EU Open Source Strategy 2020â2023. We strongly believe in the importance
+of boosting the development and competitiveness of the EU open source sector, as well as in encouraging
+open-source uptake by private and public users. We support the goals of strengthening the position of start-
+ups in the innovation ecosystem and of pushing organizations to contribute to open-source development.
+However, to meet these objectives, careful attention should be paid to the nature of open source, which
+heavily relies on global cooperation and on the portability and reusability of software, and appropriate
+consequences should be drawn.
+
+1
+ BSAâs members include: Adobe, Alteryx, Amadeus, Asana, Atlassian, Autodesk, Avalara, Bentley Systems, Box, Cisco,
+Cloudflare, Cohere, Cohesity, Dassault Systemes, Databricks, Docusign, Dropbox, Elastic, EY, Graphisoft, HubSpot,
+IBM, Informatica, Kyndryl, MathWorks, Microsoft, Notion, Okta, OpenAI, Oracle, PagerDuty, Palo Alto Networks, PTC,
+Rubrik, Salesforce, SAP, ServiceNow, Shopify Inc., Siemens Industry Software Inc., Trend Micro, TriNet, Veeam,
+Workday, Zendesk, and Zoom Communications Inc.
+BSAâs contribution on the European Open Digital Ecosystems Strategy
+
+BSA calls for a balanced approach to the future strategy on EU open source, grounded in real-life examples
+and aiming for efficiency. In this context, BSA recommends the following:
+
+      âª   Aim for collaborative and interoperable innovation, without geographic restrictions that conflict
+          with open source principles, as well as global cooperation to adopt best practices for open source
+
+      âª   Expand the scope of the 2020-2023 Open Source Strategy while maintaining a form of
+          technological neutrality that does not prioritize open-source solutions over proprietary software,
+          but instead focuses on organizations leveraging the best available solutions
+
+      âª   Integrate the OSI definition of open source, and support the ecosystem through targeted funding
+          of open-source infrastructure
+
+      âª   Engage in structured dialogue with global open source foundations and other stakeholders while
+          strengthening existing initiatives, including cooperation with ENISA
+
+      âª   Promote open source in strategically important technologies and across the digital stack, without
+          focusing on specific applications, as well as developing strong public-private partnerships.
+
+Open Source in the European Union: Powering Innovation, Collaboration, and Growth
+High-quality, secure, and sustainable open source depends on collaborative and interoperable innovation,
+without geographic restrictions that conflict with open source principles, as well as global cooperation to
+develop and adopt best practices for open source.
+
+Open-source ecosystems foster cooperation at scale, accelerate innovation, and enable the creation of new
+businesses and services. The vast majority of software deployed today already relies on open-source
+components. By its very nature, open source is a borderless and collaborative model, enabling
+community-driven quality assurance and interoperability across platforms and sectors. This ensures
+portability and reusability of software, allowing algorithms and applications to be deployed seamlessly,
+regardless of whether they originate from European or non-European providers.
+
+The âopen source communityâ is large and diverse. It ranges from multinational, enterprise software
+companies to individual volunteers. Community members include both those who develop and maintain
+open-source software and those who consume open-source software, although in many instances,
+community members develop, maintain, and consume open-source software all at once. Open-source
+software projects may be funded, organized, governed, and sustained by organizations (e.g. governments,
+multinational corporations, academic institutions, non-profits) or individuals (who themselves may be
+affiliated with or supported by organizations).
+
+Open source development takes place through a variety of models. In some cases, it emerges organically,
+for example when projects are launched on open-source platforms, gain community traction, and gradually
+evolve into widely adopted and strategically important software. More commonly, however, industry
+participants of all sizes engage in open source by initiating or contributing to projects governed by established
+open source foundations, such as the Linux Foundation, the Eclipse Foundation, the Apache Software
+
+                                                                                                               2
+BSAâs contribution on the European Open Digital Ecosystems Strategy
+
+Foundation, and others. These foundations provide robust governance frameworks and play a critical role in
+ensuring long-term maintenance, quality assurance, security, and sustainability of open source projects.
+
+To foster the adoption and maintenance of high-quality and secure open source, as well as to promote
+sustainable contributions to open source communities, BSA suggests that the European Commission:
+    â¢ promote innovation that is global, collaborative, and interoperable by design, and avoid geographic
+       constraints or forms of lock-in that contradict the fundamental values of open source
+    â¢ cooperate with public authorities around the world to develop and adopt best practices in open
+       source.
+
+Building European Open Source on a Decade of Innovation
+The scope of the 2020-2023 Open Source Strategy should be expanded while maintaining technological
+neutrality, integrating the OSI definition of open source, and supporting the ecosystem through targeted
+funding of open source infrastructure.
+
+In the European Union, open source has been a central driver of innovation over the past decade,
+underpinning technological progress and entrepreneurial growth across industries. Europe hosts one of the
+worldâs largest open-source foundations, the Eclipse Foundation, which includes several BSA members
+among its contributors. Furthermore, Europeâs capital hosts every year the Free and Open Source Software
+Developersâ European Meeting (FOSDEM), one of the most prominent open source conferences at the global
+level, a landmark initiative which further illustrates both the vitality of the European open source community
+and its global impact.
+
+The EU Open Source Strategy 2020â2023 established a strong and comprehensive foundation for promoting
+open source development and adoption across Europe. The core principles articulated in the 2020â2023
+strategy remain sound and do not require revision. However, greater clarity is needed regarding the
+definition of open source.
+
+To that end, BSA suggests that the European Commission:
+    â¢ build on its current achievements by extending the strategy beyond its previous scope in its future
+        Open Digital Ecosystems strategy
+    â¢ maintain a neutral approach that promotes the best-fit solution and does not prioritize open-
+        source solutions over proprietary software (or vice-versa).
+    â¢ explicitly adopt the Open Source Initiative (OSI) definition as its reference point, so as to avoid
+        confusion with alternative software models and licensing approaches that do not align with open
+        source principles
+    â¢ fund open source infrastructure and the broader OS ecosystem, as suggested by the EU Sovereign
+        Tech Fund.
+
+                                                                                                            3
+BSAâs contribution on the European Open Digital Ecosystems Strategy
+
+Strengthening Europeâs Digital Autonomy Through Open Source
+A structured dialogue with global open source foundations and other stakeholders is essential to support
+EU policy objectives in the future Open Digital Ecosystems Strategy. Existing initiatives, including
+cooperation with ENISA, should also be strengthened.
+
+Open source is a foundational element for effectively promoting Europe's technological leadership. The
+openness and freedom of choice it provides are essential to ensuring long-term autonomy and resilience in
+digital infrastructures.
+
+Open-source software enhances competitiveness by providing organization choice, control and
+interoperability, as well as enabling users to retain long-term autonomy over their technology decisions.
+Reference and compatibility implementations in open source reduce costs and development efforts by
+making high-quality software broadly accessible. This is particularly beneficial for small and medium-sized
+enterprises in Europe, which can more easily leverage open source to access, adopt, and actively contribute
+to innovation.
+
+More broadly, open source lowers barriers for researchers, developers, public authorities, and businesses
+alike, facilitating the development of algorithms, the simulation of complex systems, including quantum
+systems, and the execution of advanced experiments.
+
+As an example, cybersecurity has been a sustained and central focus of open source development. A
+notable example is the Linux Foundationâs OpenSSF initiative, which addresses software security across the
+open-source ecosystem and ensures continuous attention to security best practices throughout the
+software lifecycle. The European Commission and ENISA are already engaged with these efforts, and this
+cooperation could be further strengthened.
+
+BSA suggests that the European Commission:
+   â¢ establish a coordinated and structured dialogue with leading global open source foundations
+       and other stakeholders and organizations that host and govern open source projects. Such
+       engagement would help build mutual awareness and understanding of EU policy objectives and
+       identify practical ways to reflect and support these objectives within global open-source ecosystems
+   â¢ look into how to strengthen existing initiatives (such as cooperation with ENISA) for the
+       development of an effective strategy on open digital ecosystems
+   â¢ participate actively in the open-source software projects that develop or maintain software of
+       particular value or interest to their government agency missions.
+
+Unlocking Europeâs Digital Competitiveness Through Open Source
+Open source should be promoted across the digital stack, adopted in strategically important technologies,
+and be at the center of strong public-private partnerships.
+
+For more than fifteen years, open source has been a major driver of innovation across a wide range of sectors.
+Open source already plays a significant role in the deployment of software across Europe, and its importance
+
+                                                                                                            4
+BSAâs contribution on the European Open Digital Ecosystems Strategy
+
+can only be expected to grow further, extending across all sectors of the economy. Against this background,
+it is neither practical nor desirable to single out individual sectors for special treatment, or to focus
+excessively on open-source applications which can be commercialized; doing so may even prove
+counterproductive. Instead, a broad, cross-sectoral approach to supporting open source adoption and
+development should be pursued.
+
+It should be noted that industry contributes the majority of expertise and resources to open source
+development. Without the active involvement of skilled software developers from industry, a
+comprehensive and effective open source strategy cannot succeed.
+
+Given the strategic importance of digitalization as a central pillar of Europeâs competitiveness, BSA suggests
+that the European Commission:
+    â¢ encourage open source anywhere in the stack, instead of focusing on specific applications, while
+        maintaining a framework that allows proprietary and open-source layers to interoperate
+        seamlessly, ensuring users can leverage the specific strengths of each
+    â¢ support the adoption of open-source approaches for technology areas of strategic importance
+        to the EU, in close collaboration with industry
+    â¢ cooperate closely with industry, fostering public-private partnerships with developers and
+        consumers of open-source software.
+
+                                                     ***
+
+                                  For further information, please contact:
+                                Alice Stradi, Senior Manager, Policy â EMEA
+                                                alice@bsa.org
+
+                                                                                                            5

@@ -1,0 +1,654 @@
+Ref. Ares(2026)1219502 - 03/02/2026
+
+                                                               3 February 2026
+
+The European Union & Open Source
+An Ecosystem Strategy for Tech Sovereignty, Security and
+Democracy
+
+OpenForum Europe welcomes the opportunity to contribute to the European
+Commissionâs Call for Evidence on the forthcoming Communication Towards
+European open digital ecosystems. We welcome the growing recognition
+across EU institutions of the strategic importance of open source as a
+foundational component of Europeâs digital infrastructure, as well as the
+emerging convergence of policy initiatives that place software ecosystems at
+the centre of Europeâs digital and industrial strategy.
+
+The Communication is timely and well aligned with recent and forthcoming
+policy instruments, including in cloud, data and AI, and signals a more
+coherent approach to addressing Europeâs structural dependencies in critical
+technology domains. The Commissionâs acknowledgement that Europe
+combines strong developer communities with persistent barriers to scaling,
+sustainability and market integration reflects a shared understanding of the
+challenge.
+
+This submission seeks to build on this positive momentum by offering a
+structured analysis of open source as an under-leveraged policy tool and by
+setting out policy recommendations aimed at strengthening competitiveness,
+resilience, and long-term European capability.
+
+                                                                              1/16
+1. Strategic and political goals
+
+1.1 The European Unionâs strategic objectives
+
+As we understand them, the European Commissionâs overarching objectives for this
+initiative are to:
+
+    ââ   strengthen EU technological sovereignty and reduce dependencies;
+    ââ   increase EU competitiveness in the digital economy;
+    ââ   improve cybersecurity, resilience, and supply chain transparency; and
+    ââ   ensure that critical digital capabilities are grounded in trusted, verifiable, and
+         interoperable foundations.
+
+These objectives are widely shared across EU institutions, Member States, and market
+participants. The central policy question is therefore not one of intent, but, largely, of
+execution: how these goals can be achieved effectively in software-driven sectors that
+underpin the digital economy.
+
+A key starting point is recognising that there is no inherent trade-off between
+competitiveness, cost efficiency, and technological sovereignty. These objectives can be
+mutually reinforcing if software policy focuses on open source through the lens of
+ecosystem structure, innovation capacity, and market contestability rather than on
+short-term substitution or infrastructure expansion alone.
+
+1.2 Open source as a foundational innovation model for software
+
+Open source should not be treated as a vertical policy domain or a niche technological
+choice. It is the dominant innovation and production model for software, deeply
+embedded across all layers of the digital stack and across sectors1.
+
+Open source determines how software is developed, maintained, secured, and
+integrated into real-world systems. It shapes how innovation diffuses, how
+interoperability emerges, and mitigates how dependencies form within software supply
+chains and the digital age. In practice, it often performs both a commoditising function
+(i.e. technology available to any sector or use case) as well as a standardising function (i.e.
+de facto industry standards, such as Linux kernel, or fora/consortia specifications which
+complement formal standardisation processes and needs).
+
+From an industrial policy perspective, this matters because the ability to influence
+software ecosystems has a mutually reinforcing relationship with the ability to innovate,
+to integrate digital technologies into industrial processes, and to capture value locally.
+Investment strategies that prioritise software capability and ecosystem leadership, rather
+
+1
+ âbetween 70% and 90% of all lines of codeâ as referenced by the European Commission in this impact
+assessment from Synopsysâs security report (OSSRA),
+https://phasepacific.com/wp-content/uploads/2024/08/rep-ossra-2024.pdf.
+
+                                                                                                      2/16
+than infrastructure capacity alone, are therefore central to competitiveness and
+sovereignty in software-intensive sectors.
+
+Treating open source as an auxiliary consideration risks overlooking its systemic role in
+shaping markets, competition, and resilience.
+
+1.3 The current state of open source policy in the EU
+
+Open source policy in the European Union has reached a decisive stage of maturity. The
+European Commission has taken important steps to recognise the relevance of open
+source, including through its Commission-internal open source software strategy, the
+establishment of an Open Source Programme Office, analytical work on economic
+impact, and legislative efforts to promote interoperability (e.g. Interoperable Europe Act,
+Data Act, Digital Markets Act Regulation 1025/2012) as well as a better understanding of
+cyber-resilience differentiators (e.g. CRA, DORA, NIS2). Open source has also gained
+greater visibility within research and innovation programmes.
+
+These efforts position the Commission among the most advanced public administrations
+globally in its engagement with open source, and represent a solid foundation on which
+further policy coherence can be built.
+
+At the same time, ambition remains unevenly translated into policy structure. There is a
+persistent mismatch between the central role open source plays in the economy and the
+fragmented way it is addressed in policy. Open source underpins a substantial share of
+digital infrastructure and software supply chains, yet it does not benefit from a coherent,
+economy-wide strategic framework.
+
+A useful comparison can be drawn with standardisation policy. The EU has developed a
+comprehensive and coordinated approach to standardisation, supported by dedicated
+governance, long-term investment, and strategic oversight. By contrast, open source
+policy remains largely confined to internal usage and project-based interventions,
+despite its comparable importance for interoperability, innovation, and sovereignty.
+
+Addressing this gap requires treating open source as digital infrastructure, not merely as
+a procurement option or research and development methodology.
+
+1.4 International comparison and strategic positioning
+
+Internationally, China is currently the only major economy to articulate an explicit,
+integrated strategy for open source as part of its industrial and innovation policy. In this
+approach, open source is linked to standards, skills, intellectual property management,
+ecosystem leadership, and foundational technologies such as artificial intelligence. The
+emergence of DeepSeek and other influential open source AI models in China is
+important to consider in this context.
+
+                                                                                         3/16
+The relevance for the European Union is not to replicate this model, but to recognise
+what it highlights. Jurisdictions that treat open source as a strategic asset are better
+positioned to shape ecosystems, influence technical direction, and anchor value creation
+domestically.
+
+Without a similarly explicit strategic framing, Europe risks remaining a net contributor to
+global open source ecosystems while value capture, platform control, and ecosystem
+leadership accrue elsewhereâparticularly in cloud and AI.
+
+Meeting the Commissionâs stated objectives therefore requires positioning open source
+as a core instrument of software, industrial, and competition policy, and setting a clear
+strategic direction for its role in Europeâs digital future.
+
+2. Gaps in the current problem analysis
+
+2.1 The role of users and procurers of IT as ecosystem actors
+
+The current analysis underestimates the role of users and procurers of IT systems as
+active participants and contributors in open source ecosystems. Large public and private
+users, particularly in critical sectors, shape demand, contribute to projects and
+foundations, and sustain the European open source industry through procurement and
+service markets. Any ecosystem assessment that does not explicitly account for users
+risks overlooking the primary drivers of adoption, sustainability, and market formation.
+
+2.2 Distinguishing between projects and products
+
+The analysis would benefit from a clearer distinction between open source projects and
+communities, where software is developed and governed; and products and services,
+where software is integrated, deployed, and commercialised. These layers face different
+risks, incentives, and policy challenges. Conflating them risks ineffective interventions,
+particularly with regard to sustainability, governance, and market integration. By way of
+example, we see the current policy making lens struggling with concepts such as
+âmonetisationâ or âmade availableâ to the open source models like upstream first where
+companies invest their engineering thought leadership in upstream communities to build
+functionality and/or fix security bugs whilst not necessarily pulling these developments
+into a downstream product.
+
+2.3 Strengthening data and measurement capacity
+
+There is already substantial evidence of the central role open source plays in Europeâs
+digital infrastructure and economy, and this provides a sufficient basis for the
+Commission to advance concrete policy measures. At the same time, current data
+remains uneven, fragmented, and often project-specific, which limits the ability to
+
+                                                                                       4/16
+monitor systemic risk, evaluate the effectiveness of interventions, and adapt policy over
+time.
+
+Targeted investment in data collection, metrics, and analysis of how this changes over
+time (longitudinal studies) should therefore be pursued in parallel with policy action.
+Establishing these capabilities at an early stage would enable more granular insight into
+software ecosystems and value chains, and would significantly strengthen Europeâs
+capacity to design, implement, and refine open source policy over time.
+
+The Commission should take the following actions:
+
+   ââ Fund dedicated analysis of developer activity and attention in open source
+      ecosystems, to understand where European developers contribute, how
+      leadership and maintenance capacity is distributed, how ecosystems evolve over
+      time, and where strategic capability is concentrated or lacking. This is essential for
+      assessing Europeâs real position within global open source ecosystems and for
+      identifying opportunities to strengthen European influence and sustainability.
+   ââ Establish recurring economic impact studies on open source, building on the
+      Commission's existing empirical work, with annual or biennial updates to create a
+      longitudinal data series that allows the effects of policy choices to be traced over
+      time.
+   ââ Integrate relevant open source activity indicators into the digital infrastructure
+      dimension of the Digital Economy and Society Index (DESI) dashboard for the
+      Digital Decade ensuring that the contribution of open source to innovation,
+      competitiveness, and resilience is visible at Member State level and can inform
+      policy coordination and procurement of solutions which directly contribute to
+      what is, largely, a public good.
+   ââ Commission regular strategic market analyses focused on reducing
+      dependency on individual software vendors and platforms. These analyses
+      should map software usage across the full stack, assess market concentration
+      and lock-in, identify critical dependency clusters, and evaluate the availability and
+      maturity of open source alternatives. Such studies provide an essential evidence
+      base with clear and data-supported identification of a specific business/market
+      challenge for prioritisation and policy targeting.
+   ââ Develop dedicated analysis of software dependencies as systemic
+      infrastructure risk, distinct from product-level market analysis. This should focus
+      on identifying widely reused open source components embedded across
+      multiple products and sectors, assessing maintenance and security capacity, and
+      informing upstream investment and stewardship decisions, including through
+      mechanisms such as the EU Sovereign Tech Fund.
+
+Without sustained investment in data and measurement, even well-designed open
+source policies risk being guided by assumptions rather than evidence.
+
+                                                                                       5/16
+3. Sector and ecosystem goals
+
+As we understand them, the European Commissionâs ecosystem objectives are to:
+
+   1.â develop a stronger and more competitive EU open source sector, encompassing
+       companies, foundations, and developer communities;
+   2.â support start-ups, SMEs, and innovators as key drivers of open sourceâbased
+       innovation and industrial renewal;
+   3.â ensure that open source solutions can scale effectively from research and
+       experimentation to industrial deployment and market integration; and
+   4.â improve the governance, maintenance, sustainability, and security of open source
+       projects, particularly those that are critical to European digital infrastructure.
+
+These objectives reflect a shift from viewing open source primarily as a development
+input towards recognising it as an ecosystem that requires deliberate policy support.
+Achieving them depends on aligning funding, governance, skills, and demand-side
+instruments so that open source communities and European businesses can translate
+technical innovation into commercial success in Europe and export markets around the
+world.
+
+3.2 Policy recommendations (ecosystem focus)
+
+To achieve the Commissionâs ecosystem objectives, policy action should focus on
+shaping the structural conditions under which open source ecosystems can emerge,
+scale, and remain sustainable.
+
+Ecosystem structure and leadership
+
+   ââ Support European actors in assuming leadership roles within strategically
+      important open source ecosystems, including project governance,
+      roadmap-setting, coordination, and technical leadership upstream as project
+      maintainers.
+   ââ Encourage ecosystem âchampionsâ not as national winners, but as anchors of the
+      EU's shared infrastructure, ensuring that leadership remains open, transparent,
+      and globally engaged, and that these actors act as responsible open source
+      citizens through sustained upstream contribution and proactive investment in the
+      security and long-term sustainability of projects, beyond minimum regulatory
+      requirements.
+   ââ Align open source ecosystem policy with competition and standardisation policy,
+      recognising their complementary roles in shaping interoperable and contestable
+      markets.
+
+                                                                                    6/16
+Sustainability and maintenance of critical components
+
+   ââ Treat maintenance, security, and long-term stewardship of critical open source
+      components as digital infrastructure, not discretionary overhead.
+   ââ Establish dedicated mechanisms to fund maintenance, security improvements,
+      and governance of widely used components, including through instruments such
+      as the EU Sovereign Tech Fund.
+   ââ Use dependency mapping to prioritise support for components whose failure or
+      neglect would create systemic risk across sectors.
+
+Skills and workforce development
+
+   ââ Integrate open source development, maintenance, and governance practices into
+      education, training, and reskilling programmes at EU and national level.
+   ââ Support specialised training and certification linked to real-world open source
+      ecosystems, not abstract curricula.
+   ââ Strengthen organisational skills by linking workforce development explicitly to
+      OSPO creation and operation.
+
+Governance, foundations, and OSPO networks
+
+   ââ Support the professionalisation and sustainability of open source foundations that
+      provide neutral governance and prevent ecosystem capture.
+   ââ Expand and interconnect OSPO networks across the public and private sectors,
+      treating OSPOs as the institutional interface between policy, procurement, and
+      open source communities.
+   ââ Encourage consistent OSPO mandates covering contribution policies,
+      dependency management, security practices, and community engagement.
+   ââ Identify areas of strategic importance where governmental or privately owned
+      OSPOs could focus their expertise - such as strengthening Europeâs use and
+      development of open-weighted AI models and/or use of small language models.
+
+Demand-side instruments to support ecosystem growth
+
+   ââ Use public and large-scale private demand as a market-shaping instrument, not
+      merely a cost-saving tool.
+   ââ Align procurement, reference architectures, and funding programmes to favour
+      modular, interoperable solutions built on open source and open standards.
+   ââ Ensure that demand-side measures incentivise upstream contribution and
+      ecosystem participation, not just downstream consumption.
+
+Leveraging EU funding programmes as ecosystem instruments
+
+   ââ Use Horizon Europe and other EU funding programmes to strengthen open
+      source ecosystems through programme design, not additional spending.
+
+                                                                                   7/16
+   ââ Integrate clear open source requirements into calls and evaluation criteria,
+      including by extending Open Science obligations to cover source code.
+   ââ Reward ecosystem contribution and leadership, such as governance participation
+      and long-term stewardship, within proposal scoring.
+
+4. Adoption, market, and operational goals
+
+As we understand them, the European Commissionâs adoption and market objectives are
+to:
+
+   ââ increase the adoption of high-quality and secure open source solutions by both
+      public administrations and private users;
+   ââ address persistent barriers related to procurement practices, usability, integration
+      with legacy systems, and policy alignment;
+   ââ promote viable business and sustainability models for open source, including
+      through publicâprivate partnerships;
+   ââ improve coordination of EU support actions across funding instruments, policy
+      initiatives, and implementation mechanisms;
+   ââ provide Member States with a clearer and more consistent framework to support
+      national open source ecosystems; and
+   ââ build an EU-centred foundation and infrastructure layer capable of sustaining
+      open digital ecosystems over the long term.
+
+4.2 Policy recommendations (adoption and market focus)
+Procurement and demand aggregation
+
+   ââ Reform procurement practices to incentivise upstream models which contribute
+      significantly to the viability and sustainability to upstream communities;
+   ââ Use of high-hygiene, IP unencumbered, open standards and specifications which
+      enable modular adoption, incremental replacement, and genuine switching
+      between suppliers. The upcoming review of the European Interoperability
+      Framework is an opportunity to address this within the Interoperable Europe Act's
+      framework.
+   ââ Aggregate demand across administrations and sectors where appropriate,
+      creating predictable markets for high-quality open source solutions.
+   ââ Move beyond pilots by supporting production-ready deployments and long-term
+      service contracts.
+
+Market integration and interoperability
+
+   ââ Promote interoperability through alignment with open standards and shared
+      reference architectures, reducing integration costs with legacy systems.
+   ââ Ensure that regulatory and policy frameworks do not unintentionally
+      disadvantage open sourceâbased solutions compared to vertically integrated
+      proprietary offerings.
+
+                                                                                     8/16
+   ââ Support testing, certification, and assurance schemes that recognise open source
+      development models.
+
+Business models and value capture
+
+   ââ Support viable business models around open source, including services,
+      integration, support, and managed offerings.
+   ââ Encourage publicâprivate partnerships that combine public demand with private
+      sector delivery while preserving openness and competition.
+   ââ Ensure that EU funding and policy frameworks enable European companies to
+      capture value from open source without undermining community sustainability.
+
+Coordination between EU and Member State actions
+
+   ââ Provide Member States with a clear strategic framework for national open source
+      policies aligned with EU goals and supported by the Interoperable Europe Act.
+   ââ Use the revised European Interoperability Framework and the EU definition of
+      open standards as a common reference for cross-border interoperability, and
+      recognise these standards as implementable through open source by default.
+   ââ Encourage exchange of best practices between Member States, particularly on
+      procurement, OSPOs, and ecosystem support.
+
+Institutional and infrastructural support for adoption at scale
+
+   ââ Strengthen EU-level institutional capacity to support adoption, including through
+      coordination structures, guidance, and technical assistance.
+   ââ Invest in shared open source infrastructure and support services that lower
+      adoption barriers, such as repositories, collaboration platforms, and security
+      tooling.
+   ââ Ensure that adoption policies reinforce long-term sustainability, security, and
+      control rather than short-term deployment metrics.
+
+                                                                                   9/16
+Annex: Responses to the Call for Evidence
+questions
+1. What are the strengths and weaknesses of the EU open-source sector? What are
+the main barriers that hamper
+
+      (i) adoption and maintenance of high-quality and secure open source;
+
+      and (ii) sustainable contributions to open-source communities?
+
+Strengths of the EU open source sector
+
+    ââ A strong base of developers, projects, and technical communities active across
+       critical technology domains.
+    ââ Increasing institutional awareness of open source within public administrations
+       and EU policy frameworks.
+    ââ Alignment of open source practices with EU values on transparency,
+       interoperability, and security.
+
+Key weaknesses
+
+The EUâs primary structural weakness lies in the user segment of the open source
+ecosystem. In mature open source ecosystems, software-intensive
+organisationsâpublic administrations and private enterprisesâare not only adopters
+but active users/contributors: they contribute upstream, fund maintenance, and
+participate in governance. In Europe, many organisationsâprivate and publicâremain
+passive consumers.
+
+This weakness manifests as:
+
+    ââ Insufficient internal capacity within user organisations to engage strategically
+       with open source.
+    ââ Limited deployment of OSPOs in both the public and private sectors.
+    ââ Skills gaps that prevent users from contributing sustainably to projects they
+       depend on.
+
+Main barriers to (i) adoption and maintenance
+
+    ââ Lack of organisational capacity among users to contribute upstream and
+       thereby manage dependencies, security, and maintenance.
+    ââ Outdated procurement practices that are constructed for off-the-shelf
+       proprietary alternatives, and under-estimate open source products and
+       companies, and how they provide an accelerated digital transformation without
+       lock-in or lock-out risks. The upcoming review of the EUâs 2014 procurement
+
+                                                                                     10/16
+       regulations are such an opportunity to update accordingly.
+    ââ Underinvestment in maintenance and long-term stewardship of critical
+       components.
+
+ Main barriers to (ii) sustainable contributions
+    ââ   Absence of OSPOs as coordinating structures within user organisations.
+    ââ   Skills shortages that prevent systematic upstream engagement.
+    ââ   Misalignment between organisational incentives and community sustainability
+    ââ   Lack of clarity in the context of product liability
+
+ In short, Europeâs challenge is not a lack of open source supply, but insufficiently
+ mature demand-side actors capable of sustaining ecosystems.
+
+2. What is the added value of open source for the public and private sectors? Please
+provide concrete examples, including the factors (such as cost, risk, lock-in, security,
+innovation, among others) that are most important to assess the added value.
+
+ The added value of open source for public and private sectors is often discussed in
+ terms of cost efficiency, reduced lock-in, improved security through transparency, and
+ increased innovation. While these factors are relevant, they are well understood and
+ largely undisputed. More importantly for policy design, there is now robust empirical
+ evidence that demand-side open source policy produces measurable economic and
+ competitiveness effects.
+
+ Research analysing a French government procurement policy that explicitly favoured
+ open source provides a clear example of this mechanism. The policy created an
+ unexpected demand shock for open source software. The results demonstrate that
+ such demand-side intervention led to:
+
+    ââ a substantial increase in open source contributions by developers based in
+       France, equivalent to hundreds of thousands of additional contributions per
+       year;
+    ââ significant spillover effects within the domestic economy, including increased
+       firm-level adoption of open source, higher rates of IT start-up formation, and
+       substantial growth in IT employment; and
+    ââ productivity and competitiveness gains that accrued specifically within France,
+       despite the globally shared nature of open source outputs.
+
+ Crucially, these effects were not driven by subsidies or direct supply-side intervention,
+ but by procurement acting as a low-cost industrial policy instrument. By reshaping
+ market incentives, public demand encouraged firms and individuals to invest in open
+ source capabilities, skills, and organisational practices. This translated into durable
+ economic benefits rather than one-off cost savings.
+
+ The evidence demonstrates that open source delivers value not only through lower
+ costs or reduced lock-in, but by structuring markets in ways that favour competition,
+
+                                                                                        11/16
+entry, and domestic capability-building. For policymakers, this implies that the most
+significant added value of open source arises when it is treated as a demand-led
+ecosystem strategy rather than a purely technical or ideological choice.
+
+3. What concrete measures and actions may be taken at EU level to support the
+development and growth of the EU open-source sector and contribute to the EUâs
+technological sovereignty and cybersecurity agenda?
+
+The EU open source sector is well-developed in terms of developers and industry.
+Europe already hosts a wide range of high-quality open source companies,
+foundations, and communities, and open source is firmly established as a viable and
+competitive commercial model globally.
+
+Moreover, empirical evidence shows that commercial open source companies
+consistently match or outperform proprietary peers in fundraising, valuations, and exit
+outcomes, particularly in infrastructure, data, and developer tooling.
+
+The challenge for EU policy is therefore not to âcreateâ an open source industry, but to
+ensure that existing strengths translate into sustained ecosystem leadership, market
+scaling, and long-term value capture in Europe. Moreover, the term âsectorâ doesnât
+lend itself well to open source which is by definition a commons where technologies
+are developed and commoditised for use and further development in all sectors. It is
+horizontal, and strategic policy should be horizontal, akin to SME or standardisation
+policy.
+
+A central finding from the evidence is that open source ecosystems respond strongly
+to demand-side signals. Where demand is credible and sustained, firms invest in open
+source capabilities, communities grow, and both commercial and community
+outcomes improve. This is consistent with research showing that open source adoption
+is a powerful go-to-market mechanism and that community health and commercial
+success are tightly coupled
+
+EU-level measures should therefore focus on:
+
+    ââ Strengthening demand for open source solutions, particularly through public
+       procurement, reference architectures, and alignment with open standards, in
+       order to create predictable markets rather than one-off pilots.
+    ââ Supporting the organisational capacity of users, so that increased demand
+       results in sustainable ecosystem engagement rather than passive consumption.
+       This includes targeted support for OSPOs in both the public and private sectors.
+    ââ Facilitating scaling and market integration, rather than substituting for private
+       investment. Evidence shows that open source companies do not require more
+       capital or time to reach maturity; instead, they convert investment into value
+       efficiently when market conditions are supportive.
+    ââ Reinforcing links between community health and cybersecurity, recognising
+       that well-resourced and diverse open source communities correlate with higher
+       quality, faster iteration, and improved resilience.
+
+                                                                                    12/16
+In short, EU policy should aim to amplify what already works: using demand,
+coordination, and capacity-building to ensure that Europeâs open source industry can
+scale, remain secure, and anchor long-term strategic autonomy.
+
+4. What technology areas should be prioritised and why?
+
+Decisions on priority technology areas should be grounded in systematic analysis of
+dependencies, risks, and market structure, not in abstract lists of technologies. A
+central finding from existing national-level work is that effective prioritisation requires
+first understanding where dependencies actually exist, how they accumulate across the
+software stack, and which components are critical for operations, security, and
+innovation.
+
+A concrete example of this approach is the strategic market analysis conducted for the
+German federal administration, which assessed dependency risks by mapping
+software usage across the full software stack, analysing market concentration, and
+identifying critical âpain pointsâ linked to sovereignty, security, cost control, and
+innovation capacity. This analysis did not begin by selecting preferred technologies,
+but by building an evidence base on:
+
+    ââ   concentration and lock-in across different layers of the stack;
+    ââ   interdependencies between components and vendors;
+    ââ   the availability and maturity of open source alternatives; and
+    ââ   the organisational and skills implications of different strategic options.
+
+A comparable, EU-level approach is needed. The Commission should therefore invest
+first in structured data collection and dependency mapping across key technology
+domains, including cloud, AI, cybersecurity, internet technologies, and industrial
+systems. This should cover:
+
+    ââ Assess and understand the current paradox of the pervasiveness of open
+       source technologies and enterprise grade solutions whilst the percentage of
+       market share is still dominated by proprietary companies;
+
+    ââ which open source components are actually used in products and services;
+    ââ how dependencies concentrate around specific projects, maintainers, or
+       vendors;
+    ââ where open source already provides viable alternatives; and
+    ââ where ecosystem weaknesses pose systemic risks.
+
+On this basis can priority technology areas be identified credibly and updated over
+time.
+
+Such an approach also avoids a common pitfall: attempting to âbuildâ alternatives
+without first understanding existing ecosystems and leverage points. Open source
+already underpins most digital infrastructure. The strategic task is therefore to identify
+choke points, reinforce critical components, and enable substitution and modularity
+
+                                                                                       13/16
+where dependencies are excessive.
+
+In short, prioritisation should be to strengthen use and upstream activity in terms of
+software code functionality in areas where breaking strategic dependency is the most
+urgent. EU investment in open source data collection is not ancillary to this process; it
+is the enabling condition for making informed, proportionate, and effective strategic
+choices.
+
+5. In what sectors could an increased use of open source lead to increased
+competitiveness and cyber resilience?
+
+The sectors covered by the NIS2 Directive provide a clear lens through which verticals
+to prioritise the increased use of and contribution to open source for competitiveness
+and cyber resilience. NIS2 distinguishes Essential Entities â such as energy, transport,
+banking and financial infrastructure, healthcare, digital infrastructure, public
+administration, space, and water/wastewater â from Important Entities â including
+postal and courier services, waste management, chemicals, food, manufacturing,
+digital providers (e.g. online marketplaces and search engines), and research.
+
+Across both categories, organisations face common challenges: dependency on a
+narrow set of proprietary products and platforms, limited visibility into software supply
+chains, rising and unpredictable costs, and systemic lock-in that constrains operational
+flexibility and resilience.
+
+Open source can address these challenges in two complementary ways.
+
+Competitiveness: By enabling modular, interoperable solutions, open source lowers
+barriers to entry and supports a more diverse supplier base, including European SMEs
+and service providers. This reduces vendor concentration and strengthens competition
+in sectors such as manufacturing, digital infrastructure, and public services.
+
+Cyber resilience: Transparency, auditability, and shared maintenance practices
+inherent to open source improve vulnerability detection and remediation, particularly
+when ecosystems are adequately resourced and governed.
+
+Importantly, prioritising sectors and interventions requires understanding
+dependencies at two distinct levels. From a user perspective, dependency is
+experienced through products and services procured and operated by NIS2 entities.
+From a systemic perspective, risk accumulates through software dependencies: widely
+reused open source components embedded across many products and sectors, often
+maintained by limited upstream capacity.
+
+This is why robust data collection and dependency mapping are essential. Without
+visibility into which open source components underpin critical products and services,
+policy risks addressing symptoms rather than structural risk. Investment in data
+collection would allow policymakers to identify concentration points, assess systemic
+
+                                                                                     14/16
+exposure across NIS2 sectors, and target interventions proportionately.
+
+In this context, the EU Sovereign Tech Fund (EU-STF), modelled on the excellent work
+by the German Sovereign Tech Agency, is a key policy lever. The newly established
+Digital Commons EDIC highlighted in the call for evidence is a promising vehicle to
+scale the Sovereign Tech Fund to the EU level. Its purpose is not to promote adoption
+per se, but to enable coordinated identification of critical open source dependencies
+and to support upstream investment in their security, maintenance, and sustainability.
+By strengthening the open source components most relied upon across NIS2 sectors,
+EU-STF-style mechanisms can reduce shared risk for all downstream users. This is
+probably the cybersecurity lever with the single best cost to benefit ratio that is on the
+table for the EU.
+
+ OFE is a not-for-profit, independent European based think tank which focuses on openness within the IT
+ sector. OFE draws its support from a broad range of stakeholders committed to openness: Among them
+   leading global ICT technology providers, European SMEs, user organisations, the openness academic
+  community represented by the OpenForum Academy and the wider openness community. Tapping into
+this broad basis for support provides OFE with expertise across all major ICT topics, including applying its
+  knowledge to the evolving technologies such as artificial intelligence, blockchain, cloud computing and
+            IoT. Views expressed by OFE do not necessarily reflect those held by its supporters.
+
+                         OFE aisbl, a Belgian international non-profit association
+                                Transparency number 324755991524-44
+                        Registered in Belgium with enterprise number 721975651
+                         RPM Tribunal de lâEntreprise Francophone de Bruxelles
+                  Registered office: Boulevard Charlemagne 96, 1000 Brussels, Belgium
+                                       Web: openforumeurope.org
+                                    e-mail: info@openforumeurope.org
+
+                                                                                                     15/16

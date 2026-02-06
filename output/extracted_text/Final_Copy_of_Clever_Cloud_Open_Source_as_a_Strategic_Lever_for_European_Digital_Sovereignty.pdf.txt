@@ -1,0 +1,672 @@
+European Open Digital Ecosystems - Response toRef.
+                                                                                            CallAres(2026)1168410
+                                                                                                  for Evidence - 02/02/2026
+
+Open Source as a Strategic Lever
+for European Digital Sovereignty
+          Contribution to the European Commission Call for Evidence
+                     European Open Digital Ecosystems - Initiative 16213
+
+                                     Submitted by: Clever Cloud SAS
+                                      Contact: adam@clever.cloud
+
+Founded in 2010 in Nantes, France, Clever Cloud has established itself as a prominent player in the European
+cloud computing landscape, specializing in innovative Platform as a Service (PaaS) solutions. Our core mission
+is to empower developers by providing a reliable, scalable, and secure infrastructure that enables seamless
+application development, deployment, and management. Clever Cloud is firmly committed to the principles of
+digital sovereignty, European values while advocating for a resilient and strategically autonomous digital
+ecosystem. We believe that Europe must prioritize its digital ecosystem to ensure that businesses and public
+authorities can operate independently without reliance on inadequate non-European solutions. Our expertise,
+underscored by a workforce composed of over 70% developers and engineers, positions us as a company of
+experts dedicated to both technical excellence and strong ethical European values.
+
+As an active participant in the European legislative framework, Clever Cloud engages with critical initiatives
+aimed at enhancing Europeâs digital sovereignty. We contribute to the development of key frameworks such as
+the Digital Markets Act (DMA), the EU Cybersecurity Act and of course the forthcoming EU Cloud and AI
+Development act among others... Our involvement in organizations like Eurosmart, European Alliance for
+Industrial Data, Edge & Cloud, France Digitale, the Open Internet Project, and CISPE reflects our commitment to
+advocating for robust European certification schemes and ensuring that the cloud infrastructure respects and
+protects user rights. Through partnerships with leading European technology firms while preserving market
+freedom. In fact, we are building a cohesive digital ecosystem that fosters innovation, real free competition while
+preserving individual freedoms. Our dedication to creating and contributing to open-source projects further
+demonstrates our belief in collaboration as a means to strengthen Europeâs digital sovereignty.
+
+At Clever Cloud, we recognize that true digital sovereignty is essential for economic resilience and technological
+independence. By championing strategic policies and fostering a community of like-minded stakeholders, we are
+committed to shaping a future where Europeâs digital landscape remains robust, secure, and innovative. Since
+2019, Clever Cloud is highly concerned about the future economic prosperity of Europe.
+
+As a matter of fact, in the realm of the consultation on the European Open Digital Ecosystem and regarding the
+current American digital hegemony we do call for the establishment of a European Digital Commons Foundation.
+
+                                           Page 1 | Clever Cloud SAS
+                                    European Open Digital Ecosystems - Response to Call for Evidence
+
+Table of Contents
+Table of Contentsâ                                                                                2
+Executive Summaryâ                                                                                3
+   The Problemâ                                                                                   3
+   Why Now: What Has Changedâ                                                                     4
+   The Proposalâ                                                                                  5
+The Global Picture: American Digital Hegemonyâ                                                    6
+   The GAFAM Empire: Scale Beyond Comprehensionâ                                                  6
+   The European Digital Bill: â¬264 Billion Annuallyâ                                              6
+   This Document's Focus: Microsoft and Googleâ                                                   7
+   Microsoft Before Windows: An Applications Companyâ                                             7
+   Office as Strategic Weaponâ                                                                    7
+   The Open Market of the 1990s: What Competition Looked Likeâ                                    8
+   Office as Weapon: Killing the Linux Desktopâ                                                   8
+   Office 365 and the Azure Lock-In: A Contractual Problemâ                                       8
+The Browser Story: From Microsoft to Googleâ                                                      8
+   The First Browser Warâ                                                                         8
+   Google's Capture of Web Standardsâ                                                             8
+   The Lesson: Standards Are Not Enough Without Implementationsâ                                  8
+Why Migrations Fail Todayâ                                                                       10
+   The Document Compatibility Problemâ                                                           10
+   Format Complexity: The OOXML Problemâ                                                         10
+   Why Collaboration Requires CRDTsâ                                                             10
+What Has Changed: The Window of Opportunityâ                                                     11
+   The Collaborative Revolution: Microsoft's Weakness Is Our Opportunityâ                        11
+   The Rust Revolutionâ                                                                          11
+       Rust Opens New Hardware Architecturesâ                                                    11
+       Servo: Browser Components Become Office Componentsâ                                       11
+   The AI Revolution: Three Dimensions of Changeâ                                                11
+   Kurzweil's Law of Accelerating Returnsâ                                                       12
+   The Political Momentumâ                                                                       12
+       DMA Browser Choice Screen Successâ                                                        12
+Markets to Reopenâ                                                                               12
+   Office Suites: Breaking the Keystoneâ                                                         12
+   Web Browsers: Unlocking the Advertising Marketâ                                               13
+   Operating Systems: The Long Game That Reopens Hardwareâ                                       13
+The Proposal: A European Digital Commons Foundationâ                                             13
+   Mission and Philosophyâ                                                                       13
+   The OpenBuro Initiativeâ                                                                      13
+   Use-case examplesâ                                                                            14
+   Including Developers and technical leaders in the Governance structureâ                       14
+
+                                  Page 2 | Clever Cloud SAS
+                                      European Open Digital Ecosystems - Response to Call for Evidence
+
+   Digital Commons, Not Productsâ                                                                  15
+   Asset Companies, Not Flux Companiesâ                                                            15
+   Funding Modelâ                                                                                  15
+       100% of Funding Goes to Developersâ                                                         15
+       Why Direct Employment, Not Grantsâ                                                          15
+Implementation Timelineâ                                                                           16
+Conclusionâ                                                                                        16
+
+Executive Summary
+The Problem
+The European Union is currently facing market concentration when it comes to the software
+market. Two American companies control the fundamental software infrastructure of the
+modern economy: Microsoft (office suites, operating systems) and Google (browsers, web
+standards).
+
+According to the Asteres report commissioned by CIGREF and Numeum (April 2025),
+Europe spends â¬264 billion annually on American cloud and software servicesâa digital
+bill comparable to our entire energy import bill (â¬360 billion) and representing 1.5% of EU
+GDP. An estimated 83% of European large enterprise spending on cloud and software goes
+to US providers, with 80% of the value added created in the United States. This supports
+nearly 2 million jobs in America while Europe remains digitally dependent.
+
+This is not a market failure. It is the result of deliberate strategy: bundling, format control,
+and platform leverage, deployed systematically over four decades. The office suite market
+was competitive in 1990 (Lotus, WordPerfect, Corel, Borland). By 2000, it was a monopoly.
+The browser market was competitive in 2005. By 2020, Chrome held 66% share. Monopoly
+kills innovation and harms consumers.
+
+                                    Page 3 | Clever Cloud SAS
+                                    European Open Digital Ecosystems - Response to Call for Evidence
+
+Why Now: What Has Changed
+Three technological shifts create an unprecedented window of opportunity:
+
+   1.â The Collaborative Revolution: Users expect real-time collaboration (Google Docs
+       proved it). But Microsoft Office's architectureâdesigned for single users in the
+       1980sâcannot be retrofitted cleanly. Building from scratch with CRDTs (Conflict-free
+       Replicated Data Types) enables architecturally superior, offline-first collaboration
+       without centralized servers.
+   2.â The Rust Revolution: C and C++ were designed for single-core processors. Rust
+       enables memory-safe, concurrent, energy-efficient software for modern multi-core
+       and network-oriented hardware. Small teams can now build systems software that
+       previously required thousands of engineers.
+   3.â The AI Revolution: AI transforms software development in three ways: (1)
+       Productivity multiplierâdevelopers report 2-10x productivity gains with LLM
+       assistance; (2) New ways of workingâAI enables fast feedback loops; (3) AI
+       everywhere requires new architectureâdocuments designed for collaboration are
+       also better suited for AI processing.
+
+Kurzweil's Law of Accelerating Returns tells us that technological progress is exponential,
+not linear. We can compress timelines that seem impossible.
+
+Add to this the political momentum: Trump administration attacks on EU digital regulation,
+visa sanctions on European tech policy architects, the ICC switching from Microsoft to
+
+                                  Page 4 | Clever Cloud SAS
+                                    European Open Digital Ecosystems - Response to Call for Evidence
+
+OpenDesk after being locked out of Outlook. Europe has both the motivation and the
+institutional frameworks (DC-EDIC, Sovereign Tech Fund) to act.
+
+The Proposal
+Building a European Digital Commons Foundation :
+
+   â¢â   â¬50 million per year from the European Commission for six years (~â¬300 million
+        total)
+   â¢â   Additional private sector contributions, with the goal of digital commons becoming
+        self-sustaining
+   â¢â   400 developers building foundational components in Rust
+   â¢â   Governance by proven technical leaders: Jean-Baptiste Kempf (VLC creator), Luc
+        Julia (Siri co-creator), Benjamin Andre (Cozy Cloud founder), Quentin Adam (Clever
+        Cloud CEO)
+   â¢â   Components, not products: document engines, browser engines, collaboration
+        protocols via the OpenBuro specification
+   â¢â   Asset companies, not flux companies: enable European software vendors to build
+        sustainable businesses on top of shared infrastructure
+
+European companies and governments build products on top; competition happens at the
+product layer. This reopens markets through shared infrastructureâdigital commonsârather
+than replacing one monopoly with another.
+
+                                  Page 5 | Clever Cloud SAS
+                                     European Open Digital Ecosystems - Response to Call for Evidence
+
+The Global Picture: American Digital Hegemony
+The GAFAM Empire: Scale Beyond Comprehension
+
+The GAFAM companies (Google, Apple, Facebook/Meta, Amazon, Microsoft) plus Tesla
+represent a concentration of economic power unprecedented in human history:
+
+   â¢â   Combined market capitalization exceeds $12 trillion (2025)
+   â¢â   This is larger than the GDP of every European country except Germany
+   â¢â   US firms hold 73% of global tech market capitalization ($31.1 trillion)
+   â¢â   The United States and China together account for 90% of the market capitalization
+        of the world's 70 largest digital platforms
+   â¢â   France represents approximately 0.4% of this market
+
+The European Digital Bill: â¬264 Billion Annually
+The Asteres report quantifies Europe's digital dependency with precision:
+
+ Metric                                          Value
+ Annual European spending on US                  â¬264 billion
+ cloud/software
+ As percentage of EU GDP                         1.5%
+
+                                   Page 6 | Clever Cloud SAS
+                                      European Open Digital Ecosystems - Response to Call for Evidence
+
+ Comparison: EU energy import bill                â¬360 billion
+ Comparison: Total EU budget                      â¬170 billion (1.5x less)
+ Share of EU large enterprise cloud/software      83%
+ going to US
+ Value added created in the United States         80%
+ US jobs supported by this spending               ~2 million
+
+If the European Union was able to produce just 15% of the cloud/software services it
+currently purchases from the United States by 2035, this would result in 463,000 additional
+jobs in the European Union.
+
+This Document's Focus: Microsoft and Google
+Microsoft controls:
+   â¢â   Office suites (Word, Excel, PowerPoint): near-total enterprise dominance
+   â¢â   Operating systems (Windows): 72% desktop market share
+   â¢â   Cloud infrastructure (Azure): second-largest cloud provider, bundled with Office 365
+
+Google controls:
+   â¢â   Web browsers (Chrome): 66% market share
+   â¢â   Web standards (WHATWG): de facto control of HTML specification
+   â¢â   Advertising (Google Ads): $238 billion annual revenue
+   â¢â   Search: 92% market share
+
+These are the monopolies that open-source alternatives can realistically challenge. The
+technical path is clear. The work is already underway.
+
+Microsoft Before Windows: An Applications Company
+The common perception is that Microsoft's dominance came from Windows. This is
+backwards. Microsoft was first and foremost an Office suite companyâand Office drove
+Windows, not the other way around.
+
+Here's a fact most people forget: Word, Excel, PowerPoint, and Office were all Mac
+applications before Windows even existed as a viable platform.
+
+   â¢â   Word 1.0 for Macintosh: 1984 (the Mac's first year)
+   â¢â   Excel 1.0 for Macintosh: 1985
+   â¢â   PowerPoint 1.0 for Macintosh: 1987 (acquired from Forethought)
+   â¢â   Microsoft Office for Mac: 1989
+   â¢â   Microsoft Office for Windows: October 1990 (over a year later)
+
+Office as Strategic Weapon
+In 1985, Apple considered legal action against Microsoft for copying Mac interface elements
+in Windows. Gates's response was a threat: if Apple sued, Microsoft would immediately stop
+developing Word and Excel for Mac.
+
+Apple depended on Microsoft applications. CEO John Sculley backed down and licensed
+Mac technologies to Microsoft. The pattern was established: Office was the weapon. The
+platform was secondary.
+
+                                    Page 7 | Clever Cloud SAS
+                                      European Open Digital Ecosystems - Response to Call for Evidence
+
+The Open Market of the 1990s: What Competition Looked Like
+Before the monopoly, there was a competitive market. And competition produced
+innovation.
+
+In the early 1990s, multiple office suites competed vigorously:
+   â¢â   Lotus 1-2-3: The spreadsheet king, so successful it was called the PC's "killer app"
+   â¢â   WordPerfect: The dominant word processor, beloved by legal professionals
+   â¢â   Corel: Acquired WordPerfect in 1996, continued competing
+   â¢â   Borland: Quattro Pro spreadsheet, Paradox database
+
+Microsoft's    bundling strategyâfirst with Windows,    then through enterprise
+agreementsâsystematically eliminated these competitors. By 2000, the market was
+effectively a monopoly.
+
+Office as Weapon: Killing the Linux Desktop
+Linux runs 96%+ of cloud servers. Linux powers Android. Linux is technically superior for
+many use cases. Yet Linux never captured the desktop market. Why? Office compatibility.
+
+The compatibility gap is not accidental. Microsoft uses its proprietary Office format (OOXML)
+as a barrier. Every compatibility failure reinforces the message: "You need real Microsoft
+Office." The desktop Linux revolution that seemed imminent in 2005-2010 was strangled by
+format lock-in.
+
+Office 365 and the Azure Lock-In: A Contractual Problem
+Today, Office extends Microsoft's reach into cloud computing through contractual bundling:
+
+   â¢â   Office 365 stores documents in OneDrive and SharePoint (which run on Azure)
+   â¢â   Enterprise Agreements bundle Office 365 with Azure credits at artificially low prices
+   â¢â   Licensing terms make it expensive to run Microsoft software on competing clouds
+
+The mechanism is contractual, not technical. Microsoft manipulates Office 365 license
+pricing to make Azure artificially attractive. This bundling is now under FTC investigation and
+European Commission scrutiny.
+
+The Browser Story: From Microsoft to Google
+The First Browser War
+In the 1990s, Netscape Navigator pioneered the web browser. Microsoft responded by
+bundling Internet Explorer with Windows and giving it away free. This "cut off Netscape's air
+supply" (Microsoft internal memo). By 2002, IE had 95% market share. Netscape was
+destroyed.
+
+Google's Capture of Web Standards
+Chrome launched in 2008. By 2025, it holds approximately 66% market share globally. But
+Chrome's deepest power comes from Google's control of web standards themselves. In
+2019, the W3C ceded HTML standardization to WHATWG, which is controlled by browser
+vendors. Google's dominance means Google effectively controls what HTML means.
+
+The Lesson: Standards Are Not Enough Without Implementations
+
+                                    Page 8 | Clever Cloud SAS
+                                      European Open Digital Ecosystems - Response to Call for Evidence
+
+Open standards are necessary but not sufficient. If you don't control the
+implementations, you cannot control the integrationsâand you cannot ensure
+interoperability.
+
+When it comes to the EU, to achieve digital sovereignty, we need more than open standards.
+We need reference implementations owned by the commonsâimplementations that
+define what compliance looks like, that other products can build upon, and that no single
+vendor can unilaterally change.
+
+Why Migrations Fail Today
+
+The Document Compatibility Problem
+Large organizations have tens of thousands of document tools: contracts, reports,
+templates, forms, presentations, spreadsheets with embedded data. Each document
+represents accumulated work, institutional knowledge, and established processes.
+
+Migration fails because:
+   4.â Imperfect rendering: Even small formatting differences in contracts are
+       unacceptable
+   5.â Broken functionality: Excel macros, Word mail merge templates, PowerPoint
+       animations
+   6.â Accumulated complexity: Years of documents with embedded objects
+   7.â Verification burden: Who will review 50,000 documents to confirm they converted
+       correctly?
+
+Format Complexity: The OOXML Problem
+The Document Foundation's 2025 analysis documents how OOXML was deliberately
+designed to be hard to implement. The OOXML specification totals over 8,000
+pagesâdeliberately verbose to discourage alternative implementations.
+
+ Aspect                          ODF (LibreOffice)                 OOXML (Microsoft)
+ Date storage                    Human-readable ISO                Sequential number from
+                                 format                            January 1, 1900
+ Content organization            Single content.xml with           Multiple files with cryptic tag
+                                 clear structure                   names
+ Tag naming                      Descriptive (<text:p>,            Abbreviated (<w:p>, <x:r>)
+                                 <table:row>)
+ Documentation                   Concise, usable                   8,000+ pages, incomplete
+
+Why Collaboration Requires CRDTs
+Microsoft has spent over a decade trying to add real-time collaboration to Office. It remains
+inferior to Google Docs. Why?
+
+OOXML was designed for saving and loading complete documents, not for tracking granular
+changes from multiple simultaneous editors. Modern collaboration requires CRDTs
+(Conflict-free Replicated Data Types). A document engine built from the ground up with
+
+                                    Page 9 | Clever Cloud SAS
+                                      European Open Digital Ecosystems - Response to Call for Evidence
+
+CRDTs can provide true offline-first collaboration, decentralized sync, and mathematically
+guaranteed consistency.
+
+Microsoft cannot retrofit CRDTs onto Office without fundamentally redesigning the file
+format.
+
+What Has Changed: The Window of Opportunity
+The Collaborative Revolution: Microsoft's Weakness Is Our
+Opportunity
+Google Docs proved users expect real-time collaboration. Microsoft has spent over a decade
+trying to retrofit collaboration onto Office. They have failed. This is a massive opportunity for
+European open source solutions.
+
+A new document engine, built from scratch for collaboration, can leapfrog both Google
+(centralized, requires their servers) and Microsoft (retrofitted, architecturally broken). Open
+source can deliver collaboration that neither Google nor Microsoft can match.
+
+The Rust Revolution
+C and C++ were designed in a different era. Today's reality is radically different: multi-core
+processors, networked everything, energy constraints.
+
+Rust's innovation: the ownership system and borrow checker enforce memory safety and
+thread safety at compile time. Microsoft has noted that 70% of their security vulnerabilities
+were due to memory safety issuesâRust eliminates this entire category.
+
+Rust has achieved remarkable adoption:
+   â¢â   Linux kernel: Rust is now accepted for kernel development
+   â¢â   Android: Google is writing new Android components in Rust
+   â¢â   Windows: Microsoft is exploring Rust for Windows kernel
+   â¢â   AWS, Cloudflare, Discord, Dropbox: Production Rust at scale
+
+Rust Opens New Hardware Architectures
+Software written in C/C++ often carries hidden assumptions about x86 architecture.
+Rewriting in Rust forces clean abstractions that work across processor architectures. This
+enables ARM and RISC-V, breaking dependencies on Intel/AMD (American) and reducing
+lock-in to Apple's proprietary ARM implementations.
+
+Servo: Browser Components Become Office Components
+The key insight: browser rendering components and office document rendering
+components are fundamentally similar. A web browser parses markup, builds a layout
+tree, renders text and graphics. A document editor does the same.
+
+Mozilla originally developed Servo as a showcase for Rust. After Mozilla's 2020 layoffs, the
+project was revived by Igalia, a Spanish open-source consultancy based in A Coruna. Igalia
+is the #1 contributor to Servo, and a worker-owned cooperative founded in 2001.
+
+IronCalc is a German open-source project building a spreadsheet engine in Rust from the
+ground up. This is exactly the component-level approach this proposal advocates.
+
+The AI Revolution: Three Dimensions of Change
+
+                                    Page 10 | Clever Cloud SAS
+                                      European Open Digital Ecosystems - Response to Call for Evidence
+
+AI transforms software development and document handling in three distinct ways:
+   8.â AI as Productivity Multiplier: LLM-assisted development multiplies programmer
+       productivity drastically. A team of 400 skilled developers can accomplish what
+       previously required thousands.
+   9.â AI as a New Way of Working: Users can describe what they want in natural
+       language, get immediate results, and iterate rapidly.
+   10.âAI Everywhere Requires New Architecture: Documents designed for collaboration
+       are also better suited for AI processing. Microsoft's architecture actively hinders AI
+       integration.
+
+Kurzweil's Law of Accelerating Returns
+Ray Kurzweil's Law tells us: "The paradigm shift rate is currently doubling approximately
+every decade. So, the technological progress in the twenty-first century will be equivalent to
+what would be required at the level of 200 centuries." Timelines that seemed impossible
+compress dramatically.
+
+The Political Momentum
+The geopolitical context shifted drastically in 2025-2026 :
+   â¢â   Trump administration threatened tariffs on countries with digital regulations
+   â¢â   Visa sanctions imposed on European digital policy architects
+   â¢â   EU Parliament adopted a technological sovereignty report calling to "drastically
+        reduce European dependence on US technologies"
+   â¢â   The International Criminal Court replaced Microsoft Office with OpenDesk after being
+        locked out of Outlook
+   â¢â   July 2025: Germany, France, Italy, and the Netherlands established DC-EDIC for
+        Digital Commons
+
+DMA Browser Choice Screen Success
+The Digital Markets Act's browser choice screens has already shown effectiveness : :
+   â¢â   Firefox daily active users in Germany increased by 99%
+   â¢â   Firefox daily active users on iOS in France grew by 111%
+   â¢â   Brave saw iOS downloads jump +46%
+   â¢â   Opera reported 164% increase in new iOS users
+
+When users are given genuine choice, they choose alternatives. The barrier was never
+preferenceâit was default bundling.
+
+Markets to Reopen
+This is not just about market share or economic sovereignty. It's about saving the future of
+computing and making it human-centered again.
+
+Reopening these markets is about building a humanist digital future: an Internet that
+serves people's interests rather than extracting from them, computing that respects privacy
+by design, AI that enhances human capability without concentrating power.
+
+Office Suites: Breaking the Keystone
+
+                                    Page 11 | Clever Cloud SAS
+                                     European Open Digital Ecosystems - Response to Call for Evidence
+
+Microsoft Office is the keystone of the entire Microsoft monopoly: Office locks users to
+Windows, Office data flows to Azure, Enterprise Agreements bundle everything together.
+Breaking Office could break the entire lock-in chain.
+
+The path forward: build a new document rendering engine in Rust, designed from the ground
+up for:
+   11.âPerfect format compatibility: Pixel-perfect rendering of legacy Office documents
+   12.âNative collaboration: Real-time editing with CRDTs as foundational architecture
+   13.âAI integration: Document structure accessible to language models
+   14.âCross-platform: Web, desktop, and mobile from single codebase
+   15.âEmbeddable: Components usable in any application
+
+Web Browsers: Unlocking the Advertising Market
+Chromeâs 66% market share significantly reinforces Googleâs dominance in digital
+advertising. Hence, breaking browser monopoly partially reopens the advertising
+marketâcurrently $349 billion annually in Google's hands.
+
+Servo is the only independent browser engine with active development outside Google
+(Chromium) and Apple (WebKit). A well-funded Servo could power multiple browser
+products, breaking the Chrome/Safari duopoly.
+
+Operating Systems: The Long Game That Reopens Hardware
+The netbook episode (2007-2012) demonstrates that operating system choice enables
+hardware competition. When Linux was viable on netbooks, new hardware form factors
+emerged, new manufacturers entered the market, prices dropped dramatically. Microsoft's
+defensive action killed not just Linux adoption but hardware innovation.
+
+Reopening the OS market would reopen the hardware market. European hardware
+manufacturers could compete without the Windows tax.
+
+The Proposal: A European Digital Commons
+Foundation
+Mission and Philosophy
+Digital commons are shared digital resourcesâsoftware, standards, protocolsâowned and
+governed collectively by communities rather than single entities. Digital commons always win
+in the long runâLinux on servers is proof. The question is whether we accelerate that
+timeline through strategic investment.
+
+The foundation builds document rendering engines, browser engines, core libraries,
+protocols, and standards. It does not build branded office suites, browsers, or operating
+systems. Private companies and governments build products using the foundation's
+components. Competition happens at the product layer, on a level playing field.
+
+The OpenBuro Initiative
+A critical gap exists: alternative applications have reached unprecedented maturity, but they
+remain isolated silos. The OpenBuro specification, developed through collaboration
+between La Suite de la DINUM (France) and Twake.ai, addresses this gap.
+
+                                  Page 12 | Clever Cloud SAS
+                                    European Open Digital Ecosystems - Response to Call for Evidence
+
+ Component                                      Functionality
+ Authentication                                 Versatile SSO, user management, profiles,
+                                                groups
+ Navigation                                     Home, navigation bar, application grid,
+                                                global search
+ Platform Sharing                               Users, groups, roles, cross-service
+                                                workspaces
+ Inter-App & AI                                 Capability & Intent Casting, API
+                                                standardization for RAGs
+ Security                                       E2E encryption managed at platform level
+ Mobile & Desktop                               Common authentication, discovery,
+                                                notification management
+
+The foundation must build low-level componentsâthe LiveKits, the document engines, the
+browser enginesânot just applications on top of American components.
+
+Use-case examples
+This approach has already been proven in practice:
+
+MakAir Project (2020): During the COVID-19 crisis, Quentin Adam initiated and led the
+MakAir open-source ventilator project. In just four weeks, using open-source
+methodologies, ~300 volunteers designed, certified, and industrialized an artificial
+respiratorâfrom concept to production-ready medical device. The project was backed by the
+French military (Agence de l'innovation de defense) and major industrial partners
+(STMicroelectronics, Michelin, Parrot). This is proof that open-source coordination can
+achieve in weeks what traditional processes take years to accomplish.
+
+The expertise exists. We have proven we can mobilize large teams for complex engineering.
+The question is whether Europe will fund it at scale.
+
+Including Developers and technical leaders in the Governance
+structure
+The foundation is governed by proven technical leaders, not administrators or business
+representatives. This is a purely technical body. This is NGI's model fixed: instead of
+funding application projects and hoping for coherence, the foundation directly employs
+developers working toward a unified technical vision.
+
+Proposed Technical Council (suggestions to be validated):
+Jean-Baptiste Kempf (France) â President of VideoLAN, lead VLC developer since 2005.
+Built one of the most successful open-source media players in history. The proof that
+European developers can build globally dominant software.
+Igalia Leadership (Spain) â Worker-owned cooperative that revived Servo. The #1
+contributor to Servo. They know how browsers work at the deepest level.
+Luc Julia (France) â Co-creator of Apple Siri. Advocate for European AI sovereignty.
+Benjamin Andre (France) â Founder of Cozy Cloud. Leading Linagora's Twake workplace
+initiative.
+
+                                  Page 13 | Clever Cloud SAS
+                                    European Open Digital Ecosystems - Response to Call for Evidence
+
+Quentin Adam (France) â CEO of Clever Cloud. Initiator and leader of MakAir: designed,
+certified, and industrialized an open-source ventilator with 300 people in 4 weeks using
+open-source methodologies. Has already demonstrated the ability to coordinate
+large-scale open-source engineering at speed.
+
+Digital Commons, Not Products
+The foundation produces shared infrastructureâdigital commonsânot branded products:
+Document Commons: Rust-based document rendering engine, perfect OOXML/ODF
+parser, CRDT-native collaboration protocol, AI-ready APIs, IronCalc integration
+Browser Commons: Servo browser engine (continued development), web standards
+implementation, security hardening
+Platform Commons (OpenBuro): Service orchestration                   standard,    authentication,
+cross-application communication, AI API standardization
+Infrastructure Commons: Cross-platform build systems, testing suites, documentation,
+specifications, reference implementations
+
+Asset Companies, Not Flux Companies
+Most European open source companies rely on service-based models. These are "flux
+companies"âtheir revenue depends on continuous labor. European actors generate
+upstream value while downstream economic value is captured by American cloud providers.
+
+The foundation enables a different model: asset companies that build products on top of
+shared commons. When foundational components are provided as digital commons,
+markets reopen, European companies can compete in spaces currently monopolized.
+
+This is not just about business modelsâit's about changing the future of computing.
+Asset companies built on European digital commons can offer genuine EU alternatives to
+American monopolies.
+
+Funding Model
+The core proposal: â¬50 million annually from the European Commission for six years
+(~â¬300 million total).
+
+For context:
+   â¢â   Microsoft Office revenue exceeds $50 billion annually
+   â¢â   European public procurement of software: ~â¬35 billion annually
+   â¢â   LiveKit alone raised $183 million from Silicon Valley VCs
+   â¢â   The proposed investment is a tiny fraction of what Europe already spends
+
+100% of Funding Goes to Developers
+This must be crystal clear: the entirety of the funding goes to employing developers. Not
+administrators. Not consultants. Not studies. Developers who write code and ship software.
+
+The foundation's purpose is singular: shipping code. Every euro invested translates directly
+into lines of code, merged pull requests, and working software. This is how digital commons
+get built.
+
+Why Direct Employment, Not Grants
+
+                                  Page 14 | Clever Cloud SAS
+                                      European Open Digital Ecosystems - Response to Call for Evidence
+
+Unlike grant programs, the foundation directly employs developers:
+   â¢â   Unified technical direction
+   â¢â   Long-term continuity
+   â¢â   Accountability for results
+   â¢â   Ability to recruit top talent with competitive compensation
+   â¢â   All money becomes code
+
+Implementation Timeline
+The detailed implementation timeline is actively being developed. This is a discussion
+to be had with the Commission and stakeholders once there is a signal to proceed.
+
+Current key findings :
+   â¢â   The timelines will assume accelerated progress per Kurzweil's Law of Accelerating
+        Returns
+   â¢â   What would have taken 10 years in the 2000s can be achieved in 3-4 years with
+        modern tools, AI assistance, and Rust productivity
+   â¢â   The technical council composition, hiring roadmap, and development milestones will
+        be formalized through the foundation establishment process
+
+Conclusion
+The market structures that shaped American digital hegemony were not inevitableâthey
+were built through deliberate strategy, starting with a single contract clause in 1980 and
+reinforced through decades of bundling, format control, and network effects.
+
+The technical and political conditions now exist to reopen these markets through digital
+commonsâshared infrastructure collectively owned and governed, enabling competition at
+the product layer while keeping foundational technology open.
+
+Rust enables small teams to build reliable systems software. CRDTs solve collaboration
+problems Microsoft cannot. AI multiplies developer productivity and transforms how people
+work with documents. Kurzweil's Law tells us timelines compress exponentially. And Europe
+has both the political will and the institutional frameworks (DC-EDIC, Sovereign Tech Fund)
+to act.
+
+Let's talk about scale. Europe spends â¬264 billion annually on American cloud and
+software services. The total EU budget is â¬170 billion. We are asking for â¬50 million per
+yearâless than 0.02% of what we already send to American tech companies every year.
+This is not a significant investment. It is a rounding error compared to our current
+dependency. And yet this modest sum, directed entirely to employing developers who ship
+code, can build the foundational components that reopen markets currently monopolized.
+
+The proposal is concrete: fund a European Digital Commons Foundation with â¬50 million
+per year from the Commission for six years. 400 developers, governed by proven technical
+leaders, building shared infrastructure via the OpenBuro specification that enables market
+competition. Every euro becomes code. Private sector funding will complement public
+investment, with the goal of digital commons becoming self-sustaining.
+
+We cannot build European sovereignty by sprinkling French interfaces on American
+infrastructure. We need the low-level componentsâthe document engines, the browser
+engines, the collaboration protocols. This requires hundreds of developers working on
+foundational software, not just applications.
+
+                                    Page 15 | Clever Cloud SAS
+                                 European Open Digital Ecosystems - Response to Call for Evidence
+
+The window is open. The question is whether Europe will walk through it. As a matter
+of fact, we are ready and committed to move forward as soon as the Commission
+provides the signal.
+
+                                       âââ
+                           Submitted by: Clever Cloud SAS
+                            Contact: adam@clever.cloud
+
+                               Page 16 | Clever Cloud SAS

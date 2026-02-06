@@ -1,0 +1,251 @@
+Ref. Ares(2026)938089 - 27/01/2026
+
+     Call for Evidence: European Open Digital Ecosystems
+
+     1. What are the strengths and weaknesses of the EU open-source sector? What
+     are the main barriers that hamper (i) adoption and maintenance of high-quality
+     and secure open source; and (ii) sustainable contributions to open-source
+     communities?
+
+     Strengths
+        â The EU has a strong public-sector interest, as well as policy support, to promote
+           digital sovereignty, vendor independence and interoperability. The EU Open
+           Source Software (OSS) Strategy 2020â2023 already highlights examples of
+           institutional support in areas such as cybersecurity (CERT-EU, FOSSA-EU,
+           FOSSA 2), licensing (EUPL), programmes (e.g. Next Generation Internet and the
+           INSPIRE Directive) and public funding.
+        â The EU also has high-quality research capacity and technical talent, supported
+           by strong universities, research laboratories and engineering communities.
+        â EU values and the regulatory framework consistently emphasise trust and
+           security, privacy, resilience and compliance. These principles are highly relevant
+           and provide a strong foundation for the development of accountable and
+           transparent systems.
+        â Awareness of the bene ts of OSS is increasing. The Linux Foundationâs World of
+           Open Source Europe Report 2025 shows that 58% of survey respondents
+           identi ed innovation as the area that would bene t most from OSS investment.
+           This signals that organisations view OSS not only as a way to reduce costs, but
+           also as a catalyst for innovation within their business or industry.
+        â Current geopolitical conditions are threatening; however, they are also
+           accelerating collective awareness of the need for technological independence
+           and sovereignty as it is expressed in the Open Letter: European Industry Calls
+           for Strong Commitment to Sovereign Digital Infrastructure of March 14, 2025.
+           This creates a timely opportunity to align interests around participatory and
+           collective solutions involving all stakeholders, including the private sector, OSS
+           communities, the public sector and academia.
+
+     Weaknesses | adoption and maintenance barriers
+
+        â Despite high-quality R&D in open source systems and a robuts human capital,
+          open source systems face dif culties in reaching commercialization and growth
+          for several reasons:
+              â Projects struggle to get continuous sources of funding. Commercial
+                 alternatives turn into uneven competition. The market for EU-OSS reduces
+fi
+              fi
+                     fi
+                                         fi
+              to the public sector. Therefore, projects ow (mainly) to the United
+              States.
+          â   The OSS process is broken, projects stall after the research grant/phase
+              ends and the projects struggle to access funds to scale, grow, and
+              maintenance ends in a sustainability crisis.
+          â   Fragmentation that arises from diverse legal frameworks and regulatory
+              differences, fragmented capital markets, and different procurement
+              processes where high-tech companies            (including their open source
+              software) have more resources and scale, outcompeting local EU OSS.
+          â   The private sectorâs engagement with OSS is small. The same study
+              from the Linux foundation shows that only 14% of respondents contribute
+              to key projects; 28% contribute occasionally; 20% report issues but do not
+              contribute, and 23% use OSS but do not contribute back.
+          â   A structural issue in the EU is that projects depend on public funding
+              while in the United States, the participation of the private sector is stronger
+              and public support is an additional accelerator especially around security.
+              In other words, OSS is factored in the competitiveness equation of
+              companies. For example, Google, Meta, Amazon, Apple, depending on
+              OSS, fund, employ and maintain OSS because it is cheaper for them than
+              building everything internally.
+
+                                            ***
+
+2. What is the added value of open source for the public and private sectors?
+Please provide concrete examples, including the factors (such as cost, risk, lock-
+in, security, innovation, among others) that are most important to assess the
+added value.
+
+The Linux Foundation Europe and Linux Foundation Research divisions presented the
+study: Open Source as Europeâs Strategic Advantage. The foundation conducted a
+survey to 316 organizations and representatives of different industrial sectors during
+Q1-2025.
+
+At the industrial level, 58% of industries think that OSS helps in innovation, 54% thinks
+that it improves interoperability and standards, around half (49%, 48%) think that OSS
+contributes to transparency, reduced operating costs and collaboration.
+                                fl
+     The second question of interest was: How often does using OSS deliver the following
+     bene ts to your organization? The response categories were often, sometimes, rarely,
+     and didn't know/didnât answer.
+
+     The graph shows that a high percentage of organizations perceive that OSS often
+     bene ts their organization by increasing productivity, reducing vendor lock-in, lowering
+     costs, and providing access to higher-quality software.
+fi
+fi
+     Source: Linux Foundation. Open Source as Europeâs Strategic Advantage. Page 10
+
+                                               ***
+     3. What concrete measures and actions may be taken at EU level to support the
+     development and growth of the EU open-source sector and contribute to the EUâs
+     technological sovereignty and cybersecurity agenda?
+
+        1. The rst recommendation is to adjust the funding policy within Horizon, OSS
+           funds, and EU Member Statesâ innovation policies to support the sustainability
+           and growth of OSS projects emerging from EU talent and entrepreneurship.
+              a. The revised funding policy should include a fast-track approval process
+                  for up to three consecutive, incremental grants for OSS projects that meet
+                  their goals and deliver expected results. The second and third applications
+                  would be a continuation of funding supporting expanded milestones to
+                  help projects grow and scale. At that stage, the agencies managing
+                  Horizon and OSS funding have already identi ed promising projects that
+                  should be able to grow within the EU.
+              b. Secondly, the funding policy should better align incentives between public
+                  funders and grantees. This can be achieved through matching grants,
+                  where OSS projects receive public funding conditional on commitments to
+                  industrial contribution. For example, a project could secure participation
+fi
+                                     fi
+               from companies and industries that use the software and contribute to its
+               maintenance, or that provide dedicated staff to work on the software while
+               addressing real industrial needs. Such a commitment could mean
+               immediate approval of second and third grants from Horizon and other
+               OSS EU-funds. Successful projects of this kind will resonate in the private-
+               sector and foster their participation. The underlying logic is simple: âIf my
+               competitor and my neighbour are increasing pro ts and gaining market
+               share, I should do the same.â
+            c. Third, the Commission should be open in regulatory terms, so that the
+               private sector can trigger the potential of blockchain and the token
+               economy to propel novel funding mechanisms encompassing DAOs,
+               quadratic funding and token design to boost a privately driven and
+                 nanced OSS system, regardless of the type of OSS (whether blockchain,
+               open AI, edge computing, quantum, etc).
+
+     2. The Commission needs to foster stronger integration between academia,
+        industry and OSS communities. One of the key factors behind the USAâs
+        leadership in OSS development and growth is the close alignment between
+        market commercialisation, universities and OSS projects. OSS laboratories at
+        institutions such as Stanford, Berkeley and MIT highlight the importance of
+        connecting human capital and R&D with routes to market and clear exit
+        strategies. The EU has all the inputs, it is necessary to tie the dots.
+
+     3. Labour market and migration policy: OSS is a matter of human capital. The
+        Commission should revamp and recon gure its temporary and permanent
+        technical visa policies (as part of migration policy). Again, one of the factors that
+        enabled the US to thrive in clusters such as Silicon Valley, Austin and Seattle was
+        the availability of H-1B and H-2 visas, aligned with the countryâs technical and
+        economic priorities.
+           â The EU has a unique opportunity to capitalise on the current shifts in
+               US immigration policy, where visas for scienti c and technological
+               development are being reduced, entry costs are increasing, employers of
+               foreign talent are facing increasing sponsoring fees, and visas are
+               increasingly being denied to foreign students. Human capital is eeing to
+               other geographies.
+           â Attracting and retaining talent is paramount for a sustainable and
+               thriving OSS in the territory, even though âthe digital worldâ does not
+               recognise borders and is not built to be attached to a geography, the
+               source of value creation and value accrual resides in the human talent.
+fi
+                               fi
+                                       fi
+                                            fi
+                                                       fl
+                And here is where the lens of the migratory-labour policies should focus
+                on.
+              â Other measures can include tax holidays and tax credits for
+                organizations, companies and individuals engaged in supporting OSS in
+                the EU. Public funding to top universities can also incorporate a budget to
+                increase research grants and salaries to the top-level academic staff.
+                Certainly this stimulus will attract the best minds from NorthAmerica
+                seeking to relocate to EU universities where there are no ideological
+                barriers on scienti c and technological R&D&I.
+
+   4. Innovation hubs. The EU has already launched innovation hubs across its
+      member states. These are physical spaces where talent and entrepreneurship
+      are gathered. The Commission and agents involved in the management of
+      Innovation Hubs should be incorporated into the previous recommendations: the
+      labour market, the migration policy, the grants, and integration with academics.
+
+                                             ***
+4. What technology areas should be prioritised and why? And
+5. In what sectors could an increased use of open source lead to increased
+competitiveness and cyber resilience?
+
+The Commission should prioritise blockchain technologies. Open, public blockchain
+technologies are often developed as FOSS, but their relevance extends beyond open-
+source software alone. Blockchain can serve as a lever for the technological
+sovereignty of the EU. As such, it can form part of the backbone of a sustainable and
+resilient EU stack. The following paragraphs explain the rationale behind this
+assessment.
+Digital sovereignty is de ned as the ability of governments, organisations, businesses or
+individuals to maintain independent control over their digital assets, data and
+operations. If we adopt this de nition provided in the article : Open Source and Digital
+Sovereignty it is dif cult not to consider the role of blockchain.
+
+Public Blockchain stack advances towards privacy-preserving architectures from layer
+1, transcending to the upper layers of the stack, such as rollups, smart contracts,
+storage, communication protocols, wallet software, etc. Decentralised blockchain
+protocols allow societal actors to be in complete control of their data, assets and
+operations.
+
+The argument is straightforward: if each European citizen, alongside their organisations
+and governments, retains control over these three elements, this directly strengthens
+    fi
+         fi
+              fi
+                     fi
+     their sovereignty. In turn, EU sovereignty can be understood as the sum of sovereign
+     individuals and sovereign organisations.
+
+     The more EUâOSS integrated policies foster the growth and interoperability of public
+     blockchain ecosystems, the more EU citizens and organisations will be able to shift
+     towards services that best suit their needs and interests â while reducing dependency
+     on large technology monopolies.
+
+     Blockchain ecosystems align with the European Declaration on Digital Rights and
+     Principles for the Digital Decade because blockchain-based digital transformation can
+     put people at the centre and has demonstrated new business models that expand
+     income-generation opportunities through tokenised economies. This may provide
+     alternatives to the risks of labour displacement associated with automation. With open-
+     source blockchain, the value is not limited to collaboration in software development and
+     maintenance: it can also support broader participation in society through new
+     organisational models. For example, individuals can contribute to decentralised
+     autonomous organisations (DAOs) focused on climate action, the circular economy,
+     education and other collective priorities (regenerative public goods) while generating
+     revenues. Here is the paragraph of the Declaration that this paragraph refers to:
+
+           (6) The EU vision for digital transformation puts people at the centre,
+           empowers individuals and fosters innovative businesses. The Decision on
+           the âDigital Decade Policy Programme 2030â sets out the concrete digital
+           targets based on four cardinal points (digital skills, digital infrastructures,
+           digitalisation of businesses and of public services). The EU way for the
+           digital transformation of our societies and economy encompasses in
+           particular digital sovereignty in an open manner, respect for fundamental
+           rights, rule of law and democracy, inclusion, accessibility, equality,
+           sustainability, resilience, security, improving quality of life, the availability
+           of services and respect of everyoneâs rights and aspirations. It should
+           contribute to a dynamic, resource ef cient, and fair economy and society
+           in the EU. (EU Commission, 2023).
+     There is no other technology that enables the creation of cohesive communities while
+     also allowing users to switch between decentralised applications (dApps) as easily as
+     connecting or disconnecting a wallet (in other words, the private and the collective
+     interests nd a place to reconcile, coordinate and cooperate) .
+
+     A credible route out of monopolistic structures is greater competition and genuine
+     freedom of choice for consumers. If EU OSS policy focuses on consumer satisfaction â
+     enabling users to access services that best match their preferences â then multi-sided
+fi
+                             fi
+blockchain-based ecosystems may naturally provide enough conditions to shift away
+from centralised and monopolistic digital stacks.
+
+Finally, from a cybersecurity perspective, blockchain also offers valuable characteristics.
+Multiple layers of cryptography can make these systems highly resistant to tampering
+and geopolitical cyberattacks, while supporting transparency and accountability.

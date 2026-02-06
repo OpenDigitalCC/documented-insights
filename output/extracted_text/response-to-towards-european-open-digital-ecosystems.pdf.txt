@@ -1,0 +1,251 @@
+Ref. Ares(2026)1123948 - 01/02/2026
+
+Towards European Open Digital Ecosystems
+Introduction
+This is a (very rough) response to the call for evidence by the European Commis-
+sion entitled âTowards European open digital ecosystemsâ. I was very pleased
+to hear that the EU is planning on embracing open source software, and I have
+been pleased with some of their previous initiatives. This is a bit of a ramble,
+but I hope this communicates the value of open source to me as a user, how it
+enables me to teach and where it can protect my data from exploitation, and
+where it falls short. Iâve tried to keep a bit of a structure, though there will be
+some bleed between sections.
+
+TLDR:
+Reasons why open source should be focused on:
+   â¢ Digital sovereignty from not being beholden to private companies governed
+     by foreign nations - protects institutions that uphold international law
+   â¢ Public goods from software being freely available and adaptable - easy to
+     audit and submit changes (also a potential problem with unsavy maintain-
+     ers)
+   â¢ Producing higher quality software
+   â¢ Reducing technological and vendor lock-in - gives more choice to the user
+     if their needs are not being met
+
+Digital Sovereignty in Software and its Cross-Border Bene-
+fits
+Itâs common knowledge that American big tech companies have control of the
+cloud infrastructure service provider market. The top four of Wikipediaâs list
+of largest technology companies by revenue all have the USA as the country
+of origin. Amazonâs subsidiary AWS has almost a 30% market share in Q3
+2025[1], which is closely followed by Microsoftâs Azure service at 20%. While
+these companies have all been subjected to pressures from the US government
+to advance their political agenda, the case that comes to mind is Microsoftâs
+Outlookâs âdisconnectâ of the email address of Karim Khan, the Prosecutor of
+the ICC. This was after an executive order by the US President claimed the ICC
+had âengaged in illegitimate and baseless actionsâ following their investigation
+into the genocide of the Palestinian people in Gaza.[2]
+Itâs my opinion that itâs untenable for international conglomerates to impede
+bringing war criminals to justice to avoid retaliation from the governments, and
+itâs in the worldâs interest to keep the ICC and similar organisations independent
+from the whims of one or a few select countries, and in particular countries that
+are under scrutiny of those organisations.
+In other ways, Alphabetâs Google has campaigned relentlessly against digital
+
+                                        1
+privacy, with Google Street View, scanning of usersâ mail in Gmail, and non-
+compliance with information requests by European governments. I think these
+âbusiness strategiesâ are unsustainable and are antithetical to the world I want
+to live in where people have freedom from constant surveillance. The modern
+technology industry is closing in on consumers with recent moves to dynamic
+pricing based on the processing of personal messages (recent Gmail announcement
+about AI product Gemini being given access to âprivateâ mail).
+Encouraging a shift to non-Big-Tech, free and open source software would do
+more than just protect the privacy, civil and other rights of people. My country
+is not a member of the European Union, but I am an infrequent contributor
+and full-time user of free and open source software. Strengthening the EUâs
+open source sector and sustainable contributions to open-source communities
+will improve the services for people worldwide, serving as a public good for which
+investment will have benefits in the short and long term. Short term because
+of removing bargaining power from global economic hegemons that would use
+existing technical investment in technologies to unduly influence decisions, and
+long term to build a population that has the skills to maximise potential benefit
+that can be obtained through the use of technology.
+I periodically volunteer to teach children in primary schools in my community
+how to code, and the value of being able to decompose problems into steps
+that can be tackled individually by computers. The single most important
+tool Iâve used in this are BBC Micro:Bits, as they make computers much more
+approachable as a concept as opposed to controlling a sealed plastic or metal
+box. The Micro:Bit ecosystem is supported by an open source tech stack which
+includes MicroPython and Javascript, and makecode.microbit.org as a cloud-
+based ide which has virtually no obstacles to use, with (reasonably) affordable
+hardware prices. Note that makecode is developed by Microsoft, but if the
+project were to be discontinued, it would be easier to switch to alternate IDE,
+because of the large number of open-source software with equivalent functionality.
+In a case like this, open hardware and software makes it easy for young learners
+to become familiar with practical engineering, without being introduced to a
+walled garden.
+Given the large amount of open-source contributions by private companies, itâs
+important to be pragmatic about open-source development, and I donât intend
+to be ungrateful for the positives that the capital gained harvesting private
+information without consent has produced. Statistics from the 6.10 kernel[3]
+show that by change-sets, 10 companies, led by Intel, Google and RedHat, were
+the most active employers of that release. It would be easy to dismiss this as self-
+serving, and to be fair, companies wouldnât contribute to the Linux kernel unless
+it was in their business interests. I think itâs noteworthy that these ruthlessly
+profit-focused companies can justify spending large salaries on programmers
+to an end that their competitors and end consumers will undeniably benefit
+from, and I think that contributions from contributors with the security of
+government backing will similarly benefit other parts of that government but
+
+                                         2
+also people worldwide. This thinking has already been employed as detailed in
+the European Commissionâs Open Source Software Strategy (2020-2023)[4], and
+the Interoperable Europe Act[5].
+Despite these good contributions to the open-source ecosystem, there are some
+companies who are actively hostile (understandably) to the adoption of open
+source technologies. An example of this is Microsoft attempting to threaten the
+UK government[6] after plans to move to Open Document Format instead of
+Microsoftâs proprietary .doc and .docx formats. This is similar to when the Mu-
+nich government reversed an almost-complete migration to a Linux distribution
+called LiMux[7], following Microsoft moving their German headquarters bach to
+Munich from UnterschleiÃheim.
+
+Interoperability and the adoption and maintenance of open
+source code
+âEnshittificationâ, coined by Cory Doctorow, is a very popular phrase as of late.
+From my understanding, it describes the general trend of Big Tech companies
+reducing the quality of their services with the goal of extracting more revenue
+from existing users. Companies are incentivised to gain users to increase their
+revenue. Common revenue models include recruiting paying customers with a
+one-time license or subscription fee, showing them ads or selling their data or
+inferred personal data. Maybe these companies make a good product that has
+compatibility with what systems people already use, with the intent of extracting
+revenue later on. Some users may be more privacy conscious, and may decide
+to take their business elsewhere. Increasing revenue in ways that users may
+disagree with will inevitably lose some customers, but these companies want to
+maximise profits. In some cases, they make it harder for customers to leave.
+Android OS, is the most widely used OS in the world. Google made Android OS
+available free to manufacturers, arranged strategic partnerships and made use
+of deep integration with existing services like Gmail to make the devices more
+appealing than Appleâs ecosystem. The current day market-share is a result of
+planned and considered steps over a long period of time backed up by a very
+large amount of investor funding and advertising revenue. This massive market
+adoption has enabled Google to have free-range access of user data without their
+knowledge and consent[8]. This is an example of adoption of open source that,
+in my opinion, has harmed the privacy and other rights of users.
+To compare with a project with a very different origin story, the VLC Media
+Player âoriginated as a French academic project in 1996â[9]. Starting small in
+scope, with the aim of streaming video across a university, it was made available
+under the GNU GPLv2 free software license. This enabled development from
+contributors across the world, helped by its modular software architecture that
+allows for the easy integration of new features. At the time of writing, VLC has
+900 million downloads on software distribution site Sourceforge, and 66 million
+downloads directly from the website. VLC Media Player asks the user if theyâd
+
+                                       3
+like to opt-in to telemetry, for usage statistics and/or crash reports.
+Apache is a FOSS web-server that was based off code enhancements of an early
+web-server created by the NCSA at the University of Illinois. The Apache
+Foundation, who also created the Apache Software license that along with the
+GNU GPL licenses has allowed people to collectively pool effort to create high
+quality software remotely. Nowadays, Apache serves over 17% of the 1 million
+busiest websites.
+In my opinion, the number one requirement for open-source code to be widely
+adopted is interoperability. Like Google focused on interoperability between
+its own products to make Android more convenient to use compared to other
+offerings, and VLC media player giving developers the tools to easily integrate
+new codecs, interoperability allows for a broad appeal across a userbase because
+it can cater to a large subset of needs. Being able to export data from a program
+into a data exchange format is ideal, as this omits the need for converter programs.
+For example, the OpenDocument Format for office applications, instead of using
+e.g. Word/Powerpoint formats. By having a well-defined and widely-adopted
+document format, users will get consistent results when displaying documents
+using different programs including Calligra Suite, LibreOffice and OpenOffice.
+The use of these open standards should be enforced in public organisations too.
+The point of Google adding all their services wasnât really for the convenience
+of the end user, it was to encourage further reliance on services, so having
+interoperable data formats and easy ways to generate, convert and move them
+will give users more options when choosing software to suit their needs.
+The then Vice President of Open Systems and Linux at IBM Bob Sutor an-
+nounced[10] in 2010 that IBM was moving to Mozilla Firefox as a default browser
+for all its employees. His reasoning sums up the benefits of the âJewel of Open
+Sourceâ[11]. Abridged, these are:
+   â¢ Interoperability via open standards
+   â¢ Security, with source-availability making it easy to audit
+   â¢ Extensibility through customisation
+   â¢ Project managed by a development community instead of a corporate
+     entity
+
+Sustainable Contributions and Cybersecurity
+I donât think thereâs a widely used FOSS project that doesnât use some kind
+of version control; common ones are SVN, Mercurial and the most popular,
+Git. At the moment, a large number of open source projects are hosted on
+Github, which is owned by a subsidiary of Microsoft. Github has reported having
+~100000000 users in 2023, which makes it the largest host of open source code
+in the world. Aside from previous issues with Microsoft mentioned above, they
+have recently been moving all of Githubâs infrastructure to their cloud-based
+Azure[12], increasing the possibility of lock-in for CI/CD. There are alternatives
+such as Bitbucket, owned by Atlassian, which is an American-Australian software
+
+                                         4
+company, Gitlab, owned by Gitlab Inc. which is an American Company. Thereâs
+also SourceForge and AWS CodeCommit. You might notice that all of these
+are provided by American-based companies. One EU-based answer to this is
+Codeberg, which provides git hosting as a publicly-available instance of the free
+and open source software Forgejo (which is under the custody of Codeberg),
+along with static site hosting. Supporting and promoting an alternate git hosting
+service will give an EU sovereign platform for hosting code that is not subject
+to Microsoft control. Because Git is a distributed version control system at its
+heart, and git repository hosting must be interoperable by design, there will be
+less barriers for users to migrate their projects over.
+Currently, many open source projects are funded and hosted in part by academic
+organisations. Last year in the USA, higher-education institutions including
+colleges/universities were subjected to research funding cuts from the US federal
+government. These sweeping cuts included Oregon State University. When under
+pressure to cut programs, one of the ones they chose was their Open Source
+Labs[13]. OSL has been running for many years providing hosting services
+for projects I have mentioned so far, including Mozilla Firefox, the Apache
+Software Foundation, the Linux Kernel, and infrastructure for projects that
+I use now including Gentoo Linux and Fedora. Thankfully, after coverage in
+industry news sources, and sharing of the situation across popular user forums,
+funding for OSL has been stabilised, with plans for future sustainable operation
+in part through individual contributions and industry outreach[14]. This is an
+example of the value public infrastructure brings to individuals and companies.
+While this example is across the Atlantic Ocean, there are hundreds of academic
+institutions that provide hosting services for free and open source projects now,
+like Debian package manager mirrors among many examples, and stable funding
+for university FOSS software initiatives will allow projects to focus limited
+contributor and financing resources into improving their respective projects.
+At the most recent Chaos Communication Congress (39CC), a live demonstration
+showing attacker-constructed gpg key files could trick the user into unintentionally
+signing a file. Two years ago, a vulnerability in XZ-Utils was caught by chance
+by a user who noticed ssh was consuming slightly more resources. This was in a
+software package that would have been used by software installed and used on
+hundreds of millions of devices.
+These are two high-profile examples, but it shows that the volunteer and employed
+contributors who write the code are flawed like all programmers, and given the
+number of internet facing and consumer devices using open source software,
+just as much caution should be paid to security as a company would their
+product (assuming that they do not lean on security through obscurity in their
+techniques). This is where the EU might consider funding security researchers
+to audit critical software and suggest fixes.
+
+                                         5
+Information and References
+[1] https://www.statista.com/chart/18819/worldwide-market-share-of-leading-
+cloud-infrastructure-service-providers/
+[2] https://www.politico.eu/article/microsoft-did-not-cut-services-international-
+criminal-court-president-american-sanctions-trump-tech-icc-amazon-google/
+[3] https://lwn.net/Articles/981559/
+[4] https://commission.europa.eu/document/download/97e59978-42c0-4b4a-
+9406-8f1a86837530_en?filename=en_ec_open_source_strategy_2020-
+2023.pdf
+[5]     https://www.europarl.europa.eu/doceo/document/TC1-COD-2022-
+0379_EN.pdf
+[6] https://web.archive.org/web/20180606003112/https%3A//www.theinquirer.net/inquirer/news/2409808/
+microsoft-bullied-mps-over-government-switch-to-open-source-standards
+[7] https://en.wikipedia.org/wiki/LiMux
+[8] https://www.reuters.com/sustainability/boards-policy-regulation/google-hit-
+with-314-million-us-verdict-cellular-data-class-action-2025-07-01/
+[9] https://en.wikipedia.org/wiki/VLC_media_player
+[10] https://web.archive.org/web/20140725025134/http://www.sutor.com/c/2010/07/ibm-
+moving-to-firefox-as-default-browser/
+[11] https://xkcd.com/198/
+[12]     https://thenewstack.io/github-will-prioritize-migrating-to-azure-over-
+feature-development/
+[13] https://osuosl.org/blog/osl-future/
+[14] https://engineering.oregonstate.edu/all-stories/strong-support-stabilizes-
+funding-open-source-lab
+
+                                       6

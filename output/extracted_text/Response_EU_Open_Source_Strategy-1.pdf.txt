@@ -1,0 +1,641 @@
+Ref. Ares(2026)1131879 - 01/02/2026
+
+         RESPONSE
+                  to the
+
+EU Open-Source Strategy
+   Call for Evidence
+
+                    by
+
+            Private.coffee
+   Verein zur FÃ¶rderung von PrivatsphÃ¤re
+         und digitaler SouverÃ¤nitÃ¤t
+
+               private.coffee
+
+           ZVR-Zahl: 1758485319
+
+              February 1, 2026
+
+                                    Contact: office@private.coffee
+Contents
+
+Introduction                                                                          3
+
+1 Strengths and Weaknesses of the EU Open-Source Sector                               5
+
+2 Added Value of Open Source for the Public and Private Sectors                       9
+
+  2.1   More Security through Transparency . . . . . . . . . . . . . . . . . .        9
+
+  2.2   Increased Interoperability . . . . . . . . . . . . . . . . . . . . . . . .    9
+
+  2.3   Fostering Innovation . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+
+  2.4   Improved Repairability . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+
+  2.5   Open Source as a Tool of Democracy . . . . . . . . . . . . . . . . . . 11
+
+3 Measures to Support the EU Open-Source Sector                                      12
+
+4 Technology Areas to be Prioritized                                                 15
+
+  4.1   Critical Infrastructure . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+
+  4.2   Democracy     . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+
+  4.3   Tools for Developers . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+
+5 Increased Competitiveness and Cyber Resilience                                     17
+
+Conclusion                                                                           19
+
+                                          2
+Introduction
+
+In the name of Private.coffee, we would like to thank the European Commission for
+the opportunity to participate in this Call for Evidence. Private.coffee is an Austrian
+non-profit association dedicated to promoting privacy and digital sovereignty of indi-
+viduals, organizations, and public institutions. Open source software and hardware,
+as well as open standards, in our view, are essential components in achieving this
+mission.
+
+Unfortunately, the IT landscape in Europe is still dominated by proprietary solutions
+from a small number of large foreign corporations, primarily from the United States.
+This leads to a lack of transparency, limited user control over their data, and a
+technical, economical and political dependency on those international corporations,
+and, by extension, on the governments of the countries where these corporations are
+based. In a world where digital technologies have become an integral part of our
+daily lives, where user privacy and data protection are under constant attack, and
+where geopolitical tensions pose real risks to the security and sovereignty of nations,
+open source solutions are more important than ever.
+
+Private.coffee is involved in various open source projects and initiatives. We use open
+source software extensively in our operations, contribute to open source projects,
+provide infrastructure for open source communities, support users and organiza-
+tions in adopting open source solutions, and develop our own open source tools and
+applications. As such, we have a deep understanding of the open source ecosystem
+from various perspectives: as users, contributors, maintainers, and advocates.
+
+In this response, we will address the questions posed in the Call for Evidence, hoping
+that our insights and experiences will contribute to shaping a more open, transpar-
+ent, and user-centric digital future for Europe.
+
+                                          3
+Questions
+
+To reiterate, the Commission asked for feedback on the following questions:
+
+1.What are the strengths and weaknesses of the EU open-source sector? What are
+  the main barriers that hamper (i) adoption and maintenance of high-quality and
+  secure open source; and (ii) sustainable contributions to open-source communities?
+
+2.What is the added value of open source for the public and private sectors? Please
+  provide concrete examples, including the factors (such as cost, risk, lock-in, se-
+  curity, innovation, among others) that are most important to assess the added
+  value.
+
+3.What concrete measures and actions may be taken at EU level to support the
+  development and growth of the EU open-source sector and contribute to the EUs
+  technological sovereignty and cybersecurity agenda?
+
+4.What technology areas should be prioritised and why?
+
+5.In what sectors could an increased use of open source lead to increased competi-
+  tiveness and cyber resilience?
+
+In the following sections, we will provide our detailed responses to each of these
+questions.
+
+                                         4
+1       Strengths and Weaknesses of the EU Open-Source
+        Sector
+
+Europe has a rich history of open source development. We are a diverse continent
+with many talented developers, researchers, companies and grassroots organizations
+contributing to open source projects. In fact, several core technologies without which
+the internet as we know it would not exist today, such as the Linux kernel1,2 , the
+MySQL/MariaDB database systems3,4 , the Python programming language5,6 , and,
+indeed, the World Wide Web itself7 , were all created in the EU and its neighboring
+countries. And currently, a large number of successful open source projects in direct
+competition with privacy-invasive U.S. platforms are being developed predominantly
+in Europe, such as Nextcloud8 , Mastodon9 , CryptPad10 , PeerTube11 , and so many
+more.
+
+Unfortunately, we have allowed multinational corporations from outside Europe to
+dominate the IT landscape. The PC operating system market is clearly dominated
+by Microsoft Windows, with Linux-based operating systems at a single-digit mar-
+ket share12 , while the mobile operating system market essentially only consists of
+Googleâs Android (which is technically an open source project, but in practice is
+deeply reliant on proprietary components provided by Google) and Appleâs iOS.13
+Most people use Google Chrome or Apple Safari as their web browsers, with Mozilla
+Firefox, an open source project also based in the United States, trailing far behind.14
+    1
+     Britannica > Technology > Computers > Linux, https://www.britannica.com/topic/
+Linux
+   2
+     Linux Foundation, https://linuxfoundation.org
+   3
+     Britannica > Technology > Computers > MySQL, https://www.britannica.com/topic/
+MySQL
+   4
+     MariaDB Foundation, https://mariadb.org
+   5
+     Python - from None to AI > Python History, https://python3.info/about/history.html
+   6
+     Python.org, https://python.org
+   7
+     CERN > Science > Computing > A short history of the Web, https://home.cern/science/
+computing/birth-web/short-history-web
+   8
+     Nextcloud GmbH, https://nextcloud.com
+   9
+     GitHub > Mastodon, https://github.com/mastodon/mastodon
+  10
+     CryptPad, https://cryptpad.org
+  11
+     PeerTube, https://joinpeertube.org
+  12
+     statcounter GlobalStats > Desktop Operating System Market Share Europe, https://gs.
+statcounter.com/os-market-share/desktop/europe
+  13
+     statconter GlobalStats > Mobile Operating System Market Share Europe, https://gs.
+statcounter.com/os-market-share/mobile/europe
+  14
+     statcounter GlobalStats > Browser Market Share Europe, https://gs.statcounter.com/
+browser-market-share/all/europe
+
+                                           5
+The cloud computing market is dominated by Amazon Web Services, Microsoft
+Azure, and Google Cloud Platform.15 Metaâs WhatsApp has become synonymous
+with instant messaging. And even where software is developed and hosted in Europe,
+it is oftentimes put behind Cloudflare or other CDNs operated by non-European
+companies.16
+
+In the case of the search engine market, the situation is concerning for an addi-
+tional reason. If Google Search has a market share of 90%17 , that means that it can
+effectively control what information people can find online. This gives Google an
+unprecedented level of influence over public opinion, political discourse, and even
+democratic processes. Paired with the fact that Google makes its money primarily
+through targeted advertising based on user data, this creates a dangerous situa-
+tion where a single corporation can manipulate public opinion for profit, while also
+infringing on user privacy and data protection.
+
+All this is certainly not for lack of talent or innovation in Europe. Much rather, it
+is a consequence of systemic issues, exacerbated by the dominance of multi-billion
+dollar corporations that can afford to lobby governments18 and create ecosystems
+that lock users in.
+
+Overcoming these systemic issues will require coordinated efforts from governments,
+the private sector, and civil society. We need to create an environment in which
+open source projects can thrive. Unfortunately, far too often, open source projects
+in Europe struggle to find sustainable funding, attract and retain developers and
+contributors, and gain visibility and recognition. Even proprietary software compa-
+nies often rely heavily on open source components, but there is a lack of awareness
+and appreciation for the actual value generated by open source projects.
+
+A great advantage of the EU open-source sector is the strong emphasis on privacy
+and data protection. With the General Data Protection Regulation (GDPR) and
+  15
+     synergy research group > Cloud Market Gets its Mojo Back; AI Helps Push
+Q4 Increase in Cloud Spending to New Highs, https://www.srgresearch.com/articles/
+cloud-market-gets-its-mojo-back-q4-increase-in-cloud-spending-reaches-new-highs
+  16
+     built with > Content Delivery Network Web Usage Distribution, https://trends.builtwith.
+com/cdn
+  17
+     Statista > Market share of leading search engines in Europe from Jan-
+uary       2015    to     May      2025,    https://www.statista.com/statistics/1386805/
+search-engines-market-share-all-devices-europe/
+  18
+     Corporate Europe Observatory > The EUs lobby league table, https://corporateeurope.
+org/en/2025/02/eus-lobby-league-table
+
+                                             6
+other privacy-focused regulations, Europe has set high standards for user privacy
+and data protection. This creates a favorable environment for open source projects
+that prioritize user privacy and data protection, as users and organizations are in-
+creasingly looking for alternatives to software and services that collect and monetize
+user data. We have a strong community of privacy-conscious developers and users
+who are committed to creating and promoting open source solutions that respect
+user privacy and data sovereignty. To this end, we would like to stress that the
+GDPR is an important asset for the European IT sector in general, and the open
+source sector in particular, so we urge the Commission to continue defending and
+strengthening it, instead of bowing to pressure from multinational corporations to
+weaken it, especially in the context of "Artificial Intelligence" or other buzzwords.
+Privacy is a basic human right, and if business models are incompatible with that
+right, we should respond by reexamining the business models, not by weakening
+peopleâs rights.
+
+There is also a prevalent misconception that open source software is inherently less
+secure than proprietary software, since its source code is publicly available and can
+be inspected by anyone, including potential attackers. However, this is a fallacy.
+In reality, open source software can be more secure than proprietary software, as
+it allows for greater transparency, peer review, and collaboration among developers
+and security experts. Many eyes can scrutinize the code, identify vulnerabilities, and
+contribute to fixing them. Proprietary software, on the other hand, relies on security
+through obscurity, which can lead to complacency and a false sense of security.
+
+Many open source projects are developed and maintained by volunteers or small
+teams, which can lead to challenges in terms of resources, time, and expertise.
+Without proper funding and support, it can be difficult to ensure that open source
+projects remain up-to-date, secure, and compatible with evolving technologies and
+standards.
+
+Finally, where there is funding available for open source projects, it is often focused
+on initial development and implementation, rather than availability, maintenance
+and long-term sustainability. Open source projects are more than just the develop-
+ment of code, or the design of hardware schematics. They require ongoing main-
+tenance, security updates, documentation, user support, community building, and
+other activities that are essential for their success and longevity. Funding models
+that prioritize initial development over long-term sustainability can lead to a pro-
+
+                                          7
+liferation of abandoned or poorly maintained projects, and to feature creep as new
+features are added in an attempt to attract more funding, instead of focusing on sta-
+bility, security, usability, or, especially in the case of web services, actual long-term
+hosting and operations.
+
+                                           8
+2     Added Value of Open Source for the Public and
+      Private Sectors
+
+2.1    More Security through Transparency
+
+Open source offers several advantages for both the public and private sectors. First
+and foremost, open source principles promote transparency and accountability. Users
+can inspect the source code or schematics, understand how a product or service
+works, and verify that it does not contain any hidden backdoors or malicious func-
+tionalities. This is particularly important for public sector organizations that handle
+particularly sensitive data and need to ensure that their citizensâ data is protected.
+It allows interested individuals, organizations, security experts and researchers to
+examine the code or schematics for vulnerabilities, bugs, or malicious functionality,
+contribute to its improvement, and ensure that it meets the high standards one
+would expect from components used in critical applications.
+
+One example that comes to mind is a recent supply chain attack through the widely
+used compression library liblzma. In 2024, a malicious maintainer inserted a back-
+door into the library which was designed to interfere with secure SSH connections.
+Thanks to the open source nature of the library, users who noticed performance
+issues were able to inspect the source code, identify the backdoor, and have it re-
+moved quickly19,20 . Had this been proprietary software, such reverse engineering
+would have been much more difficult, if not impossible, and the backdoor could
+have remained undetected for a long time, potentially compromising the security of
+countless systems.
+
+2.2    Increased Interoperability
+
+Open source also allows for greater standardization and interoperability between
+different systems and applications, between different vendors, government agencies,
+public and private sector organizations, and even between different countries. This
+can lead to cost savings, as it reduces redundancy and duplication of efforts.
+ 19
+   Tukaani > XZ Utils backdoor, https://tukaani.org/xz-backdoor/
+ 20
+   Ars Technica > Backdoor found in widely used Linux utility targets encrypted
+SSH connections (March 29,         2024),  https://arstechnica.com/security/2024/03/
+backdoor-found-in-widely-used-linux-utility-breaks-encrypted-ssh-connections/
+
+                                          9
+2.3    Fostering Innovation
+
+Open knowledge is also a great foundation for innovation. Instead of having to rein-
+vent the wheel, existing open source projects can be used as a trusted and tested
+basis for new development. Sharing knowledge and expanding on the work of oth-
+ers is how scientific research and technological progress have always worked. Open
+source projects allow for rapid prototyping, experimentation, and iteration, as devel-
+opers can build on top of existing codebases, schematics, libraries, and frameworks,
+instead of starting from scratch. This can lead to faster development cycles, reduced
+costs, and a more diverse IT ecosystem.
+
+In fact, that is an advantage that even multinational corporations recognize. For
+example, Metaâs WhatsApp messaging platform is based on the open standard
+XMPP (Extensible Messaging and Presence Protocol), extended into a proprietary
+"FunXMPP" format 21 . By leveraging an existing open standard, WhatsApp was
+able to focus on building the user experience, scalability, and ecosystem around the
+core messaging functionality, instead of having to develop and maintain a propri-
+etary messaging protocol from scratch. Similarly, Instagram and Threads are based
+on Django, an open source web framework written in Python. This way, Meta could
+leverage the existing ecosystem of Django libraries, tools, and community support
+to accelerate development and reduce costs.22
+
+An open source stack provides greater flexibility and adaptability to changing needs
+and requirements. Organizations can customize and modify open source software
+to fit their specific use cases, workflows, and business processes. And it reduces the
+dependency on a single vendor or supplier anyone can contribute to the development
+and maintenance of open source software, ensuring that it remains up-to-date and
+secure, even if the original developers or maintainers are no longer available.
+ 21
+     WhatsApp       LLC/Meta   Platforms,      Inc.        >     Plaintiffsâ   Memoran-
+dum,           Page       6,        https://s3.documentcloud.org/documents/25293501/
+whatsapp-opposition-to-nso-motion-for-summary-judgment_-unsealed-1.pdf
+  22
+     Engineering     at  Meta   >     Threads:      The   inside    story    of   Metas
+newest         social     app,        https://engineering.fb.com/2023/09/07/culture/
+threads-inside-story-metas-newest-social-app/
+
+                                          10
+2.4    Improved Repairability
+
+Of course, open source hardware and software lead to improved repairability and
+longevity of devices and systems. When the schematics and source code are openly
+available, users and organizations can repair, upgrade, and maintain their devices
+and systems for longer periods of time, reducing electronic waste and promoting
+sustainability. Where the original manufacturer goes out of business or discontinues
+support for a product, the community can step in to provide ongoing maintenance
+and support. Of course, this is no substitute for manufacturers designing products
+with repairability and longevity in mind from the very beginning, but open source
+hardware and software can certainly help mitigate some of the negative effects of
+planned obsolescence.
+
+2.5    Open Source as a Tool of Democracy
+
+Finally, open source software, paired with open government data shared in open
+formats using open interfaces, can lead to greater transparency of government op-
+erations and decision-making processes. Citizens can evaluate how public funds
+are being used, monitor government activities, and hold public officials account-
+able. This can lead to increased trust in government institutions and more citizen
+engagement in democratic processes.
+
+                                        11
+3     Measures to Support the EU Open-Source Sec-
+      tor
+
+One very important aspect that needs to be addressed is awareness. Many people,
+including decision-makers in public and private sector organizations, just do not
+realize the extent to which they are dependent on proprietary software, and the
+risks that this entails. Education and awareness campaigns are needed to inform
+users, organizations, and governments about questions of digital sovereignty, data
+protection, security, and the benefits of open source software. This includes critical
+examination in schools, universities, and professional training programs, as well
+as public awareness campaigns and outreach initiatives. To that end, the public
+education sector should always prioritize open source solutions over effectively selling
+proprietary software to their students. In fact, financing and support for open source
+initiatives in itself can be a great way to generate and retain know-how and expertise
+in the respective fields, fostering European innovation and technological sovereignty
+and reducing dependencies on foreign suppliers.
+
+As a first step towards supporting the development and growth of the EU open-
+source sector, we recommend the establishment of a dedicated EU Open Source
+Authority. This authority would be responsible for coordinating and promoting
+open source initiatives across Europe, providing funding and resources for open
+source projects, and serving as a central hub for information and collaboration among
+open source communities.
+
+It could also serve as a central point of contact for public and private sector organiza-
+tions seeking to adopt open source solutions, providing guidance, best practices, and
+technical support. Tasked with evaluating the current tech stack used by EU insti-
+tutions and agencies, as well as by member states, it could identify opportunities for
+replacing proprietary software with open source alternatives. Where currently insti-
+tutions and member states spend significant portions of their IT budgets on licensing
+fees for proprietary software, such funds could instead be used for supporting and
+maintaining open source solutions, making any required customizations, training
+staff, financing bug bounty programs, and ensuring long-term sustainability.
+
+Open source software should also be prioritized in public procurement processes.
+Where governments and public sector organizations issue tenders for software so-
+
+                                           12
+lutions, open source options should be given preference, provided they meet the
+required technical and security standards. And where custom software development
+is required, the resulting software - paid for by public funds - should be released
+under an open source license, allowing others to benefit from it and contribute to
+its improvement. Of course, priority should also be given to European projects
+and initiatives, such that European taxpayer money is used to support European
+innovation and technological sovereignty.
+
+Additionally, we recommend the establishment of a permanent EU Open Source
+Fund. This fund would provide grants and financial support to open source projects
+and initiatives. Open source projects often fly under the radar, especially smaller
+projects, like libraries and frameworks, that are critical components of the software
+ecosystem but may not receive much attention or funding. The fund could support
+a wide range of activities, including development, maintenance, operations, docu-
+mentation, community building, security audits, and outreach, ensuring that open
+source projects have the resources they need to thrive and grow. It is critical that
+the people in charge of allocating these funds have a deep understanding of the open
+source ecosystem, and are able to evaluate projects based on their technical merits,
+community engagement, and long-term sustainability, free from political or corpo-
+rate influence. Trusted members of the open source community should be involved
+in the decision-making process to ensure that funds are allocated effectively and
+transparently.
+
+It is important to add that open source projects are not restrained by geographical
+boundaries. While we believe that European open source projects should be pri-
+oritized in public procurement processes, funding should not be limited to projects
+(legally) based in Europe. Many open source projects are developed and maintained
+by global communities, and restricting funding to strictly "European" projects, peo-
+ple and organizations could lead to the exclusion of valuable contributions from
+outside Europe. Instead, we should focus on supporting open source projects that
+align with European values and principles, regardless of their geographical origin.
+
+Finally, as a kind of wishful thinking, we would like to see stronger antitrust en-
+forcement against multinational tech corporations that dominate the IT landscape
+in Europe. The Digital Markets Act (DMA) and the Digital Services Act (DSA)
+are steps in the right direction, but more needs to be done to break up tech monop-
+olies and promote competition and innovation. This includes measures to prevent
+
+                                         13
+anti-competitive practices and privacy invasions, as well as active efforts to require
+real interoperability and open standards. Furthermore, as a protection for open
+source developers, there must be a clear legal basis allowing reverse engineering of
+proprietary solutions for the purpose of achieving interoperability with open source
+solutions, as well as for security research and expanding the life span of "abandoned"
+software and systems.
+
+                                         14
+4        Technology Areas to be Prioritized
+
+It is our belief that open source solutions should be prioritized in all technology areas,
+as open source principles of transparency, collaboration, and user empowerment are
+universally applicable and beneficial. We would still like to highlight a few specific
+areas where open source solutions can have a particularly significant impact.
+
+4.1       Critical Infrastructure
+
+From a public sector perspective, we believe that particular emphasis should be
+placed on critical infrastructure, including the systems of governmental bodies,
+healthcare systems, energy grids, transportation networks, and communication sys-
+tems. These sectors are vital to the functioning of society and the economy, and
+any vulnerabilities or geopolitical dependencies in these sectors could have severe
+consequences on the safety, security, and well-being of citizens. Open source projects
+ensure that the software and infrastructure used in these sectors is transparent, se-
+cure, and resilient, as it allows for greater scrutiny, peer review, and collaboration
+among developers and security experts, and prevents individual vendors from having
+undue influence or control over critical systems.
+
+4.2       Democracy
+
+For the civil society, we believe that open source solutions should be prioritized in
+the areas of privacy and data protection, digital rights, and civic engagement. Open
+source software empowers individuals and organizations to take control of their own
+data and digital identities, protecting them from corporate and government surveil-
+lance, censorship, and manipulation. Open source tools for secure communication,
+data encryption, identity management, and digital activism are essential for safe-
+guarding fundamental rights and freedoms in the digital age.
+
+At Private.coffee, we operate a number of open source projects that align with this
+civil society focus. This includes services like Matrix23 , an open standard and pro-
+tocol for secure, decentralized communication, CryptPad24 , a privacy-focused online
+  23
+       Private.coffee Matrix, https://register.matrix.private.coffee
+  24
+       Private.coffee CryptPad, https://cryptpad.private.coffee
+
+                                             15
+collaboration platform, or Mastodon25 , a decentralized social networking platform.
+We also provide infrastructure and support for various other open source projects
+and communities that promote privacy, digital sovereignty, and user empowerment.
+And there are many initiatives across Europe that focus on similar goals, providing
+valuable, albeit often overlooked, services to their communities. A focus on sup-
+porting and promoting these projects is essential if we want to build a more resilient
+digital ecosystem in Europe, prioritizing user privacy, data protection, and digital
+rights.
+
+4.3    Tools for Developers
+
+Currently, much of the software development ecosystem is dominated by proprietary
+tools and platforms, such as integrated development environments (IDEs), version
+control systems, continuous integration and deployment (CI/CD) tools, and cloud
+computing platforms, even in the open source community itself. As an example,
+GitHub, owned by Microsoft, is the largest code hosting platform in the world,
+hosting hundreds of millions of open source projects.26
+
+Open source alternatives are available for many of these tools, such as Forgejo27
+as an open source alternative to GitHub. However, small projects often lack the
+resources and expertise to set up and maintain their own infrastructure, leading
+to a reliance on proprietary platforms. By prioritizing not only the development
+of code, but also the development, maintenance and operation of open source tools
+and platforms for developers, we can create a more accessible and equitable software
+development ecosystem, reducing dependencies on proprietary tools and platforms.
+
+ 25
+     Cuddly.space, https://cuddly.space
+ 26
+     GitHub Innovation Graph > Repositories,    https://innovationgraph.github.com/
+global-metrics/repositories
+  27
+     Forgejo, https://forgejo.org
+
+                                         16
+5    Increased Competitiveness and Cyber Resilience
+
+There are several factors that lead to increased competitiveness and cyber resilience
+through the use of open source software in essentially all sectors. It is much easier -
+and more cost-effective - to adapt open source software to specific needs and require-
+ments, as the source code is freely available and can be modified without restrictions.
+Instead of being tied to the roadmap and priorities of a proprietary software ven-
+dor, organizations can take control of their own software stack, customize it to their
+needs, and innovate on top of it. This way, software can be tailored to specific
+use cases, workflows, and business processes, eliminating unnecessary features and
+bloat and improving user experience. It also removes the threat of vendor lock-in,
+as organizations are not dependent on a single vendor for updates, support, or new
+features.
+
+Even where companies currently offer proprietary software solutions, changing their
+business models to open source can lead to increased competitiveness, expanding the
+potential customer base. Support level agreements, custom development, training,
+and consulting services can provide sustainable revenue streams, while the open
+source nature of the software can lead to greater adoption and market penetration.
+
+Many fields are currently dominated by a few large corporations, leading to monop-
+olies or oligopolies that stifle competition and innovation. For example, the online
+video streaming market is dominated by YouTube, owned by Alphabet (i.e. Google),
+which controls a vast majority of the market share. And Amazon is so dominant
+in the e-commerce sector that it has become all but impossible for smaller players
+to compete, not only online, but also in the physical retail space. Decentralized,
+federated open source solutions could enable the creation of a network of smaller,
+independent platforms that can interoperate with each other, allowing manufactur-
+ers and retailers to reach customers directly and offer their products and services
+on their own terms, without being dependent on a single dominant platform or
+marketplace which can dictate terms and conditions.
+
+As already mentioned, open source software can provide greater transparency and
+security, as vulnerabilities can be identified and fixed more quickly through commu-
+nity collaboration. Especially in critical infrastructure sectors, the simple fact that
+security researchers and experts can inspect the source code can ensure that po-
+tential vulnerabilities are discovered and addressed before they can be exploited by
+
+                                          17
+malicious actors. While this may seem counterintuitive to some, security through
+obscurity is not a viable long-term strategy, and open source software provides a
+much more robust and resilient approach to cybersecurity. It replaces the need for
+trust in a vendor and their supply chains with public verifiability and the scrutiny
+of many.
+
+We live in an age where not only the threat of individual and state-sponsored hackers
+is ever-present, but where geopolitical tensions can lead to real risks for the security
+and sovereignty of nations. Just consider the case of U.S. sanctions against officials
+of the International Criminal Court (ICC), which led to ICC staff being cut off from
+cloud services provided by Microsoft, including email. In response, the ICC decided
+to move away from proprietary cloud services and switch to openDesk, an open
+source, self-hosted collaboration platform.28
+
+This example illustrates how important it is for governments and public sector or-
+ganizations to be in control of their own software and data. Almost on a daily basis,
+we see how alliances that we once took for granted are breaking down, and as sad-
+dening as that is, we must see this as a wake-up call to prioritize digital sovereignty
+and resilience. Open source software is a key component in achieving this goal, as it
+allows us to build systems that are transparent, secure, and under our own control.
+
+ 28
+    The Register > International Criminal Court kicks Microsoft Office to the curb (Octo-
+ber 31, 2025), https://www.theregister.com/2025/10/31/international_criminal_court_
+ditches_office/
+
+                                           18
+Conclusion
+
+In conclusion, we believe that open source software and hardware, and the adoption
+of open standards and publication of open data, are essential for building a more
+open, transparent, and user-centric digital future for Europe. They protect us from
+risks like vendor lock-in, monopolies, geopolitical dependencies, privacy intrusions,
+security vulnerabilities, anti-consumer practices, and much more.
+
+To realize the full potential of open source in Europe, we need coordinated efforts
+from governments, the private sector, and civil society. This includes raising aware-
+ness about the benefits of open source, prioritizing open source solutions in public
+procurement processes, providing sustainable funding for open source projects, and
+enforcing antitrust regulations against the multinational tech corporations that cur-
+rently dominate the IT landscape.
+
+With a strong focus on privacy and a collaborative spirit, the EU has the potential
+to become a global leader in open source innovation. For this to happen, we need
+a clear commitment to those principles at all levels, and the European Commission
+can play a guiding role in this endeavor.
+
+In particular, we ask the Commission to consider the following recommendations:
+
+â¢Establish an EU Open Source Authority to coordinate and promote open source
+ initiatives across Europe, and guide public sector procurement.
+
+â¢Create a permanent EU Open Source Fund to provide grants and financial support
+ to open source projects and initiatives.
+
+â¢Prioritize open source solutions in public procurement processes, giving preference
+ to European projects and initiatives.
+
+â¢Strengthen antitrust enforcement against multinational tech corporations that
+ dominate the IT landscape in Europe.
+
+â¢Continue defending and strengthening the GDPR and other privacy-focused reg-
+ ulations.
+
+â¢Raise awareness about the benefits of open source through education and public
+ awareness campaigns.
+
+                                         19
+We would like to take the opportunity to thank the European Commission once
+again for allowing us to contribute to this important discussion. We are glad to see
+that open source is being recognized as a key component of Europeâs digital future,
+and we look forward to seeing the Commission and member states take concrete
+actions to support and promote the open source community in the future.
+
+Of course, we are always available for further discussions and clarifications, and
+invite the Commission, and any other interested parties, to reach out to us at any
+time.
+
+Contact: office@private.coffee
+https://private.coffee
+
+                                        20

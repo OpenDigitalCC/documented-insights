@@ -1,0 +1,845 @@
+Pluralistic: Disenshittiï¬cation Nation (29 Jan 2026) â Plurali...   https://pluralistic.net/2026/01/29/post-american-canada/#o...
+
+                                                                                                 Ref. Ares(2026)1066865 - 30/01/2026
+
+             Disenshittification Nation
+             (permalink)
+             Yesterday, I gave the keynote address at the 2026 Digital
+             Government Leaders Summit in Ottawa, Canada â an invitation only
+             for CIOs, CTOs and senior technical personnel at Canadian federal
+             ministries.
+
+             It was an honour to give this talk, and the organizers at the
+             office of the CIO of the Government of Canada were kind enough to
+             give me permission to post the transcript:
+
+             Like all the best Americans, I am a Canadian, and while I have
+             lived abroad for more than two decades, I flatter myself that I
+             am still steeped in our folkways, and so as is traditional at
+             events like this, I would like to begin by apologising.
+
+             I'm sorry.
+
+             I'm really sorry.
+
+             I know that at a tech event, you expect to hear from a speaker
+             who will come up and tell you how to lose hundreds of billions of
+             dollars building data-centres for the money-losingest technology
+             in human history, a technology so wildly defective that we've had
+             to come up with new, exotic words to describe its defects, like
+             "hallucination." A technology that will never recoup the capex
+             already firehosed on â let alone the trillions committed to it â
+             and whose only possible path to glory is to somehow get so good
+             that it makes millions of people unemployed.
+
+             But don't worry: you can't make the word-guessing program into a
+
+1 of 22                                                                                                                 1/30/26, 08:33
+Pluralistic: Disenshittiï¬cation Nation (29 Jan 2026) â Plurali...   https://pluralistic.net/2026/01/29/post-american-canada/#o...
+
+             "superintelligence" by shoveling more words into it. That's like
+             betting that if you keep breeding horses to run faster and
+             faster, one of them will eventually give birth to a locomotive.
+
+             So I don't have any suggestions for you today for ways to lose
+             billions of dollars. I don't have any ideas for how to destroy as
+             many Canadian jobs as possible, I don't even have any ideas to
+             make Canada more dependent on US tech giants.
+
+             No, all I have for you today is a plan to make Canada tens of
+             billions of dollars, by offering products and services that
+             people want and will pay for, while securing the country's
+             resiliency and digital sovereignty, and winning the trade war,
+             and setting the American people free, and launching our tech
+             sector into a stable orbit for decades.
+
+             So once again, I'm sorry. So, so sorry.
+
+             I want to start by telling you a tariff story. It's not the story
+             that started last year. It's a story that goes all the way back
+             to the early 2000s. Indeed, the very start of this story dates
+             back to 1998.
+
+             It starts in Washington, in October, 1998, when Bill Clinton
+             signed a big, gnarly bill called the Digital Millennium Copyright
+             Act (or DMCA) into law. Section 1201 â the "anti-circumvention
+             clause" â of the DMCA establishes a new felony, punishable by a
+             five-year prison sentence and a $500,000 fine for anyone who
+             bypasses an "access control" while modifying a digital system.
+
+             These penalties apply irrespective of why you're making that
+             modification, and they apply even if the device you're modifying
+             is your own property. Which means that if the manufacturer
+             decides you shouldn't be able to do something with your digital
+             device, well, you can't do it. Even if it's yours. Even if the
+             thing you want to do is perfectly legal.
+
+2 of 22                                                                                                            1/30/26, 08:33
+Pluralistic: Disenshittiï¬cation Nation (29 Jan 2026) â Plurali...   https://pluralistic.net/2026/01/29/post-american-canada/#o...
+
+             Right from the start, it was clear that this law was a bad idea.
+             It was an enshittifier's charter. Once you ban users from
+             modifying their own property, you leave them defenceless. The
+             manufacturer can sell you a gadget and then push an over-the-air
+             update that degrades its functionality, and then demand that you
+             pay a monthly "subscription" fee to get that functionality back.
+
+             This is a law purpose-built for anyone who aspires to graduate
+             from the Darth Vader MBA, where the first and only lesson is,
+             "I'm altering the deal. Pray I don't alter it any further."
+
+             Immediately upon the passage of this bill, two things happened:
+             first, American tech companies started to rip off the American
+             public, taking advantage of the fact that it was now a crime to
+             disenshittify your own property; and second, the US Trade
+             Representative went around the world in search of biddable public
+             officials who could be flattered or bullied into bringing an
+             anti-circumvention law onto their own country's lawbooks.
+
+             The US had to get all its trading partners to pass these laws,
+             otherwise those countries' own tech companies would go into
+             business selling tools to disenshittify America's defective tech
+             exports: privacy blockers, jailbreaks, alternative clients,
+             generic consumables, diagnostic tools, compatible parts and
+             spares.
+
+             But if America could arm-twist its trading partners into passing
+             anti-circumvention laws, then those countries would shut down any
+             tech entrepreneurs who posed a competitive threat to America's
+             metastasizing, inbred tech giants, and the people in those
+             countries would be easy pickings for America's tech giants as
+             they plundered the world's cash and data.
+
+             Right from the start, the US Trade Rep targeted Canada for these
+             demands. The only problem was that Canadians hated anti-
+             circumvention law. We'd had a front row seat to all the ways that
+
+3 of 22                                                                                                            1/30/26, 08:33
+Pluralistic: Disenshittiï¬cation Nation (29 Jan 2026) â Plurali...   https://pluralistic.net/2026/01/29/post-american-canada/#o...
+
+             our American cousins were getting fleeced by their tech
+             companies, and we had no desire to share their plight.
+
+             Plus, we've got some smart nerds here who could easily see
+             themselves exporting very lucrative tools of technological
+             liberation across the southern border. Hell, if we can supply
+             America with reasonably priced pharmaceuticals through the mails,
+             then we can surely sell them excellent anti-ripoff mods over the
+             internet.
+
+             Paul Martin's Liberals took two runs at passing anti-
+             circumvention law but failed hard. The architect of this project,
+             a Toronto MP named Sam Bulte lost her seat over it, and the
+             Liberal brand became so toxic in Parkdale-High Park that the seat
+             flipped to the NDP for a generation.
+
+             Then it was Stephen Harper's turn. First, he tasked Jim Prentice
+             with getting an anti-circumvention law through Parliament, and
+             when Prentice failed, Harper turned to Industry Minister Tony
+             Clement and Heritage Minister James Moore with getting the ball
+             over the line. Clement and Moore tried to rehabilitate the idea
+             of anti-circumvention with a public consultation: "See? We're
+             listening!"
+
+             Boy, did that backfire. 6,138 of us wrote into the consultation
+             to condemn the proposal. 53 Vichy nerds wrote in to support it.
+
+             Moore was clearly stung. Shortly after the consultation, he gave
+             a keynote to the International Chamber of Commerce meeting in
+             Toronto, where he dismissed all 6,138 of us as "babyishâ¦radical
+             extremists."
+
+             Then Harper whipped his caucus and passed Bill C-11, The
+             Copyright Modernization Act, in 2012, pasting America's anti-
+             circumvention law into our lawbooks. Now, I don't think that
+             Moore and Clement were particularly motivated by their love of
+
+4 of 22                                                                                                            1/30/26, 08:33
+Pluralistic: Disenshittiï¬cation Nation (29 Jan 2026) â Plurali...   https://pluralistic.net/2026/01/29/post-american-canada/#o...
+
+             digital locks. Nor was Stephen Harper. Rather, they were under
+             threat from the US Trade Representative, who told them that
+             America would whack us with tariffs if we failed to arrange a
+             hospitable environment for America's tech companies.
+
+             Well, I don't know if you've heard, but Trump whacked us with
+             tariffs anyway. When someone threatens to burn your house down
+             unless you do as you're told, and they burn your house down
+             anyway, you don't have to keep taking their orders. Indeed,
+             you're a sucker if you do.
+
+             In the 15 years since we capitulated to America's policy demands,
+             US Big Tech has grown too big to fail, too big to jail, and too
+             big to care.
+
+             To Canada's credit, we've tried a bunch of things to rein in Big
+             Tech:
+
+              â¢ We tried to get them to pay to link to the news (instead, they
+                 just blocked all Canadian news);
+
+              â¢ We tried to get them to include Canadian content in their
+                 streaming libraries (they lobbied, sued and bullied their way
+                 out of it);
+
+              â¢ We tried to make them pay a 3% tax, despite the fiction that
+                 all their profits are floating in a state of untaxable grace in
+                 the Irish Sea (and they got Trump to terrify Carney into
+                 walking it back).
+
+             This is the "too big to jail" part. When a company is a couple
+             orders of magnitude larger than your government, what hope do you
+             have of regulating it? Back a couple years ago, when America's
+             antitrust regulators were also riding Big Tech's ass, there was a
+             chance that we could make a rule and they would help us make it
+             stick.
+
+5 of 22                                                                                                            1/30/26, 08:33
+Pluralistic: Disenshittiï¬cation Nation (29 Jan 2026) â Plurali...   https://pluralistic.net/2026/01/29/post-american-canada/#o...
+
+             But now that the CEOs of all the Big Tech companies personally
+             gave the Trump campaign a million bucks each for a seat on the
+             inauguration dais, and now that all the tech giants have donated
+             millions to Trump's new Epstein Memorial Ballroom at the White
+             House, and now that Apple CEO Tim Cook has assembled a gilded
+             participation trophy for Trump on camera, we've got no hope of
+             getting Big Tech to colour inside the lines.
+
+             So what are we to do?
+
+             Well, we could continue with our current response to the Trump
+             tariffs. You know: retaliatory tariffs, where we make everything
+             Canadians buy more expensive, because Canadians are famous for
+             just loving it when their prices go up. This is a great way to
+             punish Trump. It's like punching ourselves in the face as hard as
+             we can, and hoping the downstairs neighbour says "ouch."
+
+             But there's another way: now that we're living with the tariffs
+             we were promised we could avoid by passing an anti-circumvention
+             law, why don't we get rid of that law? There is so much money
+             waiting for us if we go into business disenshittifying America's
+             defective tech products.
+
+             Take just one example: app stores. Apple takes 30 cents out of
+             every dollar that an Apple user spends in an app. If your app
+             tries to use another payment method, they'll turf it out of the
+             App Store. And of course, iPhone owners can't replace Apple's app
+             store with another one, because the iPhone has an "access
+             control," so it's a crime to change your app store.
+
+             30% is an insane transaction rake. I mean, here in Canada, we
+             make person-to-person payments for free. Visa â an enshittified
+             monopolist if ever there was one â charges 3-5%. Apple charges
+             Thirty. Percent.
+
+             Do you have any idea how lucrative this is? It is literally the
+
+6 of 22                                                                                                            1/30/26, 08:33
+Pluralistic: Disenshittiï¬cation Nation (29 Jan 2026) â Plurali...   https://pluralistic.net/2026/01/29/post-american-canada/#o...
+
+             most lucrative line of business Apple is in. It makes Apple more
+             pure profit than any other line of business, even more than the
+             $20b cash bribe Google pays them every year not to make a
+             competing search engine. $20b is chump-change. Apple makes one
+             hundred billion dollars a year on this racket.
+
+             They impose a 30% tax on the whole digital economy, and they get
+             to self-preference. So if you want to sell ebooks or videos on an
+             app, Apple charges you 30%, but when Apple sells ebooks and
+             videos on its own apps, it doesn't charge itself 30%. And they
+             get to structure the market. They can exclude any app they want,
+             for any reason, and then no Apple customer in the world can have
+             that app.
+
+             Last fall, Apple banned an app called "ICE Block." That's an app
+             that warns you if there are ICE thugs nearby, so you can avoid
+             getting kidnapped and sent to a Salvadoran slave-labor camp or
+             shot in the face by a guy with a Waffen SS tattoo under his plate
+             carrier and a mask over his nose. Apple classed ICE murderers as
+             a "protected class" and yanked the app.
+
+             So imagine for a sec that Canada repealed Bill C-11, belatedly
+             heeding the advice of those 6,132 people who wrote into James
+             Moore and Tony Clement's consultation to warn them, basically,
+             that this was going to happen. When that happens, some smart
+             Waterloo grads, backed by some RIM money, can go into business
+             making jailbreaking kits and app store infrastructure for
+             iPhones, and they can sell these to everyone in the world who
+             wants to operate their own app store, who wants to compete with
+             Apple.
+
+             Offer the world a 90% discount on Apple's app tax, and you're
+             talking about a ten billion dollar/year business. Maybe Canada
+             will never have another RIM, but RIM had a tough business. They
+             had to make hardware, which is risky and capital intensive.
+             Legalize jailbreaking and we can let Apple make the hardware, and
+
+7 of 22                                                                                                            1/30/26, 08:33
+Pluralistic: Disenshittiï¬cation Nation (29 Jan 2026) â Plurali...   https://pluralistic.net/2026/01/29/post-american-canada/#o...
+
+             then we can cream off the hundred billion dollars in rents they
+             book every year. That's a much better business to be in.
+
+             You know what Jeff Bezos said to a roomful of publishers when he
+             started Amazon? "Your margin is my opportunity." But these guys
+             are such crybabies. When they do it to us it's progress; when we
+             do it to them, it's piracy.
+
+             I mean, come on. Elbows up, right? Move fast and break their
+             things. Move fast and break kings.
+
+             You know all that stuff we failed to get Big Tech to do? Pay for
+             news, put cancon in their streaming lineups? This is how we get
+             it. We can't make Apple or Google or Netflix change their
+             software. We can fine 'em, sure, but Trump will just order his
+             judges not to issue court orders when we try to collect, and ban
+             his banks from transferring the money.
+
+             In any game, the ref has to be more powerful than the players on
+             the field. Otherwise, they'll do exactly what Big Tech has done
+             to us: ignore our rulings and keep on cheating.
+
+             We don't have any hope of controlling what Big Tech does, but
+             there is one thing we have total, absolute control over: what we
+             do. We don't have to let American companies make use of our
+             courts to shut down Canadian companies that disenshittify their
+             defective products. The laws of Canada are under total and final
+             Canadian control. Repeal Bill C-11, legalize jailbreaking, and
+             we'll unshackle our technologists and entrepreneurs, and sic 'em
+             on those subpar American products.
+
+             Meta takes the news out of its apps? Let 'em! We'll just start
+             selling a multiprotocol alt-client, one that merges your
+             Facebook, Insta, Twitter, Linkedin, Bluesky, and Mastodon feeds,
+             blocks all the ads, blocks all the tracking, and puts the news
+             back in your feed.
+
+8 of 22                                                                                                            1/30/26, 08:33
+Pluralistic: Disenshittiï¬cation Nation (29 Jan 2026) â Plurali...   https://pluralistic.net/2026/01/29/post-american-canada/#o...
+
+             Netflix won't put Canadian media in their library? Fine! We'll
+             start selling an alt client that lets Canadians search and stream
+             from all the services they subscribe to, and adds in a PVR so you
+             can record your favourite shows to watch later, or archive
+             against the day that the streaming company ditches them. A video
+             recorder would handily delete Amazon Prime's grinchiest scam,
+             where all the Christmas specials move from the free tier to $3.99
+             rentals in November, and go back into the free tier in March.
+             Just record the kids' most beloved Christmas specials in July and
+             bring 'em out in December.
+
+             Think about this for a second: we uninvented the VCR. The VCR,
+             one of the most popular, transformative technologies in modern
+             history. A wildly profitable technology, too. Once all the video
+             went digital, and once all the digital video threw in an "access
+             control" that blocked recording, it became a crime to record
+             digital cable, satellite, or streaming, unless you used the
+             service's own PVR, which won't let you tape some shows, or skip
+             ads, and which deletes your stored shows when the broadcaster
+             decides you don't deserve to have them anymore.
+
+             It's not illegal to record a video stream, no more than it was
+             illegal to record a TV show off your analog cable or broadcast
+             receiver. The same fair dealing exemptions apply. But because
+             it's illegal to bypass an access control, and the access control
+             blocks recording, we uninvented the VCR. We made the VCR illegal.
+             Not because Parliament ever passed a law banning VCRs, but
+             because our anti-circumvention law allows dominant corporations
+             to simply decide that certain conduct that they disprefer should
+             no longer occur.
+
+             With Bill C-11, we've created "felony contempt of business
+             model." In living memory, video recording changed the world and
+             made billions of dollars. Today, we've all lost our video
+             recorders. But we have more reason than ever to want a video
+             recorder; to pay for a video recorder. There's fantastic amounts
+
+9 of 22                                                                                                            1/30/26, 08:33
+Pluralistic: Disenshittiï¬cation Nation (29 Jan 2026) â Plurali...   https://pluralistic.net/2026/01/29/post-american-canada/#o...
+
+             of money just sitting there on the table, money we've prohibited
+             our entrepreneurs from making, in order to prevent the US from
+             hitting us with the tariffs that they've just hit us with.
+
+             Let's be clear here: no one has the right to a profit. If you've
+             got a business that sucks, and I make it not suck anymore, and
+             your customers start paying me instead of you, well, that sounds
+             like a you problem to me. I mean, does the Canadian government
+             really want to decide which desirable products can and can't
+             exist?
+
+             Look, I've mainlined Tommy Douglas since I was in red diapers,
+             but that sounds pretty commie, even to me.
+
+             Which brings me to Canada's own sclerotic, monopoly-heavy
+             commercial environment. After all, Canada is two monopolists and
+             a mining company in a trenchcoat Which is not to say that our
+             oligarchs are weak. They love to throw their weight around. I
+             guess owning an entire maritime province can go to your head.
+
+             Will any of these guys step up to cape for America's tech giants?
+             Do any of them benefit from our voluntary decision to let America
+             walk all over us? Not really. But a little, at the margins. Guys
+             like Ted Rogers make a lot of money by making us rent set-top
+             boxes for our cable, which lock out recorders. Re-invent the VCR
+             and Ted Rogers might have to sell his ivory-handled back-
+             scratcher collection.
+
+             But let him squawk! He can afford the loss, and lest we forget,
+             Ted Rogers made his second fortune renting us video cassettes to
+             stick in our VCRs. When he did it, it was progress. If we do it
+             to him, that's not piracy.
+
+             Man, there is so much money to be made by becoming the
+             disenshittification nation. It's not just payments or video
+             recorders. One of the main uses of access controls is blocking
+
+10 of 22                                                                                                           1/30/26, 08:33
+Pluralistic: Disenshittiï¬cation Nation (29 Jan 2026) â Plurali...   https://pluralistic.net/2026/01/29/post-american-canada/#o...
+
+             generic consumables, like inkjet ink. Parliament never made a law
+             saying that people who buy a printer from HP have to buy their
+             ink from HP, too. But because we made it illegal to bypass an
+             access control, and because HP uses access controls to block
+             generic ink, it's a felony to use cheap ink in your own printer.
+
+             The cartel of four giant inkjet companies know they have us
+             trapped, and they have monotonically raised and raised and raised
+             the price of ink, so that today, printer ink is the most
+             expensive fluid a civilian can purchase without a government
+             permit. At $10,000 per gallon, it would be cheaper to print your
+             grocery lists with the semen of a Kentucky Derby winning
+             stallion.
+
+             Some smart Canadian technologists could buy every make and model
+             of every printer, and prepare a library of jailbreaks that works
+             across every one, and keep it up to date with every new software
+             update as soon as it's pushed. Everyone in the world who wants to
+             refill ink cartridges or manufacture generics could pay that
+             company $25/month for access to the jailbreaking library and for
+             support if a customer ran into a problem.
+
+             Every manic entrepreneur running a corner store with a Bitcoin
+             ATM, knife-sharpening and Amazon parcel dropoff could add inkjet
+             ink to their line of business. Multiply every guy with a folding
+             table at a dry-cleaner who'll fix your phone or jailbreak your
+             printer by $25/month, by 12 months/year, and you've got tens or
+             hundreds of millions flowing into this country.
+
+             We would transform HP's billions into our millions, and the rest
+             would be shared among the world's printer owners as a consumer
+             surplus and freedom from a scummy rent-seeking racket.
+
+             There's more!
+
+             Every mechanic is paying $10,000 per manufacturer per year for
+
+11 of 22                                                                                                           1/30/26, 08:33
+Pluralistic: Disenshittiï¬cation Nation (29 Jan 2026) â Plurali...   https://pluralistic.net/2026/01/29/post-american-canada/#o...
+
+             the diagnostic tool that decrypts the messages on your car's CAN
+             bus and turns your "check engine" light into an actual error, and
+             you'd better bet your mechanic is passing that cost onto you.
+             Canadian car hackers can buy every make and model of every car as
+             it comes off the line, jailbreak it, and keep it jailbroken with
+             every new over-the-air update, and sell every mechanic in the
+             world a $50/month subscription to a bang up to date diagnostic
+             tool.
+
+             The mechanic wins. The drivers win. Canada wins. The Big Three
+             automakers eat dirt, which is fine. Looks like we're buying
+             Chinese cars from now on, anyway, and Parliament never passed a
+             law guaranteeing perpetual profitability to legacy automakers
+             whose most innovative ideas consist of finding ways to rent you
+             the accelerator pedal in your car, and new markets to sell the
+             driving data they steal from you.
+
+             All kinds of devices can't be fixed because of our anti-
+             circumvention law, Bill C-11. You've probably heard about the
+             problems farmers have fixing their John Deere tractors. Farmers
+             actually do the repairs on those tractors, installing the parts
+             themselves, but the tractor's main computer will not activate
+             those parts until the farmer pays a couple hundred bucks for a
+             callout by a John Deere rep, who enters an unlock code that tells
+             the tractor that John Deere got paid for this repair.
+
+             Farmers have been fixing their implements since prehistory. Since
+             the invention of the plow.
+
+             Beamish is Europe's largest open-air museum, just outside of
+             Newcastle. Here we'd call it a "pioneer village." They've rescued
+             and relocated a whole Victorian village high street, an Edwardian
+             colliery and workers' cottages, vehicles from all eras of British
+             history, and they've got a farmhouse that sits on a Roman
+             foundation.
+
+12 of 22                                                                                                           1/30/26, 08:33
+Pluralistic: Disenshittiï¬cation Nation (29 Jan 2026) â Plurali...   https://pluralistic.net/2026/01/29/post-american-canada/#o...
+
+             That farmhouse has a forge. Because of course it does. Farmers
+             have to be able to fix their stuff, because when the storm is
+             coming, and you need to get the crops in, you can't wait for a
+             service technician to find their way to the end of your lonely
+             country road.
+
+             But John Deere has declared an end of history, and our Copyright
+             Modernization Act let them do it. Farmers can't fix their
+             tractors anymore, not because Parliament ever passed the "No
+             Fixing Your Tractor Act." They didn't need to. They just passed
+             an act that banned circumvention of access controls, which lets
+             John Deere â and other rapacious American monopolists â conjure
+             new felonies out of thin air. There's that "felony contempt of
+             business model" again.
+
+             At this point you might be thinking, "Hold on a sec, didn't
+             Trudeau whip his caucus to get a Right to Repair bill through
+             Parliament in 2024?" You're right, he did: Bill C-244. It lets
+             anyone fix anythingâ¦unless they have to bypass an access control
+             in order to make the repair, in which case Bill C-11 makes that
+             repair illegal. Canada's got a Right to Repair law that's big,
+             bold, ambitiousâ¦and useless, a mere ornament, thanks to our anti-
+             circumvention law, which we passed because the US promised us
+             tariff-free access to US markets, a promise that the US has
+             broken, and that we should never believe again.
+
+             Everything we've tried to do to make Canada safe for US tech
+             exports has failed. They've failed because they're
+             redistributive. We told them they could keep stealing money from
+             our news companies so long as they gave some of it back. We told
+             them they could keep stealing money from people who need to fix
+             their property so long as they follow some rules. We told them
+             they could keep stealing money from our market participants so
+             long as they mixed some cancon in with their streaming libraries.
+             Even our privacy laws are redistributive: sure, go on stealing
+             Canadians' data, just promise to limit the ways you abuse it to a
+
+13 of 22                                                                                                           1/30/26, 08:33
+Pluralistic: Disenshittiï¬cation Nation (29 Jan 2026) â Plurali...   https://pluralistic.net/2026/01/29/post-american-canada/#o...
+
+             short list of permissible human rights violations.
+
+             You know what's better than redistribution? Predistribution.
+             Rather than bargaining to recoup some of the value being
+             stripmined from us, we can intervene technologically to prevent
+             the theft in the first place: jailbreak our devices, abolish the
+             app tax, block their monopoly ad insertions and replace them with
+             open ad markets based on content, not surveillance, give users
+             control over the media in their streaming libraries. Let Canadian
+             businesses disenshittify our phones, TVs, tractors, cars and
+             ventilators so anyone can fix them.
+
+             Ask any economist and they'll tell you that the very best
+             strategy is to have an open, fair system in the first place.
+             Rather than tolerating and even enshrining unfairness in the
+             system, and then begging the beneficiaries of that unfairness to
+             dribble a few crumbs to the hungry victims at their feet.
+
+             Perhaps all of this is unconvincing to you. Maybe you're not
+             interested in our digital rights. Maybe you're not excited by the
+             prospect of turning America's trillions into Canada's billions.
+             Well, don't worry, I've got something for you, too: national
+             security.
+
+             Trump has made it clear that America no longer has allies or
+             trading partners, it only has rivals and adversaries. He's also
+             made it clear that he cannot be mollified. Any concessions we
+             make to him will be treated as a sign of weakness, and an
+             invitation to demand more. Give him an inch, he'll take a
+             kilometer.
+
+             Give him an inch, he'll take Greenland.
+
+             This is undeniably scary, because Trump has lots of non-kinetic
+             options for pursuing his geopolitical aims. First among them is
+             attacking his adversaries through his tech companies. He's
+
+14 of 22                                                                                                           1/30/26, 08:33
+Pluralistic: Disenshittiï¬cation Nation (29 Jan 2026) â Plurali...   https://pluralistic.net/2026/01/29/post-american-canada/#o...
+
+             already started tinkering with this. When the International
+             Criminal Court issued an arrest warrant for the genocidaire
+             Benjamin Netanyahu, Trump went through the roof, and Microsoft
+             obliged him by shutting down the court's access to its documents,
+             emails, calendars and address books. They bricked the court.
+
+             Now, I should say here that Microsoft denies that they shut down
+             the court to please Trump. They say it's a coincidence. But when
+             it comes to a "he-said/Clippy-said" dispute between the human
+             rights defenders at the ICC and the convicted monopolists at
+             Microsoft, I know who I believe. What's more, Anton Carniaux,
+             Director of Public and Legal Affairs at Microsoft France, told a
+             French government inquiry that he "couldn't guarantee" that
+             Microsoft wouldn't hand sensitive French data over to the US
+             government, even if that data was stored in a European data-
+             centre. And under the CLOUD Act, the US government can slap gag
+             orders on the companies that it forces to cough up that data, so
+             there'd be no way to even know if this happened, or whether it's
+             happening right now.
+
+             Trump has demonstrated that he will both bully and bribe US
+             companies into doing his bidding. Cross him and he'll put extra
+             tariffs on the inputs you need to import from abroad, he'll take
+             away your key workers' visas and deport them, he'll smack you
+             with pretextual antitrust investigations, and sue you in his
+             personal capacity.
+
+             But if you capitulate to him, he'll give you no-bid government
+             contracts, and hand you billions to provide surveillance gear and
+             prison camps to help with his programme of ethnic cleansing. The
+             tech companies are up to their eyeballs in Trump's authoritarian
+             takeover of the US. There's no daylight between Amazon, Google,
+             Meta, Microsoft, Oracle, Apple and other US tech companies and
+             the Trump regime.
+
+             You can be certain that if â when! â Trump orders these companies
+
+15 of 22                                                                                                           1/30/26, 08:33
+Pluralistic: Disenshittiï¬cation Nation (29 Jan 2026) â Plurali...   https://pluralistic.net/2026/01/29/post-american-canada/#o...
+
+             to shut down a government ministry (perhaps your ministry) or a
+             corporation (perhaps your corporation) that they will do so.
+
+             Everyone in the world is waking up to this. In the EU, they've
+             just created a new "Tech Sovereignty, Security and Democracy"
+             czar, and they're busily funding the "Eurostack," a set of open,
+             auditable replacements for US tech silos that can run on EU-based
+             data-centres.
+
+             But they're about to hit a wall. Because it doesn't matter how
+             great those Eurostack services are. If you can't scrape,
+             virtualize and jailbreak US Big Tech apps, so that you can
+             exfiltrate your data, logs, file histories and permissions, no
+             government ministry or large company can do that work by hand. It
+             will challenge many households, who have entrusted US tech's
+             walled gardens with their financial data, family photos,
+             groupchats, family calendars, and other structures that are not
+             easily ported without cooperation from the tech giants. They are
+             not going to cooperate with a mass exodus from their services.
+             They will do everything they can to impede it.
+
+             Building the Eurostack without legalizing circumvention is like
+             building housing for East Germans in West Berlin. It doesn't
+             matter how cool those apartments are, they're gonna sit empty
+             until you tear down the wall.
+
+             And administrative software is just for openers. Remember back in
+             2022, when Putin's thugs looted millions of dollars' worth of
+             John Deere tractors from Ukraine? These are permanently connected
+             to John Deere's cloud, which is how the John Deere company was
+             able to trace them to Chechnya, and how they were able to send an
+             over-the-air kill signal to the tractor that permanently bricked
+             them.
+
+             And yes, I'll freely admit that as a cyberpunk writer, this gives
+             a little frisson of satisfaction. But if you only think about it
+
+16 of 22                                                                                                           1/30/26, 08:33
+Pluralistic: Disenshittiï¬cation Nation (29 Jan 2026) â Plurali...   https://pluralistic.net/2026/01/29/post-american-canada/#o...
+
+             for 10 seconds, you'll realize that this means that Deere can
+             immobilize any tractor in the world, or pretty much every tractor
+             in Canada (and the rest of our tractors are likely from Massey
+             Ferguson, another US giant also in thrall to Trump that can brick
+             its tractors over the air, too).
+
+             This is exactly the threat we were warned of if we let Huawei
+             supply our 5G infrastructure. Remember that? That whole "Two
+             Michaels" business that we got stuck in when we let the US
+             convince us that Huawei was gonna install landmines in our
+             technological infrastructure? Well, you know how the saying goes:
+             "Every accusation is a confession."
+
+             But of course, China could brick the Chinese cloud-connected tech
+             in Canada, like our solar inverters and batteries. The good news
+             is that whether you're a US natsec hawk or a China natsec hawk,
+             you have the same path out of this trap. Namely: repealing Bill
+             C-11, and legalizing circumvention so that we can deke out the
+             locked bootloaders on our infrastructure and install open,
+             auditable, transparent firmware on them. Because that is an
+             infinitely more reliable way to render your systems into a known-
+             good state than arresting random executives from giant Chinese
+             companies.
+
+             And the good news is, everyone else in the world wants this, too,
+             because they're all facing the same risks as we are. So this
+             isn't really a technological project, in the sense of having a
+             bunch of duelling firms all competing to come up with their own
+             proprietary answer to an engineering problem. It's more like a
+             scientific project, in that we should have a commons, a git
+             server filled with auditable, transparent, trustworthy drop-in
+             code for whole classes of devices, from cars to TVs to smart
+             speakers to ventilators to tractors to phone switches, that
+             everyone contributes to and peer reviews.
+
+             We wouldn't tolerate secrecy in our science. No one gets to keep
+
+17 of 22                                                                                                           1/30/26, 08:33
+Pluralistic: Disenshittiï¬cation Nation (29 Jan 2026) â Plurali...   https://pluralistic.net/2026/01/29/post-american-canada/#o...
+
+             the math used to calculate the load stresses on the joists
+             holding the roof over our head a secret. We wouldn't tolerate
+             secrecy in the characteristics of the alloys in those joists, or
+             even the wires carrying electricity through the walls. We should
+             not tolerate secrecy in how our digital infrastructure works,
+             either.
+
+             After all, a modern building is just a fancy casemod for a bunch
+             of computers. Take all the computers out of a hospital and it
+             becomes a morgue. There's no secret medical science, and there
+             should be no secret medical code, either.
+
+             So this is it. This is how we win. Trump has unwittingly
+             recruited three armies to fight to end the enshittocene, the era
+             in which all of our technology has turned to shit. There's the
+             digital rights hippies like me (who've been banging this drum
+             since the 2000s); and then there's the entrepreneurs and
+             investors (eager for a chance to turn America's tech trillions
+             into Canada's tech billions, making Canada into a global tech
+             export powerhouse); and finally, there's the national security
+             hawks (who correctly worry that we are at risk of a kind of
+             cyberwarfare the world has never seen before).
+
+             Normally, cyberwarfare involves hackers associated with an
+             adversary state breaking into your critical systems, but
+             Microsoft doesn't have to break into your ministry's Office365
+             and Outlook accounts to spy on you or brick your agencies. They
+             already have root on your servers. For Trump, this is
+             cyberwarfare on the easiest setting imaginable.
+
+             I started throwing this idea around right after Trump announced
+             his first round of tariffs. There was this Canadian think-tank
+             that was soliciting suggestions for Canadian countermeasures, and
+             I sent them this stuff, and they said, "Well, that would
+             definitely work, but it'll make Trump really mad at us."
+
+18 of 22                                                                                                           1/30/26, 08:33
+Pluralistic: Disenshittiï¬cation Nation (29 Jan 2026) â Plurali...   https://pluralistic.net/2026/01/29/post-american-canada/#o...
+
+             Which, you know, true. But anything that works will make Trump
+             mad at us. So again, I must fall back on my Canadian heritage
+             here and apologize.
+
+             I'm sorry.
+
+             I'm sorry that I don't have any empty gestures for us to deploy,
+             only ideas for things that will work.
+
+             I mean, we can stick with the current plan, our retaliatory
+             tariffs, which make everything we buy from America more
+             expensive, and make us all poorer. That'll do something. Like,
+             it'll certainly impose broad-spectrum pain on a bunch of American
+             producers. If we decide to stop drinking delicious bourbon and
+             switch to Wayne Gretzky's undrinkable rye, there's gonna be some
+             corn farmer out there in a state that begins and ends with a
+             vowel who'll have trouble making payments on his John Deere
+             tractor. But what did that farmer ever do to us?
+
+             On the other hand, if we go into business selling everyone in the
+             world (including that farmer) (including our own farmer)
+             reliable, auditable, regulated, transparent drop-in firmware
+             replacement for that tractor, then we free that farmer from the
+             rent-extracting scams that John Deere uses to drain his bank
+             account. And since we remain that guy's customer, maybe he'll
+             side with us against Trump, along with the hundreds of millions
+             of American technology users who we can also set free from the
+             app tax, from commercial surveillance that feeds authoritarian
+             state surveillance, from the repair ripoffs, from ink that costs
+             more than the semen of a Kentucky Derby winning stallion. They
+             become our champions, too.
+
+             Because if we legalize jailbreaking, we will limit the blast
+             radius of our counterattack, to the tech barons who each paid a
+             million bucks to sit behind Trump on the inauguration dais and
+             their shareholders, who are not everyday Americans. Everyday
+
+19 of 22                                                                                                           1/30/26, 08:33
+Pluralistic: Disenshittiï¬cation Nation (29 Jan 2026) â Plurali...   https://pluralistic.net/2026/01/29/post-american-canada/#o...
+
+             Americans have gotten poorer every year for 50 years, thanks to
+             wage stagnation, wage theft, economic bubbles and skyrocketing
+             health, education and housing costs.
+
+             They'll tell you that most Americans own stock, but the amount of
+             stock the average American holds rounds to zero. Nearly all US
+             stock is held by the richest 10% of Americans â the ones who are
+             backing Trump and getting rich off Trump â and legalizing
+             jailbreaking is a targeted strike on just those people, which
+             will only benefit our American cousins, the everyday people
+             who've been abused for generations by these eminently
+             guillotineable plutocrats.
+
+             Canada is in a good position to do this. We've got motive, means
+             and opportunity, but we're not the only ones. Most of the
+             countries in the world are situated to take advantage of this
+             opportunity, to become the "disenshittification nation" that
+             supplies the world with wildly profitable software tools that fix
+             America's defective technology.
+
+             All it takes is one country defecting. That country gets to reap
+             the benefit â the billions â of exporting those tools to the
+             world, while the rest of us only get to enjoy the consumer
+             surplus, the technology that works better and costs us less money
+             and privacy to use.
+
+             You know how Ireland defected from the world's tax treaties and,
+             through regulatory arbitrage, made billions luring the world's
+             largest companies to establish domicile in Dublin, while
+             depriving the world's tax collectors of trillions? Regulatory
+             arbitrage is the game everyone can play. When a country decides
+             to become the Ireland for disenshittification, the nation where
+             it's legal to jailbreak locked technology, and export the tools
+             to do so to everyone in the world with an internet connection and
+             a payment method, they will get to reap the largest benefit.
+             They'll grab the hoarded monopoly rents of America's tech giants
+
+20 of 22                                                                                                           1/30/26, 08:33
+Pluralistic: Disenshittiï¬cation Nation (29 Jan 2026) â Plurali...   https://pluralistic.net/2026/01/29/post-american-canada/#o...
+
+             and use them as fuel for a single-use rocket that launches their
+             domestic tech sector into a stable orbit for generations.
+
+             Those American tech companies need to be relieved of the dead
+             capital on their balance sheets. What are these companies doing
+             with their looted trillions? Blowing it all on AI. They tell you
+             there's a lot of money to be made with AI, but no one can tell
+             you where it's going to come from.
+
+             This month, Google CEO Sundar Pichai said he's going to recoup
+             the hundreds of billions of dollars he's pissed away on AI by
+             turning Google into the world's perfect engine for surveillance
+             pricing. That's when a company uses surveillance data to predict
+             how desperate you are, and jacks up the price to the highest
+             amount they think they can get you to part with.
+
+             This is a terrible idea of course, but it's not just terrible in
+             the sense of "this is an idea Google should be ashamed of." It's
+             terrible in the sense of "this won't work because everyone will
+             hate it and refuse to participate in it." It's just another
+             harebrained scheme to finally find a way to make AI profitable,
+             or at least less unprofitable.
+
+             Compare that with my anti-circumvention plan. I can tell you
+             exactly where the money in my plan is going to come from: it's
+             just sitting there on Big Tech's balance sheets, waiting for us
+             to go get it. We'll make money by making products that people
+             want, because it will make their tech better, and they will pay
+             us for them.
+
+             I mean, I know that sounds old-fashioned. But what can I say?
+             Sometimes, the old ways are best.
+
+             If there's one thing Canada is good at, it's going to other
+             countries and digging up all their wealth. America's tech giants
+             have buried trillions of dollars they stole from the world, and
+
+21 of 22                                                                                                           1/30/26, 08:33
+Pluralistic: Disenshittiï¬cation Nation (29 Jan 2026) â Plurali...   https://pluralistic.net/2026/01/29/post-american-canada/#o...
+
+             we know exactly where it is. What's more, we can dig it out from
+             here. No travel required!
+
+             Let's go get it.
+
+             Their margin is our opportunity.
+
+22 of 22                                                                                                           1/30/26, 08:33

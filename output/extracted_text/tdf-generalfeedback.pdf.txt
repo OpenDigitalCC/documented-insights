@@ -1,0 +1,560 @@
+Ref. Ares(2026)1222582 - 03/02/2026
+
+                       Answers to the Five Questions
+                       by The Document Foundation
+                 The Document Foundation â February 3, 2026
+Comprehensive Analysis of EU Open Source Sector
+1. Strengths, Weaknesses & Barriers
+Strengths of the EU Open Source Sector
+Europe hosts a highly skilled technical workforce with strong contributions to major open
+source projects. European developers are significant contributors to the Linux kernel, and
+European institutions have pioneered some public sector open source initiatives.
+The EU benefits from a strong tradition of collaborative research and development, with
+universities and research institutions contributing to open source projects. The regulatory
+environment, particularly around data protection (GDPR) and digital rights, has created
+opportunities for privacy-focused and user-centric open source solutions.
+Weaknesses of the EU Open Source Sector
+The sector is fragmented across member states. There's a shortage of large-scale,
+commercially successful European open source companies compared to the US. The EU
+experiences significant talent drain, with skilled developers often migrating to US-based
+tech companies offering higher compensation.
+Investment in open source infrastructure and maintenance is insufficient, and there's a
+gap in professional services and support ecosystems around open source projects. The
+EU also lags in certain emerging technology areas like cloud computing and artificial
+intelligence frameworks, where US and Asian companies dominate.
+Barriers to Adoption and Maintenance
+Organizational and Cultural Barriers
+â¢ Risk-averse procurement practices favoring established proprietary vendors
+â¢ Lack of awareness among decision-makers about open source maturity and
+  capabilities
+â¢ Insufficient internal technical capacity to evaluate and implement open source
+â¢ Concerns about liability, warranties, and support compared to commercial software
+Technical and Resource Barriers
+â¢ Limited availability of professional support and maintenance services for many open
+  source projects
+â¢ Security concerns stemming from dependency chains and also lack of comprehensive
+  auditing, and integration challenges with existing proprietary systems
+â¢ Skills gaps in both public and private sectors for managing open source deployments
+Financial Barriers
+â¢ Underestimation of total cost of ownership (migration, training, customization)
+â¢ Difficulty quantifying long-term benefits versus upfront costs, especially on desktops
+â¢ Procurement frameworks that don't account for open source economics (low licensing
+   costs but higher service costs)
+Barriers to Sustainable Contributions
+Economic Sustainability
+â¢ The "free rider" problem where organizations use open source without contributing
+  back
+â¢ Difficulty monetizing open source contributions for individual developers and small
+  companies, and insufficient funding mechanisms for long-term maintenance of
+  foundational projects
+â¢ Lack of clear business models for maintainers of critical infrastructure projects
+Structural Barriers
+â¢ Reliance on volunteer labor for critical projects, leading to burnout and security
+  vulnerabilities
+â¢ Unclear career progression paths for developers focused on open source, and lack of
+  recognition and incentives for maintenance work versus new feature development
+â¢ Corporate contribution policies that restrict employee participation
+Coordination Challenges
+â¢ Fragmented governance across projects and foundations
+â¢ Difficulty coordinating contributions across competing commercial interests
+â¢ Language and cultural barriers within the EU, reducing collaboration efficiency
+2. Added Value of Open Source
+Public Sector Benefits
+Cost Efficiency
+French Gendarmerie's migration to Ubuntu and open source office suites reportedly
+saved over â¬50 million while modernizing their IT infrastructure. The Italian Ministry of
+Defense has similarly achieved significant savings. However, cost benefits must be
+carefully calculated including migration, training, and ongoing support costs.
+Digital Sovereignty and Strategic Autonomy
+Open source enables governments to reduce dependency on foreign technology vendors,
+which is particularly important for critical infrastructure and sensitive data. The ability to
+inspect, modify, and control software is crucial for national security.
+Transparency and Democratic Accountability
+Open source enables citizens and oversight bodies to audit government software for
+security, privacy, and correct implementation of policies. This transparency builds public
+trust and enables democratic scrutiny of automated decision-making systems.
+Interoperability and Vendor Neutrality
+Open standards and open source facilitate cross-border digital services within the EU,
+essential for the Digital Single Market. They prevent vendor lock-in and enable healthy
+market competition.
+Security Through Transparency
+While open source has security vulnerabilities like any software, the "many eyes" principle
+allows broader security review. Governments can conduct independent security audits
+and don't rely solely on vendor assurances.
+Private Sector Benefits
+Innovation and Time-to-Market
+Companies can build on existing open source components rather than reinventing the
+wheel. For example, most modern web services rely on open source databases (MySQL,
+PostgreSQL), web servers (Apache, Nginx), and programming languages. This dramatically
+accelerates development cycles.
+Talent Attraction and Retention
+Developers prefer working with modern, open source technology stacks. Companies
+contributing to open source gain reputational benefits and can attract top talent. RedHat
+(before IBM acquisition) demonstrated that an open source business model can build a
+multi-billion dollar company.
+Risk Mitigation
+Open source reduces risks associated with vendor bankruptcy, product discontinuation,
+or forced upgrades. Companies maintain the option to fork projects or hire alternative
+support providers if primary vendors fail to meet needs.
+Flexibility and Customization
+Organizations can modify open source software to meet their specific needs without
+negotiating with vendors. This is particularly valuable in specialized industries or for
+competitive differentiation.
+Cost Structure
+While not always cheaper in total cost of ownership, open source shifts costs from
+licensing fees to implementation and support, often providing better value. Companies
+pay for value-added services rather than licensing constraints.
+Critical Assessment Factors
+Security: Many critical open source projects are under-resourced for security auditing,
+and many critical projects areunderfunded, despite the widespread dependency on open
+source software.
+Cost: TCO includes migration costs, training, integration, customization, and ongoing
+support. These must be compared against both licensing costs and the value of avoiding
+vendor lock-in.
+Innovation Potential: Open source enables faster innovation through collaborative
+development and building on shared foundations, but requires organizational capacity to
+participate effectively.
+Lock-in Avoidance: Perhaps the most strategic long-term value, for decisions that may
+last decades such as those related to infrastructure, for full independence from vendors
+based outside Europe, full ownership of contents through desktop applications, and for
+long time archiving of documents.
+3. Concrete EU-Level Measures
+Institutional Framework
+Establish an EU Open Source Program Office (OSPO)
+Create a dedicated EU OSPO to coordinate open source strategy, provide guidance to
+member states and manage funding programs. A center of excellence to develop best
+practices, procurement guidelines and security standards for open source adoption
+across EU institutions.
+Establish an EU Code Repository and Collaboration Platform
+Develop EU-hosted infrastructure for software development, reducing dependency on US-
+based platforms (GitHub, GitLab cloud). This would serve public sector projects requiring
+data sovereignty.
+Funding Mechanisms
+Critical Open Source Infrastructure Fund
+Create a dedicated fund to support maintenance and security of strategic open source
+projects for the EU. This addresses the chronic underfunding of foundational projects.
+Maintainer Fellowship Program
+Fund full-time positions for maintainers of strategic open source projects, ensuring
+dedicated professional attention to security, maintenance and development.
+Bug Bounty and Security Audit Programs
+Establish EU-wide programs for security research and auditing of open source software
+and libraries used in critical infrastructure and public services.
+Policy and Regulatory Measures
+Default-to-Open Policy
+Mandate that software developed with public funding be released as open source (with
+national security exceptions). Several member states have such policies; extending this
+EU-wide would create significant momentum.
+Open Source Procurement Framework
+Develop procurement rules that properly evaluate open source options, accounting for
+total cost of ownership, strategic benefits, and long-term value. Remove barriers that
+inadvertently favor proprietary solutions.
+Legal Clarity and Liability Framework
+Provide clear legal guidance on liability, warranties, and contractual frameworks for open
+source procurement and use. Address concerns that hamper public sector adoption.
+Integration with EU Cybersecurity Regulations
+Ensure the Cyber Resilience Act and other regulations support rather than burden open
+source development. Create pathways for compliance that recognize open source
+development models.
+Public Sector Open Source Mandate
+Require EU institutions and member state governments to prioritize open source where
+technically feasible, with clear evaluation criteria and exemption processes.
+Ecosystem Development
+European OSPO Network
+Create a network connecting open source program offices across public sector, research
+institutions, and private companies.
+Open Source Skills Development
+Integrate open source development, contribution practices, and governance into digital
+skills programs, university curricula, and professional training. Support internships and
+contribution programs.
+Recognition and Career Pathways
+Recognize open source contributions in professional advancement, research evaluation,
+and procurement decisions. Create clear career paths for open source specialists in
+public sector.
+Industry-Academic Collaboration
+Fund partnerships between universities and open source projects, enabling students to
+gain real-world experience while providing projects with contributor pipelines.
+Strategic Initiatives
+Open Source AI/ML Platform
+Invest in European open source artificial intelligence and machine learning frameworks to
+compete with US-dominated platforms.
+Critical Technology Sovereignty Programs
+Identify technology areas of strategic importance (operating systems, cryptography,
+industrial control systems) and fund dedicated open source initiatives to ensure EU
+capabilities.
+4. Priority Technology Areas
+Operating Systems, Desktop Software and Core Infrastructure
+Operating systems are the foundation of digital sovereignty. Dependency on proprietary
+US-based operating systems creates strategic vulnerabilities. Linux dominates servers,
+but the adoption is is still weak on desktop and mobile operating systems.
+Support European Linux distributions for public sector use, fund development of user-
+friendly alternatives for desktop environments, invest in open source mobile operating
+systems, and support hardware compatibility efforts.
+Cloud and Edge Computing
+Cloud infrastructure is increasingly critical for businesses and governments. Current
+dominance by US providers creates significant data sovereignty concerns and strategic
+dependencies. The EU has technical capability but lacks coordinated market presence.
+Support open source cloud platforms, fund edge computing frameworks for IoT and
+industrial applications, develop European-hosted cloud services based on open source.
+Cybersecurity and Cryptography
+Cybersecurity is fundamental to all digital activities and directly tied to sovereignty and
+resilience. Cryptographic capabilities are particularly strategic.
+Fund development and auditing of cryptographic libraries, support security scanning and
+vulnerability management tools, invest in quantum-resistant cryptography research and
+implementation, develop EU-based security operations platforms.
+Artificial Intelligence and Machine Learning
+AI is a technology where the EU risks falling behind US and Chinese organizations. Open
+source frameworks could enable European companies and researchers to compete while
+maintaining transparency and accountability.
+Create European open source AI/ML frameworks, fund development of training datasets
+respecting GDPR, support AI tooling for specific European industry needs, develop
+federated learning and privacy-preserving AI technologies.
+Internet of Things and Industrial Systems
+The EU has strong industrial base but IoT platforms are often proprietary or dominated by
+non-EU vendors. Open source industrial control systems and IoT platforms could leverage
+European manufacturing excellence.
+Support open source industrial automation and control systems, fund IoT platform
+development with strong security and privacy, develop open source digital twin
+technologies, support Industry 4.0 open source initiatives.
+Digital Identity and Authentication
+Digital identity is foundational for digital services, particularly in light of eIDAS 2.0 and
+European Digital Identity Wallet initiatives. Open source solutions ensure transparency,
+security, and interoperability.
+Develop open source identity management systems, support decentralized identity
+frameworks, create open source implementations of eIDAS standards, fund
+authentication and authorization infrastructure.
+Data Management and Analytics
+Data is increasingly valuable, and organizations need sovereign control over data
+infrastructure. Open source databases and analytics tools prevent vendor lock-in and
+enable custom solutions.
+Support European open source database development, fund big data and analytics
+platforms, develop data governance and cataloging tools, support data mesh and
+decentralized data architecture tools.
+Quantum Computing
+Quantum computing is an emerging technology with transformative potential. Early
+investment in open source quantum software could position the EU advantageously as
+hardware matures.
+Fund open source quantum programming frameworks, support quantum simulation
+tools, develop quantum algorithm libraries, create educational resources for quantum
+software development.
+5. Sectors for Increased Competitiveness and Cyber Resilience
+Healthcare and Life Sciences
+Healthcare generates vast sensitive data and requires interoperability across providers,
+countries, and systems.
+Financial Services
+Financial sector has high cybersecurity requirements and is heavily regulated. Open
+source can reduce systemic risks from proprietary monocultures while maintaining
+security through transparency.
+Energy and Utilities
+Energy sector is critical infrastructure undergoing digital transformation with smart grids,
+renewable integration, and decentralized generation. Open source can enhance security
+and interoperability.
+Telecommunications
+Telecommunications infrastructure is strategic for digital sovereignty. Open source 5G
+and future 6G technologies can reduce dependency on limited vendors and enhance
+security.
+Public Administration and Government Services
+Digital government services require transparency, security, and interoperability. Open
+source aligns well with public sector values and enables efficient cross-border
+cooperation.
+Manufacturing and Industry 4.0
+The EU has strong manufacturing base that increasingly relies on digital technologies.
+Open source industrial software can leverage this strength while avoiding foreign
+dependencies.
+Transportation and Logistics
+Transportation is undergoing digital transformation with autonomous vehicles, smart
+logistics, and multimodal integration. Open source can enable interoperability and
+innovation.
+Education and Research
+Education and research naturally align with open source values of knowledge sharing.
+Open source tools can enhance accessibility and collaboration while reducing costs.
+       Opportunities Represented by the Adoption of OSS
+      and Standard Document Formats on the EU Desktops
+             as Part of the EU Open Source Strategy
+                 The Document Foundation â February 3, 2026
+Profile of The Document Foundation
+The Document Foundation is a non-profit organisation based in Berlin and operating
+under German law. It is focused on developing open source productivity solutions for
+international organisations, government and non-government organisations, public
+bodies, central and local administrations, schools and universities, companies and
+individuals.
+It pursues its objectives by developing the LibreOffice open source productivity suite and
+filters for importing proprietary formats used by LibreOffice and other software (in
+collaboration with the Document Liberation Project).
+Several members of the LibreOffice project also contribute to the development of the
+open document format ODF (OpenDocument Format), which is used natively by
+LibreOffice and other open source software. It is also supported by proprietary software
+such as Microsoft 365 and open-core software such as OnlyOffice and WPS Office.
+Digital sovereignty: a priority for The Document Foundation
+Since LibreOffice was born in 2010 and The Document Foundation was recognised by the
+German authorities in 2012, its members have pursued the goal of digital sovereignty. This
+concept was not widely recognised in 2010, but it is now acknowledged globally and
+included in the European Union's digital strategy.
+For this reason, The Document Foundation is contributing to the European Union's Open
+Source Strategy consultation with this document. The focus is on two areas in which the
+foundation can offer significant expertise: open source desktop software and standard,
+open document formats.
+Background on open source software on desktops in Europe
+In Europe, open source software is almost completely absent from desktops and mobile
+devices, which are the two main tools for interaction at an institutional, corporate and
+personal level for the majority of European citizens. The ITRE study of December 2025
+states that:
+Android and iOS control virtually 100% of the mobile operating system market, while
+Windows holds 73% of the desktop operating system market, with iOS accounting for
+most of the remainder. Google Search accounts for over 89% of web searches, and US
+platforms dominate almost the entire social media and browser market.
+The situation is the same at the application level. A July 2025 Compass Lexecon study for
+the Open Cloud Coalition attributes a 90% market share to the Microsoft Office suite in its
+various forms (desktop and cloud), leaving Google with the remaining 10%.
+This is despite the Interoperable Europe Act stating that public bodies should prioritise
+solutions with non-restrictive licences, such as open source, over equivalent solutions
+based on objective criteria such as functionality, total cost of ownership (TCO), user-
+centricity and cybersecurity. However, these criteria appear to be disregarded in the
+procurement process, as Microsoft is referenced far more frequently than any other
+supplier, with an EU-wide market share of 72% in 2023 and 89% in 2024, according to the
+Compass Lexecon study.
+Are proprietary desktops really necessary for the EU?
+It is worth emphasising at this point that this preference for proprietary desktop software
+is not justified on technical grounds. There are open source solutions that can replace
+proprietary solutions without negatively impacting functionality and that offer significant
+advantages in terms of security, total cost of ownership (TCO) and user-centricity.
+Migration from proprietary to open source solutions would also facilitate the transition
+from proprietary to standard, open technologies in certain areas, such as email and office
+documents, where the latter is the only option for digital sovereignty.
+In the case of email, we are talking about standards defined in the era of Arpanet â the
+global network infrastructure that gave rise to the internet â and therefore developed with
+military-grade security objectives. Microsoft has not implemented these standards for its
+email and collaboration solution, which is an integral part of the office suite, even several
+decades later.
+In the case of the Office suite, we are talking about the Open Document Format, a
+standard defined in 2006 that Microsoft has never properly implemented, despite the fact
+that the documentation is publicly available and the development activity, to which
+Microsoft itself contributes, takes place according to a transparent process. There is also
+no technical reason why implementation cannot take place according to the standard and
+open specifications of the format itself.
+Why the Open Document Format should be the default format
+The Open Document Format (ODF) should form a key part of the EU's open source
+strategy because it directly promotes digital sovereignty, long-term interoperability, and
+independence from suppliers. It is also in line with the EU's broader goals of openness,
+sustainability, and independence from proprietary ecosystems.
+Let's take a closer look at the reasons behind this statement:
+1. ODF strengthens digital sovereignty
+â¢ ODF has been recognised as an ISO/IEC standard since 2006. It was developed
+  transparently under the auspices of OASIS (Organization for the Advancement of
+  Structured Information Standards), meaning it is completely independent of any single
+  supplier, whether open source or proprietary, today and in the future.
+â¢ ODF is comprehensively documented, including the process for developing new
+  versions. This makes it easy to implement in all programmes, regardless of the
+  software's type or development technology. Therefore, it can be used by both open
+  source projects and proprietary applications.
+â¢ Due to these characteristics, ODF is in line with the broader EU digital policy agenda,
+  which emphasises open standards and open source solutions. It also responds
+  perfectly to the objective of digital sovereignty, representing an independent choice
+  that can interoperate with any type of software at all levels, thereby reducing lock-in to
+  proprietary technologies while maintaining complete control over data and
+  documents.
+2. ODF guarantees interoperability at all levels
+â¢ ODF supports the EU's "Think Open" principle and its commitment to interoperability in
+  digital public services. This enables the exchange of files between operating systems
+  and applications, and encourages the use of the most appropriate tools for each user's
+  technical needs and economic circumstances. In this way, it promotes collaboration
+  between institutions, companies, and individuals, enabling everyone to work more
+  effectively and efficiently.
+â¢ EU public administrations exchange millions of documents every day, both internally
+  and with other public administrations around the world. Using ODF, a standard format
+  that does not require specific hardware or software configuration, ensures
+  interoperability at all levels and overcomes geographical, economic and social
+  barriers.
+3. ODF supports open source ecosystems
+â¢ ODF encourages competition in the office suite market by treating all participants
+  equally, whether they are open source projects or proprietary software vendors. It also
+  promotes the development of projects for managing ODF-format documents at a
+  European level thanks to the free access to the format documentation.
+â¢ Developers can create new applications or solutions that exploit the opportunities
+  offered by the ODF format to improve user productivity. This is particularly significant in
+  sectors where robust, secure document structuring and long-term accessibility,
+  independent of software, represent added value. One such sector is healthcare.
+â¢ The open nature of the ODF format fosters community engagement and encourages
+  contributions from developers worldwide. This can result in the development of
+  software tailored to the unique requirements of countries, regions, industries,
+  economic sectors, and minorities (including linguistic minorities, which are prevalent
+  throughout the EU).
+â¢ A diverse ecosystem aligns with the EU's goal of promoting the sustainable
+  development of open source software and its associated production chain, comprising
+  companies specialising in development, maintenance, technical support, training, and
+  consultancy, as emphasised in recent political discussions.
+4. ODF improves transparency and ensures long-term access
+â¢ The open specifications of ODF ensure that future generations will be able to read
+  today's documents without resorting to proprietary software. This approach is in line
+  with the EU's emphasis on ethical, sustainable and transparent technologies.
+â¢ The open format ODF simplifies the preservation of public documents because it has
+  features that allow long-term access, even if the software used to create the
+  documents is no longer available. These features include consistency between the
+  documentation and the format, as well as the presence of the format version, which
+  can be used to reconstruct the documents' features and analyse their contents, even
+  decades later.
+5. ODF reduces the cost of software solutions
+â¢ Adopting ODF reduces costs associated with software licences and proprietary
+  formats by making tools more accessible to public institutions and SMEs. This has a
+   positive impact on public procurement and the overall cost of infrastructure in the EU
+   and its member states.
+â¢ Using ODF as a document standard encourages European companies to develop
+   products, solutions and technologies based on open standards. This increases their
+   competitiveness in the global market and achieves another of the EU's open source
+   policy priorities.
+6. ODF promotes digital skills
+â¢ Thanks to its full and transparent documentation, ODF is a suitable platform for
+  studying open formats and developing students' digital skills. It allows users to analyse
+  file contents characterised by an XML schema that can be understood by those without
+  specific programming language knowledge.
+â¢ Using an open and standard format such as ODF promotes greater awareness among
+  users of digital formats and their characteristics. This is because being able to view the
+  contents of files encourages a deeper understanding of them.
+Why the EU should not use the Microsoft 365 format
+Ideally, this would be clear to both professionals and users. However, the reality of the
+market tells us exactly the opposite, given that the proprietary format of Microsoft 365
+(and previously Microsoft Office) documents is much more widespread. Therefore,
+unfortunately, it is necessary to briefly examine the problems with the OOXML format and
+explain why its use goes against the interests of everyone except Microsoft.
+OOXML was approved by ISO/IEC in 2008, at the end of a controversial process, in two
+versions.
+â¢ Transitional, created to facilitate the transition â as the name suggests â from binary
+  formats, and therefore the result of a compromise between the presence of non-
+  standard components and the use of a very complex XML schema, to the point that it is
+  not readable by users, contrary to the provisions of the W3C (World Wide Web
+  Consortium) for XML language. Transitional was to be abandoned in 2010.
+â¢ Strict, based on the same XML schema as the Transitional version and therefore
+  problematic in terms of compliance with standards, characterised by many issues
+  such as completely proprietary management of dates and colours, and with
+  proprietary Microsoft elements such as the vector image format. Strict was to become
+  the default format for Microsoft Office from 2010 onwards.
+Sixteen years on from 2010, the default format for Microsoft 365 is still OOXML
+Transitional. Meanwhile, OOXML Strict, which was included in the format menu as the
+final option (to discourage use), has disappeared entirely. Consequently, the Microsoft
+365 document format is entirely proprietary, as are all OOXML files in circulation.
+The extraordinary length, complexity, technical omissions and single-vendor
+dependencies of the OOXML format make implementation legally and practically
+impossible.
+Furthermore, many elements in the OOXML format are left undefined in the specifications
+and are only interpreted correctly by Microsoft Office. This leads to obvious
+interoperability problems when the theoretically standard format is used by alternative
+software, despite the efforts of developers who are constantly trying to find solutions to
+these problems.
+How can the EU free itself from Microsoft's format based lock in?
+The EU should consider the Open Document Format to be a technical standard for
+document formatting and one of the main strategic tools for achieving its objectives in
+terms of openness, interoperability, sustainability, and digital sovereignty.
+Therefore, the EU should:
+â¢ Investing in improving open source office suites that natively support the Open
+  Document Format.
+â¢ Provide guidelines for migrating to open source software on desktops, as well as
+  training courses for staff at all levels within the public administrations of Member
+  States. An initial reference protocol has been drawn up by The Document Foundation,
+  based on European best practices.
+â¢ Arrange meetings with Open Document Format experts at all levels to educate
+  politicians, officials, technicians and users about the format, and to encourage its
+  transparent adoption.
+â¢ Include metrics relating to the adoption of the Open Document Format in reports on
+  Member States' progress with their open source strategies.
+â¢ Ensure consistent implementation of the standard by verifying compliance in all
+  Member States.
+The following is a concrete, policy-oriented roadmap which could realistically form part of
+the next EU open source strategy.
+1. Strategic positioning of ODF
+â¢ Define ODF as a key resource for interoperability by explicitly listing it as a "strategic
+   open standard" for documents, alongside open source software and open interfaces,
+   based on the "Think Open" vision.
+â¢ Link ODF to digital sovereignty and the single market by framing it as a prerequisite
+   for cross-border digital public services and reducing vendor lock-in. This is in line with
+   the EU's digital autonomy objectives.
+2. Policy and regulation (years 1â2)
+â¢ Adopt the "ODF by default" rule for EU institutions
+   â¢ Internal rule: All new editable office documents created by EU institutions must be
+      stored in OpenDocument Format, with other formats offered as additional export
+      options only.
+   â¢ External communication: the ODF format must always be accepted and clearly
+      advertised as the preferred option when citizens or businesses submit documents.
+â¢ Integrate ODF into interoperability and procurement frameworks
+   â¢ Update the implementation guidelines to align with the European
+      Interoperability Framework by indicating ODF as the reference format for all office
+      documents in public sector interoperability profiles.
+   â¢ Clauses relating to public procurement require full read/write support for ODF
+      (not just import) in all office suite, document management, electronic archiving
+      system and collaboration platform tenders.
+â¢ Encourage alignment among Member States
+  â¢ Recommend that Member States adopt policies providing for the default use of ODF
+    in national and regional administrations.
+  â¢ Where legally possible, link the adoption of ODF to funding priorities in digital public
+    administration programmes.
+3. Implementation and migration support (years 1â3)
+â¢ Create an "ODF transition toolkit" for public administrations
+  â¢ Practical guides to migration: inventory of formats, conversion strategies,
+     templates, macros and accessibility.
+  â¢ Training: Reusable training modules for civil servants working with ODF-compatible
+     software suites.
+  â¢ Change management: communication models for explaining changes to staff and
+     external stakeholders.
+â¢ Fund improvements in ODF-compatible open source tools
+  â¢ Use EU programmes (e.g. Digital Europe, or ISA-style initiatives) to fund:
+     â¢ Improved interoperability and fidelity: enhanced support for ODF, particularly
+        for complex layouts, macros, accessibility and collaboration features.
+     â¢ Preparing enterprises for stability and security, and integrating them with
+        identity and registry management systems.
+  â¢ Supporting bridges and converters
+     â¢ To facilitate migration, invest in high-quality open source conversion tools
+       between ODF and legacy/proprietary formats.
+     â¢ Promote APIs and microservices that administrations can integrate into their
+       existing workflows, such as automatic conversion to document gateways.
+4. Governance and community engagement (years 1â4)
+â¢ Give ODF a place in the Open Source Programme Office (OSPO)
+  â¢ Expand the remit of the Commission's OSPO to encompass the management of
+     open standards such as ODF, including monitoring adoption, coordinating
+     contributions, and liaising with standardisation bodies.
+  â¢ Treat ODF as part of the same "open ecosystem" as open source software, rather
+     than as a separate entity.
+â¢ Structured collaboration with communities and industry
+  â¢ Set up an "ODF Interoperability Forum" involving open source projects, SMEs, major
+    suppliers, archives and accessibility experts.
+  â¢ Encourage public administrations to contribute bug reports, test cases and code to
+    ODF-related co-development projects.
+â¢ Standardisation and evolution
+  â¢ Take an active role in the standardisation of the ODF to ensure the needs of the EU
+    public sector are considered (e.g. multilingualism, accessibility and archiving
+    requirements).
+  â¢ Promote alignment between ODF and other relevant EU standards (e.g. eIDAS,
+     eArchiving and accessibility standards).
+5. Monitoring, metrics and accountability (years 2â5)
+â¢ Define clear KPIs for ODF adoption
+  â¢ Usage metrics
+     â¢ Percentage of documents created internally and stored in ODF.
+     â¢ Percentage of forms/templates intended for the public available in ODF.
+  â¢ Procurement metrics
+     â¢ Percentage of new IT systems with full support for reading and writing ODF
+       documents.
+  â¢ Interoperability metrics
+     â¢ Number of cross-border services that exchange documents in ODF format.
+â¢ Annual report on the review of the Open Source strategy
+  â¢ Include a chapter on "Open Standards and ODF" in periodic reports on the progress
+     of the EU Open Source Strategy. This chapter should contain data, success stories
+     and information on any remaining obstacles.
+â¢ Feedback
+  â¢ Gather feedback from Member States, agencies and end users on practical issues,
+    such as formatting problems and limited or inadequate training, and incorporate
+    this into funding priorities and standardisation work.
+6. Long-term consolidation (4â6 years)
+â¢ Making ODF an integral part of the default design of digital public services
+  â¢ Require any new EU-funded digital public services handling documents to support
+    ODF end-to-end (i.e. for creation, editing, archiving and preservation).
+  â¢ Integrate ODF into the reference architectures of government platforms and cloud
+    environments.
+â¢ Focus on archiving and cultural heritage
+  â¢ Ensure that ODF is aligned with EU electronic archiving practices so that long-term
+    preservation strategies explicitly recommend ODF for office documents created in
+    digital format.
+  â¢ Encourage the adoption of ODF for all editable content by cultural and research
+    infrastructures.
+â¢ Review and strengthen policies, where necessary
+  â¢ If the adoption of ODF remains fragmented, stricter measures should be considered
+    in terms of procurement and interoperability standards, based on data collected
+    during the monitoring phase.
+Open Source is how the EU creates and shares software, ODF is how the EU
+maintains control over the information created by the software.

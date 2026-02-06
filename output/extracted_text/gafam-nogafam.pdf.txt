@@ -1,0 +1,34 @@
+Ref. Ares(2026)1083479 - 30/01/2026
+                   #NOGAFAM
+#GAFAM           #OPENSOURCE
+
+                                                                 Ubuntu
+ Windows
+                                                                 Desktop
+
+ Android                                                           /e/OS
+
+ Chrome                                                          Firefox
+
+  Outlook                                                       Thunderbird
+
+   O365                                                           kSuite
+
+                                                                Matrix with
+ Whatsapp
+                                                                FluffyChat
+
+ Facebook
+                                                                 Friendica
+
+    X                                                           Mastodon
+
+Instagram                                                        Pixelfed
+                      FEDIVERSE : decentralised soial network
+
+ Youtube
+                                                                PeerTube
+
+ Spotify                                                        Funkwhale
+
+            Janvier 2026 - @arnohgf:matrix.org

@@ -1,0 +1,118 @@
+Ref. Ares(2026)1167643 - 02/02/2026
+
+ Response to the European Open Digital
+    Ecosystems call for evidence by
+     VideoLAN, the creators of VLC
+
+1. What are the strengths and weaknesses of the EU
+open-source sector? What are the main barriers that
+hamper (i) adoption and maintenance of high-quality
+and secure open source; and (ii) sustainable
+contributions to open-source communities?
+
+Strength:
+  â¢   There is a strong culture of volunteering across many EU countries, supported
+      by a strong social safety net and a keen interest in working for the public
+      good.
+  â¢   Across Europe we see a rich tradition of open source. The best open source
+      solutions used around the world are largely developed in Europe. We can find
+      undeniable success across many different industries and sectors.
+  â¢   Open Source software has proven to be an efficient use of resources due to
+      its high reusability:
+          â¦ The pooling of resources that open source allows benefits all actors
+             and makes the solutions cheaper for the general public.
+          â¦ World-class open source software such as VLC has been developed by
+             small teams with small budgets.
+          â¦ Solutions once developed can be reused by other players without
+             having to redevelop the same solution. Instead they can improve the
+             existing solution and extend it to fit their needs.
+  â¢   There is a focus on building long-term sustainable solutions in the Open
+      Source community rather than sways in the market.
+
+Weaknesses:
+  â¢   Unwillingness to make large long-term investments in Open Source solutions
+      and communities.
+  â¢   Lack of general funding.
+  â¢   There is a proven record of lobbying influence by large corporations working
+      against the public interest and Open Source.
+  â¢   Recognition and awareness of excellent existing open source communities
+      and solutions is lacking.
+  â¢   Political willpower sways depending on current trends rather than the long
+      term needs.
+  â¢   Adoption of an Open Source solution often does not result in financial
+      investments, especially by institutional and corporate players. This leads to a
+      situation where the creators of the technology do not have enough resources
+      to maintain it sustainably. In effect, links in the technology supply chain are
+      relied on and taken for granted, but can be weak in reality.
+
+2. What is the added value of open source for the
+public and private sectors? Please provide concrete
+examples, including the factors (such as cost, risk,
+lock-in, security, innovation, among others) that are
+most important to assess the added value.
+      â¢   Transparency, which increases security, and increases trust.
+      â¢   Ability to switch solutions and providers to avoid vendor lock-in.
+      â¢   Real ownership over the solution and the knowledge that surrounds it.
+          Adoption does not submit the user to the will of the provider.
+      â¢   Long time support of numerous formats forever.
+      â¢   Real collaboration is possible between different groups. People with
+          different interests can collaborate to make good solutions for everyone.
+      â¢   The largest tech companies are in the USA and the profits they generate
+          in the EU (by customers and public institutions) currently go to the USA
+          instead of supporting the economy of the EU. This could be changed with
+          the use of open source software.
+      â¢   Acceleration of product and service development starting from a common,
+          shared resource base.
+      â¢   Large reduction in cost, since solutions do not need to be re-developed
+          multiple times.
+3. What concrete measures and actions may be taken
+at EU level to support the development and growth of
+the EU open-source sector and contribute to the EUâs
+technological sovereignty and cybersecurity agenda?
+    â¢   Wide adoption of solutions created within the EU, especially Open Source
+        solutions.
+    â¢   Creation of a EU Sovereign Tech Fund to support the maintenance of
+        critical infrastructure open source software.
+    â¢   Require other institutions to contribute back to Open Source projects
+        (financially or otherwise) when they adopt and use their solutions.
+    â¢   Proper legal and financial consequences when the lack of usage of Open
+        Source has negative consequences. These negative consequences include
+        solutions going out of support, security issues and bugs that cannot be
+        addressed due to lack of access, security breaches that cannot be
+        scrutinised and more.
+    â¢   Get the European Commission, Parliament to use open source and ban
+        non-open source non-european solutions.
+    â¢   Reduce software patents usage.
+    â¢   Tax incentives of using open source.
+
+4. What technology areas should be prioritised and
+why?
+    â¢   Consumer technology because it affects the wider population, including
+        media, documents, format and collaboration tech.
+    â¢   Interoperability of formats and protocols.
+
+5. In what sectors could an increased use of open
+source lead to increased competitiveness and cyber
+resilience?
+    â¢   Public administration: Governments would be less dependent on non-EU
+        tech companies and have more ownership and transparency over the
+        deployed solutions. In addition the data they hold would not leave the EU.
+    â¢   Education: The EU needs to train people on open source technology early
+        so they are not locked into non-sovereign solutions long-term.
+    â¢   Consumer technology: The technology EU citizens use every day
+        (multimedia applications, browsers, desktops, messaging applications, ...)
+        should have viable and attractive Open Source solutions. This will make it
+    less likely for them to be exposed to bad actors taking them over and the
+    financial interests of the companies operating them, which will not align
+    with the best interests of the EU public.
+â¢   Social media: Public opinion and news consumption these days is largely
+    shaped by social media. It needs to be owned and operated on open
+    source solutions by public-interest organisations in order to work for the
+    benefit of citizens.
+â¢   Industry: The shared technology base provided by Open Source forms a
+    critical part of the supply chain used in technology products developed
+    and exported from Europe. Unlike usually foreign-originated proprietary
+    technology it is not subject to trade restrictions and tariffs and instead
+    offers guaranteed availability. As a result, industry retains the ability to
+    develop, improve, manufacture and offer products and services in
+    uncertain political climates.

@@ -1,0 +1,126 @@
+Open Source Sweden, Stockholm, 2026-01-28â              â
+                                                                                           Ref.
+                                                                                         Ref.   Ares(2026)69111 -- 06/01/2026
+                                                                                              Ares(2026)1208723    03/02/2026
+
+                                        CALL FOR EVIDENCE
+
+  TITLE OF THE INITIATIVE        Towards European open digital ecosystems
+
+   LEAD DG â RESPONSIBLE         Directorate-General for Communications Networks, Content and Technology
+             UNIT                (DG CNECT) â Unit E.3: Future Internet
+                                 Directorate-General for Digital Services (DG DIGIT) â Unit B.2: Interoperability
+                                 and Digital Government
+
+  RESPONDING                     Open Source Sweden (FÃ¶reningen LeverantÃ¶rer av Ãppen Programvara i
+  ORGANIZATION                   Sverige)
+
+  ABOUT US                       We are an association for suppliers of Open Software in Sweden. Our
+                                 organization was formed to protect the interests of Swedish suppliers. Our
+                                 purpose is to promote a well-functioning national and international market for
+                                 the development, sale, delivery and support of open software and services. A
+                                 market comprising both private and public organisations.
+
+                                 Open Source Sweden is a member of APELL (The European Open Source
+                                 Software Business Association).
+
+  Our response
+
+Dear officers of the EU Commission,
+
+Here follows Open Source Swedenâs response to your call for evidence. Our response reflects our member
+companiesâ experiences on these topics.
+
+  1. What are the strengths and weaknesses of the EU open-source sector? What are
+  the main barriers that hamper (i) adoption and maintenance of high-quality and secure
+  open source
+  â
+  Main barriers identified are (in no specific order):
+    ââ Procurement processes mainly looking to short term procurement costs, ignoring longer term costs
+        related to lock-in and life cycle management - areas where Open Source solutions delivers exceptional
+        value
+    ââ Sourcing requirements discriminating against open source solutions by being written to best fit specific
+        proprietary solutions
+    ââ Sourcing requirements making it impossible for open source solutions to answer âyesâ to specific
+        questions
+    ââ Sourcing requirements make it impossible for open source solutions to respond to RFIs or RFQ, for
+        example by using language incompatible with open source, often related to licensing and ownership of
+        the software.
+    ââ Lack of harmonization of certifications and standardizations - The Open Source innovation system is
+        global, so when EU or country level requirements differ from global standards that works against how
+        this ecosystem functions.
+    ââ Lack of public sector open source strategy, such as public money - public code.
+
+  â
+  â
+  (ii) sustainable contributions to open-source communities?
+Open Source Sweden, Stockholm, 2026-01-28â                â
+
+Main barriers identified are (in no specific order):
+    ââ Lack of requirements for upstream contributions in procurement processes
+    ââ Lack of public sector strategy for contributing to open source projects (employment contracts commonly
+       do not allow contributions, itâs rare that public sector employs developers in open source projects)
+
+  2. What is the added value of open source for the public and private sectors? Please
+  provide concrete examples, including the factors (such as cost, risk, lock-in, security,
+  innovation, among others) that are most important to assess the added value.
+
+Key value add for open source identified are (in no specific order):
+    ââ Decreased cost (as open source works promotes competition)
+    ââ Decreased lock-in (as the source code is open, more open standards are used and more exit options
+       exists)
+    ââ Increased innovation (the Open Source ecosystem consists of hundreds of millions of open source
+       projects)
+    ââ Increased agency for organizations, corporations and countries.
+    ââ Increase public benefits by creating a positive feedback loop of increased use and knowledge of open
+       source which contributes to increased agency and resilience for EU digital societies.
+
+  3. What concrete measures and actions may be taken at EU level to support the
+  development and growth of the EU open-source sector and contribute to the EUâs
+  technological sovereignty and cybersecurity agenda?
+
+Concrete measures and actions identified as tearing down barriers to adoption, which includes (in no specific
+order):
+    ââ Procurement processes mainly looking to short term procurement costs, ignoring longer term costs
+        related to lock-in and life cycle management - areas where Open Source solutions delivers exceptional
+        value
+    ââ Sourcing requirements discriminating against open source solutions by being written to best fit specific
+        proprietary solutions
+    ââ Sourcing requirements making it impossible for open source solutions to answer âyesâ to specific
+        questions
+    ââ Sourcing requirements make it impossible for open source solutions to respond to RFIs or RFQ, for
+        example by using language incompatible with open source, often related to licensing and ownership of
+        the software.
+    ââ Lack of harmonization of certifications and standardizations - The Open Source innovation system is
+        global, so when EU or country level requirements differ from global standards that works against how
+        this ecosystem functions.
+    ââ Lack of public sector open source strategy, such as public money - public code.
+
+  4. What technology areas should be prioritised and why?
+
+Technology areas to be prioritized are (in no specific order):
+    ââ Basic infrastructure and platforms related to building public and private cloud (operating systems,
+       orchestration, automation, networking, application and database platforms) - as it would help EU reduce
+       lock-in to US cloud companies
+    ââ Cryptography and PKI - as these are core security areas which are also hard requirements for most
+       trustworthy IT solutions
+    ââ Artificial Intelligence - as it is an important emerging area
+
+  5. In what sectors could an increased use of open source lead to increased
+Open Source Sweden, Stockholm, 2026-01-28â           â
+
+    competitiveness and cyber resilience?
+â
+Our member companies can not identify any sector where increased open source would not lead to increased
+competitiveness and cyber resilience. With that said, specific sectors our member companies have observed
+positive effects in includes (but are not limited to, in no specific order):
+    ââ Public sector
+    ââ FSI
+    ââ Retail
+    ââ Media
+    ââ FMCG
+    ââ Transportation
+    ââ Defence
+    ââ Energy
+
+                                                                                                            4

@@ -1,0 +1,224 @@
+Ref. Ares(2026)1225107 - 03/02/2026
+
+EU Commission Call for Evidence: European Open Digital
+Ecosystems
+Centre for Net Zero Response
+
+Introduction
+
+Centre for Net Zero welcomes the European Commissionâs initiative to develop a strategy for
+European Open Digital Ecosystems. We strongly support the Commissionâs ambition to
+strengthen Europeâs competitiveness, resilience and technological sovereignty through
+open, interoperable and trustworthy digital infrastructure.
+
+About Centre for Net Zero
+
+Centre for Net Zero is a non-profit, open energy research institute, established by the
+Octopus Energy Group. We operate autonomously and set our own research agenda.
+
+We are building a global evidence base on demand flexibility â showing how and when
+energy can shift in response to system needs. Using insights from our trials and system
+modelling, we demonstrate how mobilising flexibility at scale can displace fossil fuels - and
+what happens when demand is an active part of the system. We share our work openly,
+supporting governments, policy-makers and grid operators.
+
+Executive Summary
+
+Energy is a flagship sector for European Open Digital Ecosystems. Europeâs energy system is
+already highly digitalised, yet progress in deploying AI and advanced digital tools remains
+constrained by fragmented data access, limited interoperability, and fragile digital
+foundations. Open-source software, open standards and open data approaches are
+therefore foundational infrastructure for Europeâs energy transition, and offer an opportunity
+for Europe to develop sovereign, domain-specific AI.
+
+To support open, collaborative and competitive digital ecosystems in energy, the
+Commissionâs strategy should:
+
+   1.â Establish dedicated, multi-year funding mechanisms for open-source communities
+       and critical digital components;â
+
+   2.â Embed open data and open-source requirements in public procurement and funded
+       projects;â
+
+   3.â Support the development and adoption of trust and assurance frameworks already
+       emerging from open initiatives; andâ
+
+   4.â Build on existing open-source and synthetic data initiatives when developing new
+       data infrastructures, rather than starting from scratch.
+
+                                                                                                     1
+Responses to Consultation Questions
+
+1. The strengths and weaknesses of the EU open-source energy sector
+
+Within the energy sector, the EU benefits from a strong foundation of open research,
+engineering expertise and standards-led collaboration. Transmission and distribution system
+operators, research institutions and technology providers have a tradition of cooperating on
+protocols, modelling and market design, creating favourable conditions for open solutions
+that support interoperability, transparency and system-wide optimisation.
+
+Europe has established enabling organisations such as Linux Foundation Energy and
+Cresym, which provide neutral governance, technical stewardship and credibility for
+emerging open-source initiatives, with active participation from the private sector.
+
+Alongside this, Europe has a growing network of open-source-oriented start-ups and
+research-driven organisations in the energy domain, underpinned by a strong culture of
+openness and collaboration. While this environment supports innovation, many such
+organisations face challenges in scaling and developing sustainable business models while
+remaining open, particularly when operating in regulated energy markets.
+
+Despite these strengths, the open-source ecosystem supporting energy digitalisation
+remains structurally fragile. Many high-value tools and datasets emerge from time-limited
+research or innovation programmes, but lack sustained funding for operational maintenance,
+cybersecurity, documentation and governance. As AI and digital tools move from pilots into
+operational use, this gap between innovation and long-term stewardship becomes a material
+risk.
+
+Barriers to adoption and maintenance are especially acute because energy is both highly
+regulated and operationally critical. Network operators and market bodies require clear
+assurances on cybersecurity, data protection, provenance and liability, yet many
+community-led projects lack the resources to provide formal governance, software
+supply-chain transparency and structured vulnerability management. Integration with legacy
+grid and market systems further requires specialist skills and flexible funding that are often
+difficult to secure within regulated entitiesâ innovation and procurement frameworks.
+
+Distribution system operators (DSOs) are typically less well represented in open source
+initiatives than transmission operators. This reflects more constrained resources and
+innovation capacity amongst DSOs, despite being among those that could benefit most from
+shared digital tools. Targeted EU-level support, through bodies such as e.DSO and the DSO
+entity, could help address this imbalance and ensure that open-source energy infrastructure
+reflects whole-system needs.
+
+Finally, sustainable contribution to open-source energy projects is constrained by weak
+incentives for large system participants to contribute back, limited professional recognition
+for maintenance and stewardship work, and regulatory uncertainty around data access and
+AI deployment. Together, these factors slow the maturation and operational readiness of
+open solutions precisely where they could deliver the greatest system-level value.
+
+                                                                                                2
+2. The value of open source for the energy sector
+
+Open source offers clear and distinctive value for energy systems as they transition towards
+greater digitalisation, decentralisation and automation using AI. By enabling transparent and
+interoperable digital infrastructure, open-source approaches reduce vendor lock-in and
+allow system operators, regulators and market participants to retain strategic control over
+critical functions. This is particularly important in energy, where infrastructure lifetimes are
+long and switching costs can become prohibitive.
+
+Europeâs energy system is already highly digitalised by global standards, with widespread
+smart metering, liberalised markets, high renewable penetration and growing electrification
+of transport and heat. This creates a strong foundation for AI deployment. However, uptake
+of AI in energy remains limited, not because of a lack of use cases or technical capability,
+but because access to high-quality, usable data remains the primary bottleneck.
+
+Open-source tools and datasets also accelerate innovation by allowing a wider range of
+actors to participate in developing and validating solutions. In the context of AI for energy,
+access to data is the primary constraint on progress, including for developing a Foundation
+Model for energy. Energy consumption, network and market data are often sensitive,
+personal or commercially confidential, limiting their use in research and innovation.
+Privacy-preserving approaches such as synthetic data, developed and shared through open
+ecosystems, enable realistic testing and model development without exposing underlying
+data. In this context, the Data Union Strategyâs support for synthetic data represents a
+strategically important intervention.
+
+3. Actions to support the development and growth of the EU open-source sector
+
+At EU level, the most impactful actions would address the specific structural barriers facing
+open-source energy solutions. First, there is a clear need for dedicated, multi-year funding
+mechanisms that support the maintenance and security of critical open-source components
+used in energy systems, essential for operational deployment but poorly supported by
+existing funding mechanisms.
+
+Public procurement and funding for energy digitalisation should more explicitly require open
+standards, interoperable architectures and open-source implementations. Procurement
+frameworks should enable system operators and public bodies to contract for long-term
+support and maintenance of open solutions.
+
+The EU should support the development of trust and assurance frameworks tailored to
+energy applications. Work is already underway to develop evaluation frameworks for
+open-source AI-generated and AI-ready grid data in the energy sector through OpenSynth,
+our open collaborative initiative with the Linux Foundation Energy. This, and initiatives like
+these, provide not only technical assets, but also practical experience in aligning on
+interoperability, data quality and model evaluation â insights that can directly inform
+EU-level standards, certification schemes and guidance.
+
+                                                                                                 3
+The EU should recognise privacy-preserving data infrastructure as a core enabler of open
+energy innovation. The Data Union Strategy and emerging work on synthetic data and
+data-sharing frameworks is particularly welcome. Recent Commission announcements
+represent a significant shift in emphasis: away from building more data infrastructure, and
+towards improving data accessibility, quality and usability. Rather than creating new
+structures for the proposed synthetic data factories announced in the Data Union Strategy,
+the EU should explicitly build on existing open initiatives. Supporting and scaling open
+ecosystems would allow Europe to move faster than closed or bespoke consortia, developed
+primarily for the purpose of satisfying funding calls, while retaining strategic control.
+
+Finally, open-source and synthetic data approaches should be recognised as mutually
+reinforcing. Open digital ecosystems enable rapid iteration, peer review and reuse, while
+synthetic data expands the pool of actors who can participate safely and legally. Together,
+they offer a pathway for Europe to develop and deploy high-quality, domain-specific AI for
+energy at scale â turning data from a constraint into a strategic asset, and strengthening
+both competitiveness and cyber resilience.
+
+4. Priority technology areas
+
+Energy systems are a priority sector where increased use of open source can deliver
+substantial gains in competitiveness, resilience and affordability. The energy transition
+depends on coordination across millions of devices, actors and data sources, which cannot
+be efficiently delivered through closed, siloed digital systems. Open-source approaches
+support interoperability across the Single Market, enable innovation by a broad ecosystem
+of suppliers, and reduce strategic dependency on a small number of proprietary platforms.
+
+Within energy, priority should be given to open-source technologies that underpin
+system-wide coordination and trust. These include interoperability standards; data exchange
+across networks, markets and devices; and privacy-preserving data infrastructure that
+enables AI development without compromising data protection.
+
+Open evaluation and benchmarking frameworks for AI and synthetic data are also a priority,
+as they provide the transparency and comparability needed for regulatory confidence and
+operational uptake. Finally, open tools supporting distributed and edge computing are
+increasingly important as intelligence moves closer to assets such as homes, vehicles and
+substations.
+
+5. Open source for increased competitiveness and cyber resilience
+
+In the energy sector, open source is a strategic enabler of both competitiveness and cyber
+resilience. As energy systems become more digital and AI-driven, the underlying software,
+data models and interfaces increasingly shape market structure, innovation and security
+outcomes.
+
+Open-source approaches lower barriers to entry by providing shared, interoperable digital
+foundations. This reduces vendor lock-in, enables a wider range of suppliers to compete,
+
+                                                                                              4
+and supports faster diffusion of innovation across the Single Market â all of which are
+critical for a system that relies on coordination across networks, markets and devices.
+
+Open source also strengthens Europeâs position in developing domain-specific AI for energy.
+It enables broad participation in model development and validation while reducing reliance
+on a small number of global vendors. The case for open-source AI for energy is made
+clearly in the Linux Foundation Energyâs policy paper from January 2025.
+
+From a cyber resilience perspective, open source improves transparency, auditability and
+shared vulnerability management in critical infrastructure. When supported by appropriate
+governance and maintenance, open digital ecosystems align innovation, security and system
+resilience, delivering a clear strategic advantage for Europeâs energy transition.
+
+Conclusion
+
+Centre for Net Zero strongly supports the Commissionâs ambition to develop European Open
+Digital Ecosystems. For energy, openness is not a secondary design choice but a
+prerequisite for deploying AI and digital technologies safely, competitively and at scale.
+
+Europe already possesses many of the necessary foundations: a highly digitalised energy
+system, strong open research communities, emerging trust and assurance frameworks, and
+a growing policy focus on data accessibility through initiatives such as the Data Union
+Strategy. The priority now is to move decisively from strategy to implementation.
+
+By investing in the sustainability of open-source ecosystems, embedding openness in
+procurement and funding, scaling privacy-preserving data approaches, and building on
+existing open initiatives, the EU can turn data from a constraint into a strategic asset. In
+doing so, Europe can strengthen competitiveness, enhance cyber resilience and accelerate
+the delivery of an affordable, secure, decarbonised and digital energy system.
+
+                                                                                               5

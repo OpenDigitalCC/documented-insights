@@ -1,0 +1,237 @@
+Ref. Ares(2026)139127 - 07/01/2026
+
+Feedback to EC on OSS
+Written by Zenna Elfen.
+
+First off, thank you for opening up the conversation on this challenging topic, for it is a
+collective learning process Europen societies and open-source communities are facing, and
+dialogue is essential.
+
+This paper is organized in two parts. The first part is the macro perspective, touching on the
+larger strategic implications for EU in times of change, it also touches on open-source and it's
+relation to digital sovereignty in Europe and the unique qualities the European flavor of digital
+sovereignty enables, rooted in autonomy and collaboration. The second part consists of a
+Micro perspective with concrete suggestions, recommendations and concerns.
+
+Macro Perspective
+
+Times of transitions
+The world is facing times of change and, if navigated well, transitions. After a few centuries of
+extractive systems in human society, we are now facing the consequences. Through tense
+political climates (backlash from our history of colonialism, degradation of soil and resource
+extraction) and an increasingly volatile ecological climate(1), the world is approaching chaotic
+times. The silver lining can be found in the potential of chaos to bring about change and new
+systems of organizing.
+
+As complexity theorists, such as Brussel based Heylighten, have highlighted, a self-organizing
+system (such as social movements (2), the internet (3) or market economies (4)) often find it
+very difficult to break out of established orders of organizing, yet there is a catalyzing factor of
+chance: chaos.
+
+Navigating chaos is no easy task, and for monolithic and centralized systems, it is often the
+definition of their end. Europe, with it's many diverse cultures, languages and nation-states,
+carries potent potential: plurality.
+
+Plurality of Approaches
+In times of pressure and concern of dependency on US and Chinese tech giants, the EU has
+taken a stance for digital sovereignty (which was far from a given in the past (5)) and is now
+spearheading this societal transformation through terms such as resilience, interoperability,
+digital commons and open-source. The approaches as to how this transformation towards
+digital sovereignty should occur and what it means are diverse.
+
+Factions are forming around the next steps for EUs stance on open-source, such as EuroStack
+who are emphasizing change through mobilizing industry to build a European Tech Stack
+(developed by creators of the report "the European Way" (6)) or the Open Internet Stack
+which centers open-source while supported by the Next Generation Internet in their final
+statement with backing from APELL. Another initiative, Gaia-X, a joint effort by Germany and
+France, take matters in their own hands by building a tech-stack for digital sovereignty
+through federation, interoperability and open-source.
+
+Denmark, who currently hold the presidency of the EU, have been equally (if not more)
+conflicting in their approach. While on one hand promoting Digital Sovereignty and Security in
+their official statement to danish citizens (7) one of the main goals have been to push through
+legislationâunofficially known as ChatControlâresulting in uproar from open-source
+enthusiasts and danish citizens with nearly 60,000 signatures against the proposal in denmark
+with equivalent critique all across Europe.
+
+This plurality of approaches is precisely why the European stance on digital sovereignty
+stands out on the global stage. Compared to the Chinese or Russian approaches, European
+digital sovereignty leans on the interoperability of a multitude of sovereign digital
+infrastructures, enabled by open-source licenses.
+
+The paradox of digital sovereignty in juxtaposition with open-cooperation is itself an
+embodiment of European values of respecting multiplicity, yet the the social dilemma of how
+to accommodate co-existing sovereignties still persists (5).
+
+Multiplicity as strategy
+From an organizational perspective, a plurality of approaches, while in dialogue across the
+network, is known as Antifragility (8). Not only is it one of the most resilient forms of
+organizing, but even better, it's an adaptive form of organizing, meaning that a network which
+has many different actors can learn from the failures and successes of one another, as long as
+there is also active communication and dialogue.
+
+The challenge of moving away from Big Tech developed by China or the US is that we are
+accustomed to their one-stop-shop solutions where everything is in one neatly packed
+package and we must buy it all in one go for it to work properly, locked-in, as well provided for
+consumers.
+
+To adopt multiplicity as a strategy we actively choose to tear down the walls of technical lock-
+in and instead enable interoperability. The challenge here is not technical, it is cultural. We are
+used to having a single package to open for a whole suite of products. The interoperable way
+means that we have options and a multitude of smaller providers.
+
+The most difficult aspect of organizing a system with many smaller autonomous actors, such
+open-source ecosystems, is that there is no absolute central control. Instead, the system self-
+manages through local actions which ripple into global system-wide impacts. Arguably, the
+question the EC now sits with is: How do we enable the local actors to move in an open-
+source direction? The answer is much like a riddle, one enables the local-actors related to
+open-source to self-organize, more.
+
+Micro Perspective
+The following is a focused list of concrete suggestions for the EC and the EU, while also
+relevant for any nations or municipalities. The list covers a large variety of topics related to
+open-source and is in no particular order.
+
+Recommendations
+ 1. Strengthen the open-source technology stack that already exists, thanks to the NGI
+    initiative.
+    There are 1500 projects sponsored by NGI so far, many of them are existing modules in
+    open-source ecosystems. The networks are already there, and started thriving.
+
+ 2. Legal entity legislation for open-source
+    Legislate the ability to establish legal entities which match the long-term safeguarding
+    needs of open-source licenses. Examples are Post Growth Entrepreneurship and strict
+    Stewardship models, see work by Dr. Melanie Rieback.
+
+ 3. Lead by example. Be the change.
+    By adopting open-source infrastructures within the EU, nations and municipalities see
+    what is possible. Self-host or hire self-hosting organizations. Replace Big Tech solutions
+    with open-source solutions: video-calls, knowledge bases, communication channels and
+    more.
+
+ 4. Support local connections & physical spaces
+    Local communication happens in physical spaces. Local problems require local solutions.
+    Real collaboration and weaving of networks occurs in person: in libraries, hackerspaces,
+    conferences, makerspaces & communal centers.
+
+ 5. Distinctions of Licenses copyleft vs BSD-licenses
+    There are two main types of open-source licenses, BSD-licenses and copyleft (9). Each
+    type serves its purposes, copyleft licensing (such as AGPL) is ideal for the purpose of
+    safeguarding core infrastructure from becoming co-opted by proprietary incentives.
+    Copyleft licenses are ideal for infrastructure developed by public funding or for the digital
+    commons. BSD-licensing (such as MIT) is suitable when the developing source want to be
+    able to build a proprietary company on top of the code, usually at a later point, and to put
+    it bluntly, quite awful for public infrastructure.
+
+ 6. Enable the Many and Small
+    A common issue in the IT space of Europe is that once a project becomes big and
+    successful enough, it gets bought up by Big Tech. The european strategy for IT is through
+    open-source which enables many small initiatives collaborating rather than having to grow
+    into large companies. Supporting the many and small leads to thriving ecosystems of
+    interoperability.
+    This also applies for technical solutions. Modularity and compostability of software
+    enables ecosystems to thrive, with low entrance cost and low-maintenance cost for
+    developers.
+
+ 7. Communication Structures
+    The communication infrastructure permeates all of society and all sectors. Emphasizing a
+    shift towards federated, interoperable P4P communication infrastructures(10) enable
+    technical communication ecosystems which are robust, adaptable and resilient.
+
+ 8. Document, documen, document
+    The Digital Commons European Digital Infrastructure Consortium (DC-EDIC) is a great
+    potential for this. All digital public infrastructure should be well documented and
+    information about it should be accessible. Interoperability is a social issue as well as
+    technical and knowledge exchange is imperative. I learnt this from a professor at MIT, Niel
+    Gershenfeld, as it is essential for open-source in general.
+
+Cautions
+Open-source development by proprietary companies.
+
+    Handing over large funds to companies to build open-source when they themselves aren't
+    open-source is a tragedy. It leads to diluted values and poor-results, commonly through
+    license changes which impact entire open-source ecosystems. An industry led path of
+    open-source is one of more of the same, yet we need change.
+
+Risk of top-down approach
+
+    Applying a top-down approach of frameworks to "professionalize" or apply a pre-
+    constructed idea of how open-source projects should organize or present leads not only
+      to a loss of legitimacy in open-source contexts but also lacking engagement from open
+      source communities.
+
+About this paper
+This perspective on Open-Source in the EU comes from my own involvement in Open-Source
+for the past 15 years, as well as in NGI over the past 6 years; first as a beneficiary via NGI
+Pointer and later working with NGI Search and the wider NGI community in collaboration with
+NLnet. I have personally hosted around 12 community workshops for the NGI community, been
+part of many discussions and taken in perspectives from a large variety of voices. Additionally,
+as a researcher at Aarhus University in Denmark, my work has focused on open-source and
+organizing, leading to insights in the differing approaches and societal implications of both
+open-source and organizing.
+
+Author: Zenna Elfen
+
+Email: the.zelf@pm.me
+
+Date: 07/01 - 2026
+
+References
+ 1.
+
+Calvin K, Dasgupta D, Krinner G, Mukherji A, Thorne PW, Trisos C, et al. IPCC, 2023: Climate
+Change 2023: Synthesis Report. Contribution of Working Groups I, II and III to the Sixth
+Assessment Report of the Intergovernmental Panel on Climate Change [Core Writing Team, H.
+Lee and J. Romero (eds.)]. IPCC, Geneva, Switzerland. [Internet]. First. Intergovernmental
+Panel on Climate Change (IPCC); 2023 Jul [cited 2024 Feb 29]. Available from: https://
+www.ipcc.ch/report/ar6/syr/
+
+ 2.
+
+Fuchs C. The Self-Organization of Social Movements. Systemic Practice and Action Research.
+2006 May 11;19(1):101â37.
+
+ 3.
+
+Fuchs C. The Internet as a Self-Organizing Socio-Technological System. SSRN Journal
+[Internet]. 2003 [cited 2024 Apr 26]; Available from: http://www.ssrn.com/abstract=458680
+     4.
+
+Ashraf Q, Gershman B, Howitt P. Macroeconomics in a Self-Organizing Economy: Revue de
+lâOFCE [Internet]. 2012 Nov 2 [cited 2026 Jan 7];NÂ° 124(5):43â65. Available from: https://
+www.cairn.info/revue-de-l-ofce-2012-5-page-43.htm?ref=doi
+
+     5.
+
+Celeste E, Fabbrini F, Quinn J. Data Protection Beyond Borders: Transatlantic Perspectives on
+Extraterritoriality and Sovereignty [Internet]. Hart Publishing; 2020 [cited 2026 Jan 6].
+Available from: http://www.bloomsburycollections.com/book/data-protection-beyond-borders-
+transatlantic-perspectives-on-extraterritoriality-and-sovereignty
+
+     6.
+
+Zenner K, Berjon R, Caffarra C, Bonfiglio F, Toffaletti S, Chivot E, et al. The European Way. A
+Blueprint for Reclaiming Our Digital Future [Internet]. SSRN; 2025 [cited 2026 Jan 6].
+Available from: https://www.ssrn.com/abstract=5251254
+
+7.
+
+Denmarks 2026â2029 national digitalisation strategy. Available from: https://www.digmin.dk/
+Media/638852231268539953/Digitaliseringsstrategi%202026-2029.pdf
+Developed by: digmin.dk, kl.dk, regioner.dk. Sammen griber vi de digitale muligheder.
+Taskforce for Kunstig Intelligens; 2025.
+
+     8.
+
+Taleb NN. Antifragile: things that gain from disorder. Random House trade paperback edition.
+New York: Random House; 2016. 519 p. (Incerto / Nassim Nicholas Taleb).
+
+     9.
+
+Lin YH, Ko TM, Chuang TR, Lin KJ. Open Source Licenses and the Creative Commons
+Framework: License Selection and Comparison. 2006.
+
+10.
+
+Elfen Z. P4P: Steps Toward more Adaptive Internets: charting Open-Source, P2P and Local-
+First Networks. 2024; Available from: https://works.hcommons.org/doi/10.17613/naj7d-6g984

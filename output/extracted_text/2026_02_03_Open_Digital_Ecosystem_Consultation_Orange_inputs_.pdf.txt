@@ -1,0 +1,355 @@
+Ref. Ares(2026)1212283 - 03/02/2026
+
+Committed to Europe
+Orangeâs contribution to the European Commissionâs Call for Evidence on
+the Open Digital Ecosystem
+
+Orange welcomes the opportunity to contribute to the European Commission forthcoming Strategy
+on Open Digital Ecosystem.
+
+Orange is heavily relying on open source to operate its telecommunication services, such as telco
+cloud infrastructure (Sylva, in the Linux Foundation Europe), customer equipment operating system
+(PRPL Foundation), or telecom routing equipment software (SONiC, Linux Foundation). It also uses
+horizontal IT open-source solutions.
+
+We share below some inputs to the questions of the EC Call for evidence.
+
+The software sector within the European Union exhibits significant strengths, notably a growing
+community of developers (users or contributors to open-source) and a rich ecosystem of public,
+academic, and industrial actors. Moreover 42% of EU organizations now contribute directly to the
+open-source projects on which they have dependencies. This is overall a trend that we observe and
+share within the Linux Foundation Research report 1on the state of Open source in Europe for the
+last 5 year.
+
+In addition, Open source shows a natural alignment with the EU's strategic values such as
+transparency, openness, interoperability, security, and the protection of fundamental rights. Open
+source is also a strategic lever for digital sovereignty: it promotes technological autonomy, reduces
+dependency on non-European actors, and facilitates the auditability of code, which is a key element
+for trust and security. Notably, recent research from Canonical2 highlighted that for 89% of
+European companies included in their panel, open-source is the most important approach for
+trusted and sovereign AI.
+
+The open-source ecosystem is structured around 3 major global foundations (Linux foundation,
+Eclipse foundation and Apache software foundation) with worldwide projects. Beside these major
+foundations we see smaller and more dedicated ones addressing specific technological or business
+purposes. For instance, in Europe: OW2 (Paris), The Document Foundation (Germany), the NLNET
+Foundation (The Netherlands), and VideoLAN (France). In addition, institutional projects such as
+DIGITAL Commons EDIC designed to provide long term stability and coordination among EU
+member states, the Sovereign Tech Agency in Germany, the European Open Source Academy
+(EOSA), and the European Commissionâs OSOR (Open Source Observatory) platform demonstrate
+increasing support.
+
+1
+    https://www.linuxfoundation.org/blog/the-state-of-open-source-in-europe-from-passion-to-prioritization
+2
+    https://canonical.com/blog/open-source-advantage-europe
+February 2026                                                                                                                   1
+I.       The added value of open-source
+
+     The added value of open-source is considerable, as it supports:
+
+     1. Strategic independence and sovereignty, it:
+     âª Enhances digital sovereignty and resilience by reducing dependency on non-EU technology
+        providers and enabling operations on European-controlled infrastructure with real architectural
+        and implementations optionality;
+     âª Promotes vendor independence, significantly reducing the risk of "lock-in" and ensuring long-
+        term control over technology choices;
+     âª Provides strategic flexibility to adapt technology stacks without being constrained by proprietary
+        roadmaps or close-source lifecycles.
+
+     2. Security, trust and transparency, it:
+     âª Improves security and transparency through code openness, allowing enhanced auditability,
+        facilitating the detection of vulnerabilities, and enabling verification of the absence of hidden
+        functionalities (backdoors, malware, or surveillance features);
+     âª Enables community-driven security improvements through peer review and collective scrutiny,
+        often resulting in faster vulnerability detection and patching.
+
+     3. Innovation and technical agility, open-source:
+     âª Accelerates innovation and time-to-market by providing access to pre-built components,
+        libraries, and frameworks, enabling rapid prototyping and iteration;
+     âª Fosters interoperability through open standards, enabling seamless integration with other tools
+        and platforms while supporting scalable, modular, and future-proof architectures;
+     âª Encourages experimentation and customization without permission barriers or additional
+        licensing costs;
+     âª Provides resilience, flexibility and competitiveness as provider swapping is easier, when
+        necessary;
+     âª Shared components often lower Total Cost of Ownership, accelerate time to market and is a
+        key lever to reduce carbon footprint and attain RSE objectives, in particular regarding hardware
+        lifespan.
+
+     4. Talent & organizational development, it:
+     âª Develops internal skills and expertise as teams gain deep understanding of the technology stack
+        through direct code access;
+     âª Attracts and retains top talent who value working with modern, transparent technologies and
+        contributing to broader ecosystems;
+     âª Builds institutional knowledge that remains within the organization rather than being locked in
+        vendor-specific expertise.
+
+     5. Compliance and governance, open-source:
+     âª Supports regulatory compliance by facilitating Software Bill of Materials (SBOM) generation,
+        supply chain transparency, and audit readiness aligned with requirements such as the Cyber
+        Resilience Act (CRA) and NIS2 Directive;
+     âª Enables organizations to demonstrate due diligence in software supply chain management and
+        meet emerging regulatory obligations around software transparency.
+
+     To be fully materialised, this open-source added value requires sustained investments/fundings in
+     skills, governance, and contributions to open-source communities, in order to ensure the quality,
+
+     February 2026                                                                                  2
+  security, and sustainability of European open-source solutions.
+
+  In the telecommunications sector, concrete examples of key network functions include:
+  âª VoIP;
+  âª Switching/routing (network operating system);
+  âª Security firewalls;
+  âª Network services lifecycle management, and
+  âª Telco cloud infrastructure (Sylva).
+
+  Telecom operators play a crucial role as integrators, adapting and contributing to these software
+  components to build reliable and high-performance/carrier-grade services.
+
+II.      Weaknesses and structural barriers
+
+  Despite its strategic potential for European competitiveness and digital sovereignty, the open-
+  source sector faces significant weaknesses and structural barriers that require urgent attention.
+  They are the following:
+
+  1. Strategic maturity gap
+  âª Key impact: Low level of commitment on open source leading to economic value captured
+      abroad.
+  âª Key points to consider:
+      o Low organizational adoption and governance: According to Linux Foundation Europe3, only
+          34% of European organizations maintain a formal open-source strategy, and just 22% have
+          established an Open Source Program Office (OSPO). This governance gap limits
+          organizations' ability to capture the full strategic value of open source, failing to address the
+          critical need for long-term maintenance.
+      o Insufficient contribution culture: While progress has been made (42% of organizations now
+          actively contribute to projects they depend on), 30% still consume without contributing
+          back, undermining long-term ecosystem sustainability.
+      o Value captured outside of Europe: Although the EU hosts one of the world's largest open-
+          source developer communities, much of the economic value generated flows abroad. 65%
+          of VC-backed investment in open-source-based companies occurs in the US, where the
+          commercial open-source model is better understood and yields superior exit valuations
+          (approximately 7x at IPO, 14x in M&A).
+
+  2. Ecosystem fragmentation and scale
+  âª Key impact: An insufficiently developed ecosystem in the EU unable to compete with Global
+      digital players, where strategic decisions are potentially not aligned with EU interests.
+  âª Key points to consider:
+      o Lack of European scale: The European open-source ecosystem relies heavily on smaller
+          entities that struggle to scale up, limiting their capacity to deliver enterprise-grade support
+          and services. This creates perception issues around robustness and maturity compared to
+          offerings from large non-EU players;
+      o Lack of presence of European players on global foundations and communitiesâ governance:
+          Many critical open-source projects, even those with significant European contributions, are
+          governed by foundations or communities where European players are not enough acting
+          and governing, leading to potential non-alignment in terms of strategic decisions with
+          European interests;
+
+  3
+      See here
+  February 2026                                                                                       3
+    o    Dependency on critical non-EU infrastructure: Critical tooling (GitHub, NPM (Node Packet
+         Manager), cloud platforms) is predominantly US-based, raising digital sovereignty and
+         supply chain concerns;
+    o    Absence of unified coordination: Europe lacks a unified mechanism to fund, coordinate, and
+         sustain critical open-source infrastructure at continental scale, including VC landscape to
+         enable the proper bootstrap of companies setting open source at the core of their strategies
+         from seed to round A (Example: Commit from Red River West);
+    o    Lack of catalogue and visibility for open-source components/open-source publishers.
+
+3. Funding and sustainability challenges
+âª Key impact: Critical projects risk being unsustainable, and promising solutions fail to reach
+    market.
+âª Key points to consider:
+    o Fragmented and short-term funding: Current EU funding models typically support projects
+       for limited periods before discontinuing support â failing to address the critical need for
+       long-term evolution including development, maintenance. testing, certification, operational
+       support, and corrective/evolutive maintenance. This gap prevents promising projects from
+       reaching production readiness.
+
+4. Open-source skills and talent shortage
+âª Key impact: Increased dependency on non-EU expertise and delayed digital transformation.
+âª Key points to consider:
+    o Critical skills gap: Europe faces a shortage of qualified professionals in key areas: open-
+      source security, long-term maintenance, project governance, and Open-source Project
+      Office (OSPO) management;
+    o Maintainers not recognized as critical infrastructure: Despite open-source components
+      representing 70-90% of modern software systems, maintainers of foundational projects lack
+      formal recognition, institutional support, and sustainable income. Europe has not yet treated
+      maintainers as essential personnel for critical digital infrastructure;
+    o Cultural resistance to openness: Many organizations struggle with the cultural shift toward
+      transparency, collaboration, and community engagement that open source requires.
+      Moreover, software is often not viewed as a core competency, leading to underinvestment
+      in open-source tools and talent.
+
+5. Perception, awareness, and risk barriers
+âª Key impact: Compliance risk, slower adoption in mission-critical environments.
+âª Key points to consider:
+    o Persistent negative risk perceptions: Open source continues to be associated with concerns
+       around maintenance burden, security risks, and supply chain vulnerabilities, despite growing
+       evidence that code transparency and community scrutiny often improve security outcomes;
+    o Low regulatory awareness: for instance, 62% of organizations globally report low familiarity
+       with the Cyber Resilience Act (CRA); among those unfamiliar, nearly one-third are based in
+       Europe. This awareness gap threatens compliance readiness and misses the opportunity to
+       leverage CRA as a catalyst for open source;
+    o Robustness and maturity concerns: Perceptions persist that open-source solutions lack the
+       enterprise-grade reliability and support of proprietary alternatives, creating hesitation for
+       deployment in mission-critical environments, even when evidence suggests otherwise;
+    o Lack of awareness of legal implications of open-source licences;
+    o Lack of awareness of the existing European open-source industrial ecosystem.
+
+February 2026                                                                                   4
+       6. Structural and institutional gaps
+       âª Key impact: reduced trust, slower market adoption, barriers to contribution.
+       âª Key points to consider:
+           o No independent European certification framework: Europe lacks a recognized, independent
+               structure for cybersecurity and compliance certification of open-source solutions, creating
+               uncertainty for public and private adopters;
+           o No production validation infrastructure: Absence of independent facilities for MVP testing,
+               field trials, and productization support to help open-source solutions demonstrate readiness
+               for operational deployment;
+           o Legal complexity: Navigating open-source licenses remains challenging for organizations,
+               particularly regarding license compatibility, potential "contamination" of proprietary code,
+               and intellectual property protection. This complexity creates barriers to both adoption and
+               contribution;
+           o TCO (Total Cost of Ownership) misconceptions: While open source can reduce total cost of
+               ownership in many cases, this is not systematic. Complex projects requiring significant
+               support and maintenance may not deliver expected cost savings â which should be better
+               acknowledged by decision-makers.
+
+III.           EU initiatives to support open-source
+
+       To overcome these barriers, several initiatives at the EU level could be foreseen:
+
+       1. Policy & regulatory framework
+       âª Clarify roles and responsibilities between developers, publishers and distributors of solutions
+          including open-source to remain compliant with CRA and NIS2 without impacting the
+          development of the European open-source ecosystem;
+       âª Encourage open-source interoperability and open standards mandates by requiring open
+          formats and APIs in public procurement to create a more level playing field for open-source
+          solutions;
+       âª Develop harmonized policies across member states to ensure consistent treatment of open
+          source in public sector digital transformation. For instance, install processes where public
+          sectors RFP should consider open-source based solutions;
+       âª Create legal frameworks that recognize open-source contributions as valid proof of innovation
+          for R&D tax incentives and public funding eligibility.
+
+       2. Financial support
+       âª Establish long-term, predictable EU funding mechanisms rather than project-based grants to
+          ensure sustainability (projects development, integration, maintenance, evolution);
+       âª Support the creation or enhancement of existing independent European structures for testing
+          and certification;
+       âª Improve the distribution and awareness of open-source available solutions at EU level; the work
+          done for example with the Next Generation Internet Initiative should be continued and further
+          developed;
+       âª Create co-funding schemes that enable member states and EC to jointly invest in shared open-
+          source infrastructure;
+       âª Ease and financially support / cofinance development of open-source software through
+          associations like TOSIT4 in France;
+       âª Establish funding mechanism to develop end-to-end security plan of critical open-source
+          development (e.g. Security Project for QGIS â Oslandia).
+
+       4
+           https://tosit.fr/
+
+       February 2026                                                                                  5
+3. Ecosystem development
+âª Publish a reference open-source manifesto to promote open-source mindset, including a
+   sovereignty aspect that can serve as a relevant model, and establish a European website where
+   organisation can declare their own manifesto;
+âª Structure a European open-source industrial ecosystem: the EU must promote the emergence
+   of a genuine industrial ecosystem around open source, for instance act to reinforce open-source
+   VC within Europe;
+âª Establish a specific status/label for SMEs specializing in open source to foster their
+   development (e.g.: permanent start up status, tax-exempt contribution times to open source,
+   simplification of the certification process to become an organization authorized to provide
+   training for open source);
+âª Set up a catalogue of Open Source Solutions (OSS) including the name of the organisations
+   that are expert on these OSS;
+âª Recognize and encourage âlarge software users associationsâ like TOSIT in France, the creation
+   of a federation at European level (like CNLL5 and APELL6 for makers of open source) and
+   foundations (OW2, Software Heritage, Linux Foundation Europe, Eclipse, Apache, etcâ¦);
+âª Clarify and explain the open-source licensing system (e.g., copyleft) to reduce adoption
+   barriers and provide legal certainty for organizations;
+âª Actively support European representation and governance participation in global open-source
+   foundations and communities to ensure strategic decisions align with EU interests;
+âª Create pathways to help European open-source entities scale up to deliver enterprise-grade
+   support and services that can compete with non-EU players;
+âª Recognize maintainers as critical resources and establish support mechanisms and sustainable
+   income pathways for maintainers of foundational open-source projects;
+âª Reduce dependency on critical non-EU infrastructure by investing in European alternatives and
+   mirror/redundancy capabilities to strengthen digital sovereignty. In particular, invest in public
+   shared secured repositories for binary artefacts (Docker images, Java, Node, Python, etc.);
+âª Establish programs to support OSPO (Open Source Program Office) adoption within EU
+   enterprises;
+âª Foster collaboration between public institutions, private companies, research organizations,
+   and open-source communities;
+âª Facilitate the organization of MVP/Field trials to accelerate development maturity and develop
+   trust.
+
+4. Procurement
+âª Explore open-source as a first option in the public sector at all levels (from local authorities to
+   EU) leveraging standardized procurement frameworks and evaluation criteria specifically
+   adapted to open-source-based and sovereign solutions;
+âª Develop standardized procurement frameworks and evaluation criteria specifically adapted to
+   open-source-based solutions;
+âª Simplify procurement (e.g. central procurement vehicles) for commonly used open-source
+   solutions across member states;
+âª Provide guidance on how to procure open-source services (support, customization, integration)
+   rather than just licenses;
+âª Encourage initiatives such as âFrance NumÃ©rique Libreâ in France.
+
+5. Skills and Training
+âª Launch large-scale training programs to develop expertise and best practices across Europe;
+
+5
+    https://cnll.fr/
+6
+    https://apell.info/
+February 2026                                                                                   6
+  âª      Support change management and cultural transformation programs to help organizations shift
+         toward transparency, collaboration, and community engagement;
+  âª      Encourage recognition of software development as a core organizational competency, not just
+         an IT function, to drive proper investment in open-source talent and tools.
+
+  6. Security and trust
+  âª Strengthen cybersecurity and trust in open-source solutions through the development of
+     European security frameworks for open-source software, including audits (like the EU FOSSA
+     initiative), best practices for secure development, vulnerability management, and the promotion
+     of common standards (e.g., SBOM, dependency traceability) aligned with European
+     cybersecurity policies;
+  âª Establish bug bounty programs and coordinated vulnerability disclosure processes for critical
+     European open-source projects;
+  âª Create trusted repositories and distribution channels with verified provenance and integrity
+     checks;
+  âª Develop guidelines for security assessment of open-source dependencies in line with CRA and
+     NIS2 requirements;
+  âª Build European capacity for security auditing and penetration testing of open-source software
+     and vulnerability management (equivalent to MITRE7 in the USA).
+
+IV.      Areas to prioritize
+
+  The technological areas to prioritize are those underpinning critical telecom infrastructure and
+  strategic autonomy:
+  âª Cloud and edge infrastructure;
+  âª Operating systems, infrastructure virtualization;
+  âª 5G/6G and network function virtualization (including network operating systems like SONiC),
+  âª Databases and data management platforms;
+  âª AI ecosystem globally, including AI/ML frameworks and inferences;
+  âª Cybersecurity tooling;
+  âª Open hardware.
+
+  As a conclusion, the telecommunications sector, by nature, is where increased open-source usage
+  can generate significant gains in competitiveness and cyber resilience. Mastering these software
+  components presents a unique opportunity for Europe to ensure sovereign control over essential
+  infrastructures and IT vital to its economy and digital society.
+
+  At Orange we believe that the EU and Member States authorities should better acknowledge the
+  added value of open source: contribution to open-source communities must be recognized as a
+  strategic matter for security, resilience, and digital sovereignty for Europe.
+
+  7
+      https://www.cve.org/
+
+  February 2026                                                                                7

@@ -1,0 +1,502 @@
+Ref. Ares(2026)1120100 - 31/01/2026
+
+             POSITION PAPER
+
+  on the European Commission Initiative
+
+" European Open Digital Ecosystems"
+
+    Reference: Ares (2026) 476095 - 16/01/2026
+
+International Best Practices and Recommendations
+
+                     Submitted by:
+                  JÃ¼rgen Beckers
+          Rechtsanwalt (German Attorney)
+                  RechtsanwÃ¤lte BDH
+          Law Firm for Software and IT Law
+      Berliner Allee 65, 64295 Darmstadt, Germany
+                 Phone: +49 6151 870 57-0
+       Email: juergen.beckers@rechtsanwaelte-bdh.de
+
+                   January 31, 2026
+
+                      Page 1 of 11
+                                                                                                                             Position Paper - European Open Digital Ecosystems
+
+Table of Contents
+I. Introduction ..........................................................................................................................................................................................3
+II. Structural Challenges in Public Sector Open Source Projects ..............................................................................................................3
+    1. Vendor Discontinuity ......................................................................................................................................................................3
+    2. Cost Distribution and Economic Viability ........................................................................................................................................3
+    3. Innovation Dynamics ......................................................................................................................................................................4
+    4. Sustainability of Business Models ...................................................................................................................................................4
+    5. De Facto Lock-in and Personnel Challenges....................................................................................................................................4
+III. International Best Practices â Learning from Global Leaders .............................................................................................................4
+    1. Singapore: Singapore Government Tech Stack (SGTS)....................................................................................................................4
+    2. India: Digital Public Infrastructure and MOSIP ...............................................................................................................................5
+    3. USA: Federal Source Code Policy and 18F ......................................................................................................................................5
+    4. United Kingdom: Government Digital Service (GDS) ......................................................................................................................5
+    5. Australia: Digital Transformation Agency (DTA) .............................................................................................................................5
+    6. South Korea: NIPA and Open Up ....................................................................................................................................................6
+    7. Brazil: Portal do Software PÃºblico Brasileiro...................................................................................................................................6
+IV. European Models for Central Software Management .......................................................................................................................6
+    1. Estonia: X-Road and NIIS .................................................................................................................................................................6
+    2. Italy: Developers Italia ....................................................................................................................................................................6
+    3. France: code.gouv.fr and DINUM ...................................................................................................................................................7
+    4. GovStack Initiative ..........................................................................................................................................................................7
+V. Standardized Acceptance Procedures with Certified Auditors ............................................................................................................7
+    1. Tiered Review Categories by Criticality...........................................................................................................................................7
+    2. Certified Review Organizations .......................................................................................................................................................7
+    3. Review Catalog with Clear, Measurable Criteria.............................................................................................................................7
+    4. Transparent Certification Levels .....................................................................................................................................................8
+    5. Efficiency Principle: Automation and Standardization ....................................................................................................................8
+VI. IT Security and Software Supply Chain ...............................................................................................................................................8
+    1. Protection Against Malicious Code Contributions ..........................................................................................................................8
+    2. Software Bill of Materials (SBOM) ..................................................................................................................................................8
+    3. Responsibility for Security Updates ................................................................................................................................................8
+VII. Compliance, Liability, and Responsibilities ........................................................................................................................................9
+VIII. Open Source Program Offices (OSPOs) as Institutional Infrastructure.............................................................................................9
+IX. Economic Participation of Developing Companies .............................................................................................................................9
+X. Plea for a Technology-Neutral Sovereignty Strategy ...........................................................................................................................9
+XI. Summary of Recommendations .......................................................................................................................................................10
+XII. Conclusion .......................................................................................................................................................................................10
+
+                                                                                           Page 2 of 11
+                                                                     Position Paper - European Open Digital Ecosystems
+
+I. Introduction
+I am pleased to submit this position paper in response to the above-mentioned initiative. The following
+observations are based on more than three decades of legal practice in software and IT law, drawing on
+experience with software vendors, IT service providers, and public sector clients commissioning complex IT
+systems.
+
+The initiative rightly identifies the strategic potential of open source technologies for the EU's technological
+sovereignty. The following comments aim to highlight practical obstacles and propose concrete solutions
+based on international best practices. A guiding principle throughout is simplicity: rules must be clear,
+understandable, and efficient to be applied in practice.
+
+This position paper primarily addresses Questions 1, 2, and 3 of the consultation:
+
+    â¢   Question 1 (Strengths, weaknesses, and obstacles): Sections II and VâVII analyze structural
+        challenges inherent in public sector open source projects, including vendor discontinuity,
+        sustainability of business models, and the need for standardized acceptance procedures and
+        security frameworks.
+
+    â¢   Question 2 (Value of open source solutions with concrete examples): Sections III and IV present
+        detailed examples from seven countries (Singapore, India, USA, United Kingdom, Australia, South
+        Korea, Brazil) and four European models (Estonia, Italy, France, GovStack), highlighting success
+        factors and measurable outcomes.
+
+    â¢   Question 3 (Concrete measures at EU level): Sections VâXI propose specific actions, culminating in
+        13 recommendations covering portal infrastructure, acceptance procedures, security standards,
+        governance structures, and economic participation models.
+
+This paper focuses on governance, legal frameworks, and institutional infrastructure rather than priority
+technology areas (Question 4) or sector-specific applications (Question 5). In my experience, these
+structural and governance aspects are critical success factors that are frequently overlooked in discussions
+about open source adoption in the public sector.
+
+II. Structural Challenges in Public Sector Open Source Projects
+
+1. Vendor Discontinuity
+A central structural problem lies in the lifecycle of vendor engagement. After a system is implemented, the
+original developer's contractual obligation typically ends. There is no automatic obligation for further
+development. EU procurement rules exacerbate this problem: above certain thresholds, a new tender is
+mandatory, which frequently results in third-party vendors taking over maintenance. Even with good
+documentation, the maintenance and further development of complex systems by subsequent vendors
+who were not involved in the original development is difficult. This discontinuity endangers stability,
+development capability, and innovation.
+
+2. Cost Distribution and Economic Viability
+Contrary to a widespread assumption, open source solutions can be more expensive in total cost
+comparison when each client bears the full development cost. With proprietary standard software,
+development costs are distributed across a broad customer base. The problem is that public sector clients
+
+                                                  Page 3 of 11
+                                                                                 Position Paper - European Open Digital Ecosystems
+
+often commission individual solutions instead of using and further developing existing projects â the
+proverbial 'reinventing the wheel' with every project.
+
+3. Innovation Dynamics
+In public sector open source projects, every functional enhancement requires a separate contract. With
+proprietary standard software, vendors aggregate requirements from a broad customer base and
+continuously integrate improvements into new versions. Competitive pressure forces them to innovate. For
+specific administrative applications in the open source domain, comparable mechanisms are lacking.
+
+4. Sustainability of Business Models
+Open source providers typically operate exclusively on project-based revenue and must constantly manage
+resource utilization. The permanent replaceability by competitors means price becomes the decisive
+differentiator. In my observation, this makes open source providers more vulnerable to acquisitions or
+insolvencies. The result is consolidation processes that reduce the number of providers, ultimately leading
+to new dependencies.
+
+5. De Facto Lock-in and Personnel Challenges
+Lock-in effects also occur with open source software: instead of license dependency, there is dependency
+on specific know-how, extensive customization, and complex integration services. The theoretical
+advantage of portability â the source code is open after all â is considerably relativized in practice.
+
+An underestimated obstacle is also the personnel question. Open source competence requires different
+skills than managing proprietary systems. Public sector organizations have structural difficulties in
+attracting and retaining appropriately qualified personnel. Without accompanying competence-building
+measures, the initiative risks failing due to practical implementation hurdles.
+
+III. International Best Practices â Learning from Global Leaders
+A look beyond EU borders shows that several countries have developed successful models for managing
+open source software in the public sector. These experiences should inform the EU initiative:
+
+1. Singapore: Singapore Government Tech Stack (SGTS)
+Singapore's GovTech agency has created the Singapore Government Tech Stack, a platform providing
+standardized development tools and reusable components for the entire government. 1 The triad of
+'People, Platform, Practice' encompasses competence building, technical infrastructure, and binding
+guidelines. Over 40 agencies are already using SGTS with more than 200 cloud-based systems. The 'Digital
+Service Standard' 2 has been fully mandatory for all public digital services. Open Government Products
+
+1
+ GovTech Singapore, Singapore Government Tech Stack (SGTS), available at: https://www.tech.gov.sg/products-and-services/for-
+government-agencies/software-development/sg-tech-stack/ (last accessed 31 January 2026).
+2
+ GovTech Singapore, Digital Service Standards (DSS), available at: https://www.tech.gov.sg/products-and-services/for-government-
+agencies/digital-service-standards/ (last accessed 31 January 2026).
+
+                                                           Page 4 of 11
+                                                                                      Position Paper - European Open Digital Ecosystems
+
+publishes successful products like FormSG as open source 3 â these are already being adapted by Cambodia
+and Sri Lanka. 4
+
+2. India: Digital Public Infrastructure and MOSIP
+India has built three fundamental digital public infrastructures with Aadhaar, UPI, and DEPA, reaching
+99.9% of the adult population. From this experience emerged MOSIP (Modular Open Source Identity
+Platform) 5, a modular platform for national identity systems that has now been adopted by more than a
+dozen countries worldwide 6 â including the Philippines (71 million registered citizens), Morocco, Ethiopia,
+and Sri Lanka. MOSIP defines comprehensive compliance standards for hardware and software to ensure
+quality and interoperability. 7
+
+3. USA: Federal Source Code Policy and 18F
+The US Federal Source Code Policy (OMB M-16-21) 8 requires federal agencies to release at least 20% of
+their newly developed code as open source. The 18F unit within the General Services Administration set the
+standard with a 'Default to Open' policy. 9 Particularly relevant is the mandatory three-step analysis before
+any software procurement: (1) review of existing federal solutions, (2) review of commercial solutions, (3)
+only then new development. 10
+
+4. United Kingdom: Government Digital Service (GDS)
+The British Government Digital Service has created the 'Service Standard', a comprehensive quality
+framework defining 14 principles for developing digital services. 11 A core principle states: 'Make all new
+source code open and reusable, and publish it under appropriate licences.' The GDS approach is now being
+exported internationally â including to Cyprus. 12 Critical is the assurance system: digital projects must pass
+mandatory assessments at various phases (Discovery, Alpha, Beta, Live).
+
+5. Australia: Digital Transformation Agency (DTA)
+Since January 2025, Australia has introduced the Digital Experience Policy, a comprehensive framework
+comprising four standards: Digital Service Standard, Digital Inclusion Standard, Digital Access Standard, and
+Digital Performance Standard. 13 The Investment Oversight Framework (IOF) ensures all digital investments
+
+3
+ Open Government Products Singapore, Open Source Products, available at: https://www.open.gov.sg/ (last accessed 31 January
+2026).
+4
+ GovInsider, Open source key to exchanging best practices in digital government, available at: https://govinsider.asia/intl-
+en/article/open-source-key-to-exchanging-best-practices-in-digital-government (last accessed 31 January 2026).
+5
+ Gates Foundation, Digital IDs are an effective tool against poverty - MOSIP, August 2023, available at:
+https://www.gatesfoundation.org/ideas/articles/mosip-digital-id-systems (last accessed 31 January 2026).
+6
+ MOSIP Official Website, Country Partners, available at: https://www.mosip.io/country_partners (last accessed 31 January 2026).
+7
+ Observer Research Foundation, From the South, for the World: India's Digital Public Infrastructure, April 2024, available at:
+https://www.orfonline.org/expert-speak/from-the-south-for-the-world-india-s-digital-public-infrastructure (last accessed 31 January 2026).
+8
+ Office of Management and Budget, M-16-21 Federal Source Code Policy, August 2016, available at:
+https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2016/m_16_21.pdf (last accessed 31 January 2026).
+9
+ Digital.gov, Federal Source Code Policy, available at: https://digital.gov/resources/requirements-for-achieving-efficiency-transparency-
+and-innovation-through-reusable-and-open-source-software (last accessed 31 January 2026).
+10
+  GSA Open Technology, Open Source Software (OSS) Policy, available at: https://open.gsa.gov/oss-policy/ (last accessed 31 January
+2026).
+11
+    GOV.UK, Service Standard, available at: https://www.gov.uk/service-manual/service-standard (last accessed 31 January 2026).
+12
+  Government Digital Service Blog, Building digital foundations globally with service standards, June 2022, available at:
+https://gds.blog.gov.uk/2022/06/21/building-digital-foundations-globally-with-service-standards/ (last accessed 31 January 2026).
+13
+   Digital Transformation Agency Australia, Digital Experience Policy, available at: https://www.digital.gov.au/policy/digital-experience
+(last accessed 31 January 2026).
+
+                                                               Page 5 of 11
+                                                                                       Position Paper - European Open Digital Ecosystems
+
+are monitored throughout their lifecycle. Notable is the Assurance Framework, which prescribes 'fit-for-
+purpose' reviews. 14
+
+6. South Korea: NIPA and Open Up
+South Korea promotes open source through the National IT Industry Promotion Agency (NIPA) and its
+'Open Up' center. 15 The Software Promotion Act of 2020 and the OSS Activation Policy of 2014 form the
+legal framework. South Korea's 'Digital Platform Government' initiative opens APIs of public services to
+private providers, creating public-private synergy. 16
+
+7. Brazil: Portal do Software PÃºblico Brasileiro
+Since 2007, Brazil has operated the Portal do Software PÃºblico Brasileiro, through which agencies can share
+and jointly develop open source software. 17 Normative Instruction N.1 requires procurement officers to
+primarily consider available open source solutions in feasibility analyses and to justify the use of proprietary
+software. 18
+
+IV. European Models for Central Software Management
+
+1. Estonia: X-Road and NIIS
+Estonia has developed X-Road, an open source infrastructure for secure data exchange that has now been
+adapted by over 20 countries. 19 Since 2021, the public release of state-commissioned software has been
+legally required. The Nordic Institute for Interoperability Solutions (NIIS) enables joint development by
+Estonia, Finland, and Iceland. 20 Estonia saves over 1,345 working years annually through X-Road.
+
+2. Italy: Developers Italia
+Italy has created a binding framework with Developers Italia: every software developed by public
+administration must be published in a public repository under an open source license. 21 The standardized
+metadata descriptor publiccode.yml enables automatic cataloguing. Before procuring new software,
+agencies must conduct a comparative assessment that favors open source solutions and reuse.
+
+14
+   DTA Australia, Assurance Framework, available at: https://www.dta.gov.au/help-and-advice/digital-and-ict-investments/assurance
+(last accessed 31 January 2026).
+15
+  European Commission, Open Source Software Country Intelligence Report - South Korea, available at: https://interoperable-
+europe.ec.europa.eu/collection/open-source-observatory-osor (last accessed 31 January 2026).
+16
+  World Economic Forum, How Korea is working to build a single digital platform government, January 2023, available at:
+https://www.weforum.org/stories/2023/01/davos23-korea-digital-platform-government/ (last accessed 31 January 2026).
+17
+  Opensource.com, Brazil at forefront of open source initiatives, 2012, available at: https://opensource.com/government/12/8/brazil-
+forefront-open-source-initiatives (last accessed 31 January 2026).
+18
+  Technology Innovation Management Review, Use of Open Source Software by the Brazilian Government, available at:
+https://timreview.ca/article/250 (last accessed 31 January 2026).
+19
+  e-Estonia, X-Road - Data Exchange Layer, available at: https://e-estonia.com/solutions/interoperability-services/x-road/ (last accessed
+31 January 2026).
+20
+  X-Road Global, X-Road History, available at: https://x-road.global/xroad-history (last accessed 31 January 2026).
+21
+  Developers Italia, Guidelines on the acquisition and reuse of software for public administrations, available at:
+https://docs.italia.it/italia/developers-italia/gl-acquisition-and-reuse-software-for-pa-docs/en/stabile/index.html (last accessed 31 January
+2026).
+
+                                                               Page 6 of 11
+                                                                                    Position Paper - European Open Digital Ecosystems
+
+3. France: code.gouv.fr and DINUM
+France operates code.gouv.fr, a platform that inventories all source code repositories of public
+organizations. 22 The 'Socle InterministÃ©riel de Logiciels Libres' (SILL) is a curated list of recommended open
+source software. The BlueHats community connects developers and public servants. In 2024, France
+became the first country to officially endorse the UN Open Source Principles. 23
+
+4. GovStack Initiative
+The GovStack Initiative, supported by GIZ (German Agency for International Cooperation), ITU
+(International Telecommunication Union), and Estonia among others, develops reusable 'Building Blocks' â
+standardized software components for typical administrative tasks such as identity management, payment
+processing, and messaging. 24 Governments can combine these building blocks and adapt them to local
+needs instead of developing each solution from scratch.
+
+V. Standardized Acceptance Procedures with Certified Auditors
+A central deficit of the initiative lies in the absence of standardized acceptance procedures. When public
+sector clients commission software development or obtain software from a central portal, quality,
+compliance, and documentation must be ensured through a binding review procedure. The rules must be
+simple, understandable, and efficient to ensure their practical application.
+
+1. Tiered Review Categories by Criticality
+Following the Singapore and Australian models, a tiered system should be introduced: standard
+applications undergo basic review (automated code analysis, license check, documentation check). Critical
+infrastructure software requires extended reviews (penetration tests, independent code audits, compliance
+certification). Security-critical systems require full certification according to EU-recognized standards.
+
+2. Certified Review Organizations
+The EU should establish an accreditation system for review organizations, comparable to ISO certification
+bodies or BSI (German Federal Office for Information Security) auditors for IT baseline protection. These
+auditors must demonstrably have expertise in open source licenses, IT security, data protection, and public
+law. An EU-wide register of accredited auditors would create transparency and comparability.
+
+3. Review Catalog with Clear, Measurable Criteria
+The review catalog should cover the following areas, each with simple yes/no criteria and quantifiable
+thresholds:
+(a) Functional Quality: Test coverage â¥ 80%, automated test suites, documented test cases.
+(b) Code Quality: Static code analysis without critical findings, compliance with coding standards.
+(c) Security: Software Bill of Materials present, no known critical CVEs (Common Vulnerabilities and
+Exposures) in dependencies, security scan passed.
+
+22
+  Code.gouv.fr, Action plan for Free Software and Digital Commons, available at: https://code.gouv.fr/en/action-plan-for-free-software-
+and-digital-commons/ (last accessed 31 January 2026).
+23
+  Interoperable Europe Portal (OSOR), France endorses UN Open Source Principles, available at: https://interoperable-
+europe.ec.europa.eu/collection/open-source-observatory-osor (last accessed 31 January 2026).
+24
+  GovStack Initiative, Building Blocks for Digital Government, available at: https://www.govstack.global/ and https://www.bmz-
+digital.global/en/overview-of-initiatives/govstack/ (last accessed 31 January 2026).
+
+                                                             Page 7 of 11
+                                                                                  Position Paper - European Open Digital Ecosystems
+
+(d) Compliance: License compatibility verified, GDPR requirements met, accessibility per EN 301 549.
+(e) Documentation: Installation guide, API documentation, operations manual, architecture overview
+present and current.
+
+4. Transparent Certification Levels
+Software in the EU portal should be marked with clear certification levels: 'Reviewed' (basic requirements
+met), 'Recommended' (extended review passed, actively maintained), 'Production-ready for Critical
+Infrastructure' (full certification). Using agencies can thus assess the risk and document their decision.
+
+5. Efficiency Principle: Automation and Standardization
+To avoid bureaucracy, the review procedure should be largely automated: CI/CD integration for continuous
+testing, standardized checklists in digital form, automated Software Bill of Materials generation and
+vulnerability scans. Manual review occurs only for aspects that cannot be automated. The target should be
+a review duration of maximum 10 working days for standard applications.
+
+VI. IT Security and Software Supply Chain
+
+1. Protection Against Malicious Code Contributions
+The XZ-Utils incident of 2024 demonstrated how trust can be built over years to place a backdoor in widely-
+used infrastructure software. For security-critical applications, strict contributor vetting processes must be
+established. The USA has already created a legal framework with the Securing Open Source Software Act,
+which tasks CISA (U.S. Cybersecurity and Infrastructure Security Agency) with developing an assessment
+framework. 25
+
+2. Software Bill of Materials (SBOM)
+The Cyber Resilience Act already requires SBOMs. The German BSI has formulated detailed requirements
+with TR-03183-2. 26 NIST 27 (U.S. National Institute of Standards and Technology), CISA (U.S. Cybersecurity
+and Infrastructure Security Agency), and international standards (SPDX, CycloneDX) are converging toward
+a common framework. 28 For EU portal software, SBOMs should be mandatory and machine-readable to
+enable automated vulnerability detection.
+
+3. Responsibility for Security Updates
+For every software provided in the EU portal, a responsible maintainer must be named who commits to
+timely provision of security updates. Minimum requirements for response times should be defined (e.g., 72
+
+25
+  OpenSSF, The United States Securing Open Source Software Act, September 2022, available at:
+https://openssf.org/blog/2022/09/27/the-united-states-securing-open-source-software-act-what-you-need-to-know/ (last accessed 31
+January 2026).
+26
+  BSI, Technical Guideline TR-03183-2 Cyber Resilience Requirements, available at: https://www.bsi.bund.de/ (last accessed 31
+January 2026).
+27
+  NIST, Software Security in Supply Chains: Software Bill of Materials (SBOM), November 2024, available at:
+https://www.nist.gov/itl/executive-order-14028-improving-nations-cybersecurity/software-security-supply-chains-software-1 (last
+accessed 31 January 2026).
+28
+  OpenSSF, Software Supply Chain Security - SBOM, available at: https://openssf.org/tag/software-supply-chain-security/ (last
+accessed 31 January 2026).
+
+                                                            Page 8 of 11
+                                                                                  Position Paper - European Open Digital Ecosystems
+
+hours for critical vulnerabilities). This corresponds to the governance structure of successful projects like X-
+Road.
+
+VII. Compliance, Liability, and Responsibilities
+When an agency downloads an open source application from a central portal assuming it is compliant â but
+it is not â the question of responsibility arises. The initiative must provide clear regulations:
+
+(a) Responsibility of the developing agency for initial compliance at the time of publication.
+(b) Responsibility of the portal operator for conducting the review and release procedure.
+(c) Responsibility of the using agency for proper integration and operation.
+(d) Liability limitations following the model of existing EU regulations (e.g., CRA exceptions for non-
+commercial open source development).
+
+VIII. Open Source Program Offices (OSPOs) as Institutional Infrastructure
+The establishment of OSPOs has proven internationally to be an effective governance model. 29 The
+European Commission itself established an OSPO in 2020. France operates a national OSPO, and cities like
+Paris and Bratislava have established municipal OSPOs. 30 The initiative should actively promote the
+establishment of OSPOs at all levels â EU, national, regional, municipal â and strengthen the European
+OSPO network.
+
+IX. Economic Participation of Developing Companies
+The question of how companies can participate in the success of publicly funded software is crucial for
+ecosystem sustainability. Without economic incentives, companies will not invest their best resources in
+public projects. Possible approaches include:
+
+(a) Maintenance Framework Contracts: Developing companies could be preferentially commissioned for
+maintenance services without requiring a new tender for each engagement.
+(b) Usage-based Compensation: Similar to collecting societies, usage reports could be aggregated and
+distributed proportionally to developers.
+(c) Right of First Refusal: For further development, the original developer receives a right of first refusal.
+
+X. Plea for a Technology-Neutral Sovereignty Strategy
+The declared goal of the initiative â technological sovereignty â is fundamentally independent of the
+licensing model. European proprietary software companies can fulfill the same sovereignty goals: control
+over critical technologies, value creation within the EU, independence from non-European actors.
+
+What is decisive for technological sovereignty is not whether the source code is open, but rather:
+
+(a) the company's headquarters within the EU,
+
+29
+  Interoperable Europe Portal (OSOR), OSPOs & OSS Governance, available at: https://interoperable-
+europe.ec.europa.eu/collection/open-source-observatory-osor/ospos-oss-governance (last accessed 31 January 2026).
+30
+  OpenForum Europe, The OSPO - A New Tool for Digital Government, June 2022, available at:
+https://openforumeurope.org/publications/the-ospo-a-new-tool-for-digital-government/ (last accessed 31 January 2026).
+
+                                                           Page 9 of 11
+                                                                   Position Paper - European Open Digital Ecosystems
+
+(b) corporate control by EU citizens with nationality of a Member State as majority shareholders (at least
+51%, preferably 75%),
+(c) actual control over development, operation, and further development within the EU, and
+(d) the absence of corporate structures that enable control by third countries.
+
+The Commission should examine whether the initiative should be expanded to include a parallel support
+component for proprietary European software companies that meet these strict requirements. Such an
+expansion would not contradict the open source strategy but would be its meaningful complement in
+service of the overarching goal.
+
+XI. Summary of Recommendations
+Based on the international best practices and identified challenges, I recommend:
+(1) Establish a 'European Public Code Portal' following the Italian and French models with the
+publiccode.yml standard and automated cataloguing.
+(2) Mandatory three-step analysis before software procurement following the US model: (i) existing EU
+solutions, (ii) commercial solutions, (iii) new development.
+(3) Introduce standardized acceptance procedures with tiered review categories, clear criteria, and EU-
+accredited auditors â simple, understandable, efficient.
+(4) Develop an EU accreditation system for review organizations following the model of ISO certification
+bodies.
+(5) Mandatory Software Bill of Materials requirements and security standards for all portal software with
+named maintainers.
+(6) Clear regulations on compliance responsibilities and liability distribution between developing, operating,
+and using entities.
+(7) Promote Open Source Program Offices at EU, national, and municipal levels in all Member States.
+(8) Form transnational specialist groups for typical administrative applications with coordinated
+requirements gathering following the GovStack model.
+(9) Develop innovative participation models so developing companies can economically share in
+distribution success.
+(10) Invest in competence building in the public sector following Singapore's 'People-Platform-Practice'
+model.
+(11) Review procurement law frameworks for long-term maintenance and development contracts.
+(12) Expand to include a technology-neutral support component for proprietary European software with EU
+headquarters and EU citizen control.
+(13) Develop a certification framework for 'sovereign software' independent of the licensing model.
+
+XII. Conclusion
+The initiative pursues important goals. A look at international best practices shows that central software
+management, standardized acceptance procedures, and clear governance structures significantly influence
+success. Singapore, India, the USA, the United Kingdom, and Australia have accumulated valuable
+experience with different approaches from which Europe can learn.
+
+                                                Page 10 of 11
+                                                                     Position Paper - European Open Digital Ecosystems
+
+Decisive is the principle of simplicity: rules must be clear, understandable, and efficient to be applied in
+practice. Excessive bureaucracy would endanger the initiative's success.
+
+Technological sovereignty is ultimately not a question of the licensing model, but a question of control. A
+policy that aims to ensure European control over critical software technologies should include all European
+companies that can guarantee this control â regardless of whether they work with open source or
+proprietary software.
+
+If you should have further questions, please feel free to contact me.
+
+Kind regards,
+JÃ¼rgen Beckers
+Rechtsanwalt (German Attorney)
+
+                                                 Page 11 of 11

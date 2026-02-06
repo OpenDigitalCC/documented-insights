@@ -1,0 +1,360 @@
+Ref. Ares(2026)1223878 - 03/02/2026
+
+                 Associazione Italiana Internet Provider feedback
+
+         Call for evidence: âTowards European open digital ecosystemsâ
+                                                Ref. Ares(2026)69111
+
+Associazione Italiana Internet Provider (AIIP) is the oldest and largest association of ICT
+operators in Italy and has been representing for 30 years more than 60 Italian SME operators,
+who have been and still are committed to create an open, distributed, and independent telecom
+network, including by setting up colocation data centres and offering and/or using them to
+provide housing, hosting, and cloud and edge services.
+
+AIIP welcomes the opportunity to submit its contribution to the European Open Digital
+Ecosystems initiative. Open-source and sovereign data management represent two
+fundamental pillars for building a more open, efficient, and independent Internet, enabling
+innovation, trust, and resilience across digital services and infrastructures. By promoting open
+digital infrastructure and reducing reliance on non-EU proprietary technologies, this initiative
+can help secure a more sovereign, secure, and sustainable digital future for citizens, businesses
+and public administrations alike.
+
+1. What are the strengths and weaknesses of the EU open-source sector? What are the main
+barriers that hamper (i) adoption and maintenance of high-quality and secure open
+source; and (ii) sustainable contributions to open-source communities?
+
+First of all, it is doubtful and misleading that the âmaintenance of high-quality and secure open
+sourceâ is hampered in Europe. Europe is plenty of very important and widely used open-source
+projects. This ecosystem has not to be hampered with Regulations and Directives if we really
+want it to grow more. What is really hampering the sector is its âadoptionâ, especially in (public)
+tenders, with the wrong idea that an open-source solution could be not reliable or could lack
+support.
+
+This is a real issue, since the open-source sector in the European Union has a particularly high
+strategic potential because it combines two dimensions that are inseparable today: technology
+and the continent's ability to govern it. The first strength of the EU is the widespread availability
+of expertise, fuelled by universities, research centres, specialised companies and public
+administrations which, in many contexts, have already developed a concrete awareness of
+interoperability, open standards, data protection and reliability. In this context, open-source is
+not only a licensing model or a way of distributing software, but a practical knowledge transfer
+mechanism.
+
+                                         ASSOCIAZIONE ITALIANA INTERNET PROVIDER
+                                                                                                                             Sito Web: www.aiip.it
+                       c/o MIX s.r.l. â Via Caldera 21, Palazzo Orange/3 â Caldera Park - 20153 Milano (MI)
+                                                                                                                          E-mail: segreteria@aiip.it
+                                           Cod. Fis.: 97166260154 â P. IVA: 07549520968
+                                                                                                                             Telefono: 02-841240
+                                                                                                                           PEC: aiip.pec@unicert.it
+Open-source communities are a social infrastructure for continuous learning: they make the
+âhowâ of technical choices transparent, allow peer review and create systematic training
+opportunities on the ground. In a now strategic IT sector, this dynamic is decisive, because it
+reduces dependence on external expertise and strengthens the continent's ability to develop,
+maintain and control its systems over time.
+
+At the same time, the EU suffers from weaknesses that prevent turning this potential into a fully
+measurable competitive advantage. The most obvious is fragmentation: initiatives and
+investments often arise in an uncoordinated manner between Member States, with short and
+discontinuous funding cycles, while safety and reliability require constant maintenance and
+industrial processes. This leads to a paradox: Europe makes extensive use of open-source
+software, but does not always invest adequately in the sustainability of communities and in the
+essential, often invisible, work that ensures quality, testing, documentation, release
+management and vulnerability response. This distance between consumption and contribution
+is not only an ethical or community problem; it is a strategic vulnerability, because it increases
+the likelihood that crucial components are maintained by very few people, with insufficient
+resources and with de facto ungoverned dependencies.
+
+Anyway, there is no evidence that funding programs could fuel the development of new and
+better open-source projects. Some very important tools are often single-man projects and the
+authors should only have an ecosystem which allows them to sell their products or sell their
+support services, alongside system integrators.
+
+A further, critical dimension of European digital vulnerabilities lies in its broader technological
+dependence from non-European providers. A recent study 1 shows that about 80 % of total
+European spending on cloud software and services goes to U.S. companies, representing around
+â¬265 billion annually, and this pattern supports roughly 2 million jobs outside the EU while
+capturing value that could contribute to European industrial growth. If even 15 % of this
+spending were retained within the European economy by 2035, an estimated 500 000 jobs
+could be created locally. This dynamic means that, in practice, Europe exports public money
+and imports long-term dependency, weakening its industrial base and its ability to govern
+essential digital infrastructure. Even retaining a modest share of this spending domestically
+would generate hundreds of thousands of high-skilled jobs and significantly strengthen
+European technological sovereignty.
+
+1 AsterÃ¨s. âTechnological dependence on American software and cloud services: An assessment of the
+economicconsequences      in     Europeâ    (Economic     Study),    2025,     Cigref.    Available    at:
+https://www.cigref.fr/technological-dependence-on-american-software-and-cloud-services-an-assessment-of-
+the-economic-consequences-in-europe
+
+                                          ASSOCIAZIONE ITALIANA INTERNET PROVIDER
+                                                                                                                  Sito Web: www.aiip.it
+                        c/o MIX s.r.l. â Via Caldera 21, Palazzo Orange/3 â Caldera Park - 20153 Milano (MI)
+                                                                                                               E-mail: segreteria@aiip.it
+                                            Cod. Fis.: 97166260154 â P. IVA: 07549520968
+                                                                                                                  Telefono: 02-841240
+                                                                                                                PEC: aiip.pec@unicert.it
+In terms of barriers to the adoption and maintenance of high-quality and secure open-source
+solutions, procurement and risk management models are a recurring theme. In many cases,
+spending continues to favour the purchase of âproductâ over life-cycle financing.
+
+This approach is particularly detrimental to open-source, because the most significant benefits
+are obtained when investing in maintenance, support, hardening, audit and upstream
+development, i.e., in the substance of security and reliability. Moreover, cultural resistances
+remain linked to the idea that open-source implies a lack of responsibility or support, while the
+reality is more articulated: with adequate governance and targeted contracts, open-source
+reduces the risk of lock-in and allows greater control over the supply chain, because it allows
+independent verification and multiple suppliers.
+
+A further obstacle is the maturity in the management of the software supply chain. Modern
+security depends less and less on the âsingle productâ and more and more on the chain of
+dependencies. Without established practices of inventory, traceability, updating and
+vulnerability management, any technology becomes fragile. In this sense, open-source is not a
+weakness, but an opportunity: code transparency makes it possible to build stronger assurance
+processes, provided that appropriate operational standards are in place. Finally, sustainable
+contributions to communities are constrained by a lack of incentives and organisational
+structures. If the upstream contribution remains an occasional, unrecognised and unplanned
+activity, then the community loses strength and the end user finds themselves with non-
+upstreamed forks and customisations that increase maintenance costs and reduce security.
+
+To sum up, the EU has a potential comparative advantage: it can build technological sovereignty
+not by pursuing autarky, but by investing in open skills, communities and processes that make
+the ecosystem more competitive, plural and controllable. However, to turn this potential into
+concrete resilience, a paradigm shift is needed: financing the life cycle and sustainability, not
+just adoption. Bureaucracy also hinders the natural development of open-source solutions.
+Authors are technical persons who want to care about technicalities and not about directives
+and regulations.
+
+2. What is the added value of open source for the public and private sectors? Please provide
+concrete examples, including the factors (such as cost, risk, lock-in, security, innovation,
+among others) that are most important to assess the added value.
+
+The added value of open-source for the public and private sectors should be understood as a
+set of technological, economic and strategic benefits that, over time, have direct effects on
+competitiveness. In the public sector, the first element is a reduction in lock-in and an increase
+in negotiating capacity. The availability of the code and the possibility to choose between
+
+                                        ASSOCIAZIONE ITALIANA INTERNET PROVIDER
+                                                                                                                Sito Web: www.aiip.it
+                      c/o MIX s.r.l. â Via Caldera 21, Palazzo Orange/3 â Caldera Park - 20153 Milano (MI)
+                                                                                                             E-mail: segreteria@aiip.it
+                                          Cod. Fis.: 97166260154 â P. IVA: 07549520968
+                                                                                                                Telefono: 02-841240
+                                                                                                              PEC: aiip.pec@unicert.it
+several suppliers allow avoiding critical dependencies and guaranteeing business continuity
+even when commercial conditions or industrial policies change.
+
+Open-source also facilitates reuse: an investment made by one administration can be reused by
+others, reducing duplication and accelerating the modernisation of digital services. This is
+particularly relevant in domains that require transversal interoperability, such as digital
+identity, document systems, registry integration, service access platforms, administrative flow
+management, and collaboration tools.
+
+This approach is consistent with recent EU Council Conclusion, which explicitly call for
+âenhancing transparency, interoperability and competition, while reducing vendor lock-in and
+reliance on single providers, including through open standards, open-source and interoperable
+solutionsâ2 when it comes to the reinforcement of digital sovereignty. (Council of the European
+Union, 2025, para. 27).
+
+In these contexts, the cost is not the license, but the integration, security and evolution of the
+service; open-source makes it possible to focus spending precisely on these aspects, increasing
+the return for the citizen.
+
+In the private sector, open-source is a productivity multiplier and an innovation accelerator.
+Companies can build differentiating solutions by relying on established infrastructure
+components, reducing development time and cost of entry into digital markets. Open-source
+makes it easier to adopt modern architectures, improve portability between environments and
+reduce reliance on closed platforms, increasing industrial resilience. In addition, the existence
+of active communities is a permanent channel of knowledge and updating: participating in
+these communities, including through targeted contributions, means training in-house
+expertise and maintaining constant contact with the state of the art. In a strategic IT industry,
+this continuing education capability is as much a competitive advantage as the technology itself,
+because it reduces the cost of adapting to change and improves the ability to respond to
+incidents and vulnerabilities.
+
+When assessing value added, the total cost of ownership is central, but it should be understood
+correctly. Open-source does not mean âfreeâ: it means being able to allocate expenditure on
+maintenance, support and security, with greater transparency and with the possibility of
+avoiding position rents linked to licenses. Another key factor is risk management: open-source
+enables independent audits and facilitates the rapid correction of vulnerabilities, especially
+when mature dependency management practices are in place. Interoperability is also crucial,
+because in multi-supplier European markets and administrations it reduces integration costs
+and allows for real competition.
+
+2 Cfr. para 27, âConclusions on European Competitiveness in the Digital Decadeâ- Council Conclusions (5 December
+2025)
+
+                                           ASSOCIAZIONE ITALIANA INTERNET PROVIDER
+                                                                                                                   Sito Web: www.aiip.it
+                         c/o MIX s.r.l. â Via Caldera 21, Palazzo Orange/3 â Caldera Park - 20153 Milano (MI)
+                                                                                                                E-mail: segreteria@aiip.it
+                                             Cod. Fis.: 97166260154 â P. IVA: 07549520968
+                                                                                                                   Telefono: 02-841240
+                                                                                                                 PEC: aiip.pec@unicert.it
+Finally, industrial value is often underestimated: adopting open-source and supporting
+communities means strengthening European skills and supply chains of services, consultancy,
+support and development, with direct repercussions on qualified employment and production
+capacity on the continent.
+
+3. What concrete measures and actions may be taken at EU level to support the
+development and growth of the EU open-source sector and contribute to the EUâs
+technological sovereignty and cybersecurity agenda?
+
+Open-source software is the foundational layer of nearly all sovereign digital infrastructure.
+Unlike proprietary platforms, open-source tools offer transparency, modifiability, and long-
+term sustainability, making them ideal for critical public services. Open-source should not be
+treated as a âfree by-productâ of the digital economy but as strategic infrastructure.
+A powerful and concrete way to support the European open-source ecosystem is for the EU
+institutions themselves â starting with the Commission, the Council and the Parliament, to
+migrate 100% of their internal IT systems to open-source software within five years, according
+to a mandatory progressive plan with measurable milestones. This includes operating
+systems, email servers, videoconferencing platforms, messaging tools, document
+sharing systems, collaborative suites and vertical administrative applications.
+This is not utopia â it is already happening, at a small scale. The grant management systems
+used by European institutions for contribution applications are already based on open-source
+platforms and prove that complex and sensitive workflows can be handled transparently,
+efficiently and securely, using software that is fully auditable and under institutional control.
+What works for managing funding should also work for internal collaboration and critical
+services.
+Such an internal commitment by the EU would immediately strengthen demand for open-
+source tools, reduce strategic dependencies on foreign vendors, and act as a catalyst for
+European technological sovereignty. The best way to support the European open-source
+ecosystem is to use it as a core infrastructure, not just to promote it rhetorically.
+We therefore call on the European Commission to recognise open-source as a pillar of digital
+sovereignty and to support it through:
+
+    â¢ dedicated funding instruments, including grants, procurement mandates, and long-term
+      maintenance programs;
+    â¢ integration into digital industrial policy and state aid frameworks;
+    â¢ preferential treatment in public-sector digital transformation programs;
+    â¢ recognition that some projects may be single-person efforts without formal legal
+      personality.
+
+                                        ASSOCIAZIONE ITALIANA INTERNET PROVIDER
+                                                                                                                Sito Web: www.aiip.it
+                      c/o MIX s.r.l. â Via Caldera 21, Palazzo Orange/3 â Caldera Park - 20153 Milano (MI)
+                                                                                                             E-mail: segreteria@aiip.it
+                                          Cod. Fis.: 97166260154 â P. IVA: 07549520968
+                                                                                                                Telefono: 02-841240
+                                                                                                              PEC: aiip.pec@unicert.it
+To support the development and growth of European open-source and contribute to
+technological sovereignty and cybersecurity, the EU can target three mutually reinforcing
+levers: public demand, community sustainability, and less bureaucracy.
+Nevertheless, AIIP recalls that in any case the support should not be targeted to create
+âchampionsâ or âopen-source factoriesâ but aimed to grant funding to independent open-source
+projects and authors, mostly indirectly, by reducing all of the bureaucratic issues (directives,
+regulations) that may hamper the adoption of open-source solutions (e.g. CRA, CSA, and such).
+The Internet that we all use today is built on open-source software that works perfectly even if
+it has been developed and used without the burden of new regulations.
+First, procurement policy can be made more consistent with the nature of open-source,
+shifting the focus from the mere purchase of solutions to life-cycle assurance. This means
+promoting contracts that include multi-year maintenance, audits, hardening and upstream
+development as expected results, incentivising investment in what makes software reliable
+over time. Such an orientation would have a systemic effect: it would strengthen communities,
+reduce hard-to-maintain local forks and increase overall security, as corrections and
+improvements would be brought back upstream.
+Second, on the cybersecurity front, the EU can support programmes dedicated to critical open-
+source components, with independent audits, improved release practices, dependency tracking
+and coordinated vulnerability disclosure processes. The aim should be to make adoption easier
+and safer, reducing the risk for administrations and businesses. An important element is the
+creation of stewardship capabilities on strategic components, funding maintenance and
+security teams working in collaboration with communities, with clear metrics on patching
+times, release quality and vulnerability reduction.
+Thirdly, the EU needs to invest in conscious and active training, because technological
+sovereignty is not achieved only by purchasing technologies, but by creating skills that can
+understand, control and evolve them. European programmes that support the emergence of
+open-source program offices in the public sector, and that favour similar structures in the
+private sector, would make upstream contribution a normal and recognised activity, not an
+exception. In parallel, training initiatives focused on development, security, compliance and
+supply chain management can increase the operational capacity to adopt open-source in an
+industrial way.
+In this way, the EU would build a competitive ecosystem: more internal skills, more companies
+able to offer professional services, more competition and fewer structural dependencies.
+
+                                       ASSOCIAZIONE ITALIANA INTERNET PROVIDER
+                                                                                                               Sito Web: www.aiip.it
+                     c/o MIX s.r.l. â Via Caldera 21, Palazzo Orange/3 â Caldera Park - 20153 Milano (MI)
+                                                                                                            E-mail: segreteria@aiip.it
+                                         Cod. Fis.: 97166260154 â P. IVA: 07549520968
+                                                                                                               Telefono: 02-841240
+                                                                                                             PEC: aiip.pec@unicert.it
+4. What technology areas should be prioritised and why?
+
+Technological priorities should be selected on the basis of their ability to enable a competitive
+and sovereign European ecosystem, i.e., capable of governing infrastructure, data and security
+without critically depending on external actors. In this sense, basic digital infrastructure is a
+priority because it is the platform on which public and private services are based: cloud,
+virtualization, orchestration, automation, observability, and identity management determine
+portability, business continuity, and cost control capabilities.
+
+Strengthening a European open-source ecosystem in these areas means reducing systemic
+dependencies and creating industrial opportunities for European support and integration
+providers.
+
+Cybersecurity is a second natural priority, both for operational tools and for cryptographic
+fundamentals and key management. Investing in reliable and auditable open-source
+components produces cross-cutting benefits, because many proprietary products also rely on
+open-source libraries and tools. Making these components more robust and better maintained
+increases the resilience of the entire value chain. This should not reflect in obligations for
+authors or support resellers, but in aids to the authors or to the community to strengthen the
+security characteristics of their product. Please also consider that there are daily releases,
+preventing âcertificationsâ.
+
+A third area concerns interoperability and data: middleware, databases, standards, APIs,
+governance tools and data exchange. In a European market characterised by linguistic,
+regulatory and administrative diversity, interoperability is a multiplier of efficiency and
+competitiveness, and open-source can provide common, verifiable and reusable foundations.
+
+Finally, AI deserves a particular priority, especially in infrastructure components and tools that
+ensure transparency, reproducibility and control. For Europe, open-source in this domain is not
+only a choice of efficiency, but a precondition for accountability and verifiability, which are
+consistent with trust and compliance needs.
+
+5. In what sectors could an increased use of open-source lead to increased competitiveness
+and cyber resilience?
+
+Increased use of open-source can strengthen competitiveness and resilience especially in
+sectors where digital transformation is already crucial for productivity and where security has
+a direct impact on service continuity. In the public sector, health, justice, education and citizen
+services benefit from interoperable, auditable and reusable platforms, reducing duplication
+costs and increasing the capacity to evolve. In these areas, resilience depends not only on âsafeâ
+technologies, but also on understanding and governing them: open-source fosters this capacity,
+
+                                        ASSOCIAZIONE ITALIANA INTERNET PROVIDER
+                                                                                                                Sito Web: www.aiip.it
+                      c/o MIX s.r.l. â Via Caldera 21, Palazzo Orange/3 â Caldera Park - 20153 Milano (MI)
+                                                                                                             E-mail: segreteria@aiip.it
+                                          Cod. Fis.: 97166260154 â P. IVA: 07549520968
+                                                                                                                Telefono: 02-841240
+                                                                                                              PEC: aiip.pec@unicert.it
+by making choices transparent and developing in-house expertise, including through
+collaboration with European communities and suppliers.
+
+Just think to what happened with the Internet. Most of the services we all use today are built on
+open-source projects.
+
+In critical infrastructure, such as energy, transport, telecommunications and water
+management, open-source can help reduce opaque dependencies and increase the speed of
+vulnerability response, thanks to the possibility of independent audits and a plurality of actors
+able to intervene. Manufacturing and automation can also gain significant competitive
+advantages through open-source components for edge computing, integration and
+observability, as they reduce the cost of interoperability between heterogeneous systems and
+foster more open innovation chains.
+
+In the financial and insurance sector, open-source can increase resilience through more
+transparent dependency management processes and increased audit capacity, as well as foster
+agility in the development of digital services. More generally, the entire ecosystem of European
+digital SMEs benefits from open-source because it reduces technological entry barriers and
+allows them to compete on quality, integration and service.
+
+When accompanied by conscious formation and active participation in communities, this model
+builds sovereignty in the full sense: not only independence from individual suppliers, but the
+continent's ability to understand, control and evolve technologies that support economy, rights
+and security.
+
+                                        ASSOCIAZIONE ITALIANA INTERNET PROVIDER
+                                                                                                                Sito Web: www.aiip.it
+                      c/o MIX s.r.l. â Via Caldera 21, Palazzo Orange/3 â Caldera Park - 20153 Milano (MI)
+                                                                                                             E-mail: segreteria@aiip.it
+                                          Cod. Fis.: 97166260154 â P. IVA: 07549520968
+                                                                                                                Telefono: 02-841240
+                                                                                                              PEC: aiip.pec@unicert.it

@@ -1,0 +1,288 @@
+Ref. Ares(2026)1221696 - 03/02/2026
+
+Cologne, 3 February 2026
+
+              Open-Xchangeâs contribution to the Commissionâs call for evidence
+                                  on European open digital ecosystems
+
+        Open-Xchange, as the leading European open-source software company in the email and
+DNS space and the service provider of choice for some of the biggest Internet access providers in
+Europe, would like to thank the Commission for the opportunity to participate in its call for evidence
+for an initiative towards European open digital ecosystems.
+        We will structure our contribution in three parts. We will start by addressing some of the
+Commissionâs questions, providing an analysis of the strengths and weaknesses of the European
+open digital ecosystem. We will then expose proposals for a comprehensive support strategy,
+discussing objectives, principles, instruments, and priorities. Finally, we will devote specific
+attention to how to reconcile the global nature of open-source software with the need to guarantee
+Europeâs digital autonomy.
+
+        I â Analysis
+
+        Why open source
+        The open-source paradigm is a natural choice for Europe.
+         Open source and open standards enable horizontal cooperation. Even if the
+construction of a single digital market is underway, the European Union is still an archipelago of
+countries, languages, jurisdictions, bureaucracies, and cultures. Indeed, this is reflected in the fact
+that it has not generally produced large digital champions that operate across the Union, but rather
+many SMEs and local organisations that act as national champions and excellence hubs. The
+growth of a single digital market requires federating all these smaller national players on
+equal terms. This is only possible if there are neutral, open, free interfaces, protocols, and
+standards that everyone can use without contracts, licenses, or fees. The ecosystem becomes
+much more efficient when players can share the workload: each produces a part of the overall
+platform and uses the parts made by others, thanks to an open licensing model.
+        Proprietary software may be necessary and useful in multiple situations; even open-source
+companies often produce proprietary extensions and customisations to support their revenue and
+cover the costs of developing the open-source codebase. Still, if applied generally, the
+proprietary model reproduces the very dependence we want to get rid of; it grants a single
+for-profit entity ownership of basic technologies and tools that everyone else needs, allowing it to
+exploit any significant market position it manages to build. Open source also enables
+competition, innovation and change, strongly reducing the constraining power of successful
+vendors.
+2026 Â© by Open-Xchange AG. This document is released under the Creative
+Commons BY-ND-4.0 International license. Open-Xchange and the Open-
+Xchange logo are trademarks or registered trademarks of Open-Xchange AG.
+All other company and/or product names may be trademarks or registered
+trademarks of their owners. Information contained in this document is subject
+to change without notice.
+       Problems
+        Market access is possibly the biggest problem for European open-source
+companies. The case depends strongly on the specific product and niche; however, whenever the
+European product falls in direct competition with an offering by one or more global big tech
+companies, European products â even when of similar or superior quality to the global offerings
+â are at a disadvantage because of existing market dominance, contract entrenchment, anti-
+competitive practices, and vendor lock-in. Regulatory efforts are commendable, but their
+enforcement is uncertain and slow, and they cannot influence the market in the short term. The
+only possible instrument is industrial policy, and we will build on this in the next section.
+       Funding is a major issue for European open-source companies. The availability of
+venture capital is much lower than in the United States, and it often focuses on low-risk initiatives
+more than on ambitious, disruptive innovation. Investments would be necessary to fill the quality
+and feature gap that sometimes exists between European and global products, but European
+investors are wary of placing a bet on the ability of a local company to capture significant market
+share against a dominant big tech player.
+         Moreover, a significant part of the open-source ecosystem is not managed by for-profit
+entities, but by non-profit organisations, universities and individuals. Specific funding models
+need to be developed to ensure the sustainability of foundational projects that are run as a
+non-profit endeavour but are widely used. At the same time, for open-source software to become
+the foundation of European IT at the user application level as well, many open-source products
+must complete the evolution from volunteer and academic efforts to industrial and commercial
+activities. Marketing, user experience design, organisational excellence, and business
+model development are areas that open-source projects often need to address with more
+attention.
+
+       II â Proposals
+        A comprehensive strategy to support the European open digital ecosystem should be very
+clear in its objectives and principles, ensuring that all instruments and action priorities are
+aligned. We will thus break down our proposals in order.
+
+       Objectives
+       The overall objective of the strategy should be to grow of the European digital industry
+through the use of open paradigms. Just as Europe is the global leader in digital regulation, it
+can successfully become the global leader in open digital technologies.
+       Such an objective could be quantitatively expressed and measured in terms of job places,
+overall revenues, and tax revenue that are generated by open-source companies and
+organisations in Europe.
+        Open licenses and standards should become the default model for European
+technologies developed with public funding or purchased by public administrations. This
+objective could be measured by assessing the share of IT purchases and projects that use open
+technologies and licensing models.
+
+Open-Xchange
+                                                 2
+         Principles
+         Europe should adopt the Internetâs open architecture as a reference model for online
+services. Technical principles such as modularity and interoperability should become
+requirements in the design of applications and services used and promoted by European
+institutions. For data storage and transmission, applications should be required to adopt open
+protocols and formats. Deviations from these principles should need to be technically justified.
+       Whenever software and services are funded with public money, the results should
+be released under open licenses. Indeed, institutions should be required to verify whether open
+products are already available before funding the development of new ones. Open-source products
+should also be preferred in public procurement.
+       To support the objective of establishing European leadership, the benefits of European
+public investments in open technologies should be directed to European citizens, entities,
+companies, and economies, as far as possible. At the same time, the global nature of the open
+development model implies that the rest of the world will continue to participate in the projects
+enabled by these investments and benefit from them. The open-source model makes
+supporting our local ecosystem not an adversarial action towards the rest of the world. Still,
+we should not be afraid to pursue our own interests, as all other countries already do.
+
+         Instruments
+         We propose to base the strategy on two basic pillars.
+      The first pillar is an industrial policy supporting European open technologies. A âbuy
+European, buy openâ policy should be introduced1.
+        As a priority, public purchases and funding should be directed to companies that pay
+taxes and create jobs in Europe, whether European or not; additional requirements on the
+ownership, place of business, and applicable jurisdiction of suppliers, preventing
+interference from foreign powers, should be introduced whenever services relate to national
+security or are vital to the functioning of the economy and society. For this kind of service,
+European vendors should be required; in all other cases, even without a strict requirement, the
+extent of the economic fallout in Europe of each vendor should be assessed and should be one of
+the criteria when awarding the contract.
+       Additionally, priority should generally be given to software and services implemented
+with open-source code; again, this could become a requirement whenever the additional
+transparency, extensibility, and third-party reuse are beneficial to the specific purpose. A minimum
+open-source software quota that increases over time could create a natural push for vendors
+to reconsider their licensing models and invest in open technology development.
+      In all cases, even when implemented in proprietary software, the use of open standards,
+protocols and formats should be mandated whenever possible.
+
+1 We also defer to our contribution to the call for evidence on the review of public procurement directives for a more
+
+detailed analysis of the âbuy European, buy openâ policy proposal.
+
+Open-Xchange
+                                                            3
+       Regulatory action should also be part of this first pillar, intervening whenever the
+growth of European alternatives to dominant players is encumbered by their anti-competitive
+actions or by pushback and manipulation against the open standards of choice; this can also
+include intervention in standardisation processes.
+        The Commission should also lead by example and urgently adopt European open-
+source applications and open standards for its own procurement and activities. The
+Commissionâs continued use of proprietary, non-European applications and formats weakens the
+credibility of its efforts.
+        The second pillar is a public investment fund for European sovereign technologies to
+cover projects that the market fails to support. While the first pillar of the policy is likely to
+stimulate private investment in this kind of project by providing a market, the urgency of the current
+situation makes it advisable to supplement market dynamics with immediate public investment.
+        The criteria for target projects should include foundational, non-profit building blocks
+and infrastructure that are widely used but for which no individual entity has a reason to sponsor
+them entirely on its own. They should also include moonshots and long-term, ambitious, wide-
+scale projects that fail to attract private venture capital because of the risk, or that need seed
+money to reach a point where they can do so. Finally, they should include the integration of
+multiple open-source products from smaller companies that could constitute an alternative to
+global offerings if combined, but that the companies themselves cannot merge due to commercial
+or financial issues. Part of this fund could also be used as venture capital to help scale
+promising European companies that could become continental champions in a key sector.
+        The fund should be managed proactively and focus on practical, measurable results.
+It should not be a place where people show up with paperwork and receive money, but an entity
+that strategically determines the needs it wants to address, identifies people and companies that
+can fulfil them, promotes action, and measures the impact of each project in terms of product
+adoption and market share. Projects should be selected for their likelihood of producing mass-
+scale change in the digital services market. For the same reason, the fund should remain
+completely independent of the dominant market players whose projects it could challenge,
+even if they offer gifts such as additional funds, free infrastructure, or joint venture opportunities.
+        Care should be taken to prevent âopen-washingâ and âEurope-washingâ by global,
+proprietary players, and to ensure that the economic returns from investments are concentrated in
+Europe. Global participants and projects are welcome, as is cooperation with similar initiatives in
+other countries, but jobs, infrastructure, know-how, and fiscal revenue should be created in Europe.
+Actually, attracting talent and startups from the rest of the world and getting them
+established in Europe in exchange for funding could be a very desirable side effect of the fund.
+      As a side objective, a smaller portion of this fund should be used to strengthen the
+European open-source community and its role in the global scene.
+        For example, an effort should be made to raise the profile and weight of Europe within
+global organisations focused on open source and open standards, whether code-supporting
+foundations or standardisation and policy-making forums. Europe should support the role and
+standing of these organisations as long as they include European leadership and demonstrate
+attention for European needs and values; it should instead challenge their role if they show capture
+by global players or dominance by foreign interests. The fund should also sponsor community
+meetings and education programs within Europe.
+
+Open-Xchange
+                                                  4
+       As a final consideration, both pillars require that the European institutions build a centre
+of competence with people who master high-level skills in technology, product design,
+business models, and regulation. These people could act as âpublic digital strategistsâ, map out
+issues and efforts, and figure out how to act under the first or the second pillar. An institutional
+form that allows for quick, simple action, both in hiring appropriate people from the market
+and in designing and implementing projects, would be needed for this purpose.
+
+       Priorities
+        Europe needs coordinated action to address foreign dependency at all levels of the stack,
+from low-level hardware up to everyday online services. While removing dependencies at one
+level of the stack is beneficial in itself, digital autonomy can only be achieved when all levels
+have been addressed. This condition requires a comprehensive action plan.
+       Still, within that action plan, priorities should be established, considering criteria such as
+the pervasiveness of the layer and of the specific application, its industrial and economic value,
+and other strategic considerations.
+        Focusing on the specific technical niches in which we operate, we consider messaging
+and productivity software â that is, every employeeâs basic set of everyday applications â
+to be extremely strategic. This sector is almost entirely in the hands of non-European companies
+and implemented through proprietary software; the ubiquitousness of these applications means
+that the lack of autonomy and transparency deriving from these two factors creates very high risks,
+as the failure or security compromise of office software would affect almost all companies and
+organisations in Europe. Additionally, the enormous value of European collective purchases of
+productivity software and services represents a significant transfer of wealth from Europe to
+economies outside the Union.
+
+       III. Is there anything like âEuropean open sourceâ?
+       As a final consideration, we want to devote specific attention to a question that has been
+the focus of multiple discussions within Europeâs open-source community.
+         To introduce digital autonomy requirements on open-source software, it is necessary to
+define whether a specific codebase, or even individual code contributions, âbelongâ to a specific
+country or jurisdiction. This is a conceptually difficult endeavour, as open-source software is
+generally developed through global cooperation; it is distributed and reused to such an extent that
+tracking contributions becomes difficult. Moreover, while project maintainers could theoretically
+restrict contributions according to nationality, the licenses are explicitly designed to prevent any
+restriction on the global circulation of code.
+       However, we would like to challenge the idea that the factor determining whether some
+code is suitable for digital sovereignty is the nationality of the author. The issue rather needs
+to be addressed in conjunction with the actual purposes of a sovereignty requirement.
+        The sovereignty objectives of a âbuy Europeanâ policy fall into two big groups. One
+is about security: removing the ability of foreign companies or powers to constrain the availability
+of software and services in Europe, and ensuring that software does not contain backdoors or
+undesirable data processing. The other is about economics: ensuring that the money spent on
+
+Open-Xchange
+                                                 5
+acquiring the software is reinvested in the European economy rather than drained to other parts of
+the world.
+        These two objectives do not depend that much on the code itself; they depend much more
+on the entity that assembles and maintains the codebase and supplies the final product to
+European customers and end-users. So, rather than assessing code or developers, a
+âsovereignty checkâ should assess the suppliers. The strategy of imposing sovereignty
+requirements on suppliers (i.e., manufacturers and integrators), rather than on developers, would
+be in line with the one already adopted in the Cyber Resilience Act for security requirements; it
+would thus represent a natural extension of that model, following similar reasoning. Indeed, since
+manufacturers must already ensure the security and availability of their own software supply chain,
+they could also be easily responsible for its resilience under geopolitical pressure.
+        Suppliers can and should be assessed towards both groups of sovereignty objectives.
+However, this assessment will not result in an on-off judgment, but in a position on a
+graduated scale. Of course, European open-source entities will generally serve both objectives
+well, whereas non-European closed-source entities will not serve either. However, there is a whole
+range of cases in the middle. Moreover, depending on the sector and application, one or both the
+objectives mentioned above might not be relevant.
+        We thus suggest adopting a general-use framework to assess the geopolitical fitness
+of suppliers, separately for each of the two objectives above, building on and further
+specializing the recent Cloud Sovereignty Framework. For security, factors such as ownership,
+management, place of business, applicable jurisdictions, ties with other countries, and foreign
+dependencies in the infrastructure or value chain should be considered; for economics, factors
+such as taxes paid in Europe, the location of offices, data centres and job places, local re-
+investments, and the origin of sub-contractors and intermediate materials should be assessed.
+Depending on the application, different thresholds could be set for each of the two factors to
+determine a supplierâs eligibility.
+         Notwithstanding the numerous pleas to the contrary from foreign global entities, European
+institutions should not be afraid to reject non-European suppliers when this is necessary to the
+objectives above and when these objectives are paramount. However, in other cases, the
+advantages of extended cooperation and additional choice could prevail over sovereignty
+considerations. Thus, in our opinion, the correct approach to this problem is to develop
+assessment frameworks for each service's sovereignty needs and for each supplierâs
+fitness to meet them, and to apply these frameworks in different ways depending on the specific
+situation.
+
+       Conclusion
+        We appreciate the European Commission's commitment to supporting the European
+open digital ecosystem, and we hope we provided useful comments and suggestions. We thank
+you for your attention, stand ready to answer any questions you might have, and look forward to
+further opportunities to participate in this discussion.
+
+Open-Xchange
+                                                6
+       About Open-Xchange
+
+        Open-Xchange (OX) is a developer of secure and open communication and office
+productivity software, IMAP server software and DNS solutions. Since 2005, it has partnered with
+many of the worldâs largest Internet Service Providers (ISPs), telcos and carriers to deliver email
+and productivity solutions that include secure storage, file and document management. Dovecot is
+the worldâs most popular IMAP server software and PowerDNS provides secure DNS services to
+telco customers and their users worldwide. Software developed by Open-Xchange is used by 220
+million people globally. It is headquartered in Cologne, Germany, with further offices in Hamburg,
+Nuremberg and Olpe, and international offices in Finland, Italy, Japan, the Netherlands and the
+USA. For further details, please visit www.open-xchange.com.
+
+       Contact
+
+       For any enquiry about this document please refer to Vittorio Bertola, Head of Policy &
+Innovation at Open-Xchange, vittorio.bertola@open-xchange.com .
+
+Open-Xchange
+                                                7

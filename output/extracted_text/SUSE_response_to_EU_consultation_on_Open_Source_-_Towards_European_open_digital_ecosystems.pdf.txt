@@ -1,0 +1,123 @@
+Ref. Ares(2026)1225189 - 03/02/2026
+
+1. What are the strengths and weaknesses of the EU
+open-source sector? What are the main barriers that
+hamper (i) adoption and maintenance and (ii) sustainable
+contributions?
+Strengths:
+
+Europe possesses a world-class developer base and a culture of transparency that aligns with
+EU digital rights. Initiatives like the NLNet, NeoNephos, Sovereign Tech Fund, and the ECâs
+OSPO have laid a vital foundation. SUSE, as a global leader born in Europe, demonstrates that
+open source can both serve the community while also meeting the needs of mission-critical
+enterprise software required by the Fortune 500.
+
+Weaknesses:
+While code is often written in the EU, the secure software supply chain (hosting, CI/CD, and
+build-infrastructure) remains heavily dependent on US-based systems. This creates a
+"sovereignty glass ceiling" where European development remains vulnerable to external policy
+shifts. Also, there is a Value Gap: 70â90% of modern code is open source, but the commercial
+value is frequently captured by non-EU proprietary hyperscalers. Critical projects often rely on
+under-resourced maintainers.
+
+Barriers:
+High-quality adoption is hampered by a lack of objective risk measurement. Decision-makers
+face a "black box" problem where they cannot quantify their sovereignty gap. Also, developers
+and foundations struggle with country-specific legal frameworks and tax hurdles. Technical
+contributions are global, but for digitally sovereign infrastructure, project technical expertise,
+governance and maintenance must be preferably anchored in the EU. Another barrier is the
+lack of a single hiring regime in the EU. Contracting or hiring in many different countries in the
+EU entails much more effort on legal and tax than would be the case in the US. This also
+means that funding for Open Source foundations or maintainers is very complex as there are a
+lot of practical hurdles (taxes, .. ) when it crosses countries within the EU. An EU wide
+Sovereign Tech Fund (EU-STF) could help with bridging this gap.
+
+A major impediment to adoption is prioritizing initial acquisition costs in both public and
+private sector procurement. This neglects critical long-term factors - such as maintenance,
+security updates, support, and transition expenses - ultimately disadvantaging solutions that
+could offer a more sustainable and predictable total cost of ownership.
+2. What is the added value of open source for the public
+and private sectors? (Include concrete examples: cost, risk,
+lock-in, security, innovation).
+Strategic Value: Sovereignty through Choice
+
+Open source is a pre-requisite for freedom in terms of interoperability and interchangeability.
+Such licensed software provides the Four Freedoms of open source (inspect, use, modify,
+redistribute) which are the bedrock of any sustainable and transparent software methodology.
+
+Concrete Examples & Factors:
+   ââ Trust: Unlike proprietary opaque black boxes, open source allows for independent
+      auditing. With proprietary solutions, you HAVE to trust them. With open source
+      solutions, you CAN trust them. The transparency in how data is being processed in
+      software solutions leads to a more trust-worthy computing environment for handling
+      sensitive data.
+   ââ Workload Portability: True sovereignty means the ability to shift workloads between
+      on-prem, edge, and sovereign clouds of different types. Open standards ensure that a
+      workload isn't "trapped" by proprietary APIs.
+   ââ Innovation vs. Consumption: Open source encourages the EU to grow technical skills
+      and buy European, keeping R&D investment within the Union rather than exporting it
+      as license fees.
+   ââ Cost & Continuity: Unlike proprietary software, where support is tied to a single
+      vendorâs roadmap, the accessibility of open source code enables a competitive
+      ecosystem of providers to deliver long-term maintenance and security patches well
+      beyond standard industry timelines.
+
+3. What concrete measures and actions may be taken at EU
+level to support the sector and contribute to technological
+sovereignty and cybersecurity?
+   ââ Lead by example via Public Money Public Code. EU institutions should mandate
+      open-source solutions stemming from the EU's own sector. This creates a snowball
+      effect for wider adoption and helps shift the general public awareness towards the
+      benefits of open source software over competing proprietary alternatives.
+   ââ Establish a EU wide Sovereign Tech Fund to protect maintainers from the growing
+      funding gap.
+   ââ Establish a clear strategy to sustain open source maintainers and projects in the EU,
+      for example by incentivizing via tax-reduction EU business to maintain open source for
+        the public good and simplifying the ability to contract open source developers across
+        the EU.
+   ââ   Standardize Sovereignty Measurement by adopting the EU Cloud Sovereignty
+        Frameworkâs Sovereignty Effective Assurance Levels (SEAL 0â4). This allows
+        organizations to move beyond "ticking boxes" and use a common language (e.g., "This
+        project requires SEAL-3 Digital Resilience").
+   ââ   Strictly apply the Common Assessment Method for Standards and Specifications
+        (CAMSS) to ensure interoperability is a prerequisite for all public procurement.
+   ââ   Any new regulation should not unintentionally increase reluctance to invest in open
+        source developments. This should be addressed by creating clear legal "safe-harbor"
+        statements for EU-based contributors to lower the administrative burden of or
+        uncertainty around regulations like the Cyber Resilience Act (CRA) on individuals and
+        SMEs.
+   ââ   Incentivize Reciprocity: Provide R&D incentives for businesses that harden open
+        source and contribute significantly back to upstream projects.
+
+4. What technology areas should be prioritised and why?
+Any cross-sectoral technology should be focused on digital sovereignty from the ground up -
+especially if they build core platforms, as such platforms tend to create a vendor lock-in if not
+entirely open source and open standards. Key types are:
+    ââ Linux Operating Systems: The operating system is the fundament of all sovereignty.
+        We must ensure the expertise to develop and support Linux open source operating
+        systems as well as its governance in the EU to avoid being passengers in our own IT
+        strategy.
+    ââ Cloud-Native & Virtualization: As organizations migrate legacy workloads, we must
+        prioritize open virtualization and container orchestration to ensure the connective
+        tissue of the cloud remains vendor-neutral.
+    ââ Sovereign AI (Private AI): Focus on open-source AI frameworks with local models. AI
+        must be Private-by-Design to ensure sensitive data stays behind European firewalls,
+        preventing "data leaks" to foreign LLM providers.
+
+5. In what sectors could an increased use of open source
+lead to increased competitiveness and cyber resilience?
+   ââ Public Sector & Administration: Critical for reaching the enhanced level of sovereignty
+      demanded in a more geopolitically uncertain world, with reduced risk of interference
+      from the impact of extraterritorial regulation like the US CLOUD Act.
+   ââ Critical Infrastructure (e.g. Energy & Utilities): These sectors require the right to repair
+      software and extreme longevity. Open source ensures that grid management systems
+      are not subject to foreign vendor lifecycles.
+ââ Telco & IoT/Industry 4.0: In remote or air-gapped locations, sovereignty is a physical
+   concept. Open source enables self-sufficient islands of compute that stay online even
+   during global service disruptions.
+ââ Healthcare & Research: Enables the sharing of high-value data within trusted,
+   localized, and scalable infrastructure, fostering innovation while maintaining strict
+   GDPR and Data Act compliance.
+ââ Defense: The independent access to code is key to reducing vulnerability and ensures
+   long-term operation and maintainability. The ability to inspect for backdoors and to
+   analyze how and where data is processed or submitted.

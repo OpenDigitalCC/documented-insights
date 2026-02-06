@@ -1,0 +1,620 @@
+Ref. Ares(2026)1165097 - 02/02/2026
+
+  Open Source and Europeâs Digital
+Competitiveness - Policy perspectives
+     from XWiki SAS on strategic
+ autonomy and software sovereignty
+                                               Open Source and Europeâs Digital Competitiveness - Policy perspectives from XWiki SAS on strategic                                                            2
+                                               autonomy and software sovereignty
+
+TABLE OF CONTENTS
+Open Source and Europeâs Digital Competitiveness - Policy perspectives from XWiki SAS on strategic autonomy and software
+sovereignty ......................................................................................................................................................................................... 3
+ A foundation for digital strategic autonomy and software sovereignty ............................................................................................ 3
+ Company Presentation .................................................................................................................................................................... 3
+1. What are the strengths and weaknesses of the EU open-source sector? .................................................................................... 3
+ 1.1 Strengths ................................................................................................................................................................................... 3
+ 1.2 Weaknesses .............................................................................................................................................................................. 4
+    a. Open source has not been favored by Tech venture-capital funding ....................................................................................... 4
+    b. Regulation and general incentive environment does not favor open source ............................................................................ 4
+2. What are the main barriers that hamper ....................................................................................................................................... 5
+ 2.1 Adoption and maintenance of high-quality and secure open source ........................................................................................ 5
+ 2.2 Sustainable contributions to open-source communities ............................................................................................................ 6
+3. What is the added value of open source for the public and private sectors? ............................................................................... 7
+ 3.1 Mutualization and strategic autonomy at the European level ................................................................................................... 7
+ 3.2 Transparency & Security ........................................................................................................................................................... 7
+ 3.3 Lock-in ....................................................................................................................................................................................... 7
+ 3.4 Control ....................................................................................................................................................................................... 7
+ 3.5 Competition ................................................................................................................................................................................ 7
+ 3.6 Cost ........................................................................................................................................................................................... 7
+ 3.7 Innovation .................................................................................................................................................................................. 8
+4. What concrete measures and actions may be taken at EU level to support the development and growth of the EU open-source
+sector? ................................................................................................................................................................................................ 8
+ 4.1 Amount of funding ..................................................................................................................................................................... 8
+ 4.2 Adapt the type of funding to the needs of the open-source sector ........................................................................................... 9
+    a. Cascade funding (implemented in Next Generation Internet), also in Open Internet Stack ...................................................... 9
+    b. Larger and longer-term project funding for projects with a strong track record ........................................................................ 9
+    c. EU Sovereign Tech Fund ......................................................................................................................................................... 9
+ 4.3 Preference for local open source .............................................................................................................................................. 9
+ 4.4 Include a preference for providers contributing to open source .............................................................................................. 10
+ 4.5 Regulatory actions ................................................................................................................................................................... 10
+ 4.6 Software tax for open source .................................................................................................................................................. 10
+5. What technology areas should be prioritized and why? .............................................................................................................. 11
+ 5.1. Collaborative and productivity software ecosystems .............................................................................................................. 11
+    a. Open-source components for collaboration ............................................................................................................................ 11
+    b. Open-source collaboration products led by 100% open-source companies ........................................................................... 11
+    c. Open source end-to-end encrypted collaboration software for the B2C market ..................................................................... 12
+    d. Integrations between open-source software, allowing more integrated offerings ................................................................... 12
+ 5.2. Mobile devices and operating systems .................................................................................................................................. 12
+ 5.3. Open-source cloud software stacks ....................................................................................................................................... 12
+ 5.4. Security libraries and tool-chains ........................................................................................................................................... 12
+6. In what sectors could an increased use of open source lead to increased competitiveness and cyber resilience? ..................... 12
+ 6.1 Competitiveness ...................................................................................................................................................................... 12
+ 6.2 Cyber Resilience ..................................................................................................................................................................... 13
+
+XWiki SAS - 4 rue du Faubourg PoissonniÃ¨re - 75010 Paris - France                                                        SociÃ©tÃ© par Actions SimplifiÃ©e au capital de 37 324 Euros
+TÃ©l: +33 (0)1 45 42 40 90 Fax: +33 (0)9 59 26 92 14                                                                           RCS: Paris B 477 865 281 TVA: FR 69 477 865 281
+Email: contact@xwiki.com                                                                                                                                 Site web: www.xwiki.com
+                               Open Source and Europeâs Digital Competitiveness - Policy perspectives from XWiki SAS on strategic             3
+                               autonomy and software sovereignty
+
+Open Source and Europeâs Digital Competitiveness - Policy perspectives from
+XWiki SAS on strategic autonomy and software sovereignty
+A foundation for digital strategic autonomy and software sovereignty
+At XWiki and CryptPad, based on more than two decades of experience building and sustaining open-source software in Europe, we
+observe that open source can play a decisive role in rebuilding Europeâs competitiveness in software and in achieving European digital
+strategic autonomy. By enabling all European actors â from software builders to users, across both public and private sectors â to
+align around the open-source software delivery model, Europe can regain control over the digital infrastructure used by organizations
+and individuals alike.
+
+This document presents the perspective of a 21-year-old open-source company, with extensive experience in building and sustaining
+open-source software businesses in Europe. It outlines our analysis and proposals to contribute to the shared European objective of
+regaining control over critical digital infrastructure and software ecosystems.
+
+Company Presentation
+XWiki SAS is a French-Romanian company with 20 years of experience, providing us with concrete lessons on how open-source
+software can be developed, funded, governed, and adopted at scale within the European regulatory, economic, and institutional
+context. For over two decades, we have developed the XWiki and CryptPad collaboration solutions, 100% as open source, sustained
+exclusively by our business model without any external investor funding. Over the years, we have benefited from significant public
+funding, giving us strong experience in how European and French funding for R&D, software, and open source operates in practice.
+XWiki is used by thousands of organizations worldwide and competes with dominant players such as Atlassian, Notion, and several
+Microsoft services, while offering sovereign solutions that can be self-hosted or deployed in the cloud. CryptPad has high success
+in the B2C sector with more 350k monthly users.
+
+This experience provides direct insight into how open-source companies can contribute to European digital sovereignty. Operating
+in both public and private sectors, and facing competition from predominantly non-EU, cloud-only providers, has allowed us to
+observe first-hand how funding mechanisms, procurement rules, and regulatory choices shape market outcomes. Our main goal has
+been to develop open-source software that enhances digital strategic autonomy and sovereignty for governments, businesses, and
+individuals. We therefore welcome the European Commissionâs commitment to developing the open-source sector in Europe and are
+eager to contribute our expertise to strengthening European digital sovereignty through open-source software and collaboration.
+
+1. What are the strengths and weaknesses of the EU open-source sector?
+1.1 Strengths
+Europe has excellent open-source developers and is a key contributor to open-source software worldwide. Many European developers
+have created key software tools such as MySQL/MariaDB, Linux, Nextcloud, XWiki, CryptPad, and e/OS, both within European
+companies and in US-based organizations. Additionally, numerous European developers have contributed to major projects like
+Android, Linux, and GitLab.
+
+Europe also has a vibrant open-source ecosystem with many activists who see open source as strategic. This ecosystem plays
+a critical role in long-term maintenance, rapid security response, and talent retention, as active communities ensure continuity of
+
+XWiki SAS - 4 rue du Faubourg PoissonniÃ¨re - 75010 Paris - France                 SociÃ©tÃ© par Actions SimplifiÃ©e au capital de 37 324 Euros
+TÃ©l: +33 (0)1 45 42 40 90 Fax: +33 (0)9 59 26 92 14                                    RCS: Paris B 477 865 281 TVA: FR 69 477 865 281
+Email: contact@xwiki.com                                                                                          Site web: www.xwiki.com
+                               Open Source and Europeâs Digital Competitiveness - Policy perspectives from XWiki SAS on strategic             4
+                               autonomy and software sovereignty
+
+expertise and stewardship of key software components over time. The FOSDEM conference is a great example of this thriving
+ecosystem and community.
+
+European B2B SMEs have demonstrated that it is possible to successfully grow a company, create skilled jobs, train and develop
+new talent, and reinforce European industrial resilience, often without external investment, in a very adverse environment dominated
+by Big Tech. Examples include Nextcloud, Vates, Proxmox, Open-Xchange, XWiki, Murena, OpenProject, and Bluemind.
+
+1.2 Weaknesses
+For many years, open source has been largely ignored by the business world, while at the same time âopen-source washingâ has
+been at work:
+
+a. Open source has not been favored by Tech venture-capital funding
+
+Multiple open-source projects with a priority on business objectives (versus open-source ones) have gone to US-based venture-capital
+(VC) firms: MySQL, Nuxeo, Strapi, Talend. Several of these were later acquired by US companies (MySQL, Nuxeo, Talend).
+When VC investors go for open-source solutions, there is a strong intention of "open washing" or progressively closing down the
+source over the long term.
+
+Venture capital is not the most suitable funding model for open-source companies. In the absence of regulation or strong incentives
+to maintain fully open-source offerings, VC funding can create pressure to progressively close open-source strategies in pursuit of
+high profit margins. While open source can be profitable, relying solely on this model often leaves incentives to limit openness in
+order to maximize returns.
+
+Alternative funding mechanisms that prioritize sustainable, lower-risk growth while supporting open-source principles are therefore
+necessary.
+
+b. Regulation and general incentive environment does not favor open source
+
+Large clients and regulators have so far struggled to require strong adoption of "Open Standards" and "Open Source" from dominant
+providers, who often pursue bundled offerings (see 3/).
+
+In the private sector, large companies have rarely demanded Open Standards, portability, or de-bundling from their providers. Despite
+representing collective spending in the billions of euros, they have not been able to impose these requirements on their suppliers:
+
+   â¢ Use Open Standards and Open Source whenever possible
+   â¢ Avoid usage of proprietary and undocumented formats that are stable over time
+   â¢ Reduce pricing when not using a subset of the solution in the case of bundles
+
+On the regulatory side, when some regulations have been used, they have been extremely complex and tend to favor large companies
+(GDPR, CRA). More robust measures are needed to ensure emerging actors are not hindered. Stronger regulation should require
+large companies to:
+
+   â¢ Provide data exports with proper formats
+   â¢ Use Open Standards at the core of their systems
+   â¢ Allow real-time communication with their platforms
+   â¢ Offer de-bundled pricing to enable competition product by product
+
+XWiki SAS - 4 rue du Faubourg PoissonniÃ¨re - 75010 Paris - France                 SociÃ©tÃ© par Actions SimplifiÃ©e au capital de 37 324 Euros
+TÃ©l: +33 (0)1 45 42 40 90 Fax: +33 (0)9 59 26 92 14                                    RCS: Paris B 477 865 281 TVA: FR 69 477 865 281
+Email: contact@xwiki.com                                                                                          Site web: www.xwiki.com
+                                Open Source and Europeâs Digital Competitiveness - Policy perspectives from XWiki SAS on strategic              5
+                                autonomy and software sovereignty
+
+Additionally, stronger incentives are needed for both market providers and regulators:
+
+   â¢ Buy European, buy open source, buy small business, which is also promoted by the EuroStack movement.
+   â¢ Scoring systems in public and private tenders that reward resilience and the use of open-source solutions. In this area we
+      support the CNLL proposition of the Risk Assessment Framework (a âSovereignty Scorecardâ) or the Digital Resilience Index
+      Proposal (https://resiliencenumerique.com/)
+
+Taken together, regulatory complexity, procurement practices, and misaligned incentives shape market outcomes in favor of dominant
+incumbents, making it significantly harder for open-source and emerging European actors to compete on equal terms.
+
+2. What are the main barriers that hamper
+2.1 Adoption and maintenance of high-quality and secure open source
+In addition to the general weaknesses already listed, the following aspects are highly important:
+
+   â¢ Reluctance to change for solutions not 100% matching alternatives
+
+The lack of adoption is due, on one hand, to the reluctance of IT departments to change, and on the other hand, to the difficulty for
+open-source solutions to fully match the features of proprietary software - mainly due to a lack of funding.
+
+   â¢ Lack of funding and traditional tech funding not matching the needs of the open-source sector
+
+Funding through VCs, while it could look like a solution, is not adapted to the open-source market (see above). While public funding
+through projects is beneficial and has allowed solutions to emerge, the level of funding does not matching the level of cloud funding,
+for instance. Both public funding and actual customer-based funding need to be incentivized.
+
+   â¢ Bundle strategy of large players (not specific to open source and relevant to both B2B and B2C)
+
+The bundle strategy of large players allows them to use their dominant position to stifle competition. For a customer, choosing a better
+local solution (open source or not) does not change the price paid. Moreover, proprietary formats and the complexity of migration
+add additional costs to switching. The only exception is the Teams module in Microsoft 365, which was priced separately following a
+complaint by Slack. This needs to be generalized to stop Big Tech such as Microsoft from providing various additional software for
+free, when clients are effectively locked into essential tools like email and office suites. Clients should have the ability to switch any
+solution for an alternative without being constrained by pricing or bundling strategies.
+
+In the B2C sector, users would like a simple integrated solution. The highly funded proprietary vendors financed by advertisements
+have the capacity to provide horizontal solutions matching many needs.
+
+   â¢ European companies and public procurement processes often de-prioritize resilience and regulatory compliance (not specific
+      to open source)
+
+Hosting personal data with American companies raises significant GDPR compliance challenges, particularly in relation to data
+transfers, access by foreign authorities, and long-term legal certainty. However, even governments try to find loopholes to continue
+choosing Microsoft. Resilience is often limited to the hosting location, regardless of the source of the code. Resilience is de-prioritized,
+as European companies have always had a high risk of dependence on US software.
+
+   â¢ In the B2C market, competition with "free" solutions, with data-extractive business models
+
+XWiki SAS - 4 rue du Faubourg PoissonniÃ¨re - 75010 Paris - France                   SociÃ©tÃ© par Actions SimplifiÃ©e au capital de 37 324 Euros
+TÃ©l: +33 (0)1 45 42 40 90 Fax: +33 (0)9 59 26 92 14                                      RCS: Paris B 477 865 281 TVA: FR 69 477 865 281
+Email: contact@xwiki.com                                                                                            Site web: www.xwiki.com
+                                 Open Source and Europeâs Digital Competitiveness - Policy perspectives from XWiki SAS on strategic                6
+                                 autonomy and software sovereignty
+
+In the B2C market, while open-source solutions can also be "free", if they do as such, editors lack the funding of the alternatives
+they compete with. While it's possible to charge for hosting services for consumers, the case of paying needs to be made versus a
+hidden payment. GDPR has brought benefits to force companies to explain these hidden services, therefore increasing the value of
+solutions not based on extractive data models. However, currently, only a fraction of users are ready to move to paying solutions, for
+which the offer is fragmented and also non open-source competitors exist. Open-source providers can charge for hosting but also
+compete with their free self-hosted offers.
+
+2.2 Sustainable contributions to open-source communities
+Sustainable contributions to open-source communities are directly linked to long-term security, reliability, and resilience outcomes.
+Without stable funding and continuous contributor engagement, critical software components risk insufficient maintenance, slower
+security patching, and growing technical debt, which ultimately undermines trust and dependability for users across the public and
+private sectors.
+
+There are too many 'free riders' in open-source communities, a phenomenon sometimes referred to as "open washing". As the free
+rider includes large amounts of open-source code in their offering, it only contributes marginally to the actual open-source software,
+and even maintains its own competence and toolset as proprietary. These free riders compete with the actual contributors to the
+open-source communities. Customers and public tenders often inadvertently encourage freeriding by prioritizing the lowest price over
+contributions to open-source sustainability.
+
+Especially when projects become mature and work very well, the presence of free riders redirects available funding to service
+companies instead of to the actual developers of the projects, leading to a lack of maintenance funding. Even initially, most funding
+that is provided goes towards innovation and new features, and not towards maintaining open-source projects. Unless developers
+form companies and build a business model around their open-source software (which sometimes means adopting open core),
+maintenance is heavily underfunded. New regulations such as the Cyber Resilience Act are also increasing the burden on open-
+source developers and do not provide them with a way to obtain funding from it, so there is a risk that the situation will become
+more difficult.
+
+While other models also exist for sustainable open-source software, companies building products that are 100% open source are,
+from our point of view, the most effective method to maximize open-source contributions and ensure sustainability. Customers need
+to fund open-source products' R&D and not get everything at the marginal cost of deployment or hardware, as some service or cloud
+companies could offer. It is a long-standing misunderstanding that the value of open source is that it should be free of charge, when
+the core value is that it is free to analyze and fork. For sustainability, it is important to create a flow of revenue for the actual developers
+of the software. Companies that invest in a team of 100% open-source developers should be encouraged and favored. Service and
+cloud providers should be required either to partner with companies funding development or to invest massively themselves. Tender
+policies should measure the level of mastery of the open-source solution provided and include this in the scoring mechanism.
+
+For end-user or business software, an open-source community will only exist if the companies funding development have a proper
+business model, and vice versa. A company having a good business model around open source needs to fund open-source
+development.
+
+XWiki SAS - 4 rue du Faubourg PoissonniÃ¨re - 75010 Paris - France                     SociÃ©tÃ© par Actions SimplifiÃ©e au capital de 37 324 Euros
+TÃ©l: +33 (0)1 45 42 40 90 Fax: +33 (0)9 59 26 92 14                                        RCS: Paris B 477 865 281 TVA: FR 69 477 865 281
+Email: contact@xwiki.com                                                                                              Site web: www.xwiki.com
+                                Open Source and Europeâs Digital Competitiveness - Policy perspectives from XWiki SAS on strategic             7
+                                autonomy and software sovereignty
+
+3. What is the added value of open source for the public and private sectors?
+3.1 Mutualization and strategic autonomy at the European level
+Only open source will allow each European country to achieve autonomy, while still enabling collaboration with other European
+countries to mutualize the effort required. By sharing and co-developing common open-source components, companies can reduce
+duplication of work, pool investments on strategic building blocks, and benefit collectively from improvements made by others, without
+losing control over their own deployments, local champions, or strategic choices.
+
+3.2 Transparency & Security
+The number one value of open source is the right to know what you are running. This is a key requirement of autonomy and
+sovereignty. Only open source gives you the possibility of being independent from any provider in the analysis of what you are running.
+Transparency increases security. Open source makes it very difficult to include backdoors or highly extractive business models, as
+all actions are visible and communities and customers can freely study and verify the code. At the same funding level, open source is
+vastly superior to proprietary software in terms of security. However, this does not mean open-source software cannot have security
+issues, as many communities do not have enough market share or funding to properly implement the right security processes.
+
+3.3 Lock-in
+100% open source, unlike open core or proprietary software, protects the right to change provider. Lack of vendor lock-in is an indirect
+value, as it enables the key elements of value: control and cost.
+
+3.4 Control
+Open source also protects the right of customers to run the software as they desire. A provider of 100% open source cannot forbid a
+customer from using the software on their preferred hosting, allowing complete control of the chain. This control is key for organization's
+digital autonomy.
+
+3.5 Competition
+Open source encourages competition, as it is possible to fork the software. While this also has some fragmentation effects that are
+not beneficial, it guarantees that software can evolve the way customers decide, and not solely as the provider decides. If a provider
+decides to move the software in a new direction, competition, including employees leaving, can decide to fork and choose the direction
+customers want. Nextcloud has been a positive example of a fork from an initial provider, OwnCloud.
+
+3.6 Cost
+From a cost perspective, it is important to distinguish between short-term and long-term dynamics. In the short term, proprietary
+and cloud providers often apply aggressive pricing or bundling strategies to attract and lock in customers. Over the long term, open
+source is cheaper as it provides better mutualization. However, focusing only on cost risks ignoring the short-term dumping strategy of
+proprietary and cloud companies. The typical business model of the tech industry is low initial prices to capture customers, followed by
+price increases on the basic product or many hidden options once customers are locked-in. The benefits of mutualization only apply if:
+
+   â¢ The number of customers of the open-source solution reaches a threshold market share (5%)
+   â¢ The proprietary entity has stopped a dumping strategy
+
+XWiki SAS - 4 rue du Faubourg PoissonniÃ¨re - 75010 Paris - France                  SociÃ©tÃ© par Actions SimplifiÃ©e au capital de 37 324 Euros
+TÃ©l: +33 (0)1 45 42 40 90 Fax: +33 (0)9 59 26 92 14                                     RCS: Paris B 477 865 281 TVA: FR 69 477 865 281
+Email: contact@xwiki.com                                                                                           Site web: www.xwiki.com
+                                Open Source and Europeâs Digital Competitiveness - Policy perspectives from XWiki SAS on strategic             8
+                                autonomy and software sovereignty
+
+   â¢ The proprietary competitor is not applying a bundle strategy that hides costs in "options"
+
+Medium and long-term costs are protected within open source by the lack of lock-in. Providers that "sell" open source will be challenged
+if they exaggerate their pricing, and while they can change prices, customers will be free to leave with the software. With proprietary
+solutions, the lack of an available migration path might hinder the capacity to switch.
+
+3.7 Innovation
+While the tech industry is considered highly innovative, the goal of commercial companies, especially large or VC-funded ones, is
+not to direct innovation toward customer needs, but toward shareholder needs. They privilege innovation that benefits their business
+model and higher margins. Currently, AI is being used by proprietary software companies as a way to increase prices. Customers
+will have to pay for it, even if they do not see the value (or want the features), and proprietary companies will push solutions that
+risk having significant negative value.
+
+At the same time, it is important to acknowledge that a substantial share of AI innovation itself is built on open-source foundations,
+including core frameworks, libraries, and research outputs developed by academic institutions, individual researchers, and open-
+source communities. These open-source contributions have been instrumental in accelerating innovation across the AI ecosystem
+and demonstrate the capacity of open-source models to support cutting-edge technological progress.
+
+A lot of key innovation is made as open source by individuals or researchers and is often captured by proprietary companies. This
+has been the case in our field with wikis. While wikis were invented by an individual, Ward Cunningham, in 1995 and popularized by
+Wikipedia as open data and open source, the main commercial actors have been Atlassian Confluence and, more recently, Notion,
+providing proprietary wiki solutions. Open-source solutions started before, including XWiki, which started the same year as Atlassian
+Confluence but could not compete with funding generated via other software products (Atlassian funded their wiki solution from their
+Jira tool). Today, as Atlassian turns off on-premise offerings and forces customers onto cloud offers (AWS), customers are seeking
+open-source solutions such as XWiki as a long-term option to protect their data.
+
+4. What concrete measures and actions may be taken at EU level to support the
+development and growth of the EU open-source sector?
+The measures outlined below are not of equal urgency or impact. Priority should be given to actions that directly address structural
+funding gaps, long-term maintenance of critical open-source components, and market incentives that currently disadvantage open-
+source solutions. In particular, funding mechanisms and procurement-related measures are likely to have the fastest and most
+significant impact, while regulatory and fiscal instruments may require longer-term implementation but offer strong leverage once
+in place.
+
+4.1 Amount of funding
+Reach a level of funding for open-source software similar to the funding of the cloud or AI sectors.
+
+Cloud and AI funding levels provide a relevant benchmark because open-source software plays a comparable foundational role in
+the digital ecosystem. Just as cloud and AI technologies underpin a wide range of digital services, innovation, and economic activity,
+open-source software constitutes the core infrastructure on which most modern software stacks are built, including cloud and AI
+systems themselves. Aligning funding levels would reflect the systemic importance of open source, its cross-sector impact, and the
+need for sustained investment in its development, security, and maintenance.
+
+XWiki SAS - 4 rue du Faubourg PoissonniÃ¨re - 75010 Paris - France                  SociÃ©tÃ© par Actions SimplifiÃ©e au capital de 37 324 Euros
+TÃ©l: +33 (0)1 45 42 40 90 Fax: +33 (0)9 59 26 92 14                                     RCS: Paris B 477 865 281 TVA: FR 69 477 865 281
+Email: contact@xwiki.com                                                                                           Site web: www.xwiki.com
+                                 Open Source and Europeâs Digital Competitiveness - Policy perspectives from XWiki SAS on strategic               9
+                                 autonomy and software sovereignty
+
+Existing funding mechanisms specifically dedicated to open source remain limited. Up until now, annual funding of open-source
+software has never exceeded â¬100 million.
+
+4.2 Adapt the type of funding to the needs of the open-source sector
+
+a. Cascade funding (implemented in Next Generation Internet), also in Open Internet Stack
+
+XWiki and CryptPad have both benefited from cascade funding through Next Generation Internet (NGI) and NLNet. We have found
+the cascade funding system to be a highly effective way of funding the actual development of open-source software. It imposes low
+administrative overheads for projects and low levels of extra activities not directly benefiting the project itself. This stands in significant
+contrast to Horizon research collaboration projects, which, while they can provide funding, tend to modify the mission of the project
+to better fit the call and the partners involved. Also, significantly less money goes to development in these projects.
+
+b. Larger and longer-term project funding for projects with a strong track record
+
+A type of funding that is missing is the ability to bring funding to larger projects with a stronger track record, which can still stay aligned
+with their core goals. These would be larger, one-time cascade funding grants for projects that can show a track record with real
+usage but have not yet reached financial sustainability on their own. This type of funding could bring three-year funding visibility,
+allowing long-term hiring.
+
+c. EU Sovereign Tech Fund
+
+A dedicated fund for maintaining libraries and core software would significantly increase long-term funding. It would also address a
+common problem where projects feel compelled to prioritize new features over reliability and security.
+
+The model of the German Sovereign Tech Fund is a strong one. This could also complement the European Digital Infrastructure
+Consortium (EDIC), for which the funding model and approach are not yet known. We believe it is important to focus not only on
+libraries but also on widely used open-source software, such as core collaboration tools, which face strong competition from dominant
+players.
+
+In the governance of Open Source Funds, it is highly important to include actors with strong knowledge of the needs of users, the
+technology as available today, the current open source ecosystem and how open-source technologies are build and companies run.
+It might be necessary to have different funds for different technology areas, as for instance cloud expertise is very different from
+collaboration tools. Moreover, end user applications is very different from low level libraries used by developers. This experience is
+critical to optimize the investments towards solutions that can strive in the market.
+
+Funding could also include bug bounties or paid security or accessibility analyses, as has been done before, but should always include
+funding for developers to actually fix the results of the analyses. As a company that has received bug bounties, which we highly
+appreciated, we have also seen that they created specific pressure to focus on these issues yet without providing proper funding.
+This creates high pressure on teams, as it was not possible to stop other funded activities such as other projects or customer work.
+
+4.3 Preference for local open source
+In this context, âlocalâ should be understood as referring primarily to European Unionâbased open-source software and providers. It
+should also allow Member States to further prioritize national or regional actors where relevant and compatible with EU procurement
+rules.
+
+XWiki SAS - 4 rue du Faubourg PoissonniÃ¨re - 75010 Paris - France                     SociÃ©tÃ© par Actions SimplifiÃ©e au capital de 37 324 Euros
+TÃ©l: +33 (0)1 45 42 40 90 Fax: +33 (0)9 59 26 92 14                                        RCS: Paris B 477 865 281 TVA: FR 69 477 865 281
+Email: contact@xwiki.com                                                                                              Site web: www.xwiki.com
+                                Open Source and Europeâs Digital Competitiveness - Policy perspectives from XWiki SAS on strategic             10
+                                autonomy and software sovereignty
+
+Promote and incentivize resilience and local open source through a set of measures:
+
+     â¢ Buy European act: any European level buying would improve the situation, including for local open-source actors
+     â¢ The following initiative (https://resiliencenumerique.com/) of an Digital Resilience Index for companies is an interesting start,
+       encouraging companies to question their own resiliency
+     â¢ Creating labels for resilient software which includes open source as a positive criteria would also help local open-source actors.
+     â¢ Cybersecurity requirements including open source as a key criteria (or at a minimum shared source)
+     â¢ Public procurement making open source the default, or at a minimum providing higher scores for open-source software. The
+       criteria should include participation to the open-source communities or contractualization with the actual developers of the
+       software
+     â¢ Forcing a minimal percentage of local buying and open-source buying
+     â¢ Tax cuts for companies deploying open-source technologies
+     â¢ Mandate public projects creating code, to produce only public code (Public Money Public Code)
+     â¢ Mandate total cost of ownership (TCO) calculation including exit costs
+
+4.4 Include a preference for providers contributing to open source
+To avoid freeriding, which reduces funding for the actual developers of open-source software, it is necessary that any provider
+including open-source components also either:
+
+     â¢ Actively contribute at a significant level to the open-source software.
+
+or
+
+     â¢ Collaborate directly with the original developers, providing commercial services and employing developers who work on the
+       software.
+
+The preference can be included in tender offer rules through a specific scoring which measures the provider's contribution to the
+open-source software being proposed.
+An allotment strategy could also be implemented to assign a part of the open source project contracts to software subscriptions or
+support towards vendors investing in open source.
+
+4.5 Regulatory actions
+Regulate large software vendors, while protecting smaller vendors. This should include extending DMA and DSA regulation:
+
+     â¢ to more large actors (the limits seem currently quite high, allowing many actors to try to avoid the constraints)
+     â¢ to cover more areas, such as bundling strategies in the Cloud and Digital Workplace sector, for instance
+
+Additionally, regulatory burden should be reduced for smaller actors, including open source actors. The CRA is still unclear in terms
+of implementation for small business actors providing open-source solutions for free, while building a business strategy.
+
+4.6 Software tax for open source
+This proposal is intentionally exploratory and would require careful assessment of feasibility, scope, and governance to avoid
+unintended effects on innovation or competitiveness. Alternative or complementary mechanisms could include mandatory contribution
+
+XWiki SAS - 4 rue du Faubourg PoissonniÃ¨re - 75010 Paris - France                  SociÃ©tÃ© par Actions SimplifiÃ©e au capital de 37 324 Euros
+TÃ©l: +33 (0)1 45 42 40 90 Fax: +33 (0)9 59 26 92 14                                     RCS: Paris B 477 865 281 TVA: FR 69 477 865 281
+Email: contact@xwiki.com                                                                                           Site web: www.xwiki.com
+                                Open Source and Europeâs Digital Competitiveness - Policy perspectives from XWiki SAS on strategic             11
+                                autonomy and software sovereignty
+
+schemes tied to procurement, sector-specific levies, voluntary contribution frameworks with strong incentives, or expanded public
+funding dedicated to long-term maintenance of critical open-source components.
+
+Almost all softwares are using some open-source software, but many of the open-source components are lacking maintenance
+funding. Security requirements on these open-source components are increasing, in particular with the Cyber Resilience Act. Some
+actors are voluntarily deciding to fund the components that are used in their software, however it's rarely proportional to the revenue
+of the companies are getting out of these software, with a significant inequality between actors.
+
+By applying a tax on software (for example 1% or 2%), which would be then used to fund the maintenance of open-source components,
+there would be a direct funding going towards maintenance. This could fund the European Sovereign Tech Fund, the EDIC or other
+funds dedicated to maintenance of open-source software.
+
+5. What technology areas should be prioritized and why?
+5.1. Collaborative and productivity software ecosystems
+Collaborative software matching the Microsoft 365 and Atlassian offerings, and other innovative cloud solutions.
+
+These tools are at the core of daily digital work for public administrations, companies, and individuals. Prioritizing open-source
+alternatives in this area is essential to reduce dependency on dominant non-European providers, avoid lock-in, and ensure long-term
+control over data, hosting, and evolution of features.
+
+a. Open-source components for collaboration
+
+These libraries are foundational building blocks reused across many products. Investing at this level allows strong mutualization,
+faster innovation, and better security through reuse and peer review.
+
+   â¢ Office editor components compatible with Office formats
+      Compatibility with existing Office formats is critical to reduce switching costs and enable progressive migration from proprietary
+      solutions without breaking existing workflows. In this area each provider wanting to provide collaboration tools compatible with
+      OOXML/OpenDocument formats is lacking proper modern day libraries that can be integrated in their software. They end up
+      trying to redevelop partial solutions.
+   â¢ Decentralized technologies and libraries
+      Decentralized approaches reduce single points of failure, improve resilience, and allow federated or self-hosted deployments
+      aligned with European sovereignty requirements.
+   â¢ Open standards implementation libraries
+      High-quality implementations of open standards ensure interoperability between solutions, reduce lock-in, and enable a
+      competitive ecosystem of interchangeable providers.
+
+b. Open-source collaboration products led by 100% open-source companies
+
+Supporting full products developed by companies fully committed to open source ensures sustainable funding for development,
+maintenance, and security, while keeping control in the hands of users and communities.
+
+XWiki SAS - 4 rue du Faubourg PoissonniÃ¨re - 75010 Paris - France                  SociÃ©tÃ© par Actions SimplifiÃ©e au capital de 37 324 Euros
+TÃ©l: +33 (0)1 45 42 40 90 Fax: +33 (0)9 59 26 92 14                                     RCS: Paris B 477 865 281 TVA: FR 69 477 865 281
+Email: contact@xwiki.com                                                                                           Site web: www.xwiki.com
+                                Open Source and Europeâs Digital Competitiveness - Policy perspectives from XWiki SAS on strategic             12
+                                autonomy and software sovereignty
+
+c. Open source end-to-end encrypted collaboration software for the B2C market
+
+These solutions are key to protecting citizensâ privacy, enabling secure personal communications and collaboration without reliance
+on data-extractive business models.
+
+d. Integrations between open-source software, allowing more integrated offerings
+
+Strong integration between open-source tools is necessary to offer coherent alternatives to proprietary suites and to improve usability
+and adoption.
+
+5.2. Mobile devices and operating systems
+Control over mobile operating systems and devices is critical, as they are primary access points to digital services. Open-source
+mobile stacks increase transparency, security, and strategic autonomy. In addition, strong dependencies on proprietary app stores
+and tightly controlled mobile ecosystems create significant sovereignty risks, as they limit the ability of European actors to distribute
+applications freely, impose unilateral technical or commercial constraints, and concentrate control over user access and data in the
+hands of a few non-European platforms.
+
+5.3. Open-source cloud software stacks
+Open-source cloud software stacks matching AWS/Azure offerings.
+
+Open-source cloud infrastructures enable European actors to build sovereign cloud services, avoid dependency on hyperscalers,
+and ensure compliance with European regulations.
+
+5.4. Security libraries and tool-chains
+Security components are foundational to all software. Prioritizing Open-source security libraries allows auditability, faster vulnerability
+detection, shared maintenance, and higher trust across the ecosystem.
+
+6. In what sectors could an increased use of open source lead to increased
+competitiveness and cyber resilience?
+6.1 Competitiveness
+While increased use of open-source software can bring value to any sector of the European economy, there are particular areas
+where the benefits of open-source software can be most effective:
+
+   â¢ Public Administration and Government Services
+
+As the cost of running the public administration is a key challenge, governments have strong reasons to mutualize work through
+open source. They can share with other European governments and create additional value if local actors benefit from their initial
+work. Procurement of open-source solutions by the public sector - provided they are sourced from companies that also offer products
+ready for the private sector - can help increase the competitiveness of open-source vendors. It can also accelerate market adoption
+across broader markets.
+
+   â¢ Military and Security
+
+XWiki SAS - 4 rue du Faubourg PoissonniÃ¨re - 75010 Paris - France                  SociÃ©tÃ© par Actions SimplifiÃ©e au capital de 37 324 Euros
+TÃ©l: +33 (0)1 45 42 40 90 Fax: +33 (0)9 59 26 92 14                                     RCS: Paris B 477 865 281 TVA: FR 69 477 865 281
+Email: contact@xwiki.com                                                                                           Site web: www.xwiki.com
+                                 Open Source and Europeâs Digital Competitiveness - Policy perspectives from XWiki SAS on strategic             13
+                                 autonomy and software sovereignty
+
+Open-source technologies brings transparency and these sector can rely more on open source software which has been properly
+audited. Open source will allow providers to be highly competitive.
+
+    â¢ High Tech and Automotive
+
+In automobile and similar industries, in an age where software technologies are becoming more and more important, as they become
+a key part of the product, open source is key to the competitiveness of the products build by the industry. Cars integrate Android or
+Apple technologies in their cars. Open source can help European companies taking back control and innovate in this area to keep
+the leadership positions they have in the industry.
+
+    â¢ Healthcare
+
+Security and privacy are paramount in the healthcare sector. Data must be protected from companies that provide insufficient
+safeguards or face transnational security vulnerabilities. By adopting open-source solutions, healthcare providers can strengthen data
+privacy, security, and overall trust.
+
+    â¢ Education
+
+Education is a key sector, as it plays a crucial role in preparing talent for open source. Currently, many educational institutions promote
+proprietary solutions to students, creating early dependencies before they enter the professional world. By using and promoting open-
+source solutions in education, we can ensure that future talent is ready to adopt and work with open-source alternatives
+
+    â¢ Climate transition
+
+Open source can bring significant value to environmental sustainability by providing software with lower running costs and extending
+the lifespan of hardware.
+
+6.2 Cyber Resilience
+    â¢ IT Collaboration Services
+
+Currently, the IT services sector is dominated by Microsoft, which creates a huge security and sovereignty liability.
+
+    â¢ Cloud Providers
+
+Open source is a key enabler for resilient cloud infrastructures by reducing dependency on proprietary hyperscaler technologies. It
+allows cloud providers to build interoperable, auditable, and portable stacks, improves transparency of the infrastructure layer, and
+enables faster collective responses to vulnerabilities across the ecosystem.
+
+    â¢ Security & Military Sector, Public Sector
+
+These sectors face high threats related to espionage, sabotage, and strategic dependency. Increased use of open source improves
+auditability, reduces the risk of hidden backdoors, and allows full control over deployment, maintenance, and incident response. It
+also enables cooperation between public actors and trusted local industry for long-term resilience.
+
+The public sector faces a risk of service disruption scenarios linked to potential killâswitch mechanisms embedded in foreign-controlled
+software ecosystems.
+
+    â¢ Cloud Providers
+
+XWiki SAS - 4 rue du Faubourg PoissonniÃ¨re - 75010 Paris - France                   SociÃ©tÃ© par Actions SimplifiÃ©e au capital de 37 324 Euros
+TÃ©l: +33 (0)1 45 42 40 90 Fax: +33 (0)9 59 26 92 14                                      RCS: Paris B 477 865 281 TVA: FR 69 477 865 281
+Email: contact@xwiki.com                                                                                            Site web: www.xwiki.com
+                               Open Source and Europeâs Digital Competitiveness - Policy perspectives from XWiki SAS on strategic             14
+                               autonomy and software sovereignty
+
+Open source is a key enabler for resilient cloud infrastructures by reducing dependency on proprietary hyperscaler technologies. It
+allows cloud providers to build interoperable, auditable, and portable stacks, improves transparency of the infrastructure layer, and
+enables faster collective responses to vulnerabilities across the ecosystem.
+
+   â¢ Individual users
+
+For individual users, open source improves cyber resilience by enabling transparency, user control, and alternatives to data-extractive
+business models. Secure open-source applications, including end-to-end encrypted tools, reduce exposure to mass surveillance,
+large-scale data breaches, and unilateral changes imposed by dominant platforms.
+
+XWiki SAS - 4 rue du Faubourg PoissonniÃ¨re - 75010 Paris - France                 SociÃ©tÃ© par Actions SimplifiÃ©e au capital de 37 324 Euros
+TÃ©l: +33 (0)1 45 42 40 90 Fax: +33 (0)9 59 26 92 14                                    RCS: Paris B 477 865 281 TVA: FR 69 477 865 281
+Email: contact@xwiki.com                                                                                          Site web: www.xwiki.com

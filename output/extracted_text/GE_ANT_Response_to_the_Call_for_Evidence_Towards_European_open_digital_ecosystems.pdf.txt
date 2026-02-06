@@ -1,0 +1,80 @@
+Ref. Ares(2026)1225662 - 03/02/2026
+
+3 February 2026
+
+Feedback to the call for evidence Towards European open digital
+ecosystems
+The GÃANT Association welcomes the European Commission initiative to set out a
+strategic approach to the open-source sector. A strengthened EU open-source sector can
+contribute signiï¬cantly to Europeâs technological sovereignty and the cybersecurity
+agenda, and we call for the support of the European Union to create the framework
+conditions for this. Speciï¬cally, we would welcome the designation of key open-source
+components as critical to allow sustained funding and governance beyond the initial
+development.
+
+Weaknesses of the EU open-source sector
+
+   â¢   In practice, commercial solutions are often favoured because they are seen as
+       quicker to deploy, better aligned with existing procurement frameworks, and more
+       capable of meeting compliance requirements, especially in the area of security,
+       where regulation has expanded signiï¬cantly in recent years. Smaller open-source
+       initiatives struggle to participate on equal footing and to satisfy these requirements.
+   â¢   This challenge is compounded by a poor understanding of open source as a
+       concept, including limited awareness of appropriate funding and contribution
+       models. Open-source software (OSS) developer teams frequently face diQiculties in
+       scaling from strong technical delivery to a full business oQering, as good coding
+       does not automatically translate into viable business models.
+   â¢   There is a decline in the developer communities within public sector organisations
+       which once led OSS initiatives. This has been exacerbated by the loss of skilled staQ
+       to commercial entities.
+   â¢   Sustained funding remains scarce, with support often fragmented into small, short-
+       term grants, such as those under the NGI approach, and there is insuQicient focus
+       at EU level on conservancy models, despite examples such as the Commons
+       Conservancy oQering potential solutions.
+   â¢   For many organisations, the choice between commercial and open-source is based
+       on risk-management decisions, where the cost of investing internally to make other
+       solutions workable does not correspond with operational reality.
+The value of open source in the face of tech dependencies
+
+The value of open source cannot be overstated, especially when considering factors like
+cost, risk, and innovation. For one, using open-source solutions helps avoid vendor lock-in
+and reduces the risk of being held to ransom when dependencies form. In principle, open-
+source solutions allow for more bespoke development and greater inï¬uence over the
+features that are important to the users rather than being driven by external commercial
+priorities. The utilisation of highly skilled local staQ contributes to the growth and capability
+of these organisations to make informed technical decisions rather than acting merely as
+consumers. Finally, open-source increases choice in the marketplace and supports a
+richer ecosystem where service changes are easier to achieve (no vendor lock-in) and
+potentially more innovative than some commercial alternatives. Considering the value of
+open source towards achieving digital sovereignty, open source has to be treated as
+infrastructure rather than innovation. By identifying strategically important open-source
+components as critical, they can be supported through long-term funding and sustainable
+mechanisms â for maintenance, security, and governance â that go beyond initial
+development.
+
+How can the EU support the European open-source sector?
+
+â¢   We need to be proactive in changing our culture and our approaches, rather than
+    waiting until paid-for services develop away from user needs.
+â¢   We need greater emphasis on rebuilding technical skills in universities and valuing
+    highly skilled staQ alongside purchase models for a truly rich open-source environment.
+â¢   We need a shift in perceptions on how open-source support models are ï¬nancially
+    support, including changes in procurement practices to consider the conditions under
+    which open source solutions operate.
+â¢   We need neutral foundations behind open-source initiatives, clear accountability and
+    governance models, and a reduced dependence on single maintainers.
+â¢   We need the European open-source toolset to be competitive and feature-rich to
+    encourage users to make the switch from proprietary alternatives.
+About GÃANT
+GÃANT delivers the pan-European public network for scientiï¬c excellence, research, and
+innovation on a global scale to advance research and education. Through interconnections
+with its 39 national research and education network (NREN) members, the GÃANT network
+is the largest and most advanced R&E network in the world, connecting over 50 million users
+at 10,000 institutions across Europe and supporting all scientiï¬c disciplines. The backbone
+network is Terabit-ready and reaches over 100 national networks worldwide.
+
+The pan-European GÃANT Association has been a trusted partner of the European
+Commission for many years through the coordination of the GÃANT projects. Our mission is
+to empower research and education with an open and stable, though innovative information
+ecosystem, providing the best possible infrastructure to ensure that Europe remains in the
+forefront of research.

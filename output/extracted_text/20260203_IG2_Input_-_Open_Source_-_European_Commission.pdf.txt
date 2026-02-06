@@ -1,0 +1,167 @@
+Ref. Ares(2026)1225765 - 03/02/2026
+
+Interest Group âDigital Tools and their Development, including Artificial Intelligence
+and Machine Learningâ within the Alliance Focus âDigitality in Scienceâ of the Alliance
+of Science Organisations in Germany
+
+Input for a contribution to the consultancy request of the European Commission on its
+initiative to strategically âaddress the economic and political importance of open
+source as a crucial contribution to a strategic framework for EU technological
+sovereignty, competitiveness and cybersecurityâ
+
+Summary of Comments
+
+We, the Interest Group âDigital Tools and their Development, including Artificial Intelligence
+and Machine Learningâ within the Alliance Focus âDigitality in Scienceâ, encourage the EU
+commission to foster the attractivity of the open source market for providers in the EU with
+this envisioned initiative. The EU open source sector should now be considered in terms of
+its paramount importance for the digital security and digital sovereignty of EU and its Member
+States. Emphasis should be laid on the political necessity and political will to significantly
+reduce dependence on international technology giants. European money spent within the EU
+on open source software adds to a more stable internal European economy.
+
+Academic and research institutions are experienced in designing and implementing open
+source solutions. Open source software in research is highly accepted to support
+reproducibility of scientific findings and trustworthiness of research. Additionally, open source
+can enhance knowledge and technology transfer from academic research into commercial
+applications. The adoption of open source software corresponds to open science
+approaches, mitigates the risk of vendor lock-in and fosters competition in the development
+of optimal solutions for end-users, thereby benefiting society. Support for existing open
+source providers and networks and for research-related open software offerings for
+European higher education systems would be of great benefit.
+Another import context is open source for generative AI models and tools through the
+provision and development of open source AI. This is especially important for open training
+data, open model weights, and open AI algorithms.
+Universities and research institutions are exposed to an increased risk of cyber attacks, often
+with long-term consequences in reputation and financial expenses. The increased use of
+open source software can help to mitigate hazards and reduces the risk of significant internal
+organisational and economic damage to scientific organisations. A consistent combination of
+open source code and cybersecurity through increased use of open source-based,
+trustworthy solutions in software or hardware, such as RISC-V microcontrollers, could be
+effective. Open source trust anchors have to be promoted and used particularly in security-
+critical areas. Examples are technology-neutral 5G and 6G test environments (i.e., the Open
+RAN concept).
+It is also desirable to strive for the implementation of rules for publicly funded institutions and
+projects requiring them to use a certain amount of open source software, if possible.
+Strengthening these efforts by means of additional funding opportunities for open source
+software projects and their use in publicly funded projects and institutions would be beneficial
+for academia and society. It enhances digital sovereignty and in addition reduces the
+potential for state-guided coercion through the manipulation of software or disturbance of
+services.
+Detailed comments to the guiding questions:
+
+1. What are the strengths and weaknesses of the EU open-source sector? What are the
+main barriers that hamper (i) adoption and maintenance of high-quality and secure open
+source; and (ii) sustainable contributions to open-source communities?
+
+The EU open source sector has so far been a niche market and should now be
+fundamentally reassessed in terms of its critical importance to the digital autonomy and
+security of the EU and its Member States. The emphasis on strengthening the
+competitiveness of the open source sector in the draft text is understandable, but the
+argument should focus primarily on the absolute political and economical necessity of
+significantly reducing dependence on international technology giants. This necessity also
+includes support for open source-based large language models in order to reduce
+dependence on international providers of proprietary solutions in this area as well.
+
+One barrier to the use of open source software is that, like proprietary software, it incurs
+(follow-up) costs when it is introduced and/or when support is required during ongoing
+operation. Such costs are typically not covered by project funding. Public funding for these
+follow-up costs would significantly increase the willingness to use open source systems in
+academic and research environments.2. What is the added value of open source for the
+public and private sectors? Please provide concrete examples, including the factors (such as
+cost, risk, lock-in, security, innovation, among others) that are most important to assess the
+added value.
+
+At a time when universities and research institutions are already exposed to an increased
+risk of cyber attacks, often with long-term and costly consequences, the increased use of
+open source software in all core areas of higher education and non-university research
+institutions helps them to mitigate risks and reduces the risk of significant internal
+organisational and economic damage. However, if open source software does indeed
+achieve a similarly widespread use within the EU in the future as proprietary software
+currently enjoys, it cannot be ruled out that these systems could also become more frequent
+targets of cyber attacks in the medium term. At present, however, this is not foreseeable.
+Open source software also avoids the currently excessive costs for licences for day-to-day
+standard tasks that are currently performed using costly proprietary software.
+
+In addition, the use open source as part of the research process enables researchers to tailor
+software solutions to their specific needs, supports reproducibility and reuse of scientific
+findings, and enhances transparency and trustworthiness of the research system as a whole.
+Open source software regularly comes along with the use of open and documented file
+formats that are less vulnerable to cyber attacks, and additionally it can enhance knowledge
+and technology transfer from academic research into commercial applications. Open source
+software also provides valuable learning opportunities for university students, enabling them
+to engage with real-life, production-level codebases and potentially contribute to real-world
+projects.
+
+The adoption of open source software mitigates the risk of vendor lock-in and fosters
+competition in the development of optimal and affordable solutions for end-users.
+
+Securing talent in EU by providing favourable conditions to engage with or even work
+regularly from open source software in research, teaching and learning and administration at
+universities and non-university research institutionsleads to a long-term sustainable software
+future. European money spent within the EU on open source software also adds to a more
+stable internal economy.
+3. What concrete measures and actions may be taken at EU level to support the
+development and growth of the EU open source sector and contribute to the EUâs
+technological sovereignty and cybersecurity agenda?
+
+A bold public stance by the European Commission in favour of open source infrastructures
+would be helpful. Support for existing open source providers and networks and for research-
+related open software offerings for European higher education systems would be of great
+benefit: Additional funding for open source software projects, their general deployment, their
+use in publicly funded projects and institutions and their long-term maintenance is required.
+In cases where suitable open source alternatives are available, it is also desirable to strive
+for the implementation of rules for publicly funded institutions and projects requiring them to
+use them.
+
+In addition, the EU Commission may enable or provide funding schemes for collaboration
+between the public and private sectors. The open source world usually misses the
+commercial management layer, but collaborative processes like community management,
+requirements engineering or integration require support.
+
+4. What technology areas should be prioritised and why?
+
+Open source productivity software and research software should both be prioritised. A
+consistent combination of open source code and cybersecurity through increased use of
+open source-based, trustworthy solutions in software or hardware, such as RISC-V
+microcontrollers, could be effective. Open source trust anchors have to be promoted and
+used particularly in security-critical areas. To give an example, it seems advisable to
+establish and expand technology-neutral 5G and 6G test environments to accelerate
+implementation and support application development. In particular, the Open RAN concept
+should be supported. Additionally, open source for generative AI models and tools through
+the provision and development of open source AI is required. The demand for innovation-
+driven open source AI components is on the rise, such as open training data, open model
+weights, and open AI algorithms. The EU commission should strive for making participation
+in the open source market more attractive for local providers and securing European values
+and design options.
+
+5. In what sectors could an increased use of open source lead to increased competitiveness
+and cyber resilience?
+
+In the research and education system, the prioritised use of open source software would help
+to significantly reduce the excessive number of extremely costly cyber attacks. These attacks
+most frequently affect educational institutions that primarily use the systems of technology
+giants. Furthermore, prioritising open source solutions aligns with open science approaches,
+enhances digital sovereignty and reduces the potential for state-guided coercion through the
+manipulation of software or disturbance of services. An additional benefit of open source
+software is often the usage of open data formats, which makes computing interoperable and
+thus creates the potential for an ecosystem of exchangeable components.
+
+Contact persons: SÃ¶ren Lorenz, Klaus Wannemacher
+
+Authors:
+   â¢ Dirk EisengrÃ¤ber-Pabst, https://orcid.org/0000-0002-1682-9679 (Fraunhofer-Gesell-
+       schaft)
+   â¢ Konrad FÃ¶rstner, https://orcid.org/0000-0002-1481-2996 (Hochschulrektorenkonfe-
+       renz â TH KÃ¶ln)
+   â¢ Bernadette Fritzsch, https://orcid.org/0000-0002-0690-7151 (Helmholtz-Gemeinschaft
+       â Alfred-Wegener-Institut fÃ¼r Polar und Meeresforschung)
+â¢   Markus HaarlÃ¤nder, https://orcid.org/0000-0002-7742-8545 (Max-Planck-Gesell-
+    schaft)
+â¢   Stephan Janosch, https://orcid.org/0000-0002-2401-6862 (Max-Planck-Gesellschaft)
+â¢   SÃ¶ren Lorenz, https://orcid.org/0000-0001-8577-6614 (Helmholtz-Gemeinschaft â
+    GEOMAR Helmholtz Centre for Ocean Research Kiel)
+â¢   Philipp Meyer, https://orcid.org/0000-0002-7986-9432 (Deutsche Forschungsgemein-
+    schaft)
+â¢   Klaus Wannemacher, https://orcid.org/0000-0003-4810-3693 (Hochschulrektorenkon-
+    ferenz â HIS-HE, HIS-Institut fÃ¼r Hochschulentwicklung)

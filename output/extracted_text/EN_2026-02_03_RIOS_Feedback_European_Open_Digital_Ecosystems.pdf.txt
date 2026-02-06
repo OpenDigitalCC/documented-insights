@@ -1,0 +1,193 @@
+Ref. Ares(2026)1225530 - 03/02/2026
+
+                              Contribution by RIOS
+
+         to the Call for Evidence on European Open Digital Ecosystems
+                  A Complementary Contribution to the OSBA Submission
+
+Nature and Scope of This Contribution
+RIOS (Rete Italiana Open Source) is the Italian network of open source companies. As a member of
+APELL (Association Professionnelle EuropÃ©enne du Logiciel Libre), RIOS works in close coordination
+with peer organisations across Europe, including the Open Source Business Alliance (OSBA) in
+Germany.
+
+This contribution is designed as a complement to the OSBA submission. RIOS fully endorses the
+OSBA response to this Call for Evidence, which provides detailed answers to the five guiding
+questions posed by the Commission. Rather than restating those answers, this document focuses
+on three areas where we believe additional emphasis or different framing can strengthen the
+European open source position.
+
+The three themes addressed below are:
+
+   1. Open source as a political choice - reframing open source from development methodology
+      to sovereignty instrument
+   2. The strategic role of OSPOs - moving beyond technical coordination toward decision-
+      support capability
+   3. Aggregation as a prerequisite for scale - reinforcing networks, foundations, and
+      collaborative structures
+
+1. Open Source as a Political Choice
+The argument
+Open source has proven to be one of the most effective methods for technological development.
+But open source alone does not guarantee independence or sovereignty. Large US-based
+technology companies use open source extensively while concentrating value extraction and
+strategic control around proprietary platforms. China channels open source development with the
+State as the primary beneficiary.
+
+The European Union has followed a different path, placing people, rights, and communities at the
+centre of its socio-economic model. This is a genuine alternative and should be reflected in EU
+digital and industrial policies.
+
+Open source should be recognised as a policy instrument supporting the Unionâs objectives on
+technological sovereignty, competitiveness, and resilience. Framed this way, open source
+becomes a means to pursue a European "third path": neither capital-centric nor state-centric, but
+oriented towards collective benefit, pluralism, and democratic accountability.
+
+Proposals
+   â¢   Open source as structural competition policy: Open source prevents concentration by
+       design: no artificial scarcity, no permanent lock-in, competition on service rather than on
+       code ownership. The Commission should recognise this by coordinating industrial policy
+        with competition policy: in concentrated markets, funding open source alternatives is
+       competition policy.
+   â¢   Contribution to digital commons in public contracts: Public procurement contracts that
+       deploy open source components should include a "commons sustainability" clause: a small
+       percentage of contract value (e.g., 1-2%) earmarked for the maintenance of upstream
+       open source components used in the solution. This could flow through recognised
+       foundations, maintainer funds, or the proposed EU Sovereign Tech Fund.
+   â¢   Annual dependency assessment: The Commission should publish an annual report
+       measuring EU dependency on non-European proprietary software in critical infrastructure,
+       tracking progress toward open alternatives.
+
+From policy intent to implementation: an organisational gap
+In some Member States, including Italy (CAD art. 68&69), open source preference is already
+embedded in national frameworks, yet often bypassed in practice through procurement design.
+This highlights the need for an internal governance functionâsuch as an OSPOâcapable of
+translating policy principles into concrete tender criteria and of ensuring accountability through
+traceable assessments.â
+
+2. The Strategic Role of OSPOs
+The argument
+The OSBA submission rightly stresses the importance of Open Source Program Offices and calls for
+strengthening the EC OSPO. RIOS supports this and wants to add a point: OSPOs should not be
+seen as technical units alone, but as strategic decision-support structures.
+
+A common limitation in open source strategies is the focus on adoption without matching
+investment in organisational capacity. Technological sovereignty does not derive solely from the
+use of open source software. It comes from the ability to understand, govern, evolve, andâwhen
+neededâreplace the technologies an organisation depends on. OSPOs are the institutional
+embodiment of this capacity.
+
+When adequately resourced and positioned, OSPOs can support evidence-based decision-making
+in areas such as procurement, risk management, vendor relationships, and long-term
+sustainability. Their relevance goes beyond public administrations to large enterprises, where
+technology dependencies and supply-chain risks matter just as much. The work done within
+structures such as TOSIT (The Open Source I Trust) shows how coordinated approaches to open
+source governance can help large organisations align operational needs with strategic autonomy.
+To maximise their systemic impact, OSPOs should be supported not only as internal organisational
+units, but also as a shared interface between public administrations and enterprises operating
+within the European open source ecosystem.
+At Commission level, this could be achieved through a dual approach: on the one hand, by
+financially supporting the creation and consolidation of OSPOs within public bodies; on the other
+hand, by introducing incentive mechanisms in EU programmes and calls that recognise and reward
+the presence of structured OSPOs within participating companies.
+This would facilitate interaction between organisations that share a common governance
+language, comparable objectives, and a long-term commitment to open source sustainability. In
+this model, OSPOs become the mechanism through which strategic priorities, contribution
+practices, and risk-sharing arrangements can be aligned across public administrations and
+industry, as already demonstrated by coordinated initiatives among large enterprises.
+
+Proposals
+   â¢   Mandatory OSPOs for large public entities: EU institutions and agencies, and Member
+       State administrations above a defined threshold (e.g., >1,000 IT staff), should be required
+       to establish an OSPO within 3 years.
+   â¢   OSPO competence framework: The Commission should develop a standard competence
+       framework for OSPO staff, covering technical skills but also procurement law, licence
+       compliance, community governance, and strategic planning. A certification programme
+       should follow.
+   â¢   Support for existing OSPO networks: Rather than creating new structures, the Commission
+       should provide resources to existing networksâOSPO Alliance, CURIOSS, TODO Groupâto
+       develop shared tooling, a common knowledge base, and regular coordination among
+       institutional OSPOs across Europe.
+   â¢   Strategic KPIs for OSPOs: OSPOs should be evaluated not only on operational metrics
+       (projects tracked, licences reviewed) but on strategic outcomes: reduction in vendor lock-
+       in, successful technology transitions, contributions to upstream projects, and procurement
+       diversification. These indicators directly reflect the organisational capabilities that
+       underpin technological sovereignty: the ability to switch, to sustain, to contribute
+       upstream, and to avoid structural lock-in.
+   â¢   OSPO-to-OSPO cooperation programme: A dedicated EU funding line should support
+       bilateral and multilateral cooperation between OSPOs across Member Statesâjoint
+       procurement, shared maintenance of critical components, staff exchanges.
+
+3. Aggregation as a Prerequisite for Scale
+The argument
+A structural problem for European open source is fragmentation. Individual projects, companies,
+or administrations often lack the scale to compete with global proprietary platforms or to sustain
+long-term maintenance. Aggregation and cooperative models are needed to reach critical mass.
+
+These models already exist:
+   â¢   Networks of enterprises: RIOS, OSBA, CNLL and other APELL members aggregate
+       professional open source companies at national level, creating trust frameworks and
+       quality benchmarks.
+   â¢   Open source foundations: Linux Foundation Europe, Eclipse Foundation, and others
+       provide neutral governance and long-term stewardship for critical projects.
+   â¢   OSPO networks: OSPO Alliance, TODO Group, and CURIOSS enable knowledge sharing
+       among institutional open source offices.
+
+Supporting these aggregation layers is a prerequisite for turning innovation into lasting European
+capacity, shared standards, and reusable solutions.
+
+The AI challenges
+The rapid diffusion of artificial intelligence makes the question of scale unavoidable and highlights
+three distinct approaches. In the United States, scale is largely driven by massive private capital
+and vertically integrated platforms; in China, by state-directed coordination, including strong
+support for open source as a strategic instrument.
+Europe should pursue a third path: building scale through cooperation rather than concentration.
+This implies promoting AI development models inspired by mature open source projects, where
+structured governance, transparent contribution processes, and sustainable business models
+coexist.
+Such an approach is consistent with the Unionâs commitment to trustworthy and human-centric
+AI, as reflected in the AI Act, and positions aggregation and open collaboration as practical
+mechanisms to achieve scale while preserving pluralism, accountability, and long-term autonomy.
+
+Proposals
+   â¢   Recognise national OS enterprise networks as policy interlocutors: The Commission
+       should establish criteria for recognising national networks of open source enterprises
+       (RIOS, OSBA, CNLL, and others) and their European coordination (APELL) as qualified
+       interlocutors for policy consultations and intermediaries for EU programmes.
+   â¢   Quality certification framework: Recognition of quality certification in procurement: EU
+       procurement guidelines should recognise certification by established networks and
+       foundations as valid evidence of technical capacity and quality standards, on equal footing
+       with vendor-specific certifications. This would reduce perceived risk for contracting
+       authorities and create incentives for professional quality without distorting competition.
+   â¢   Preferential procurement for certified providers: EU procurement guidelines should allow
+       contracting authorities to use certification by recognised networks as a selection or award
+       criterion, reducing risk and rewarding professional quality.
+   â¢   European Open Source SME Fund: A dedicated equity or grant instrument should support
+       growth-stage open source companies in Europe, addressing the documented gap in access
+       to scale-up capital.
+   â¢   Support AI development models inspired by mature open source projects, where
+       structured governance, transparent contribution processes, and sustainable business
+       models coexist, enabling European actors to aggregate capabilities and achieve scale in line
+       with the AI Act.
+Conclusion
+European open digital ecosystems will not be strengthened by technology choices alone. They
+require deliberate policy framing, organisational capacity, and collaborative structures capable of
+operating at scale.
+
+By recognising open source as a strategic policy asset, investing in OSPOs as decision-support
+structures, and reinforcing aggregation models across enterprises, foundations, and OSPO
+networks, the European Union can transform its existing strengths into long-term technological
+sovereignty grounded in European values.
+
+RIOS reiterates its endorsement of the Open Source Business Alliance submission and offers this
+contribution in the same collaborative spirit that underpins the open source ecosystem. Additional
+perspectives from other APELL members, including CNLL, further elaborate on procurement value-
+chain dynamics and regulatory coherence.
+
+RIOS remains available to contribute to continued, structured dialogue throughout the policy
+lifecycle, from design to implementation.
+
+Contact
+RIOS â Rete Italiana Open Source
+Website: www.reteitalianaopensource.it
+Member of APELL â Association Professionnelle EuropÃ©enne du Logiciel Libre

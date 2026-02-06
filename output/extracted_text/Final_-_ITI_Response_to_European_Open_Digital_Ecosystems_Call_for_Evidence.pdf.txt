@@ -1,0 +1,200 @@
+Ref. Ares(2026)1212511 - 03/02/2026
+
+    ITI Response to the Call for Evidence on European Open Digital
+                               Ecosystems
+
+                                                                            3 February 2026
+
+Introduction
+
+The Information Technology Industry Council (ITI) appreciates the opportunity to provide
+feedback to the European Commissionâs Call for Evidence on European Open Digital
+Ecosystems.
+
+ITI is the premier global advocate for technology, representing 80 of the worldâs most
+innovative companies. Our membership spans across the entire spectrum of technology,
+including global leaders in software and AI, hardware, cloud, cybersecurity, and
+semiconductors. ITI promotes public policies and industry standards that advance
+competition, innovation, and trust in the digital economy.
+
+ITI welcomes the Commissionâs focus on strengthening the EU open source ecosystem. The
+initiative comes at a moment when Europe is seeking to strengthen resilience and security in
+its digital foundations while boosting competitiveness and innovation. Open source plays an
+important role in this effort and is already deeply embedded across modern digital products
+and services and widely embraced by the tech industry. Open source is developed and
+maintained through decentralized, globally distributed communities, and modern software
+supply chains are intrinsically global and interconnected. Policies designed to strengthen
+Europeâs open source ecosystem should reflect this reality and focus on practical measures
+that improve capacity, security, and deployment readiness â so that users in Europe can rely
+on robust, competitive, secure, and trustworthy solutions.
+
+In this context, while ITI recognizes Europeâs ambition to strengthen technological
+sovereignty as a legitimate strategic objective, we underscore that effective technological
+sovereignty cannot be achieved in isolation. Sovereignty should not be understood as a
+rejection of global interdependences, but rather as Europeâs and European organizationsâ
+ability to develop strategic strengths and act independently where needed, in ways that
+remain consistent with openness and based on choice among diverse trusted providers
+regardless of their development model.
+
+Below, ITI sets out key considerations to support the Commissionâs work to strengthen open
+digital ecosystems in a manner that advances security, resilience and effective technological
+sovereignty â while preserving openness, choice, and trust in the digital economy.
+The strategic value of open source for the EU
+
+Wider integration of open source software (OSS) across the public and private sectors can
+provide several benefits:
+   â¢ Lowering barriers to entry: OSS can reduce costs and increase flexibility and
+       scalability, helping SMEs, startups, and established companies to compete in fast-
+       changing markets.
+   â¢ Enabling public sector development and deployment: For governments developing
+       sovereign LLMs, releasing them as open source can support the âpublic money, public
+       codeâ principle, lowering barriers to adoption and supporting secure data storage and
+       processing.
+   â¢ Driving innovation and research: Open access can provide researchers with building
+       blocks to run meaningful experiments, replicate results, and improve performance of
+       solutions through wider collaboration.
+   â¢ Enhancing collective security and safety: Sharing model weights and training data in
+       AI development can enable broader safety testing, faster bug discovery, and pooled
+       expertise to strengthen resilience and model quality.
+
+To boost competitiveness and cyber resilience, the EU should prioritize targeted support for
+open source where it can deliver clear benefits, including by enabling local innovation. Data-
+intensive sectors such as autonomous vehicles and robotics may benefit in particular, by
+improving visibility into training data and allowing developers to complement models with
+their own datasets and expertise.
+
+Competitiveness as a foundation for effective sovereignty
+
+To fully realize these benefits at scale, sovereignty and competitiveness must be understood
+as mutually reinforcing. Europe can be sovereign without excluding trusted non-EU players
+by default. Being sovereign is not about rejecting non-EU products and services: effective
+sovereignty is the ability to leverage best-in-class, reliable and secure technology, and it is
+closely linked to Europeâs competitiveness. Sovereignty should be built on strength, not
+isolation.
+
+In this context, promoting a robust OSS ecosystem should rightly be an integral part of
+Europeâs vision for technological leadership, and can be significantly advanced through
+coordinated support and investment in the OSS ecosystem. A 2024 Harvard study found that
+globally, the supply-side value of widely-used OSS is $4.15 billion and the demand-side value
+is much larger at $8.8 trillion. Firms would need to spend 3.5 times more on software than
+they currently do if OSS did not exist (Hoffman, Nagle and Zhou, 2024). OSS already
+contributes up to â¬95 billion annually to EU GDP, supported by over 21 million European
+software developers.1 Targeted EU-led investment in OSS would build on this foundation and
+broaden technological choice and control. By addressing vulnerabilities caused by under-
+
+1
+    https://innovationgraph.github.com/economies/eu
+                                                                                             2
+investment, Europe can build the leadership and resilience necessary to exercise genuine
+choice among trusted providers â both European and international â while fostering
+collaborative innovation and competitiveness.
+
+This competitiveness imperative is directly linked to the needs of European users, especially
+SMEs and startups, which depend on broad access to cost-effective, interoperable, reliable,
+and secure services to scale and compete globally. Policies that would limit their options may
+create competitive disadvantages. Technological choices should therefore be assessed on the
+basis of technological merits such as features, security, functionality, openness, and the
+ability of a provider to offer long-term stability and professional support.
+
+Restrictive policies based on sovereignty criteria could limit the ability of European users to
+access critical technologies. Instead, the focus should be on building trust-based, transparent
+mechanisms that promote security, technical competence, and resilience.
+
+Focusing on capacity-building and objective criteria
+
+In the current context, the EU is rightly seeking to strengthen its security and the resilience of
+the digital supply chain. However, policies that would bluntly equate geographic origin with
+security would be misguided.
+
+This is particularly important in the context of OSS. Open source is developed and maintained
+through decentralized and often globally distributed communities, where contributors may
+be located in many jurisdictions.2 More broadly, software is rarely written in isolation â
+modern applications, including many proprietary products and services, integrate expansive
+open source libraries upstream of release. As a result, calls for âEuropean open sourceâ
+understood as software developed exclusively within the EU risks overlooking how software
+supply chains function in practice. Approaches that would seek to operationalize sovereignty
+through location-based restrictions or assumptions about origin would thus not be suited to
+open source and would risk undermining the very collaboration that supports the security
+and resilience of widely used components.
+
+For these reasons, the EU should focus on practical measures that strengthen resilience at
+scale. This includes building trusted, resilient and diversified supply chains, and incentivizing
+collaboration with trusted technology providers that offer innovative and secure solutions.
+
+In particular, ITI encourages the Commission to focus on strengthening OSS through practical
+capacity-building measures, rather than replicating broader debates on procurement,
+cybersecurity, and third-country access to data. A capacity-building approach should focus on
+scalable measures that build on existing community and industry frameworks to avoid
+
+2
+ Inbound collaboration data shows that EU-owned open source software projects receive substantial and
+sustained contributions from developers based outside the EU. See
+https://innovationgraph.github.com/economies/eu
+                                                                                                        3
+duplication of efforts, aggregate best practices, and strengthen quality documentation for
+OSS. It should support risk-based approaches and objective tools âincluding a common
+taxonomy to analyze and communicate OSS risks â as well as intra-sectoral and public-private
+information exchanges to identify emerging risks and develop mitigation strategies for
+specific use cases.
+
+Policymakers should promote a diversity of technological choices across public sector
+organizations, recognizing the value of open source code adoption, while supporting the
+broader OSS ecosystem through strategic investments and policy frameworks. This includes
+funding security-focused personnel to improve critical OSS projects and joining industry
+partners in financing improvements to OSS package repositories. To build long-term capacity,
+governments should promote security education in university curricula for software
+developers and create incentives for industry to fund OSS security improvements. In this
+context, the Commission could also explore the development of a European Sovereign Tech
+Fund as a mechanism to strengthen open digital infrastructure, provided funding remains in
+recognition of the inherently global nature of OSS development and maintenance.3
+
+Policymakers should leverage existing, well-vetted standards â such as NIST SP 800-218,
+which has been undergoing conversion to broader international standards â rather than
+developing bespoke frameworks that risk duplication and fragmentation. Security
+frameworks must be risk-based and tailored to accommodate the unique characteristics of
+incorporating open source components into software development, with OSS-specific
+guidance remaining flexible and practical. OSS consumers should employ formal verification
+and other advanced techniques to enhance software security. Policymakers should recognize
+that cloud technologies and "as-a-service" delivery models enable more timely application of
+security updates, contributing to overall digital resilience.
+
+Additionally, the European Commission should establish a coordinated and structured
+interaction with leading global open source foundations and organizations that host and
+steward open source projects. Such engagement would help build awareness and
+understanding of EU policy objectives within global open source communities, and create
+pathways to explore how these objectives can be taken into account in project governance,
+security practices, and long-term sustainability.
+
+Ultimately, any consideration of future sovereignty criteria should remain firmly grounded in
+objective criteria, technical and organizational controls, and governance, risk management
+and transparency principles. These requirements would offer a more meaningful basis for
+trust than nationality, legal immunity, or ownership structure.
+
+3
+    https://eu-stf.openforumeurope.org/
+                                                                                           4
+Preserving choice and control in technology adoption
+
+OSS, because of its transparency, accessibility, and adherence to open standards, can be an
+important building block for sovereignty strategies when combined with integrated
+technology environments.
+
+The choice of adopting an open source or a proprietary solution should be based on the
+specific needs for each use case. For certain use cases, or critical services and infrastructures,
+public and private users expect not only secure and trusted technologies but also the ability
+to maintain control over them, including governance of data, transparency into system
+architecture, service level agreements, legal accountability and support, as well as
+enforceable assurances of service continuity â while at the same time ensuring top-quality,
+cybersecure and innovative services. In this context, it is important to work on safeguarding
+security of the open source ecosystem through collaboration and standards.
+
+Design of control should be guided by objective requirements and user needs, rather than
+assumptions about any particular development model, and should be pursued based on open
+technologies while recognizing the fundamental interdependence of open source and
+proprietary approaches across the software ecosystem and focusing on practical outcomes
+and verifiable assurances. Recognizing this interdependence also means ensuring continued
+access to a full range of trusted technologies â both open source and proprietary â as an
+essential component to support European innovation and competitiveness, and to leverage
+Europeâs industrial strengths.
+
+                                                                                                5

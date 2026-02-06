@@ -1,0 +1,237 @@
+Ref. Ares(2026)1168182 - 02/02/2026
+
+Comment âTowards European open digital ecosystemsâ
+
+submitted by UwU-Space on behalf of
+
+Marcel Schneider ceemos@cascode.eu
+Anja Pfund anja.pfund@protonmail.ch
+maya â551724â boeckh maya@catgirl.global
+Matteo Rizzi mr@0x4141.eu
+Tim Tina Strutzberg tim.tina@strutzberg.net
+Xanthea Andromeda Elenora B. G. ep+elenora@estrogen.zone
+Lukas Huber lukas.huber@roamingstone.ch
+and 1 more anonymous member
+
+2026-02-02
+
+As a group of individuals that are both privately and professionally involved in commercial
+and open source software projects in Europe, we are directly affected by EU activities and
+regulation around open source software. As an organization, we are working towards public
+accessibility of knowledge, where open source software, hardware and science plays a main
+role.
+
+We believe that to support the open source community as well as the European industry, the
+EU needs to clarify and improve the legal and regulatory framework that we work in, beyond
+basic financial support of open source projects:
+
+   1. (access) Broad, public access to computing hardware, including all hardware features,
+        must be encouraged, legally protected and if necessary enforced by commercial regu-
+        lation.
+   2. (compliance) Commercial, governmental and private entities must be able to use open
+        source software without unnecessary regulatory risk and complications.
+   3. (circumvention) It must be possible for open-source as well as commercial projects
+        to bypass artificial restrictions set by hardware and software vendors.
+
+The software ecosystem. To understand these requests, it is crucial to consider how the
+European software ecosystem differs from those in other parts of the world. We can broadly
+distinguish two different types of commercial activities and how they interact with software:
+
+                                             Page 1
+    â¢ (type 1) âreal worldâ businesses that focus on providing physical products and ser-
+         vices to consumers, and extract profits from selling those products and services. Soft-
+         ware is often a crucial part of the product (embedded into pyhsical products, as in-
+         frastructure behind services), and is required to effectively provide the products and
+         services (ERP and office software, CAD tools), but is never itself the product. Exam-
+         ples include BMW, Bosch, Mikrotik, Prusa, Teltonika, and millions of small and medium
+         companies.
+    â¢ (type 2) âgatekeepingâ businesses that focus on providing software and infrastruc-
+         ture to individuals and other businesses, that extract profits by restricting and selling
+         access to this software. The software and services provided are often not really useful
+         on their own, but required to operate real-world businesses, and access to software is
+         the product. Examples include Apple, Autodesk, Google, IBM, Microsoft, Oracle, SAP.
+
+In public perception, the âsoftware industryâ is typically only the type-2 companies, which
+predominantly exist in the Silicon Valley and shape how we interact with computers and
+software. This is not surprising, as that is their purpose and their goal.
+
+This however obscures the fact that, especially in Europe, there is a much larger group of
+type-1 businesses that use and produce large amounts of software, often freely shared in
+open source collaborations. They suffer from the business practices of the type-2 companies
+trying to extract profits from the software that they depend on.
+
+Therefore, the European open source strategy must not fall for the common trap of demand-
+ing more Silicon Valley style type-2 companies that extract profits at the cost of the type-1
+companies that form the backbone of the European economy; instead, it must provide the
+open source community and type-1 companies with the tools and legal backing to push back
+at the type-2 companies âeating the worldâ1 .
+
+Examples (type-1). Most classic industry products today ship with some embedded software
+components, and the product independent parts of this software are usually widely shared
+open source components such as ffmpeg, Linux or Qt. Open platforms developed in an aca-
+demic context such as PX4 grow to become cornerstones of entire high-tech ecosystems, in
+this case the drone industry. Internal tooling such as KiCad or NextCloud are improved as
+needed and passed on, generally without involvement of the corporate structures at all.
+
+Examples (type-2). Microsoft is the classic example of a company that has entrenched it-
+   1
+       https://a16z.com/why-software-is-eating-the-world/
+
+                                                      Page 2
+self in a way that it is impossible to do business without paying them some fees; despite
+the products (operating systems, office software, document management solutions) being
+well understood and with plenty of commercial and open-source alternatives. Ironically, Mi-
+crosoft owes its existence2 to a fear of antitrust regulation, that is now no longer present
+and allows the company to hold a dominating position. Apple is in some ways a competitor,
+but has instead entrenched itself with staggering vertical integration, controlling all layers of
+computer economy from chip manufacturing (via deals with TSMC3 ) to application software.
+Reports on Apple designing cars4 show how far this vertical integration could go. Due to this
+integration, it is hard for smaller players to compete, unless they can get access to some of
+the layers thaks to regulation.
+
+Providing access. Open source software development, and software development in gen-
+eral, is only possible with access to the platforms that can execute the software. While some
+of those are now more accessible than ever (e.g. the web platform or Minecraft as an educa-
+tional platform), we are worried that more and more layers in the computation stack become
+locked down and inaccessible to hobbyists and smaller industry players. The main drivers are
+intellectual property protection (e.g. Widevine5 ) and cyber security requirements requiring
+trusted boot chains, as well as vertically integrated players restricting access to themselves.
+
+While so far we retain the ability to run our own software (e.g. through custom secure
+boot keys on EFI platform, bootloader unlock on Android devices, or the undocumented
+support for third-party operating systems on the Apple Mac platform), these paths are all
+at the discretion of the hardware vendors and are increasingly disappearing: Secure boot
+usually canât be bypassed on ARM-based PCs, the iOS platform offers no option for third
+party operating systems or sideloading and Google Pixel is the last high-end mobile platform
+with full open source support6 .
+
+The regulation has made progress towards ensuring this access through regulation, but we
+are far from a satisfying situation. While we can generally still access and target application
+processors, the situation is less clear for recent generations of compute accelerators such
+as GPUs, AI coprocessors, or camera image processors. Other components such as radio
+modems were never accessible. There is some irony in how cybersecurity requirements such
+
+   2
+       https://pluralistic.net/2022/10/02/the-true-genius-of-tech-leaders/
+   3
+       https://www.phonearena.com/news/tsmc-reserves-80-percent-of-its-2021-5nm-production-for-apple_id129196
+   4
+       https://en.wikipedia.org/wiki/Apple_car_project
+   5
+       https://widevine.com/
+   6
+       https://grapheneos.org/faq#future-devices
+
+                                                         Page 3
+as for trusted boot are used as an excuse to make software platforms inaccesible to research
+and independent software develoment, leading to less secure systems overall7 .
+
+We urge the European Union to demand public access to all layers of computation,
+to foster innovation, promote digital independence and make our digital lives more secure.
+
+Examples. The Raspberry Pi foundation has the goal to enable access to computation hard-
+ware for education. Despite their position as a major player in developer mindshare and
+embedded hardware, they are heavily restricted in what layers of their hardware they can
+provide access to, due to their dependence on silicon vendors and and contractual obliga-
+tions towards them. The RISC-V ecosystem provides open hardware access to the lowest
+levels of computation, but ultimatly software developers are still dependent on silicon ven-
+dors to provide access to the cryptographically protected boot chain. Building own vertically
+integrated projects with the explicit goal of providing all this access is a band-aid solution,
+as such hardware will not be competitive with the massive scale of foreign consumer hard-
+ware flooding the European market. Pine64 is a Chinese vendor that provides state-of-the art
+consumer hardware with open source support as a core feature, but coming from a Chinese
+background, there are massive cultural and legal barriers to rely on such hardware commer-
+cially. Schenker Technologies is a German hardware vendor that provides PC hardware with
+explicit open source support (under the Tuxedo brand), but is limited to what the silicon ven-
+dors allow and software monopolists such as Microsoft demand. The same goes for System76,
+an open-source friendly vendor based in the US.
+
+Compliance. European companies are subject to a large amount of regulation, laws and
+standards; and compliance with those is a core part of operating enterprise IT. Here, we
+observe the issue that compliance generally favours big players, which have the capacity
+and expertise to read and interpret the applicable regulation themselves, and also carry the
+legal risk of their decisions, potentially defending them in court. Smaller market participants
+will generally license an off-the-shelf solution that offers out-of-the-box compliance with all
+applicable and even non-applicable regulation, as it is often not clear what regulation even
+applies.
+
+This perceived legal ambiguity hinders adoption of open source solutions. Even if open
+source solutions are fully compliant (or even more compliant) with regulation such as the
+GDPR or standards like ISO27000, and in also domains where regulation is less strict, the
+
+   7
+       https://www.crossing.tu-darmstadt.de/news_events/crossing_details_294784.en.jsp
+
+                                                       Page 4
+users carry more legal risk without a trusted, large entity guaranteeing compliance. Com-
+bined with the more risk-averse nature of European type-1 companies, this entrenches the
+dominance of international type-2 giants that promise legal security.
+
+Weâd like to see the EU support flagship projects that demonstrate that compliance
+with European regulation can be easy and clear, and does not depend on international
+partners for legal support. We remind the European regulators to be always aware of the
+risk of regulatory capture when phrasing new regulation, and to be clear and unambiguous
+to keep regulation accessible to entities without dedicated legal teams.
+
+Examples. This effect is colloquially described as ânobody ever got fired for buying IBMâ. Even
+when the involved individuals are aware that their decision to go with a big vendor will be
+expensive and technically inferior, they avoid personal responsibility by doing so. The dom-
+inant solutions today are based on Microsoft products, with Microsoft Europe providing the
+legal support for every imaginable compliance regime. Ironically, cyber security standards
+like ISO27000 help proliferate this monoculture of corporate IT solutions, often improperly
+set up and thereby massive cybersecurity hazards. Technically competent individuals tend
+to avoid this space, since creative ideas generally cannot be realized due to compliance con-
+cerns. Some domestic companies like SAP also exploit the risk aversity of other European
+enterprises. Recent regulation, such as the GDPR and the CRA requirements, are better at
+being effective regulation and allowing for creative solutions, but changing the perception
+and reputation of European regulation as a whole is a longer term effort.
+
+Circumvention and adversarial interoperability. The main challenges for open-source
+software today are legal and contractual, not technical, as pointed out above. In this environ-
+ment, facing big industry players that seek to entrench their position in the market, smaller
+players and open-source projects are left with only one option to keep innovating and ad-
+vancing the state of the art: By technically circumventing the artificial barriers that prevent
+platform and market access, not in cooperation, but adversarially. Such an approach is al-
+ways risky, as the vendors can break adversarial integrations intentionally or accidentally
+at any moment, but it is even more so legally risky as there is a wide range of regulation,
+often imposed by international treaties, that bans any form of circumvention, adversarial
+integration, or reverse engineering (âanti circumvention lawsâ). Additionally, any adversar-
+ial interoperability generally also involves a risk of violation of classic intellectual property
+protections such as trademarks.
+
+                                             Page 5
+Open source projects and many companies are deeply familiar with this situation. European
+law provides a wide range of protections for reverse engineering and interoperability, as
+well as the absence of software patents, but things become less clear once products leave
+the European market. In contrast, the Chinese electronics ecosystem freely shares restricted
+documentation and source code, and such code that was likely developed in violation of the
+restrictions set by western vendors, ends up on the European market. The cultural and legal
+differences protect the Chinesese manufacturers sufficiently, while European projects canât
+benefit from the information available there.
+
+We urge the European Union to repeal any anti-circumvention laws that have be-
+come effective in the last decades, and instead to strengthen the protections of adversar-
+ial interoperability to make projects that rely on reverse engineering and circumvention also
+commercially viable.
+
+Examples. Some well-known European open source projects, such as VLC media player and
+ffmpeg could only grow under the absence of software patents, which otherwise hindered in-
+novation in the digital video space. Avoiding proprietary standards sometimes takes comical
+dimensions, such as u-blox referring to a âdisplay data channelâ interface8 rather than using
+the industry standard term âI2Câ (âI2Câ is trademarked, while âdisplay data channelâ is the
+same interface specified as part of the open DisplayPort specification). Reverse engineering
+is extremely common in the industry, and often results in tiny open source projects such as
+pystlink9 , that while barely worth mentioning, help to make European manufacturing more
+efficient. Reverse engineered graphics drivers that touch on various kinds of restricted in-
+tellectual property are developed in Europe as open source projects, driven by pragmatic
+needs for long-term support and reliability, for example etnaviv, funded by an aerospace
+company10 .
+
+    8
+        https://content.u-blox.com/sites/default/files/SAM-M8Q_HardwareIntegrationManual_%28UBX-16018358%29.pdf
+    9
+        https://github.com/pavelrevak/pystlink
+   10
+        https://www.collabora.com/news-and-blog/blog/2017/06/05/android-nxp-imx6-buffer-modifier-support/
+
+                                                        Page 6

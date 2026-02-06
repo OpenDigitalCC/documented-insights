@@ -1,0 +1,57 @@
+Europe has an outstanding culture of transparency that aligns with EU digital    rights and the
+                                                                           Ref. Ares(2026)1225630 - 03/02/2026
+
+clear support of end user and customer rights. It has also become clear, that the European IT
+infrastructure heavily depends on EU-external big tech companies with proprietary systems.
+That leaves the EU and its countries subject to political pressure and amplifies a brain-drain
+out of the EU.
+
+Many crucial Open Source projects have only a single maintainer behind them that are in dire
+need of financial and technical support. While initiatives like the NLNet, Sovereign Tech Fund,
+and the ECâs OSPO have laid a vital foundation for the support of the Open Source ecosystem,
+it has not solved it. Free Software is for a digital society like roads and bridges: Expertise
+required for construction and long term funding for maintenance. Therefore, the ecosystem
+must have funding that isn't redirected to the current or next hype of technologies (e.g. AI).
+
+90% of proprietary products contain Open Source, but the commercial value is solely
+captured by the vendor, many outside the EU. We like to see a mandatory label for software
+products so that buyers can make an informed decision.
+
+A EU wide Sovereign Tech Fund (EU-STF) could create secure and long-term funding. However,
+those who profit from Free and Open Source Software must be made accountable for its
+vendor-neutral support. Also, Open Source is developed on top of existing CI/CD and hosting
+infrastructure, most often non-EU based systems, leading to a resilience-gap.
+
+Preferring Open Source helps the EU to rapidly grow technical skills and build up European
+solutions, keeping R&D investment within the Union while benefiting from globally created
+innovations, rather than exporting it as license fees. Open Source code enables a competitive
+ecosystem of providers to deliver long-term maintenance and security patches well beyond
+standard industry timelines. The economic shift towards buy European (which is just the next
+vendor-lockin) as the only way to "sell" a solution in the EU would be dramatic for the Open
+Source ecosystem. As Free and Open Source Software is global, with maintaining and
+developers from all nations contributing.
+
+Therefore, we'd like to see:
+
+      Clearly prefered incentivize "buy Open Source" solutions backed by european vendors
+      Mandate a transparency label (like EU SEAL0-4) to leave the decisions about the choice
+      of software by the individuals and / or the public rather than forcing it already upon the
+      public by only promoting non free big-tech products, for example with the requirement
+      to use those products in schools.
+      Promote the benefits of Free and Open Source software so that the general public can
+      make an informed choice between a proprietary, a digitally sovereign and an Open
+      Source and sovereign solution.
+      Lead by example via Public Money Public Code. EU institutions should mandate Open
+      Source solutions backed by Open Source from the EU's own sector.
+      Establish a EU wide Sovereign Tech Fund to protect maintainers from the growing
+      funding gap and bring secure and long-term funding to the Open Source projects.
+      Build a clear strategy that benefits Open Source maintainers and projects in the EU, for
+      example by incentivizing via tax-reduction EU businesses to support Open Source for
+the public good. Reduce the burdens to contract Open Source developers across the EU
+member states. It is crucial to keep and strengthen expertise and knowledge in the EU
+to avoid being passengers in our own IT strategy.
+Consult with Free and Open Source experts for existing and new regulations, to ensure
+their practicality and avoid to damage SMEs as well as the Free and Open Source
+ecosystem as has happened in the past.
+Form a legal "safe-harbor" zone for EU-based open source contributors to lower the
+administrative burden.

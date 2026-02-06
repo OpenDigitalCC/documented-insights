@@ -1,0 +1,684 @@
+Ref. Ares(2026)460340 - 16/01/2026
+
+European Open Digital Ecosystems
+      Feedback on call for evidence
+
+                Author         :   Marnie van der Wel
+                Location       :   Tilburg, Netherlands
+                Date           :   16/01/2026
+Table of contents
+Table of contents......................................................................................................................................................2
+1 Introduction...........................................................................................................................................................4
+2 Perspectives and topics.........................................................................................................................................5
+   2.1 Perspectives...................................................................................................................................................5
+   2.2 Topics.............................................................................................................................................................5
+3 Current situation...................................................................................................................................................6
+   3.1 Business to business (supplier) perspective..................................................................................................6
+      3.1.1 Market opportunity................................................................................................................................6
+      3.1.2 Access to required technologies............................................................................................................6
+   3.2 Business to business (customer) perspective................................................................................................6
+      3.2.1 Choice.....................................................................................................................................................6
+      3.2.2 Cost.........................................................................................................................................................6
+      3.2.3 Control of data, privacy and security.....................................................................................................7
+      3.2.4 Ease of use..............................................................................................................................................7
+      3.2.5 Ease of implementation.........................................................................................................................7
+      3.2.6 Ease of switching....................................................................................................................................7
+   3.3 Business to consumer (supplier) perspective................................................................................................8
+      3.3.1 Market opportunity................................................................................................................................8
+      3.3.2 Access to required technologies............................................................................................................8
+   3.4 Business to consumer (customer) perspective..............................................................................................8
+      3.4.1 Choice.....................................................................................................................................................8
+      3.4.2 Cost.........................................................................................................................................................9
+      3.4.3 Control of data, privacy and security.....................................................................................................9
+      3.4.4 Security...................................................................................................................................................9
+      3.4.5 Ease of use, implementation and switching...........................................................................................9
+4 Issues and goals...................................................................................................................................................10
+   4.1 Issues............................................................................................................................................................10
+   4.2 Goals.............................................................................................................................................................10
+5 Proposal...............................................................................................................................................................11
+   5.1 Open source software obligation for client layer........................................................................................11
+   5.2 Open hardware specification obligation for client devices.........................................................................11
+   5.3 Open source software obligation for middleware layer..............................................................................12
+   5.4 Open hardware specification obligation for server devices........................................................................12
+6 Future situation...................................................................................................................................................13
+   6.1 Effect of proposals to goals..........................................................................................................................13
+      6.1.1 Improving access to key technologies..................................................................................................13
+      6.1.2 Establishment of a more open and competitive digital market..........................................................14
+      6.1.3 Improving the ease of switching..........................................................................................................15
+      6.1.4 Enablement and/or improvement of self control regarding data, privacy and security.....................15
+   6.2 Effects per perspective.................................................................................................................................16
+      6.2.1 Business to business (supplier)............................................................................................................16
+      6.2.2 Business to business (customer)..........................................................................................................16
+      6.2.3 Business to consumer (supplier)..........................................................................................................16
+      6.2.4 Business to consumer (customer)........................................................................................................16
+   6.3 New market dynamics.................................................................................................................................17
+   6.4 Summary......................................................................................................................................................17
+7 Expected backlash...............................................................................................................................................18
+   7.1 Reasons of objection....................................................................................................................................18
+   7.2 Should exemptions of the open source obligation be made for sensitive applications?............................19
+8 About the author.................................................................................................................................................20
+   8.1 General information.....................................................................................................................................20
+   8.2 Declaration of interests................................................................................................................................20
+1 Introduction
+After I was informed that the European Commission had published a Call for Evidence (CvE) on the upcoming
+European Open Digital Ecosystem Strategy I decided to submit my feedback on this topic. The reason is that I
+see the importance of digital sovereignty for Europe but also for European citizens. I believe the current state
+of affairs is not satisfactory because of many reasons that I will explain further. Because of my IT background,
+work experience spanning many decades and personal interest and experience in using and managing both
+proprietary and open source software I consider myself sufficiently qualified to submit meaningful feedback.
+
+Document        :   Feedback on call for evidence on European open digital ecosystems
+Author          :   Marnie van der Wel
+                                                          4/22
+2 Perspectives and topics
+2.1 Perspectives
+The current situation and desired situation in Europe with regard to the digital market will be explained from
+the following perspectives:
+     ï· Business to business (supplier)
+     ï· Business to business (customer)
+     ï· Business to consumer (supplier)
+     ï· Business to consumer (customer)
+
+2.2 Topics
+For the client perspectives the following topics are considered to be of importance:
+     ï· Choice
+     ï· Cost
+     ï· Control of data
+     ï· Privacy
+     ï· Security
+     ï· Ease of use
+     ï· Ease of implementation
+     ï· Ease of switching
+For the supplier perspectives the following topics are considered to be of importance:
+     ï· Market opportunity
+     ï· Access to required technologies
+
+Document        :   Feedback on call for evidence on European open digital ecosystems
+Author          :   Marnie van der Wel
+                                                          5/22
+3 Current situation
+3.1 Business to business (supplier) perspective
+
+3.1.1 Market opportunity
+
+If a company wants to become active in a certain digital market segment (e.g. financial software) it will face
+the following challenges:
+     ï· Building up knowledge about the requirements of the market
+     ï· Training staff
+     ï· Investment in developing software
+     ï· Investment in hardware (for running server side software)
+     ï· Investment in marketing
+The above is especially problematic in deeply established markets that are dominated by just a few players.
+Especially when it comes to enterprise grade solutions it is very difficult to gain momentum in the market
+because of the challenges stated.
+
+3.1.2 Access to required technologies
+
+As mentioned in the previous sub-paragraph one of the challenges concerns investment in developing
+software. Most suppliers will produce closed source software in order to be able to protect this distinguishing
+element from implementation by competitors. This also has the (for them) welcoming effect of making it
+harder for potential competitors to gain a stronghold in the market. This means that (potential) competitors
+face large obstacles when it comes to developing/implementing the technology stack they need.
+
+3.2 Business to business (customer) perspective
+
+3.2.1 Choice
+The amount of choice will of course depend of the type of digital solution that is required but in the current
+market we see that choice with regard to the following types of solutions for employees is extremely limited:
+     ï· Digital workplaces (computers + operating system) for employees
+     ï· Office automation
+     ï· Collaboration
+The reason is that we depend primarily (more or less exclusively) on US companies for these solutions. The
+reasons for this have to do with market dynamics and politics but I suffice to say that US companies have
+managed to gain a stronghold in this regard in the last couple of decades. The opinion of the author is that this
+is due to insufficient regulation and oversight on the one hand and customers simply looking at the most
+effective solutions at the lowest cost.
+
+3.2.2 Cost
+As stated in the previous chapter US companies have gained a stronghold by offering compelling solutions for
+affordable/low prices. However now that they have gained a market dominance that for many segments has
+to characterised as semi-monopolies we see that they are slowly increasing their prices. This takes away to
+some degree the initial benefit organisations had when opting for these solutions.
+
+Document        :   Feedback on call for evidence on European open digital ecosystems
+Author          :   Marnie van der Wel
+                                                          6/22
+3.2.3 Control of data, privacy and security
+When organisations choose their solutions they depend on the supplier to adhere to regulations related to
+privacy and data security. The companies behind the digital solutions they have opted for will of course declare
+formally that they are and will remain in line with these regulations. So legally one could say that this is
+covered. However practically this is far from the case since US companies are also legally obligated to adhere
+to US regulations. This means that unwanted exchange of data from European organisations with the US
+government cannot be ruled out in spite of legal assurances that have been given. This can have unwanted
+consequences for European security if this exchange is not in the interest of the old continent. For companies
+it can have unwanted consequences in the space of competitiveness within the market if the US government
+were to exchange obtained sensitive data with commercial entities in the US. Which is something that can on a
+practical level not be ruled out, especially not with the current administration. Another security related risk
+within the current market situation concerns the possibility of disabling technologies in use with European
+organisations because of a reasons of national security of adversaries of the EU.
+
+3.2.4 Ease of use
+The mentioned market dominance of US companies in certain areas of the digital market and the semi-
+monopolies positions hey acquired can or could have negative consequences for ease of use. The reason is
+that ease of use cost money. Suppliers will have to conduct research on good user interfaces and good
+functionalities. This cost will be spend if the market demands it, however if the position of clients is such that
+there is not a lot to demand these companies will be inclined to spend less on innovation. They might even
+deprecate functionalities that are not used enough (whereby the metric for âenoughâ of course is set by these
+companies themselves). This is not in the interest of the clients of these solutions. The result being that they
+will no longer reap the initial benefits of ease of use and their operations will suffer from this.
+
+3.2.5 Ease of implementation
+Ease of implementation is often not a problem since suppliers will make sure its as easy as possible to
+implement their digital solutions because it is clearly in their benefit. They know that once an organisation has
+opted for their offerings it will be relatively ease to ensure that they stay client. So the first step to make
+organisation opt for a certain supplier is to make the process of implementation as easy as possible. This is
+often the case when integrations between other systems are not necessary. This is the reason why more and
+more companies (esp. US companies) offer suites consisting of many applications instead of singular solutions.
+So for clients it seems beneficial to choose for these suites due to the relative ease of implementation.
+However the downside of course is that they will have to make do with the solutions in the suite regardless of
+the quality they have for the client. So the choice for ease of implementation will quite often also result in a
+choice for less quality per individual application.
+
+3.2.6 Ease of switching
+Once organisations have chosen for a supplier this supplier will make sure that switching to another company
+will be relatively difficult simply because it is in their interest to do this. There are multiple ways in which they
+can do this, for instance:
+     ï· Not offering export functionality
+     ï· Not offering efficient export functionality (structure of information is not or badly suitable for
+          importing in another solution)
+     ï· Offering export functionality at high extra cost
+However often this is not even necessary since switching to other solutions can be a daunting task because of
+the following reasons:
+     ï· Cost of training and implementation of new solutions
+
+Document         :   Feedback on call for evidence on European open digital ecosystems
+Author           :   Marnie van der Wel
+                                                           7/22
+    ï·      Technical complexities of implementation of new solutions
+    ï·      Risks regarding negative Impact on the business operations
+3.3 Business to consumer (supplier) perspective
+
+3.3.1 Market opportunity
+
+The situation her is akin to that of the business to business situation. However since consumers are more and
+more accustomed to vertically integrated systems (e.g. smartphones + operating system + services) and
+because the suppliers of those systems control the whole technology stack the supplier who wants to offer its
+services to consumers (especially on mobile platforms) only has two options: 1) To go along with whatever the
+integrated system owner demands before services can be offered on âtheirâ platforms, 2) develop a new
+integrated platform. The latter however is not a realistic choice since this does not only require developing the
+operating system and the applications (related to the services to be offered) but also to entice makers of other
+applications to port theirs to the new platform. And then last but certainly not least to entice consumers to
+buy into that platform.
+
+3.3.2 Access to required technologies
+
+See the business to business supplier perspective.
+
+3.4 Business to consumer (customer) perspective
+
+3.4.1 Choice
+
+Contrary to large organisations consumers do effectively not have a position of negotiation when it comes to
+digital solutions they depend upon. Apart from that they in general do not have the interest in conducting
+thorough marked research in order to see what works for them, what the implications of choosing that
+solution are, etc. They will often choose that what seems to be easy to adapt to, what costs as little as possible
+and what does not require a learning curve as low as possible. This is of course if there is a lot of choice to
+begin with, which is often the problem right now. The most important digital solutions that consumers use at
+the moment are:
+     ï· Personal computers
+     ï· Smartphones
+     ï· Tablets
+     ï· Communication platforms
+     ï· Social media platforms
+If we look at the above and look what is on offer than there is only a few US companies, Chinese companies
+and a single Korean company that are playing a role in this space in the European union. They offer not only
+devices (laptops, smartphones, etc.) but these devices come with a suite of applications that are integrated
+with the operating system which the user cannot choose either. Sometimes its even difficult to uninstall
+individual applications and use other options. The reason is that it is relatively easy for manufacturers to
+frustrate the use of solutions not under their control. For instance by means of not facilitating good integration
+of these alternative solutions with the operating system on the devices that they control. Once a consumer has
+opted for a certain manufacturer for a certain type of device it is highly likely they are sticking to it because
+they get accustomed to the workings of it. So after the initial choice is made consumers seem not to feel a lot
+of desire to choose something else once their solutions need replacement.
+
+Document          :   Feedback on call for evidence on European open digital ecosystems
+Author            :   Marnie van der Wel
+                                                            8/22
+3.4.2 Cost
+
+When it comes to cost consumers will directly pay if they are purchasing a device. Services (especially e-mail,
+file sharing, photo management, productivity applications) are quite often âfreeâ in that only in specific cases
+the consumer has to pay directly but most of the time services are monetised by the controlling companies via
+advertising revenue. This makes the direct cost relatively low for many services consumers need, but is has
+downsides related to other aspects (see further).
+
+3.4.3 Control of data, privacy and security
+
+All data that consumers generate (photos, videos, social media posts, e-mail messages, etc.) are stored on
+servers controlled by the company that offers the solution (device and/or applications) via which this
+information is generated and/or stored. The services via which the data is generated will often have user
+licence agreements in place that state how generated data can be used by the company concerned. This is
+often far broader than what the user feels happy with. However since the user does not have a lot of choice to
+begin with they often will have to accept it in order to have a âdigital lifeâ. So consumers very often have - on a
+practical level - no control over their data, if control means having the final say about whom is to be allowed
+access to it and to what degree access is granted. This situation also results in consumers not having the
+degree of privacy that they desire.
+
+3.4.4 Security
+
+Since almost all software regular consumers use is closed source there is no way for them to assess whether or
+not the software is safe to use or not. They have to fully rely on what the supplier states in that regard. This
+has resulted in situations where hackers have been successful in compromising usersâ devices/services.
+
+3.4.5 Ease of use, implementation and switching
+
+Modern consumer focused devices and services are extremely easy to setup (implement) and to use. The
+reasons are twofold: 1. It should be as easy as possible for consumers to make the choice to use them, 2. Lack
+of functionality. The latter has to do with suppliers wanting to restrict maintenance and testing costs (the more
+functionality the more needs to be maintained and tested with new releases). So ease of use (actually
+establishing a low learning curve) quite often goes along with having only a bare minimum of functionality.
+Switching to other solutions is often not a good option because of the following reasons:
+     ï· It is difficult and cumbersome to transfer data to new services
+     ï· Friends and family are using the same proprietary services (e.g. communication services)
+
+Document         :   Feedback on call for evidence on European open digital ecosystems
+Author           :   Marnie van der Wel
+                                                           9/22
+4 Issues and goals
+4.1 Issues
+
+The previous chapter has shown that there are lots of issues concerning the current situation within the
+European digital market. These can be summarised as follows:
+
+    ï·      Business to business (supplier) perspective:
+           ï· Problematic market opportunities
+           ï· Difficulty getting access to key technologies
+    ï·      Business to business (customer) perspective:
+           ï· Lack of choice in many cases
+           ï· Lack of control regarding data, privacy and security
+           ï· Difficulty switching
+           ï· Increasing costs
+    ï·      Business to consumer (supplier) perspective:
+           ï· Problematic market opportunities
+           ï· Difficulty getting access to key technologies
+    ï·      Business to consumer (customer) perspective:
+           ï· Lack of choice in many cases
+           ï· Lack of control regarding data, privacy and security
+           ï· Difficulty switching
+
+4.2 Goals
+
+The issues mentioned above will logically have to result in the following goals:
+
+    1.     Improving access to key technologies
+    2.     Establishment of a more open and competitive digital market
+    3.     Improving the ease of switching
+    4.     Enablement and/or improvement of self control regarding data, privacy and security
+
+Document          :   Feedback on call for evidence on European open digital ecosystems
+Author            :   Marnie van der Wel
+                                                           10/22
+5 Proposal
+This proposal will explain a number of presumably very impactful measures that can be carried out with the
+idea of improving the issues stated before for European suppliers and customers. Since we are talking of an
+extremely impactful changes the market will need sufficient time to adapt. This means that implementation
+deadlines of the measures can be spaced out in time as much as required. The following measures (preferably
+implemented in the order stated) are proposed:
+     ï· Open source software obligation for client layer
+     ï· Open hardware specification obligation for client devices
+     ï· Open source software obligation for middleware
+     ï· Open hardware specification obligation for server devices
+
+5.1 Open source software obligation for client layer
+
+Every organisation that supplies software to a public audience is required to publish the source code of that
+software with an open source (preferably a GPL2) licence in such a way that it is publicly available via regular
+means (typically files in open formats that can be downloaded from the public part of the internet) of
+acquirement. The source code should be published in open (definition: file formats of which the
+structure/syntax/usage is not covered by a legal licence, so essentially a format that everyone can use without
+legal restrictions) and well understood formats. The obligation for open source software covers all active
+components within a client system (system is defined as hardware + software that have a direct dependence,
+or in other words all software that requires the hardware to run + the hardware itself) that can be altered by
+means of writing code. This includes but is not limited to the following types of software: operating systems,
+applications/apps, software libraries/components, hardware drivers. The goal of this obligation is to make sure
+that on a typical client device (smartphone, tablet, laptop, desktop computer) there will be no software
+running of which the inner workings are obfuscated.
+
+5.2 Open hardware specification obligation for client devices
+
+Software has to be able to communicate with hardware. In order to do this applications usually communicate
+with the operating system which in its turn communicates with the hardware (it is slightly more complex than
+that but this description suffices for the purposes of this document). In order to be able to do the latter the
+makers of operating systems need to understand the workings of the hardware components within the devices
+they wish to be able to support. To ensure this every organisation that supplies client systems to a public
+audience will be required to disclose the workings of every hardware component that is part of the systems
+provided to such a degree that it will be possible for creators of alternative operating systems to let these
+communicate correctly with the hardware that is part of the devices they wish to support. The specifications
+should be published publicly in open (definition: file formats of which the structure/syntax/usage is not
+covered by a legal licence, so essentially a format that everyone can use without legal restrictions) formats and
+in a syntax that is in line with generally accepted conventions within the industry.
+
+Document        :   Feedback on call for evidence on European open digital ecosystems
+Author          :   Marnie van der Wel
+                                                         11/22
+5.3 Open source software obligation for middleware layer
+
+This concerns an extension to the open source software obligation for the client layer. It means that all the
+software that runs on the server (middleware) that is required to offer the service accessed via client software
+will have to meet the same obligations as software running on the client. This will ensure that the total
+software stack that is required to operate a service can be understood by everyone who is interested.
+
+5.4 Open hardware specification obligation for server devices
+
+This concerns an extension to the open hardware specification obligation for client devices. It means that with
+regard to the hardware (indirectly) used to run the software on the server (middleware) the same obligation
+will apply as for client hardware.
+
+Document        :   Feedback on call for evidence on European open digital ecosystems
+Author          :   Marnie van der Wel
+                                                         12/22
+6 Future situation
+6.1 Effect of proposals to goals
+The proposals will have the following effects with respect to the goals stated:
+
+6.1.1 Improving access to key technologies
+
+Proposal                            Effect
+
+Open source software                This will enable (potential) suppliers to (more easily) obtain required
+obligation for client layer         technical and functional knowledge of existing services
+
+Open hardware specification         This will enable (potential) suppliers of hardware to (more easily)
+obligation for client devices       obtain required technical and functional knowledge of existing client
+                                    hardware
+
+Open source software                See âOpen source software obligation for client layerâ
+obligation for middleware
+layer
+
+Open hardware specification         The effect is similar to what is stated at âOpen hardware
+obligation for server devices       specification obligation for client devicesâ but then applies to server
+                                    devices
+
+The combined result of all the effects described will be that it will be easier for (potential) suppliers to obtain
+information about key technologies that they need to be able to develop alternatives.
+
+Document         :   Feedback on call for evidence on European open digital ecosystems
+Author           :   Marnie van der Wel
+                                                          13/22
+6.1.2 Establishment of a more open and competitive digital market
+
+Proposal                            Effect
+
+Open source software                The effect related to this proposal mentioned at âImproving access
+obligation for client layer         to key technologiesâ will lead to it being easier for suppliers to
+                                    develop client software needed for the creation of competing
+                                    services
+
+Open hardware specification         The effect related to this proposal mentioned at âImproving access
+obligation for client devices       to key technologiesâ will lead to it being easier for (potential)
+                                    suppliers to develop alternative offerings
+
+Open source software                The effect related to this proposal mentioned at âImproving access
+obligation for middleware           to key technologiesâ will lead to it being easier for suppliers to
+layer                               develop middleware software needed for the creation of competing
+                                    services
+
+Open hardware specification         The effect related to this proposal mentioned at âImproving access
+obligation for server devices       to key technologiesâ will lead to it being easier for (potential)
+                                    suppliers to develop alternative offerings
+
+The general result will be that frustrating competition by means of obfuscating technological details will be far
+more difficult than it is in the current situation. The consequence of this will be that (potential) competitors
+will have a greater chance to offer alternatives to existing services.
+
+Document         :   Feedback on call for evidence on European open digital ecosystems
+Author           :   Marnie van der Wel
+                                                          14/22
+6.1.3 Improving the ease of switching
+
+Proposal                            Effect
+
+Open source software                will contribute in that it will lead to competitors being (more) able to
+obligation for client layer         acquire the necessary technical and functional knowledge to
+                                    understand competing services and will therefore it will be easier for
+                                    them to offer (better) migration options. This will make switching for
+                                    their customers easier
+
+Open hardware specification         No effect
+obligation for client devices
+
+Open source software                See âOpen source software obligation for client layerâ
+obligation for middleware
+layer
+
+Open hardware specification         No effect
+obligation for server devices
+
+The applicable effects mentioned will enable suppliers to develop better migration options for
+their customers, resulting in eliminating possible technical/functional hurdles that customers
+might experience in current market segments when they want to switch to other providers.
+
+6.1.4 Enablement and/or improvement of self control regarding data, privacy and security
+
+Proposal                            Effect
+
+Open source software                This will make it possible for customers to investigate the workings
+obligation for client layer         of the software they use and to establish its security level. It will
+                                    also be possible to assess how the client software manages data
+                                    and to establish with that the level of privacy that is ensured
+
+Open hardware specification         This will enable customers to investigate the workings of the
+obligation for client devices       hardware and to establish its security level. It will will also be
+                                    possible to assess to which degree data privacy and security is
+                                    sufficiently covered by the hardware concerned
+
+Open source software                The effect of this will be similar to what is stated at âopen source
+obligation for middleware           software obligation for client layerâ but applies to the middleware
+layer                               software
+
+Open hardware specification         The effect of this will be similar to what is stated at âOpen hardware
+obligation for server devices       specification obligation for client devicesâ but applies to server
+                                    devices
+
+The combined effect of all proposals will result in organisations and individuals being able to
+technically/practically assess the level of data protection, privacy and security a service offers
+(instead of having to soly rely on legal assurances given by suppliers).
+
+Document         :   Feedback on call for evidence on European open digital ecosystems
+Author           :   Marnie van der Wel
+                                                          15/22
+Document   :   Feedback on call for evidence on European open digital ecosystems
+Author     :   Marnie van der Wel
+                                                    16/22
+6.2 Effects per perspective
+
+The effects mentioned in the previous paragraph are expected to have the following impact on a practical
+level:
+
+6.2.1 Business to business (supplier)
+
+The following practical changes will be most notable:
+    ï· Developing competing services will be easier and at less cost
+    ï· Established suppliers will find the market to be more challenging
+    ï· Established suppliers will have to invest more in improving customer satisfaction
+
+6.2.2 Business to business (customer)
+
+The following practical changes will be most notable:
+    ï· More choice especially in the services realm
+    ï· Lower prices (as a result of increased offer)
+    ï· Migration to other providers of services will be easier and less costly
+
+6.2.3 Business to consumer (supplier)
+
+Same as âBusiness to business (supplier)â with the addition of:
+   ï· Monetisation by means of generating advertising revenue via usage of the data of customers will be
+        more challenging
+
+6.2.4 Business to consumer (customer)
+
+The following practical changes will be most notable:
+    ï· More choice, especially in the mobile realm (current duopoly will end)
+    ï· More choice regarding alternative services
+    ï· More choice regarding alternative client applications/apps for existing services
+    ï· More control on a practical level with regard to privacy and security
+    ï· Migration to other service providers will be easier
+    ï· Better integration between communication and social media platforms
+    ï· Change of method of monetisation by suppliers
+
+Document        :   Feedback on call for evidence on European open digital ecosystems
+Author          :   Marnie van der Wel
+                                                         17/22
+6.3 New market dynamics
+
+The combined effects described will result in a new market dynamics that is totally different from the current
+situation. The reason is that every application will be available in open source form. These applications will
+have to be (and in principle could be) ported to every operating system that a supplier, non profit organisation
+or even an individual person wishes to support or use (e.g. a smartphone manufacturer could in principle
+install any operating system on their devices they deem suitable as long as they think available applications
+can/will be ported). This porting will have to be done by those who maintain the operating system (e.g.
+manufacturers of smartphones, communities, software companies, etc.). Especially companies that sell client
+hardware devices (e.g. smartphones) will have to ensure that porting will happen if they want to make their
+offerings appealing enough to customers (they will probably be hesitant to buy a smartphone from them if no
+applications can be installed because they are not available). This service of porting (and updating once new
+versions appear) could even be offered as a paid service for those who feel inclined where they do not only
+port but also check the security and privacy of every application to be ported.
+
+6.4 Summary
+
+For suppliers it will be more difficult (not impossible) to differentiate from competitors based on features, ease
+of use, etc. because the technology stack will effectively be commoditized. Instead the main aspect of
+differentiation from competitors will be the quality and cost of the total service they provide to their
+customers and the amount of privacy they ensure. These aspects are therefore expected to improve. Especially
+in the consumer market the changes will be profound since consumers for their digital needs currently do not
+have a negotiating position since in many cases there are hardly any alternatives for the services they use, and
+(if there are) switching is cumbersome on many levels. This situation is expected to change drastically if the
+proposals are implemented resulting in a situation where suppliers have no choice but to take their customers
+within the consumer market (more) seriously when it comes to customer satisfaction and also when it comes
+to another aspect that has always been of importance to many customers but where they are now at the
+mercy of those suppliers (they need to accept terms no matter how bad they are otherwise they are not able
+to use the service they require), namely privacy. All in all one could say that a clear shift of the balance of
+power from suppliers to customers is to be expected as a result of implementing the proposed
+recommendations. One could speak therefore of a paradigm shift where instead of a few powerful companies
+controlling the total market and solely reaping the benefits of that, society as a whole will have collective
+control and therefore will also reap the collective benefits!
+
+Document        :   Feedback on call for evidence on European open digital ecosystems
+Author          :   Marnie van der Wel
+                                                         18/22
+7 Expected backlash
+7.1 Reasons of objection
+The explained proposals will in the humble opinion of the author bring improvement in many ways for many
+stakeholders within the digital market space, but of course this will not be the case for all parties that will be
+impacted. Especially companies (and possibly governments of countries they reside in) who's market position
+strongly depends on holding all the essential cards are expected to oppose the changes vehemently. The
+following important arguments against the proposals are likely to be brought forward by them:
+     ï· We have invested a lot of money in building up the software stack that made us successful, why
+         would we have to share our technology and expertise with our competitors?
+     ï· A company that tightly controls the total technology stack needed for a service is more secure than
+         opening it up
+     ï· Innovation will stop because companies don't want to spend money in software they have to give
+         away
+     ï· We will not be able to monetise our services effectively any more
+
+The first argument seems legitimate at first glance (because research, development and implementation
+indeed costs a lot of money) but the following counter arguments apply as well:
+    ï· They have reaped the benefits of the current situation in which they were allowed to grow to (semi)
+         monopolies to a very large degree and therefore in many cases the expenses that went into
+         developing the current software stack have probably been earned back many times
+    ï· (semi) monopolies are simply not acceptable because it stifles fair market practices that are in the
+         interest of European citizens and organisations. Resolving this must therefore weigh heavier than the
+         interests of a handful of companies
+
+The second argument is one that is often stated by companies that control important segments of the market
+but it does not hold up because of the following reasons:
+     ï· If software can be scrutinised freely, independent investigators will be able to find security
+         vulnerabilities that can be reported more easily. This will contribute to improving the products at
+         hand
+     ï· It will be more difficult for companies to not address vulnerabilities in ways that do not meet
+         reasonable quality standards (because this would immediately be noticed by reporters and
+         influencers), which is also better for security due to the incentive of avoiding publicity damage
+
+The third argument does not hold up because if we look at current open source offerings we see a continuous
+improvement in the quality and features. This is because everyone who has a stake can contribute to
+improvement and will often do so. Or in other words improvements in the form of proposals to change the
+software in certain ways, or even direct coding contributions are expected to come from those who directly
+benefit from them namely the customers themselves. All in all the dynamics of innovation will change but not
+innovation itself!
+
+The fourth argument is of course not true. The reason is that offering services cost money and that applies to
+every competitor as well so the playing field will be levelled. Apart from this it has been concluded previously
+that monetisation should not or does not necessarily have to come from exploiting the software itself but
+could come (more) from monetisation of the quality of service and support. So if one invests in more focus on
+
+Document        :   Feedback on call for evidence on European open digital ecosystems
+Author          :   Marnie van der Wel
+                                                         19/22
+the interests of the customer it is still possible to differentiate from competitors and to make money out of
+that.
+
+Document        :   Feedback on call for evidence on European open digital ecosystems
+Author          :   Marnie van der Wel
+                                                         20/22
+7.2 Should exemptions of the open source obligation be made for sensitive
+     applications?
+
+It might be argued that exemptions are needed for sensitive applications for which very high security and/or
+privacy standards should apply, like banking, authentication and governmental applications. However when it
+comes to security and privacy there are no principal differences between any type of application that deals
+with sensitive data on the one hand and the types that are deemed very sensitive on the other. One could
+even argue that the obligation of open source should apply specifically to every very sensitive application, so
+even more than less sensitive ones since the quality of security is paramount for exactly these types of
+applications. Another argument against exempting certain applications is that this could result in a situation
+where exempt applications will possibly only be made available for a limited number of operating systems (to
+keep the costs of development and maintenance and support as low as possible for the organisations behind
+it). This will result in a situation where companies and individuals who are required to use these applications
+will have no choice but to opt for a platform supported by these applications that they are obligated to use.
+Once they have made the choice for a supporting platform they will probably also use that platform to run all
+the other applications they need because one does not want to operate multiple devices. This of course will
+defeat the general goal that we have namely decreasing dependence on a few companies that own the
+dominating operating systems. But organisations behind the mentioned types of applications might argue that
+open sourcing their application will open the door to the creation of ported or alternative versions that could
+offer functionality not wanted or not deemed safe by the organisations concerned. This however can be
+prevented technically by making sure that every interaction by the user in the application at hand is checked at
+the server side before it is committed there. Furthermore banks and companies behind authentication apps
+will be able (just like anybody else) to check the code of popular alternatives and ported versions and report
+insecurities. The last argument against allowing exemptions concerns the fact that it will not fit in the
+explained new market dynamics that is expected and (as far as the author is concerned desired) to occur if the
+proposed measures are implemented. Or in other words porting applications will become the norm instead of
+the exception and therefore it makes no sense to allow propositions that are antithetic to that.
+
+According to the author the proposed measures will have to be implemented without a single exemption for
+the transition to the desired outcome in order to be fully successful. Those who will have to consider the
+proposal will have to be fully aware of this!
+
+So the answer to the exemption question should be a resounding 'no'.
+
+Document        :   Feedback on call for evidence on European open digital ecosystems
+Author          :   Marnie van der Wel
+                                                         21/22
+8 About the author
+8.1 General information
+
+                           Name:                         Marinus A.M. (Marnie) van der Wel
+
+                           Date of birth:                23th July 1965
+                           E-mail:                       mamvdwel@posteo.nl
+                           Nationality:                  Dutch
+                           Location of residence: Tilburg, Netherlands
+
+                           Profession:                   Business analyst
+
+For more information see LinkedIn profile
+
+8.2 Declaration of interests
+
+The author declares that he:
+    ï· Has no ties to commercial entities (possibly) affected by the changes proposed in this document
+    ï· Does not represent anyone but himself regarding this submission
+    ï· Has a private interest in the proposed changes
+
+Document       :   Feedback on call for evidence on European open digital ecosystems
+Author         :   Marnie van der Wel
+                                                        22/22

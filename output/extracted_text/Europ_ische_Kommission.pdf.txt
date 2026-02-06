@@ -1,0 +1,49 @@
+Ref. Ares(2026)1045155 - 29/01/2026
+
+                                                        LÃ¶sungsweg Steuerberatungs GmbH
+                                                                       GlacisstraÃe 27/15
+                                                                                8010 Graz
+
+EuropÃ¤ische Kommission
+200, rue de la Loi/Wetstraat 200
+1049 Bruxelles/Brussel
+Belgien
+
+_                                                                       Graz, am 29. Januar 2026
+                                                                            SB: Dr. Stefanie Flaig
+
+RÃ¼ckmeldung zur Open-Source-Strategie
+
+Sehr geehrte Damen und Herren,
+
+wir sind eine Steuerberatungskanzlei in Graz und stets darum bemÃ¼ht, die Daten unserer Kli-
+ent:innen sorgsam und sicher zu verarbeiten.
+
+Dabei stellen wir fest, dass die IT-Infrastruktur fÃ¼r den Betrieb einer Steuerberatungskanzlei
+stark von Microsoft-Produkten abhÃ¤ngig ist.
+Wir versuchen, diese AbhÃ¤ngigkeit schrittweise zu reduzieren, stoÃen aber immer wieder an
+Grenzen, die wir nicht oder nur mit unverhÃ¤ltnismÃ¤Ãigem Aufwand Ã¼berwinden kÃ¶nnen:
+So brauchen unsere Steuerberatungsprogramme beispielsweise Windows als Betriebssystem.
+In dieser Spezialsoftware gibt es sehr praktische Funktionen, die jedoch nur mit Microsoft-
+Programmen ausgefÃ¼hrt werden kÃ¶nnen.
+
+Meine mehrfache Bitte, Schnittstellen zu Open-Source-Programmen zu implementieren
+wurde leider abgelehnt, da einerseits aufgrund der Quasi-Monopolstellung von Microsoft der
+Bedarf (derzeit) Ã¼berschaubar ist und andererseits (nachvollziehbarerweise) die dazu nÃ¶tigen
+KapazitÃ¤ten nicht vorhanden sind.
+
+Meiner Meinung nach wÃ¤re es notwendig, die europÃ¤ische Software-Industrie dazu anzuhal-
+ten oder gar zu verpflichten, neben einer kommerziellen LÃ¶sung auch mit Open-Source LÃ¶sun-
+gen zusammenarbeiten zu kÃ¶nnen. Eine FÃ¶rderung auf diesem Gebiet wÃ¤re absolut vorteilhaft
+und wÃ¼rde es den Software-Unternehmen die nÃ¶tigen Ressourcen besser ermÃ¶glichen.
+
+ LÃ¶sungsweg Steuerberatungs GmbH                                                  Tel: 0316/382040
+ LG fÃ¼r ZRS Graz: 592969p                                                          www.stb-lw.com
+ ATU78798589                                                                     oï¬ce@stb-lw.com
+mit besten GrÃ¼Ãen
+
+LÃ¶sungsweg Steuerberatungs GmbH
+
+ LÃ¶sungsweg Steuerberatungs GmbH    Tel: 0316/382040
+ LG fÃ¼r ZRS Graz: 592969p            www.stb-lw.com
+ ATU78798589                       oï¬ce@stb-lw.com

@@ -1,0 +1,71 @@
+Ref. Ares(2026)1164438 - 02/02/2026
+
+          CONTRIBUTION TO THE CALL FOR EVIDENCE:
+            EUROPEAN OPEN DIGITAL ECOSYSTEMS
+
+ Subject: Strategic Recommendations for EU Technological Sovereignty
+       through Open-Source Ecosystems Date: 02 February 2026
+
+Submitted by: Amila Kothalawala, Senior System Engineer Location: Lithuania (EU)
+
+Professional Context & Background
+
+I am a Freelancing Senior System Engineer currently operating in Lithuania. My expertise lies in
+designing cost effective, secure infrastructure using OpenSource technologies like Proxmox. Having
+successfully implemented private cloud architectures in both government and private sectors (in Sri
+Lanka and the EU), I have witnessed how opensource solutions can drastically reduce costs while
+enhancing security.
+
+Strategic Proposal: From "Consumer" to "Global Provider"
+
+Currently, Europe often acts as a consumer of nonEU proprietary technologies. To strengthen the Euro
+and the internal market, the EU must transition to becoming a producer and exporter of open digital
+solutions.
+
+    ââ Internal Product Development: The EU should incentivize the creation of "Union made"
+       orchestration and AI platforms. Instead of relying on black box external AI models where data
+       privacy is uncertain, the EU can build transparent, opensource AI infrastructures where data
+       remains strictly within EU borders.
+
+    ââ Exporting Expertise, Not Just Data: By establishing specialized training hubs within the EU, we
+       can train a workforce capable of deploying and supporting these European solutions globally.
+       This creates a model where Europe exports high value "Consulting and Support Services" rather
+       than importing software licenses.
+
+Professional Context & Background
+
+With the rapid rise of AI, relying on backend systems hosted outside the EU poses a significant risk of
+data leakage and surveillance.
+
+    ââ The Risk: When using proprietary external AI/Cloud platforms, we lack visibility into how data
+       is processed in the backend.
+
+    ââ The Solution: Building competitive, localized Public Cloud and Data Center infrastructures
+       within the EU using opensource stacks (like Proxmox and localized Kubernetes). This ensures
+       that sensitive European data never leaves the Union's jurisdiction, adhering strictly to GDPR and
+       sovereignty goals.
+
+    Amila Kothalawalaâ                               â                                                  1
+Economic Impact & Talent Retention
+
+Investing in a robust opensource ecosystem addresses the "Brain Drain" issue:
+
+    ââ Job Creation: By creating a market for local support and development of these tools, IT
+       professionals will find high value opportunities within the EU, reducing the need to migrate
+       elsewhere.
+
+    ââ Cost Optimization: Shifting government and enterprise workloads from expensive hyperscalers
+       to EU hosted opensource clouds will save billions in licensing fees. These savings can be
+       redirected to R&D and infrastructure hardening.
+
+Conclusion & Recommendations
+
+I urge the Commission to view Open Source not just as a cost saving measure, but as a geopolitical asset.
+
+    ââ Recommendation 1: Establish funding for "EU OpenSource Centers of Excellence" to train
+       engineers in maintaining and selling support for European opensource products.
+
+    ââ Recommendation 2: Mandate "Open First" procurement policies for critical infrastructure to
+       prevent vendor lockin and ensure data remains within the EU.
+
+    Amila Kothalawalaâ                               â                                                2

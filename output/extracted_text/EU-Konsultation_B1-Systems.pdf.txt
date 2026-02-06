@@ -1,0 +1,83 @@
+Konsultation                                                                                       Ref. Ares(2026)1095501 - 30/01/2026
+
+zur âEuropean Open Digital Ecosystem Strategyâ
+
+Der europÃ¤ische Open Source-Sektor verfÃ¼gt Ã¼ber hohe             tionsgeschwindigkeit. In konkreten Projekten zeigt sich,
+technologische Kompetenz, starke Communities und LÃ¶-             dass offene Technologien langfristig stabiler, ï¬exibler und
+sungen, die Transparenz, Sicherheit und UnabhÃ¤ngigkeit           besser integrierbar sind als proprietÃ¤re Alternativen:
+von einzelnen Anbietern ermÃ¶glichen â von Betriebssyste-
+men Ã¼ber Cloud-Stacks bis hin zu Kollaborationssoftware.         â¢ ThÃ¼ringer Verwaltungscloud (ThVC): Eine hochverfÃ¼gbare
+In der Praxis zeigt sich jedoch, dass SchwÃ¤chen oftmals           Private-Cloud im eigenen Rechenzentrum mit weitgehend
+nicht in der Software liegen, sondern EinfÃ¼hrung und nach-        Open Source-Stack standardisiertem Betrieb. Dies er-
+haltiger Betrieb von hochwertigen Open Source-LÃ¶sungen            mÃ¶glicht Automatisierung sowie Self-Service und stellt
+hÃ¤uï¬g erschwert werden, u. a. durch Fragmentierung,               volle Datenkontrolle sicher; der Vendor-Lock-in wird mi-
+fehlende Planbarkeit der Wartungsï¬nanzierung (âmainte-            nimiert. Die B1 Systems konzeptioniert, implementiert und
+nance gapâ) und zu wenig etablierte Betriebsmodelle mit           betreibt fÃ¼r das Landesrechenzentrum eine auf dem Sov-
+klaren SLAs.                                                      ereign Cloud Stack (SCS) basierende OpenStack- & Ceph-
+                                                                  Umgebung, die das ganze Bestandsrechenzentrum des
+Durch die jahrzehntelange Bindung an proprietÃ¤re Produkte         Landes ThÃ¼ringen in Erfurt ersetzt.
+sind Strukturen und Prozesse gewachsen, die sich eng an
+diesen orientieren. Dies erfordert einen hohen Aufwand,          â¢ openDesk, Zentrum fÃ¼r Digitale SouverÃ¤nitÃ¤t (ZenDiS
+um diese Prozesse zu analysieren und abzulÃ¶sen. Auch das          GmbH): Eine souverÃ¤ne Kollaborationsplattform fÃ¼r Be-
+Know-how in Betrieben ist auf diese proprietÃ¤ren Anbieter         hÃ¶rden. B1 Systems Ã¼bernimmt Betrieb und Support (SaaS
+und Produkte begrenzt. Vergabeverfahren priorisieren              und On-Prem), inklusive Integration, Migration, Security-
+kurzfristige Anschaffungskosten, wÃ¤hrend Exit-Kosten,             Hardening, Update-Prozessen und Incident-AblÃ¤ufen. Be-
+PortabilitÃ¤t, Update-FÃ¤higkeit und Resilienz selten syste-        wÃ¤hrte Open Source-LÃ¶sungen werden integriert, sodass
+matisch bewertet werden. FÃ¼r nachhaltige BeitrÃ¤ge zu Open         eine souverÃ¤ne Ã¶ffentliche Verwaltung mÃ¶glich wird.
+Source-Gemeinschaften mangelt es in VertrÃ¤gen oft an ei-
+ner vergÃ¼teten âUpstreamâ-Komponente (Bugï¬xes, Doku-             Um die Entwicklung des europÃ¤ischen Open Source-Sek-
+mentation, Security-Hardening); hinzu kommen Unsicher-           tors gezielt zu unterstÃ¼tzen, sollte die EU Open Source
+heiten bei IP/Compliance. Ein weiteres Hindernis fÃ¼r die         stÃ¤rker als strategische Infrastruktur begreifen. Dazu
+Adoption von Open Source ist die veraltete Wahrnehmung           gehÃ¶ren angepasste Vergabe- und FÃ¶rderkriterien, die Open
+als âHacker-Projektâ oder Amateur-Software. Diese Sicht-         Source explizit berÃ¼cksichtigen, die nachhaltige Fi-
+weise ignoriert die industrielle RealitÃ¤t: Professionelle Ent-   nanzierung von Wartung und Security sowie die StÃ¤rkung
+wicklungsteams, strenge QualitÃ¤tsprozesse und Enterprise-        europÃ¤ischer Anbieter und Communities.
+Support prÃ¤gen heute die Open Source-Landschaft.
+                                                                 Besonders prioritÃ¤r sind aus unserer Sicht Technologiebe-
+Open Source bietet sowohl fÃ¼r den Ã¶ffentlichen als auch          reiche wie Cloud- und Container-Infrastrukturen, Cyber-
+fÃ¼r den privaten Sektor einen erheblichen Mehrwert. Die          sicherheit, Datenplattformen sowie KI-nahe Basistechnolo-
+Vermeidung von AnbieterabhÃ¤ngigkeiten und der Erhalt             gien, da hier eine hohe AbhÃ¤ngigkeit von auÃereuropÃ¤-
+digitaler SouverÃ¤nitÃ¤t bilden dabei die Grundlage fÃ¼r            ischen Anbietern besteht und gleichzeitig starke europÃ¤-
+Sicherheit, Auditierbarkeit, InteroperabilitÃ¤t und Innova-       ische Open Source-AnsÃ¤tze vorhanden sind.
+Konsultation
+zur âEuropean Open Digital Ecosystem Strategyâ
+
+Konkrete MaÃnahmen auf EU-Ebene:
+1. Vergabeleitplanken und Musterklauseln fÃ¼r markenneu-           4. EU-weite Referenzarchitekturen und âBuilding Blocksâ
+  trale Anforderungen: offene Standards, PortabilitÃ¤t/Exit,          (Cloud/Container, IAM, Collaboration, Observability), um
+  BetriebsfÃ¤higkeit (SLA, Updates, Logging/Monitoring) und           Wiederverwendung und Skalierung Ã¼ber LÃ¤ndergrenzen
+  Security-by-Design als Bewertungskriterien                         zu erleichtern
+
+2. Nachhaltige Finanzierung von Wartung, Security und Re-         5. Skills-Programme fÃ¼r Betrieb und Beschaffung
+  lease-Engineering kritischer OSS-Komponenten â nicht
+  nur projektbezogene Neuentwicklung                              6. RahmenvertrÃ¤ge/MarktplÃ¤tze fÃ¼r vertrauenswÃ¼rdige OSS-
+                                                                     Services und Support in Europa, um Skalierung und Wett-
+3. Sicherheitsbaseline fÃ¼r Lieferketten-Transparenz: SBOM/           bewerb zu erleichtern
+  VEX, koordinierte Vulnerability-Prozesse und wiederver-
+  wendbare Compliance-Nachweise
+
+Digitale SouverÃ¤nitÃ¤t entsteht dabei nicht nur durch den           Vorrangige Technologiebereiche sind Cloud- und Container-
+Quellcode, sondern durch wiederholbare Betriebsprozesse            Infrastrukturen, Identity & Access Management, Cybersecu-
+(Hardening, Patch-Management, Incident-Response, Backup/           rity (Hardening, Detection/Response), Datenplattformen/In-
+Recovery, Automatisierung) und klare Verantwortlichkeiten          teroperabilitÃ¤t sowie Collaboration-Stacks. Eine verstÃ¤rkte
+zwischen Community, Integrator und Betreiber. EU-weit              Nutzung steigert WettbewerbsfÃ¤higkeit und Cyberresilienz
+wÃ¼rden outcome-orientierte, markenneutrale Beschaf-                besonders in Verwaltung, Gesundheitswesen, KRITIS, Bil-
+fungskriterien (z. B. Exit-FÃ¤higkeit, DatenportabilitÃ¤t, offene    dung/Forschung und im industriellen Mittelstand.
+Schnittstellen) sowie die explizite VergÃ¼tung von Upstream-
+BeitrÃ¤gen in Ã¶ffentlichen VertrÃ¤gen (Fixes, Dokumentation,         Ein verstÃ¤rkter Einsatz von Open Source kann insbesondere
+Security-Verbesserungen) die nachhaltige Community-                in der Ã¶ffentlichen Verwaltung, im Gesundheitswesen, in
+Gesundheit deutlich stÃ¤rken. OSPO-Netzwerke und abge-              kritischen Infrastrukturen sowie in Bildung und Forschung
+stimmte Disclosure-Leitplanken kÃ¶nnen zusÃ¤tzlich die Cy-           zu mehr WettbewerbsfÃ¤higkeit und Resilienz fÃ¼hren. B1 Sys-
+bersicherheitsagenda unterstÃ¼tzen.                                 tems kann als europÃ¤ischer Integrator und Betreiber Ver-
+                                                                   antwortung Ã¼bernehmen: fÃ¼r sichere Betriebs- und Up-
+                                                                   dateprozesse, SLAs, Integration, Migration â bis hin zum
+                                                                   RÃ¼ckï¬uss von Verbesserungen in Upstream-Projekte, wo
+                                                                   mÃ¶glich. Unsere eigenen Erfahrungen in diesen Bereichen
+                                                                   zeigen, dass offene LÃ¶sungen nicht nur wirtschaftliche
+                                                                   Vorteile bieten, sondern auch Vertrauen, Transparenz und
+                                                                   langfristige StabilitÃ¤t fÃ¶rdern.
+
+                                                           Kontakt
+                                                           B1 Systems GmbH                    Tel.: +49 (0) 84 57 - 93 10 96
+                                                           OsterfeldstraÃe 7                  info@b1-systems.de
+                                                           D-85088 Vohburg                    https://www.b1-systems.de

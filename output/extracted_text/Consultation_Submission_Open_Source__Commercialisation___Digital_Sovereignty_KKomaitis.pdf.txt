@@ -1,0 +1,140 @@
+Ref. Ares(2026)133577 - 07/01/2026
+
+Consultation Submission â Open Source, Commercialisation & Digital Sovereignty
+
+1. Introduction
+
+I welcome the European Commissionâs initiative to develop a strategic approach to open source as
+part of the EUâs broader agenda on technological sovereignty, competitiveness, and cybersecurity.
+Open source software (OSS) and open digital commons are already deeply embedded in Europeâs
+digital economy and public infrastructures and represent a critical asset for reducing structural
+dependencies, increasing resilience, and fostering innovation.
+
+I note the emerging policy discussion around supporting and potentially âcommercialisingâ open
+source to advance sovereignty objectives. While the development of sustainable European open
+source businesses is both necessary and desirable, any such approach must preserve the
+fundamental characteristics that make open source valuable in the first place. Commercialisation
+should therefore be understood not as enclosure or restriction, but as enabling long-term
+sustainability, market integration, and adoption without sacrificing openness, interoperability, and
+community governance.
+
+2. Open Source Accelerates Innovation, Collaboration and Interoperable Sovereignty
+
+Open source software fosters collaboration across borders, sectors, and institutions. It enables:
+
+    â¢   Faster innovation through reuse of proven, modular building blocks;
+    â¢   Shared maintenance and security improvements by diverse and distributed contributors;
+    â¢   Lower costs for development, deployment, and long-term operation; and
+    â¢   Interoperability and standards alignment, reducing fragmentation and dependency on
+        single vendors.
+
+Beyond efficiency and cost benefits, open source underpins a model of interoperable sovereignty:
+digital autonomy achieved not through isolation or centralised control, but through openness,
+cooperation, and shared technical foundations. By enabling systems to interoperate across
+organisational and national boundaries, open source supports a democratic alternative to digitally
+closed or authoritarian models of technological governance, where control is concentrated and
+interoperability is restricted.
+
+Concrete example â France (DINUM):
+Franceâs Interministerial Digital Directorate (DINUM) has promoted the systematic use of open
+source solutions (such as Linux, LibreOffice, Matrix and Nextcloud) across public administrations.
+This approach enables interoperability between ministries while avoiding dependency on single
+vendors or non-EU platforms. It demonstrates how open source allows public bodies to retain
+control over their digital infrastructure while remaining connected, reusable, and aligned with
+democratic governance principles.
+
+These characteristics are core elements in the EUâs pursuit of digital sovereignty, competitiveness,
+and resilient public digital infrastructures.
+
+3. Added Value of Open Source for Public and Private Sectors
+Open source delivers concrete and measurable added value to both public administrations and
+private organisations.
+
+For the public sector, OSS:
+
+    â¢   Reduces vendor lock-in and long-term costs;
+    â¢   Enables transparency, auditability, and accountability;
+    â¢   Facilitates reuse of solutions across administrations and borders; and
+    â¢   Strengthens cybersecurity through collective review and shared maintenance.
+
+For the private sector, open source:
+
+    â¢   Lowers barriers to entry for startups and SMEs;
+    â¢   Encourages competition on quality, services, and innovation rather than proprietary control;
+    â¢   Enables faster time-to-market through reuse of mature components; and
+    â¢   Supports interoperability in complex supply chains and digital ecosystems.
+
+Concrete example â Cloud and infrastructure ecosystems:
+Linux and Kubernetes, both open source, underpin the majority of modern cloud and infrastructure
+environments. Their openness allows European companies and public administrations to adopt
+multi-cloud and hybrid strategies, avoid dependency on single providers, and retain the ability to
+migrate, audit, and adapt systems as needed. This illustrates how open source enables sovereignty
+through choice and portability, rather than exclusion.
+
+4. Commercialisation of Open Source: Opportunities and Risks
+
+Supporting commercial activity around open source is essential for sustainability, maintenance, and
+scaling. However, commercialisation must not undermine the very benefits that open source
+provides.
+
+The key risk lies in approaches that:
+
+    â¢   Restrict access or reuse through quasi-proprietary licensing;
+    â¢   Fragment ecosystems through incompatible forks; or
+    â¢   Prioritise short-term monetisation over long-term community sustainability.
+
+By contrast, sustainable and sovereignty-enhancing commercialisation models are those that:
+
+    â¢   Build businesses around services, support, integration, certification, and training;
+    â¢   Contribute improvements back to upstream open source projects; and
+    â¢   Reinforce open standards and interoperability.
+
+Concrete example â Smart cities and SMEs (FIWARE):
+FIWARE, an EU-backed open source framework, provides reusable components for smart cities,
+mobility, energy, and IoT solutions across Europe. Its open architecture enables SMEs and startups
+to build competitive services without dependence on proprietary platforms, while maintaining
+interoperability across cities and Member States. This demonstrates how public investment in open
+source can stimulate commercial ecosystems without enclosure.
+
+5. Open Source, Security and Resilience
+Open source plays a critical role in cybersecurity and digital resilience. Transparency allows code to
+be inspected, audited, and improved by a broad community, reducing the risk of hidden
+vulnerabilities and single points of failure.
+
+Concrete example â Shared security infrastructure:
+Widely used open source security components such as cryptographic libraries benefit from
+continuous review by global communities. When vulnerabilities are discovered, coordinated
+responses improve security across the entire ecosystem. This shared responsibility model enhances
+resilience, particularly for critical digital infrastructure, and aligns with the EUâs cybersecurity
+objectives.
+
+6. Policy Recommendations
+
+To strengthen the European open source ecosystem while preserving its core benefits, we
+recommend that the Commission:
+
+    1. Support long-term maintenance and sustainability of critical open source projects,
+       including through dedicated funding mechanisms and public-private partnerships.
+    2. Use public procurement strategically to encourage adoption of open source and open
+       standards, while rewarding contributions back to communities.
+    3. Promote interoperable sovereignty,1 ensuring that EU-supported solutions remain open,
+       standards-based, and compatible across borders and sectors.
+    4. Enable open source business models that focus on services, integration, and support rather
+       than restrictive licensing.
+    5. Engage actively with global open source communities, recognising that Europeâs digital
+       sovereignty is strengthened through leadership and collaboration, not isolation.
+
+7. Conclusion
+
+Open source is a cornerstone of Europeâs digital present and future. It is a public good that
+simultaneously enables innovation, competitiveness, security, and democratic control. While
+commercial sustainability is essential, it must reinforce â not replace â openness, interoperability,
+and community governance.
+
+By embracing open source as a foundation for interoperable sovereignty, the European Union can
+strengthen its technological autonomy while remaining open, competitive, and aligned with its
+fundamental values.
+
+1
+ For more informa+on about the term, see h2ps://www.komai+s.org/write-share-ignite/interoperable-
+sovereignty-the-democra+c-alterna+ve-to-digital-authoritarianism

@@ -1,0 +1,212 @@
+Ref.
+                                                                                                      Ref.Ares(2026)1167873
+                                                                                                           Ares(2026)476095 - 16/01/2026
+                                                                                                                              02/02/2026
+
+                                CERERE DE CONTRIBUÈII
+                     PENTRU O INIÈIATIVÄ (fÄrÄ o evaluare a impactului)
+Acest document are scopul de a informa publicul Èi pÄrÈile interesate cu privire la activitatea Comisiei, astfel Ã®ncÃ¢t acestea sÄ
+poatÄ oferi feedback Èi sÄ participe Ã®n mod eficace la activitÄÈile de consultare.
+SolicitÄm acestor grupuri sÄ Ã®Èi exprime opiniile cu privire la modul Ã®n care Comisia Ã®nÈelege problema Èi cu privire la soluÈiile
+posibile Èi sÄ ne ofere orice informaÈie relevantÄ pe care ar putea sÄ o deÈinÄ.
+
+TITLUL INIÈIATIVEI                  Calea cÄtre ecosisteme digitale europene deschise
+
+DG    COORDONATOARE             â   DirecÈia GeneralÄ ReÈele de Comunicare, ConÈinut Èi Tehnologie (DG CNECT) â
+UNITATEA RESPONSABILÄ               Unitatea E.3: Internetul viitorului
+                                    DirecÈia GeneralÄ Servicii Digitale (DG DIGIT) â Unitatea B.2: Interoperabilitatea
+                                    Èi guvernarea digitalÄ
+TIPUL DE INIÈIATIVÄ PROBABIL        Comunicare a Comisiei cÄtre Parlamentul European Èi Consiliu
+CALENDAR ORIENTATIV                 Q1-2026
+
+INFORMAÈII SUPLIMENTARE
+
+Prezentul document are scop pur informativ Èi nu este o antepronunÈare a deciziei finale a Comisiei cu privire la continuarea
+acestei iniÈiative sau cu privire la conÈinutul final al acesteia. Toate elementele iniÈiativei descrise Ã®n prezentul document,
+inclusiv calendarul iniÈiativei, pot suferi modificÄri.
+
+A. Contextul politic, definirea problemei Èi verificarea subsidiaritÄÈii
+Contextul politic
+OrientÄrile politice ale preÈedintei von der Leyen, scrisoarea de misiune adresatÄ vicepreÈedintei executive pentru
+suveranitate tehnologicÄ, securitate Èi democraÈie, Virkkunen, Èi discursul privind starea Uniunii din 2025 au
+identificat suveranitatea tehnologicÄ a UE ca fiind unul dintre obiectivele mandatului acestui colegiu.
+Ãn acest context, Comisia va stabili o abordare strategicÄ a sectorului produselor cu sursÄ deschisÄ din Uniunea
+EuropeanÄ Èi va propune o revizuire a strategiei Comisiei privind software-ul cu sursÄ deschisÄ pentru perioada
+2020-2023, care va include o prezentare generalÄ a planului Comisiei pentru propriul sÄu mediu digital. Noua
+strategie va aborda importanÈa economicÄ Èi politicÄ a produselor cu sursÄ deschisÄ, Ã®n calitate de contribuÈie
+esenÈialÄ la un cadru strategic menit sÄ asigure suveranitatea tehnologicÄ, competitivitatea Èi securitatea
+ciberneticÄ a UE. De asemenea, aceasta va stabili acÈiuni de consolidare a ecosistemului mai larg deschis al UE
+de soluÈii Èi de produse Ã®n sectoare critice, inclusiv tehnologiile internetului, cloudul, inteligenÈa artificialÄ (IA),
+securitatea ciberneticÄ, hardware-ul cu sursÄ deschisÄ Èi aplicaÈiile industriale (de exemplu, industria
+autovehiculelor Èi industria prelucrÄtoare).
+Tehnologiile cu sursÄ deschisÄ au potenÈialul de a permite un control mai mare asupra infrastructurii digitale Èi de
+a reduce dependenÈele UE, de a asigura un grad mai mare de transparenÈÄ al lanÈului de aprovizionare Èi de a
+sprijini gestionarea vulnerabilitÄÈilor Ã®n materie de securitate ciberneticÄ. Prin urmare, este necesarÄ Èi revizuirea
+acÈiunilor de sprijin care pot fi puse Ã®n aplicare pentru: (i) Ã®ncurajarea adoptÄrii pe scarÄ mai largÄ a produselor cu
+sursÄ deschisÄ de cÄtre utilizatorii publici Èi privaÈi Èi Ã®ncurajarea organizaÈiilor sÄ contribuie la dezvoltarea
+produselor cu sursÄ deschisÄ; (ii) stimularea dezvoltÄrii Èi competitivitÄÈii sectorului emergent al produselor cu
+sursÄ deschisÄ din UE; Èi (iii) consolidarea poziÈiei Ã®ntreprinderilor nou-Ã®nfiinÈate Ã®n ecosistemele de inovare.
+AceastÄ iniÈiativÄ completeazÄ viitorul Regulament privind dezvoltarea tehnologiei de tip cloud Èi a IA, pentru care
+a fost efectuatÄ o consultare specificÄ Èi care va fi adoptat, sub forma unui pachet, Ã®mpreunÄ cu strategia privind
+produsele cu sursÄ deschisÄ.
+
+Problema pe care urmÄreÈte sÄ o trateze iniÈiativa
+UE se confruntÄ cu problema semnificativÄ a dependenÈei de ÈÄri din afara UE Ã®n sfera digitalÄ. Acest lucru reduce
+posibilitatea de alegere a utilizatorilor, afecteazÄ competitivitatea Ã®ntreprinderilor din UE Èi poate crea probleme
+de securitate a lanÈului de aprovizionare, deoarece Ã®ngreuneazÄ controlul infrastructurii noastre digitale (privind
+    atÃ¢t componentele fizice, cÃ¢t Èi pe cele software), ceea ce ar putea crea vulnerabilitÄÈi, inclusiv Ã®n sectoarele critice.
+    Ãn ultimii ani, s-a rÄspÃ¢ndit pe scarÄ largÄ opinia conform cÄreia produsele cu sursÄ deschisÄ, care constituie
+    bunuri publice ce pot fi utilizate, modificate Èi redistribuite Ã®n mod liber, au un potenÈial ridicat de a sprijini un
+    portofoliu divers de soluÈii digitale sigure Èi de Ã®naltÄ calitate, reprezentÃ¢nd alternative valabile la cele brevetate.
+    Astfel, capacitatea de acÈiune a utilizatorilor creÈte, controlului este recÃ¢Ètigat Èi se stimuleazÄ rezilienÈa
+    infrastructurii noastre digitale. Software-ul cu sursÄ deschisÄ este profund integrat Ã®n economia digitalÄ, deoarece
+    reprezintÄ baza pentru majoritatea soluÈiilor software (Ã®ntre 70 % Èi 90 % din totalul liniilor de cod1). CreÈterea
+    exponenÈialÄ a modelelor IA cu sursÄ deschisÄ este un exemplu de astfel de integrare. Ãn acest context, UE se
+    poate baza pe un ecosistem foarte activ Èi bogat de comunitÄÈi de dezvoltatori ai produselor cu sursÄ deschisÄ,
+    printre cele mai mari din lume, a cÄror activitate este bine aliniatÄ cu drepturile Èi principiile digitale ale UE.
+    Utilizarea soluÈiilor cu sursÄ deschisÄ variazÄ de la un sector la altul: Ã®n unele dintre acestea, produsele cu sursÄ
+    deschisÄ sunt larg rÄspÃ¢ndite, pe cÃ¢nd Ã®n altele valoarea comercialÄ a acestora este Ã®ncÄ exploratÄ. Cu toate
+    acestea, o mare parte din valoarea generatÄ de proiectele cu sursÄ deschisÄ este exploatatÄ Ã®n afara UE, aducÃ¢nd
+    adesea beneficii giganÈilor din domeniul tehnologiei. PÄrÈile interesate din UE se confruntÄ, Ã®n general, cu bariere
+    ridicate la intrare Èi cu efecte de reÈea ale actorilor dominanÈi, atÃ¢t pe piaÈa achiziÈiilor publice, cÃ¢t Èi pe piaÈa
+    privatÄ. PÄrÈile interesate de sectorul produselor cu sursÄ deschisÄ din UE trebuie sÄ facÄ faÈÄ accesului limitat la
+    achiziÈiile publice, sÄ se ocupe de capitalul de creÈtere Èi de infrastructurile de sprijin Èi de gÄzduire (cum ar fi
+    arhivele web, platformele de cloud Èi instrumentele de infrastructurÄ definite prin software). Ãn domeniul hardware-
+    ului cu sursÄ deschisÄ, ecosistemul de afaceri se dezvoltÄ rapid, iar importanÈa sa este Ã®n creÈtere, Ã®n special Ã®n
+    sectoare precum calculul de Ã®naltÄ performanÈÄ Èi tehnica de calcul la margine.
+    De-a lungul timpului, UE a investit Ã®n produse cu sursÄ deschisÄ Èi Ã®n comunitÄÈile de tip âsursÄ deschisÄâ, cu
+    rezultate bune: de exemplu, prin intermediul iniÈiativei referitoare la internetul de nouÄ generaÈie, al cadrului
+    FIWARE, al iniÈiativei âGenAI4EUâ, al investiÈiei Ã®n hardware RISC-V Èi al unui pachet de bazÄ (core stack)pentru
+    vehicule definit cu ajutorul software-ului cu sursÄ deschisÄ Ã®n cadrul Ã®ntreprinderii comune pentru cipuri sau al
+    programului Simpl al Comisiei, aflat Ã®n curs de desfÄÈurare, care urmÄreÈte sÄ sprijine softurile de operare
+    intermediare cu sursÄ deschisÄ sigure Èi inteligente pentru spaÈiile europene ale datelor. Cu toate acestea, a reieÈit
+    cÄ sprijinirea comunitÄÈilor de tip âsursÄ deschisÄâ exclusiv prin programe de cercetare Èi inovare nu este suficientÄ
+    pentru o extindere reuÈitÄ Èi cÄ este esenÈialÄ susÈinerea comunitÄÈilor de dezvoltatori Èi a Ã®ntreprinderilor
+    emergente cu scopul extinderii lor prin intermediul unor cadre de sprijin Èi de guvernanÈÄ durabile, care sÄ vizeze
+    creÈterea comunitÄÈii, implementarea industrialÄ, integrarea pe piaÈÄ Èi viabilitatea comercialÄ a inovaÈiilor cu sursÄ
+    deschisÄ.
+    Mai recent, Ã®n mai multe regiuni Èi state membre ale UE, utilizarea produselor cu sursÄ deschisÄ Ã®n procesele
+    guvernamentale creÈte Ã®n popularitate. De asemenea, crearea recentÄ a ConsorÈiului pentru o infrastructurÄ
+    digitalÄ europeanÄ pentru bunurile comune digitale 2, care urmÄreÈte sÄ ofere un cadru de colaborare pentru a
+    susÈine Èi a extinde tehnologiile cu sursÄ deschisÄ esenÈiale pentru serviciile publice (dar fÄrÄ a se limita la
+    acestea), aratÄ cÄ o abordare comunÄ la nivelul UE constituie un atu pentru construirea unor alternative solide la
+    nivelul UE Èi pentru oferirea unui cadru favorabil extinderii comunitÄÈilor de tip âsursÄ deschisÄâ Èi a industriei
+    europene a surselor deschise.
+
+    Temeiul pentru acÈiunea UE (temeiul juridic Èi verificarea subsidiaritÄÈii)
+
+    Temeiul juridic
+
+    Nu se aplicÄ â fÄrÄ caracter legislativ
+
+    Necesitatea practicÄ a unei acÈiuni la nivelul UE
+
+    AcÈiunea UE este necesarÄ pentru a prevedea o serie de iniÈiative/acÈiuni menite sÄ abordeze Èi sÄ
+    Ã®mbunÄtÄÈeascÄ condiÈiile-cadru pentru ecosistemele produselor cu sursÄ deschisÄ din UE, alcÄtuite din comunitÄÈi
+    de dezvoltatori, Ã®ntreprinderi Èi fundaÈii care produc soluÈii Èi furnizori/sectoare care intensificÄ adoptarea acestora,
+    pentru a se dezvolta Èi a contribui Ã®n continuare la agenda UE privind suveranitatea tehnologicÄ, inclusiv prin
+    reducerea dependenÈelor externe.
+
+SursÄ: Raportul de securitate al Synopsis (OSSRA), https://phasepacific.com/wp-content/uploads/2024/08/rep-ossra-2024.pdf.
+1
+
+Termenul âbunuri digitale comuneâ desemneazÄ o resursÄ online partajatÄ, precum software, date, design sau conÈinut digital, care este creatÄ,
+2
+
+   Ã®ntreÈinutÄ Èi administratÄ Ã®n mod colectiv de o comunitate Èi accesibilÄ Ã®n mod liber oricÄrei persoane pentru a o utiliza, modifica Èi partaja.
+
+                                                                                                                                        2
+B. Ce urmÄreÈte sÄ realizeze iniÈiativa Èi Ã®n ce mod?
+IniÈiativa urmÄreÈte sÄ sprijine agenda UE privind suveranitatea tehnologicÄ Èi competitivitatea. Aceasta va
+identifica unele dintre barierele care Ã®mpiedicÄ Ã®n prezent potenÈialul privind produsele cu sursÄ deschisÄ al UE Èi
+va propune o cale de urmat pentru eliminarea acestora. Ãn mod particular, iniÈiativa se va concentra pe
+Ã®mbunÄtÄÈirea capacitÄÈii sectorului produselor cu sursÄ deschisÄ din UE de a creÈte Èi de a se dezvolta Ã®n
+continuare. Un sector al produselor cu sursÄ deschisÄ puternic Èi dezvoltat poate contribui Ã®n mod eficace la
+continuarea inovÄrii Ã®n UE Èi la accelerarea standardizÄrii, consolidÃ¢nd competitivitatea internaÈionalÄ a UE,
+menÈinÃ¢ndu-i suveranitatea Èi asigurÃ¢nd prosperitatea economicÄ, securitatea, rezilienÈa Èi influenÈa sa globalÄ
+continuÄ. Inovatorii, Ã®ntreprinderile nou-Ã®nfiinÈate Èi Ã®ntreprinderile mici Èi mijlocii sunt vectori importanÈi, deoarece
+aduc pe piaÈÄ produse Èi soluÈii inovatoare bazate pe produse cu sursÄ deschisÄ. Pentru a permite o astfel de
+dezvoltare sectorialÄ, strategia ar trebui sÄ ofere un set de soluÈii pe termen scurt Èi mediu, Ã®ncorporÃ¢nd abordarea
+generalÄ a UE Ã®n ceea ce priveÈte suveranitatea tehnologicÄ Èi ÈinÃ¢nd seama de securitatea ciberneticÄ, de
+alternativele suverane, de ecosistemele prospere, de inovarea modelelor de afaceri, de implementarea durabilÄ
+Ã®n sectoare-cheie, de o comunitate dinamicÄ a dezvoltatorilor din UE Èi de o infrastructurÄ a fundaÈiilor centratÄ pe
+UE. Strategia ar trebui sÄ completeze mÄsurile de reglementare existente Èi viitoare cu mÄsuri de politicÄ Èi de
+finanÈare, inclusiv parteneriate public-privat, care sÄ acopere Ã®ntregul ciclu de viaÈÄ al produselor cu sursÄ deschisÄ
+â de la dezvoltare la Ã®ntreÈinere, sustenabilitate Èi integrarea pieÈei â Ã®n toate sectoarele critice [IA, cloud, edge,
+internetul obiectelor (IoT), securitatea ciberneticÄ Èi tehnologiile internetului Èi cele industriale, cum ar fi industria
+autovehiculelor, printre altele] Èi ÈinÃ¢nd seama de potenÈialul pe care Ã®l au soluÈiile cu sursÄ deschisÄ pentru
+competitivitatea ecosistemelor industriale de bazÄ ale UE, cum ar fi industria autovehiculelor.
+
+Printre principalele obiective se numÄrÄ:
+    - dezvoltarea continuÄ Èi asigurarea unei vizibilitÄÈi adecvate a soluÈiilor bazate pe produsele cu sursÄ
+         deschisÄ de Ã®naltÄ calitate Èi sigure ale UE Èi demonstrarea valorii lor adÄugate;
+    - abordarea aspectelor legate de implementare, utilizabilitate, securitatea Èi guvernanÈa lanÈului de
+         aprovizionare cu software, Ã®ntreÈinerea codului Èi sustenabilitatea proiectelor pentru a asigura adoptarea
+         Èi extinderea;
+    - sprijinirea noilor modele de afaceri Èi de durabilitate bazate pe produsele cu sursÄ deschisÄ pentru
+         Ã®ntreprinderile Èi fundaÈiile de tip âsursÄ deschisÄâ, inclusiv prin dezvoltarea de parteneriate public-privat;
+    - promovarea celor mai bune practici Èi Ã®ncurajarea sectorului public, a sectoarelor de afaceri specializate
+         Èi a marilor clienÈi sÄ contribuie la produsele cu sursÄ deschisÄ Èi sÄ le adopte; precum Èi
+    - sprijinirea integrÄrii pieÈei, Ã®n special cu sistemele tradiÈionale, Èi alinierea politicilor.
+Ãn ceea ce priveÈte proporÈionalitatea, se preconizeazÄ cÄ o combinaÈie de finanÈare Èi de mÄsuri de politicÄ va
+stimula sectorul produselor cu sursÄ deschisÄ din UE, cu soluÈii de Ã®ncredere Èi suverane adoptate Ã®n mare mÄsurÄ
+de persoane fizice, Ã®ntreprinderi Èi sectorul public. La rÃ¢ndul sÄu, acest demers va declanÈa investiÈii suplimentare
+Ã®n dezvoltare Èi infrastructurÄ, care vor reduce avantajul competitiv al unora dintre pachetele tehnologice cele mai
+scumpe sau care colecteazÄ date la un nivel excesiv de pe piaÈa UE, ceea ce ar face disponibile resurse
+suplimentare pentru consolidarea acestui ecosistem.
+
+Impacturi probabile
+Impactul preconizat este acordarea de sprijin din partea UE Ã®n mod mai accesibil, mai coordonat Èi mai eficace,
+cu scopul dezvoltÄrii Èi competitivitÄÈii sectorului produselor cu sursÄ deschisÄ din UE. TotodatÄ, strategia este
+menitÄ sÄ ajute statele membre sÄ identifice mÄsurile necesare care trebuie luate pentru a sprijini Ã®ntreprinderile
+Èi comunitÄÈile naÈionale de tip âsursÄ deschisÄâ. Un ecosistem digital deschis durabil necesitÄ, de fapt, un cadru
+mai larg al UE Ã®n care tehnologiile deschise critice sÄ fie dezvoltate, menÈinute, implementate Èi gestionate Ã®n
+interes public, Ã®n cooperare cu statele membre, cu agenÈiile UE, cu instituÈiile de cercetare, cu societatea civilÄ Èi
+cu industria. Consolidarea unui astfel de ecosistem este o investiÈie strategicÄ Ã®n menÈinerea pe termen lung a
+capacitÄÈii tehnologice, a competitivitÄÈii Èi a suveranitÄÈii UE. Astfel, capacitÄÈile digitale esenÈiale, care variazÄ
+de la securitatea ciberneticÄ, platformele IoT, serviciile de cloud Èi cadrele IA pÃ¢nÄ la infrastructura de reÈea Èi de
+vÃ¢rf Èi sistemele de date, nu vor fi dependente de actori externi sau de tehnologii netransparente Èi se vor putea
+sprijini pe baze fiabile, deschise, interoperabile Èi verificabile.
+
+Monitorizarea viitoare
+Comisia va utiliza resurse interne Èi poate contracta experÈi externi pentru a efectua studii ad-hoc.
+
+C. O mai bunÄ legiferare
+Evaluarea impactului
+
+                                                                                                                 3
+Nu va fi efectuatÄ o evaluare a impactului, deoarece aceasta nu este o iniÈiativÄ legislativÄ. Strategia va lua forma
+unei comunicÄri a Comisiei. IniÈiativa va circumscrie o abordare generalÄ Èi va propune: (i) acÈiuni care se bazeazÄ
+pe angajamente suplimentare Èi (ii) un proces de punere Ã®n aplicare.
+Strategia de consultare
+Prezenta cerere de contribuÈii urmÄreÈte sÄ colecteze feedback de la diferite pÄrÈi interesate, pentru a Ã®mbogÄÈi
+strategia cu diferite perspective.
+Mai precis, pÄrÈile interesate sunt invitate sÄ rÄspundÄ la urmÄtoarele Ã®ntrebÄri:
+1. Care sunt punctele forte Èi punctele slabe ale sectorului produselor cu sursÄ deschisÄ din UE? Care sunt
+principalele obstacole care Ã®mpiedicÄ (i) adoptarea Èi menÈinerea unor surse deschise sigure Èi de Ã®naltÄ calitate;
+Èi (ii) contribuÈiile durabile la comunitÄÈile de tip âsursÄ deschisÄâ?
+2. Care este valoarea adÄugatÄ a produselor cu sursÄ deschisÄ pentru sectorul public Èi cel privat? VÄ rugÄm sÄ
+furnizaÈi exemple concrete, inclusiv factorii (cum ar fi costul, riscul, dependenÈa, securitatea Èi inovarea, printre
+altele) cei mai relevanÈi pentru evaluarea valorii adÄugate.
+3. Ce mÄsuri Èi acÈiuni concrete pot fi luate la nivelul UE pentru a sprijini dezvoltarea Èi creÈterea sectorului
+produselor cu sursÄ deschisÄ din UE Èi pentru a contribui la agenda UE privind suveranitatea tehnologicÄ Èi
+securitatea ciberneticÄ?
+4. Care sunt domeniile tehnologice cÄrora ar trebui sÄ li se acorde prioritate Èi de ce?
+5. Ãn ce sectoare ar putea utilizarea sporitÄ a produselor cu sursÄ deschisÄ sÄ conducÄ la creÈterea competitivitÄÈii
+Èi a rezilienÈei cibernetice?
+
+Cererea de contribuÈii va rÄmÃ¢ne deschisÄ timp de patru sÄptÄmÃ¢ni Èi va fi promovatÄ prin intermediul canalelor
+instituÈionale ale Comisiei, inclusiv prin intermediul mijloacelor de comunicare socialÄ.
+De ce organizÄm aceastÄ consultare?
+Consultarea urmÄreÈte sÄ colecteze contribuÈii Èi dovezi cu privire la situaÈia actualÄ a surselor deschise Ã®n UE,
+inclusiv referitor la punctele forte, punctele slabe, barierele Ã®n calea adoptÄrii, modelele de afaceri viabile, valoarea
+surselor deschise pentru organizaÈiile publice Èi private, precum Èi posibile acÈiuni care ar putea stimula
+ecosistemul european al produselor cu sursÄ deschisÄ.
+
+Publicul-ÈintÄ
+Consultarea urmÄreÈte sÄ colecteze opiniile tuturor pÄrÈilor interesate, Ã®n special ale comunitÄÈii europene a
+surselor deschise (inclusiv ale persoanelor individuale Èi ale Ã®ntreprinderilor Èi fundaÈiilor de tip âsursÄ deschisÄâ),
+ale administraÈiilor publice, ale sectoarelor de afaceri specializate, ale industriei TIC, ale mediului academic Èi ale
+instituÈiilor de cercetare.
+
+                                                                                                                4

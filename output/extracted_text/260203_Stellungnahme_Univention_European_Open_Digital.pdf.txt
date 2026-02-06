@@ -1,0 +1,106 @@
+Ref. Ares(2026)1225950 - 04/02/2026
+
+                                                1
+
+Call for Evidence:
+
+European Open Digital Ecosystem Strategy
+
+Stellungnahme Univention GmbH
+3. Februar 2026
+
+Kontakt:
+Univention GmbH
+Mary-Somerville-Str. 1
+28359 Bremen
+Deutschland
+
+Nils Kuhlmann
+Tel.: +49 421 222 32 â 48
+kuhlmann@univention.de
+
+Einleitung
+Univention gehÃ¶rt zu den Unternehmen, die mit einem einhundertprozentigen Open-Source-
+GeschÃ¤ftsmodell Jahr fÃ¼r Jahr wachsen und eine kontinuierlich steigende Zahl von Menschen
+beschÃ¤ftigten. Wir sind gleichzeitig Teil einer stetig wachsenden und leistungsfÃ¤higen Open-Source-
+Industrie in Europa.
+Vor diesem Hintergrund begrÃ¼Ãen wir die Initiative der EuropÃ¤ischen Kommission fÃ¼r eine
+European Open Digital Ecosystem Strategy ausdrÃ¼cklich. Sie adressiert zentrale Herausforderungen
+europÃ¤ischer Digitalpolitik: technologische AbhÃ¤ngigkeiten, fehlende InteroperabilitÃ¤t sowie
+strukturelle Nachteile europÃ¤ischer Anbieter gegenÃ¼ber marktmÃ¤chtigen, meist nicht-europÃ¤ischen
+Akteuren.
+Der entscheidende Mehrwert der Initiative liegt fÃ¼r uns darin, Open Source nicht nur als
+Entwicklungsmodell, sondern als strategische Grundlage europÃ¤ischer digitaler Infrastruktur
+zu verstehen.
+
+Zentrale Hebel fÃ¼r ein wertschaffendes europÃ¤isches Open-Digital-Ãkosystem
+Aus unserer Sicht sind insbesondere vier miteinander verknÃ¼pfte MaÃnahmenbereiche
+entscheidend.
+
+1. Nachfrage schaffen: Ãffentliche Beschaffung als Markthebel
+FÃ¼r die nachhaltige Entwicklung des europÃ¤ischen Open-Source-Ãkosystems ist Nachfrage aus dem
+Markt entscheidend. FÃ¶rderprogramme allein reichen nicht aus, wenn Open-Source-LÃ¶sungen
+                                                  2
+
+anschlieÃend kaum Marktzugang erhalten. Die EU und ihre Mitgliedstaaten kÃ¶nnen das Ãkosystem
+als Ankerkunden entscheidend voran bringen.
+Die EU sollte daher:
+    â¢ Ã¶ffentliche Beschaffung strategisch als Instrument zur StÃ¤rkung offener digitaler
+      Ãkosysteme nutzen,
+    â¢ Vergabeverfahren so ausrichten, dass Open Source Software aufgrund ihrer VorzÃ¼ge wie
+      Transparenz, InteroperabilitÃ¤t, Anpassbarkeit und Nachnutzbarkeit gegenÃ¼ber anderen
+      angebotenen LÃ¶sungen bevorzugt wird.
+In vielen Vergabeverfahren werden bislang faktisch proprietÃ¤re Lizenzmodell bevorzugt, etwa durch
+produktspezfische Anforderungen oder lizenzzentrierte BewertungsmaÃstÃ¤be. Eine entschiedene
+Ausrichtung auf Kriterien wie FunktionalitÃ¤t, HerstellerunabhÃ¤ngigkeit, Offenheit und
+InteroperabilitÃ¤t wÃ¼rde den Wettbewerb Ã¶ffnen, ohne QualitÃ¤t oder Sicherheit zu beeintrÃ¤chtigen.
+
+2. Open Source als Referenzpunkt: Open Source by Default
+Ãber einzelne MaÃnahmen hinaus sollte die EU eine klare strategische Leitlinie verfolgen: Open
+Source by Default, insbesondere fÃ¼r Ã¶ffentliche digitale Infrastrukturen und Basiskomponenten.
+Ein solcher Ansatz:
+    â¢ schafft Planungssicherheit fÃ¼r Unternehmen und Communities,
+    â¢ fÃ¶rdert Wiederverwendung und Zusammenarbeit,
+    â¢ stÃ¤rkt europÃ¤ische WertschÃ¶pfung und Kompetenzaufbau.
+
+3. Eine sichere und stabile Open-Source-Basis ermÃ¶glichen
+Offene digitale Ãkosysteme benÃ¶tigen eine verlÃ¤ssliche technologische Basis. Open Source leistet
+hierzu einen zentralen Beitrag, sofern Wartung, Sicherheit und Governance langfristig abgesichert
+sind.
+Regulatorische Initiativen wie der Cyber Resilience Act kÃ¶nnen dabei unterstÃ¼tzen, wenn sie:
+    â¢ die Besonderheiten offener Entwicklungsmodelle angemessen berÃ¼cksichtigen,
+    â¢ Verantwortung entlang der tatsÃ¤chlichen WertschÃ¶pfungskette adressieren,
+    â¢ und Open Source nicht indirekt benachteiligen.
+Ziel sollte eine sichere, stabile und vertrauenswÃ¼rdige Open-Source-Basis sein, auf der
+europÃ¤ische Innovation aufbauen kann.
+
+4. Offene europÃ¤ische Architektur mit IdentitÃ¤tsmanagement als Kern
+Eine kohÃ¤rente, offene, flexible und sichere IT-Architektur, wie sie mit der Eurostack-Initiative oder
+in Deutschland mit dem sogenannten Deutschlandstack verfolgt werden, kÃ¶nnen sowohl die
+Digitalisierung der Ã¶ffentlichen Verwaltung, die Interaktion zwischen Verwaltungen, BÃ¼rger*innen
+                                                 3
+
+und Unternehmen als auch die Entwicklung der IT-Industrie duch einhaltliche Plattformstandards
+massiv befÃ¶rdern.
+Ein besonders kritischer Baustein ist dabei IdentitÃ¤ts- und Zugriffsmanagement. GerÃ¤t hier die
+Kontrolle in die falsche HÃ¤nde, kann auf Grundlage unterschiedlichster Kriterien bestimmt werden,
+wer auf welche Anwendungen und Daten Zugriff erhÃ¤lt und wer ausgeschlossen wird.
+Damit europÃ¤ische digitale Ãkosysteme offen und souverÃ¤n bleiben, braucht es:
+    â¢ offene, standardbasierte IdentitÃ¤tslÃ¶sungen, die jederzeit unabhÃ¤ngig kontrolliert und
+      weiterentwickelt werden kÃ¶nnen.
+    â¢ transparente Governance-Strukturen,
+    â¢ sowie die MÃ¶glichkeit, IdentitÃ¤tsdienste fÃ¶deriert und interoperabel zu betreiben.
+Open-Source-basierte IdentitÃ¤tsmanagementsysteme verhindern Lock-in, erhÃ¶hen PrÃ¼fbarkeit
+sicherheitskritischer Komponenten und ermÃ¶glichen aufgrund der offenen
+AnbindungsmÃ¶glichkeiten ein vielfÃ¤ltiges europÃ¤isches AnbieterÃ¶kosystem. Sie sollten daher
+explizit als strategischer Bestandteil europÃ¤ischer Referenzarchitekturen verankert werden.
+
+Schlussbemerkung
+Das Vorhaben einer European Open Digital Ecosystem Strategy kann einen wesentlichen Beitrag
+zur technologischen SouverÃ¤nitÃ¤t Europas leisten, wenn sie konkrete strukturelle Hebel adressiert:
+Beschaffung, Architekturentscheidungen und regulatorische Rahmenbedingungen.
+Europa verfÃ¼gt bereits Ã¼ber ein leistungsfÃ¤higes Open-Source-Ãkosystem, das Fundament ist also
+vorhanden. Mit gezielten MaÃnahmen auf EU-Ebene kann dieses Ãkosystem erheblich gestÃ¤rkt
+werden. Dadurch wird eine digitale Zukunft mÃ¶glich, die schmerzhafte AbhÃ¤ngigkeiten vermeidet,
+und stattdessen Gestaltungs- und InnovationsfÃ¤higkeit, Kontrolle und WettbewerbsfÃ¤higkeit fÃ¼r
+Europa in den Mittelpunkt rÃ¼ckt.

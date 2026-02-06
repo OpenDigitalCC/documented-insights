@@ -1,0 +1,603 @@
+Ref. Ares(2026)1048077 - 29/01/2026
+
+             SekNet
+  OAM, SNDP, SNTP, Spievel, Chalot
+                Ou comment faire des chinois nos clients
+                    et des amÃ©ricains nos suiveurs
+                                      le 29/01/26 par SekNet
+
+Â« La stratÃ©gie europÃ©enne pour un Ã©cosystÃ¨me numÃ©rique ouvert dÃ©finira:
+        une approche stratÃ©gique du secteur des logiciels libres dans lâUE, qui tienne compte de
+        lâimportance de ces logiciels en tant que contribution essentielle Ã  la souverainetÃ©
+        technologique, Ã  la sÃ©curitÃ© et Ã  la compÃ©titivitÃ© de lâUE;
+        un cadre stratÃ©gique et opÃ©rationnel visant Ã  renforcer lâutilisation, le dÃ©veloppement et la
+        rÃ©utilisation des ressources numÃ©riques ouvertes au sein de la Commission, en sâappuyant
+        sur les rÃ©sultats obtenus dans le cadre de la stratÃ©gie de la Commission en matiÃ¨re de
+        logiciels libres pour la pÃ©riode 2020-2023. Â»                       [Commission EuropÃ©enne]
+
+Â« Lâappel Ã  projets Â« renforcement de lâoffre de services cloud Â» du plan France 2030 a pour
+objectif de soutenir le renforcement de lâoffre de services cloud IaaS/PaaS dÃ©veloppÃ©e sur le
+territoire franÃ§ais, notamment en matiÃ¨re de cloud de confiance et de services cloud pour lâIA. Les
+projets pourront sâappuyer sur la collaboration entre fournisseurs de services cloud IaaS/PaaS,
+fournisseurs de technologies cloud, dÃ©veloppeurs de logiciels dâIA et organismes de recherche. Â»
+                                                                  [Banque Publique dâInvestissement]
+
+        Les convictions sont des ennemis de la vÃ©ritÃ© pires que les mensonges [F.Nietzsche]
+               Le manque de miettes ne change pas le goÃ»t du pain [Adage franÃ§ais]
+
+ACIEU Ã©noe & APBPI rosc                      v29/01/26                                               1/15
+Table des matiÃ¨res
+Acronymes clÃ©s.................................................................................................................................... 2
+Appel Ã  contribution de la Commission EuropÃ©enne â Proposition WeBs OAM4GW de SekNet......3
+   RÃ©sumÃ© exÃ©cutif...............................................................................................................................3
+   Ãtude de lâappel Ã  contribution........................................................................................................ 4
+   Questions clÃ©s.................................................................................................................................. 6
+Appel Ã  projet de la Banque Publique dâInvestissement â Proposition WeBs OAM4GW de SekNet.8
+   RÃ©sumÃ© exÃ©cutif...............................................................................................................................8
+   Ãtude de lâappel Ã  projet BPI........................................................................................................... 9
+      Pourquoi Â« offre Â» et pas Â« offre de service Â» ?...........................................................................9
+      Offre cloud, kesako ?................................................................................................................ 10
+      DonnÃ©e â Information â Connaissance â Panorama.................................................................10
+      Conclusion................................................................................................................................ 10
+SekNet â Architectures initiale, intermÃ©diaires, cible........................................................................11
+      Eve, Mallory, Denys..................................................................................................................11
+      DÃ©mocratie................................................................................................................................ 11
+      Architecture initiale SAN..........................................................................................................11
+      Architecture finale NASA.........................................................................................................11
+SekNet................................................................................................................................................ 12
+   OAM, SNDP, SNTP â Blocs Solutions Logiciels..........................................................................12
+SekNet â Blocs solutions et architecture cible................................................................................... 13
+   Spievel, Chalot â Blocs Solutions MatÃ©riels.................................................................................13
+   SekNet â Architecture cible........................................................................................................... 13
+ISPoC4SekNet â La preuve de concept..............................................................................................14
+
+Acronymes clÃ©s
+WeBs                   Web of efficient Brainsquads
+OAM                   Obscenlightment with Aleametry and Mehscasting
+OAM4GW                OAM for Gatewayed WeBs
+SNDP                  SekNet Datagram Protocol
+SNTP                  SekNet Transfer Protocol
+IP                    Internet Protocol
+SAN                   Storage Area Network
+NASA                  Network Attached Storages Area
+GAFAM                 As usualâ¦:â¾
+GNU                   Gnuâs Not Unix                                                   https://fr.wikipedia.org/wiki/Internet_Protocol
+CAN                   Cluster Area Network
+EARN                  European Area of Resilient Networks
+NAS                   Network Attached Storage
+NIC                   Network Interface Card
+UDP                   User Datagram Protocol (not connected)
+TCP                   Transfer Control Protocol (connected but randomized)
+RTP                   Real Time Protocol (mostly over UDP)
+
+ACIEU Ã©noe & APBPI rosc                                             v29/01/26                                                                     2/15
+Appel Ã  contribution de la Commission EuropÃ©enne â
+Proposition WeBs OAM4GW de SekNet
+RÃ©sumÃ© exÃ©cutif
+La proposition SekNet vise Ã  remplir pleinement les objectifs clÃ©s de la lettre de mission, Ã  savoir :
+                       Â« souverainetÃ© technologique, sÃ©curitÃ© et dÃ©mocratie Â»
+
+Notre projet repose sur une infrastructure industrielle composÃ©e de "nanomodules" totalement
+automatisÃ©s permettant la production locale des modules cÅur de lâinfrastructure : des modules
+passerelles (NIC), Spievel, et des modules de stockage connectÃ©s Ã  SekNet (NAS), Chalot, les deux
+Ã©tant interconnectÃ©s grÃ¢ce Ã  des protocoles sÃ©curisÃ©s par Ã©vasion de canal, SNDP de genre UDP
+et SNTP de genre TCP. Ceci est, Ã©videmment, une solution ouverte.
+
+Car le cÅur du projet, comme le prouvent les statuts trÃ¨s particuliers de SekNet,
+le cÅur du projet est de remplacer le duo (fournisseur, consommateur)
+                              par le singleton fournisseur-consommateur.
+Ce qui rÃ©pond pleinement ET Ã  lâexigence souverainetÃ© technologique ET Ã  lâexigence dÃ©mocratie.
+Et sectionne le cordon ombilical GAFAM.
+Internet nâest pas quâune rupture technologique, câest aussi et surtout une rupture civilisationnelle.
+DâoÃ¹ le fait que SekNet met lâexigence dÃ©mocratie en cause et les deux autres en consÃ©quences.
+Les bÃ©nÃ©fices attendus sont tant Ã©conomiques quâÃ©cologiques et sociologiques :
+- le coÃ»t unitaire dâun module Ã©quivaudra Ã  un an dâabonnement "smartphonique"â¦ Ã  vie.
+- le coÃ»t annuel/mensuel de lâabonnementâ¦ sera de 0 â¬ puisque le consommateur sera fournisseur.
+- le coÃ»t CO2 (ou autre) sera infiniment petit puisque SANS concentration carâ¦ voir infra.
+Le plan de mise en Åuvre sâappuie sur deux Ã©tapes clÃ©s :
+       1. transformation en partenariat avec des industriels clÃ©s :
+               pour la Volks Wagen 2.0, la voiture connectÃ©e enâ¦ client ET serveur,
+               pour le @Home 2.0, le domicile connectÃ© enâ¦ client ET serveur,
+               pour le TelÃ©phono 2.0, la passerelle portable connectÃ©e enâ¦ client ET serveur.
+       2. dÃ©ploiement en partenariat avec les partenaires clÃ©s de location Ã©volutive.
+Comme avantages supplÃ©mentaires, nous avons les avantages clÃ©s suivants :
+     1. un recouvrement (PRS) rÃ©duit au plus simpleâ¦ en raison des capacitÃ©sâ¦ de HUIT internet.
+     2. une continuitÃ© Ã  1-Îµ garantieâ¦ en raison de la rÃ©sistance des solutions logiciellesâ¦ et du PRS.
+     3. un coÃ»t total de possession minimalâ¦ en raison de la dualitÃ©â¦ consommateur-fournisseur.
+     4. un dÃ©ploiement avec ~490.000.000 de partenaires (population europÃ©enne des 15-60 ans).
+     5. ~1.000.000.000 de composants Ã  produire pour ESMC.
+Nous recommandons le dÃ©ploiement dâun SekNet 1.0 europÃ©en en 2026.
+Avec un slogan visant implicitement deux populations clÃ©s pour ce genre dâinnovation de rupture :
+                to break the rules and be unbreakable, think different and just do it!
+                  SekNet, the e-one for e-all and e-all for e-one e-way of e-lifeâ¦
+
+ACIEU Ã©noe & APBPI rosc                       v29/01/26                                            3/15
+Ãtude de lâappel Ã  contribution
+RÃ©duire le SystÃ¨me Ã  un Ã©cosystÃ¨me ou un technosystÃ¨me est en oublier la composante principale :
+le sociosystÃ¨me.
+Et ce ne sont pas les derniÃ¨res e-Ã©volutions qui nous prouvent dans lâerreur ou laisse suspecter que
+nous y soyons ! Surtout en ces heures "open" de GNUsociotechnosystÃ¨mes moteurs de lâinnovation.
+Mondiale.
+Et capable de faire trembler sur leurs fondations les GAFAMÃ©cosystÃ¨mes.
+Dâailleurs, derriÃ¨re le mot [Ã©co]compÃ©titivitÃ© se cache socio-efficacitÃ© comme socio-efficience.
+Mais il ne faut pas laisser dans lâombre que toutes deux reposentâ¦ sur la technosocioperformance.
+Depuis lâÃ¢ge du seau et de la pelle en passant par celui de la roue comme depuis lâÃ¢ge du morceau
+de charbon Ã  celui du stylet en passant par celui du stylo.
+Une Â« approche stratÃ©gique du secteur des solutions libres Â» nâest dâailleurs, par essence, PAS
+Ã©conomique. Mais sociologique.
+Ce qui explique que le mot "open" doive se traduire pas mondial, pas par europÃ©en.
+Ce qui explique aussi que la Commission ne doit pas se pencher sur son "environnement" mais sur
+son infrastructure technologique et son architecture sociologique comme de ses passerelles avec son
+environnement.
+
+Passerellesâ¦ nous y reviendrons.
+Â« rÃ©duire les dÃ©pendances Â», Â« permettre un contrÃ´le accru Â», Â« garantir une plus grande
+transparence Â», Â« soutenir la gestion des vulnÃ©rabilitÃ©s en matiÃ¨re de cybersÃ©curitÃ© Â» : ces objectifs
+stratÃ©giques sont dâautant plus faciles Ã  atteindre que nous e-transformons lâEurope avec lâASIE
+OAM4GW ci-aprÃ¨s prÃ©sentÃ©e.
+Cette proposition Architecture RÃ©seau des Intelligence Collectives pourrait Ãªtre acro-amÃ©ricanisÃ©e
+en WeBs, Web of efficient Brainsquads.
+Ce qui nous fait passer du point de vue "Informatique en nuage et IA" au point de vue
+"Informatique en gouttelettes et IC" (IGIC // iGeek).
+Un point de vue en quelque sorte moins brumeux.
+Â« accroÃ®tre le pouvoir des utilisateurs Â» et Â« renforcer la rÃ©silience Â» sont deux exigences cohÃ©rentes
+avec celles qui prÃ©cÃ¨dent si (et seulement si?)â¦ lâarchitecture OAM4GW est utilisÃ©e.
+Â« IA ouverts Â» est justement une formulation discrÃ¨te du point de vue IGIC.
+
+ACIEU Ã©noe & APBPI rosc                       v29/01/26                                            4/15
+Â« effet rÃ©seau Â» : pourquoi pas Â« effet rÃ©seauX Â» ? au rÃ©seau purement Ã©conomique nous sommes
+bien placÃ©s que les rÃ©seaux sociologiques sontâ¦ opposÃ©s.
+Â« dÃ©pendance Â» =>      Â« rÃ©duire les choix utilisateurs Â», Â« nuire Ã  la compÃ©titivitÃ© Â»,
+                       Â« sÃ©curitÃ© des chaÃ®nes dâapprovisionnement Â»,
+                       Â« contrÃ´le de nos infrastructure numÃ©riques Â», Â« vulnÃ©rabilitÃ©s Â»,
+                       Â« y compris dans les secteurs critiques Â»
+Et si la solution est europÃ©enne au sens gÃ©ographique du terme mais pas Ã  son sens UEgraphique ?
+Notre solution lâest, donc europÃ©enne sans lâÃªtre.
+Mais attendu quâelle rÃ©sout tous les problÃ¨mes en respectant toutes les contraintes a-t-elle une
+chance dâÃªtre retenue ?
+Â« rÃ©silience de nos infrastructures numÃ©riques Â»:la supÃ©rioritÃ© de la vision Â« gouttelettes et IC Â» sur
+la vision Â« nuage et IA Â» est, de ce point de vue, mathÃ©matiquement comme sociologiquement
+Ã©tablie.
+Â« valeur commerciale Â» rÃ©duit Ã  nouveau le champ de vision et biaisera la conclusion : en matiÃ¨re de
+communication, la valeur la plus critique nâest-elle pas la valeur sociale ?â¦
+Â« droits et principes numÃ©riques de lâUE Â» : i.e. ?
+Â« accÃ¨s limitÃ© Â» : ceci confirme que lâarchitecture WeBs OAM4GW proposÃ©e par SekNet est
+meilleure que toutes celles proposÃ©es par ailleurs, le fournisseur-utilisateur Ã©tant bÃ©nÃ©ficiaire dâun e-
+one for e-all and e-all for e-one e-way of e-life.
+Â« lâinformatique en pÃ©riphÃ©rie Â» est, aujourdâhui, rÃ©duit Ã  des CAN.
+Or les europÃ©en.ne.s veulent et attendent un EARN, European Area of Resilient Networks.
+Un point de vue fÃ©dÃ©rateur, pas uniformisateur.
+Â« libre, sÃ©curisÃ©, et intelligent Â» : est-il dit, ici, intelligent parce quâintelligemment conÃ§u ou parce
+que prÃ©tendu douÃ© de lâart de sâadapter ? Car loin des calculs analytiques, lâart de sâadapter est
+dâabord un calcul heuristique, un calcul normand, pourrait-on dire, puisquâil faut prendre en compte
+la Â« pâtÃªtâ ben quâoui, pâtÃªtâ ben quânon... Â» puisque sâadapter, fondamentalement, veut dire savoir
+contourner de faÃ§on optimale une difficultÃ©, rÃ©soudre de faÃ§on dÃ©finitive un problÃ¨me, et remporter
+des victoires malgrÃ© des dÃ©faites.
+Â« ressource en ligne partagÃ©e Â» est lâantithÃ¨se de Â« ressource en ligne partagÃ©eS Â» et laisse penser
+que la solution envisagÃ©e est celle dâun gros neurone avec 450 380 320 axones plutÃ´t quâun rÃ©seau
+de 450 380 320 neurones avec un ou plusieurs axones.
+LâÃ©volution a, je pense, prouvÃ© quelle Ã©tait la meilleure solutionâ¦
+Â« fournir un cadre permettant aux communautÃ©s et au secteur europÃ©ens de se dÃ©velopper Â» donc
+dâavoir une architecture WeBs OAM4GW, pas une architecture {XXL.de, XXL.fr, â¦ XXS.mt}
+Â« souverainetÃ© technologique et compÃ©titivitÃ© Â» : think different and just do it!
+Bien que les deux exigences semblent illogiquement jointes, puisque la souverainetÃ© entraÃ®ne la
+compÃ©titivitÃ© ou plutÃ´t lâinverse, cette vision par trop Ã©conomique est en TOTALE contradiction
+avec lâesprit de la "cible" : lâopen. Et cela constitue le premier et le plus important des Â« obstacles Â».
+Or les fourmis du libre sont des chronophiles Ã©cophobes, pas des chronophobes Ã©cophiles : le temps
+nâest pas pour tous de lâargentâ¦
+
+ACIEU Ã©noe & APBPI rosc                        v29/01/26                                             5/15
+Â« produits innovants fondÃ©s sur des solutions libres Â» : comme câest indiquÃ© auparavant, le libre est
+LE PLUS GROS innovateur au sens rupture du terme.
+Une innovation ne pouvant Ãªtre que de rupture, Ã©tant une Ã©volution sinon.
+Â« par exemple : lâautomobile Â», Â« tels que lâautomobile Â», Â« dont lâautomobile Â», etc.
+Et si lâautomobile devenait la Volks Wagen 2.0, une automobile connectÃ©eâ¦ dotÃ©e dâune capacitÃ© de
+stockageâ¦ et faisant une des gouttelettes de lâarchitecture WeBs OAM4GW, et passerelle de
+connexion sÃ©curisÃ©e pour son(ses) passager(s), et siâ¦
+Avec une telle infrastructure, lâimpact carbone seraitâ¦ quasi nul.
+En particulier Ã  cause de sa dispersionâ¦ et de sa double utilitÃ©.
+Câest une architecture en rupture, un peu comme la passade du roman tassÃ© au gothique Ã©lancÃ©.
+Mais câest une autre histoire.
+Â« dÃ©montrer leur valeur ajoutÃ©e Â» : avec lâarchitecture WeBs OAM4GW, la connexion en 24/7 nâa
+plus de coÃ»t, fourniture du service de stockage oblige : la dÃ©monstration sera courte, trÃ¨s courte, et
+la montÃ©e en puissance rapide, trÃ¨s rapide. "trop court" Ã©tant impossible, comme "trop rapide"â¦
+Â« accessible, coordonnÃ©e et efficace Â», par essence trois propriÃ©tÃ©s de lâarchitecture WeBs
+OAM4GW de SekNet.
+Comme de nombreuses autres incidences listÃ©es.
+De par le fait quâelle est fondamentalement dÃ©mocratique.
+
+Questions clÃ©s
+1. Quelles sont les forces et les faiblesses du secteur des solutions libres de lâUE ?
+Quels sont les principaux obstacles qui entravent i) lâadoption et la maintenance de solution
+libres de qualitÃ© et sÃ©curisÃ©es et ii) les contributions durables aux communautÃ©s des solutions
+libres ?
+Oracle est sans doute la MEILLEURE rÃ©fÃ©rence en matiÃ¨re de gestion du free : deux hÃ©misphÃ¨res
+dans un mÃªme cerveau.
+Mais LA force de lâUE est son hÃ©tÃ©rogÃ©nÃ©itÃ©.
+Donc une capacitÃ© dâintelligence collective de premiÃ¨re importance.
+Erasmus en est lâexpression trop contrainteâ¦ puisque la rentabilitÃ© Ã  court terme en est
+lâimpulsion.
+Cette exigence financiÃ¨re courtermiste est LâOBSTACLE qui entrave les deux points citÃ©s.
+2. Quelle est la valeur ajoutÃ©e des solutions libres pour les secteurs publics et privÃ©s ?
+Veuillez fournie des exemples concrets, y compris les principaux facteurs permettant
+dâÃ©valuer cette valeur ajoutÃ©e (coÃ»t[s], risques, verrouillage technologique, sÃ©curitÃ©,
+innovation p.ex.)
+Une fois encore, la formulation est rÃ©ductrice etâ¦ fondamentalement anti-libre puisquâelle rÃ©duit la
+VA Ã  une seule comme les pseudo-solutions privÃ©es pour lesquelles LA VA est le coÃ»t initial,
+rarement le coÃ»t total de possession, et jamais ce coÃ»t intÃ©grant la transformation quand le produit
+est en fin de vie.
+Alors que les solutions libres ont un profil de solution socio-Ã©volutives et personnalisables.
+Donc que la fin de vie nâest pas un critÃ¨re de choix.
+
+ACIEU Ã©noe & APBPI rosc                       v29/01/26                                            6/15
+Le point clÃ© est : sÃ©curitÃ©.
+Car les solutions libres ont des ennemis : les solutionsâ¦ non libres.
+Et les entreprises investissant uniquement dans ces solutions ont une mission premiÃ¨re : dÃ©truire
+lâENI libre. Quoi quâil en coÃ»te ou presque. Verrouillage technologiqueâ¦ et mines technologiques
+en Ã©tant les formes les plus courantes (les mines sont les virus et autres en informatique).
+DâoÃ¹ lâexemple dâOracle, Ã  nouveau.
+3. Quelles mesures concrÃ¨tes peuvent Ãªtre prises au niveau de lâUE pour soutenir le
+dÃ©veloppement et la croissance des solutions libres de lâUE et contribuer contribuer aux
+objectifs de lâUE en matiÃ¨re de souverainetÃ© technologique et de cybersÃ©curitÃ© ?
+Faire que les chinois et les amÃ©ricains, au sens les populations chinoises et les populations
+amÃ©ricaines, deviennent les e-clients de lâUE.
+Car je crois que pour lâinstantâ¦ câest lâinverse !
+Et câest lÃ  que lâarchitecture WeBs OAM4GW prend toute son ampleur : elle APPARTIENT aux
+populations europÃ©ennes !
+4. Quels domaines technologiques sont prioritaires et pourquoi ?
+En avoir plusieurs sâest risquer les divergences et interfÃ©rences nÃ©gatives.
+Pour SekNet, il nâen est quâun : lâinfrastructure rÃ©seau.
+Car depuis la nuit des temps, la communication EST tant lâarme du progrÃ¨s
+       QUE CELLE DE LA PAIX.
+Ce qui fait, finalement et compte tenu du contexte, une bonne raison qui est peut Ãªtre le plus
+importante.
+5. Dans quels secteurs lâutilisation accrue des solutions libres pourrait-elles renforcer la
+compÃ©titivitÃ© et la cyber-rÃ©silience ?
+TOUS LES SECTEURS : il nâexiste aujourdâhui AUCUN secteur SOCIALEMENT dÃ©connectÃ©.
+Or le libre est dâabord une tendance sociale, avant dâÃªtre une tendance purement technologique,
+Ã©tat de la sociÃ©tÃ© obligeâ¦ les personnes physiques prÃ©fÃ©rant les informations directes aux AFPisÃ©es.
+Mais câest un autre dÃ©bat :)
+
+ACIEU Ã©noe & APBPI rosc                       v29/01/26                                          7/15
+ Appel Ã  projet de la Banque Publique dâInvestissement â
+ Proposition WeBs OAM4GW de SekNet
+ La proposition SekNet vise Ã  remplir pleinement les attentes clÃ©s de la BPI, Ã  savoir :
+besoin identifiÃ© et reconnu, opportunitÃ©s Ã©conomiques engendrÃ©es, failles de marchÃ©, passer Ã  lâÃ©chelle
+
+ RÃ©sumÃ© exÃ©cutif
+ Notre projet repose sur une infrastructure industrielle composÃ©e de "nano-modules" totalement
+ automatisÃ©s permettant la production locale des modules cÅur de lâinfrastructure : des modules
+ passerelles (NIC), Spievel, et des modules de stockage connectÃ©s Ã  SekNet (NAS), Chalot, les deux
+ Ã©tant interconnectÃ©s grÃ¢ce Ã  des protocoles sÃ©curisÃ©s par Ã©vasion de canal, SNDP de genre UDP
+ et SNTP de genre TCP. Ceci est, Ã©videmment, une solution ouverte.
+
+ Car le cÅur du projet, comme le prouvent les statuts trÃ¨s particuliers de SekNet,
+ le cÅur du projet est de remplacer le duo (fournisseur, consommateur)
+                               par le singleton fournisseur-consommateur.
+ Ce qui rÃ©pond pleinement ET Ã  lâexigence souverainetÃ© technologique ET Ã  lâexigence dÃ©mocratie.
+ Et sectionne le cordon ombilical GAFAM.
+ Internet nâest pas quâune rupture technologique, câest aussi et surtout une rupture civilisationnelle.
+ DâoÃ¹ le fait que SekNet met lâexigence dÃ©mocratie en cause et les deux autres en consÃ©quences.
+ Les bÃ©nÃ©fices attendus sont tant Ã©conomiques quâÃ©cologiques et sociologiques :
+ - le coÃ»t unitaire dâun module Ã©quivaudra Ã  un an dâabonnement "smartphonique"â¦ Ã  vie.
+ - le coÃ»t annuel/mensuel de lâabonnementâ¦ sera de 0 â¬ puisque le consommateur sera fournisseur.
+ - le coÃ»t CO2 (ou autre) sera infiniment petit puisque SANS concentration carâ¦ voir infra.
+ Le plan de mise en Åuvre sâappuie sur deux Ã©tapes clÃ©s :
+        1. transformation en partenariat avec des industriels clÃ©s :
+                pour la Volks Wagen 2.0, la voiture connectÃ©e enâ¦ client ET serveur,
+                pour le @Home 2.0, le domicile connectÃ© enâ¦ client ET serveur,
+                pour le TelÃ©phono 2.0, la passerelle portable connectÃ©e enâ¦ client ET serveur.
+        2. dÃ©ploiement en partenariat avec les partenaires clÃ©s de location Ã©volutive.
+ Comme avantages supplÃ©mentaires, nous avons les avantages clÃ©s suivants :
+      1. un recouvrement (PRS) rÃ©duit au plus simpleâ¦ en raison des capacitÃ©sâ¦ de HUIT internet.
+      2. une continuitÃ© Ã  1-Îµ garantieâ¦ en raison de la rÃ©sistance des solutions logiciellesâ¦ et du PRS.
+      3. un coÃ»t total de possession minimalâ¦ en raison de la dualitÃ©â¦ consommateur-fournisseur.
+      4. un dÃ©ploiement avec ~490.000.000 de partenaires (population europÃ©enne des 15-60 ans).
+      5. ~1.000.000.000 de composants Ã  produire pour ESMC.
+ Nous recommandons le dÃ©ploiement dâun SekNet 1.0 europÃ©en en 2026.
+ Avec un slogan visant implicitement deux populations clÃ©s pour ce genre dâinnovation de rupture :
+                 to break the rules and be unbreakable, think different and just do it!
+                   SekNet, the e-one for e-all and e-all for e-one e-way of e-lifeâ¦
+
+ ACIEU Ã©noe & APBPI rosc                       v29/01/26                                            8/15
+Ãtude de lâappel Ã  projet BPI
+banque â innovation â projet â renforcement â offre â cloud
+Pourquoi Â« offre Â» et pas Â« offre de service Â» ?
+Service, nom masculin (latin servitium, de servire, Ãªtre esclave)
+Ensemble des obligations, s'acquitter de certains devoirs, implique l'idÃ©e d'assujettissement Ã  une
+volontÃ© supÃ©rieure et/ou collectif.
+Â« esclave Â», Â« obligations Â», Â« assujettissement Â», cela est-il compatible avec Â« renforcement Â»
+dans un pays dont la devise commence par libertÃ©, est suivie de Ã©galitÃ©, et se termine par fraternitÃ© ?
+Mais laissons de cÃ´tÃ© cette question hautement philosophique et dâÃ©poque, passons Ã  lâessentiel :
+       souverainetÃ© numÃ©rique.
+Car derriÃ¨re Â« souverainetÃ© numÃ©rique Â» se cache le thÃ¨me rampant de la sÃ©curitÃ© numÃ©rique qui,
+comme la sÃ©curitÃ© du territoire physique, est dâabord les rÃ´les des militaires, des gendarmes,
+et des policiers.
+Bref, de milliers de personnes qui nâont quâune limite : celle de votre porte dâentrÃ©e.
+Puisque pour la franchir il leur faut une requÃªte judiciaire.
+Ce qui ajoute Ã  notre liste dâintervenants les greffes, les ministÃ¨res publics, les cours,
+bref, encore quelques autres milliers de personnes.
+Mais, tout compte fait, derriÃ¨re toutes ces personnes : la population franÃ§aise dans son intÃ©gralitÃ© ?
+Alors offrir de rÃ©duire la population franÃ§aise Ã  lâesclavage dans son intÃ©gralitÃ©â¦ nâest ni raisonnable
+ni notre architecture cible. Au sens TOGAF de lâexpression.
+Nous pourrions faire un prologue similaire Ã  partir du mot banque et de ce qui sous-tend TOUTE
+la production e-technologique de nos jours, Ã  savoirâ¦ lâopen-source et le freeware.
+Bref, des gens qui sont sortis du systÃ¨me financier pour utiliser la seule monnaie mondiale, le temps.
+Â« Quel rapport avec lâappel Ã  projet ? Â» me demanderez-vous. Â« Tout Â» vous rÃ©pondrai-je.
+Et câest lâobjet de ce document : comment faire que les corses, les bretons, les châtis, les franÃ§ais, les
+allemands, les wallons, les flamands, les belges, les parisiens, les strasbourgeois,
+soient PROPRIÃTAIRES de leur infrastructure de stockage de donnÃ©es, comment ?
+La mÃªme question se posant, bien sur, en ce qui concerne les castelmoronais et castelmoronaises,
+Ã©videmment.
+Câest justement lâobjectif de ce documentâ¦ dont la premiÃ¨re question page suivante est critique.
+
+ACIEU Ã©noe & APBPI rosc                        v29/01/26                                             9/15
+Offre cloud, kesako ?
+Cette notion de cloud est entourÃ© dâun brouillard fort Ã©pais [https://en.wikipedia.org/wiki/As_a_service]
+Le plus comique Ã©tant Â« bpi dÃ©finition cloud Â» qui donne comme rÃ©sultat :
+La dÃ©finition de BPI (Business Process Integration) se rÃ©fÃ¨re Ã  l'intÃ©gration des processus mÃ©tier pour
+amÃ©liorer l'efficacitÃ© et la productivitÃ© des entreprises. Cela implique la synchronisation des applications
+et des donnÃ©es pour crÃ©er des workflows cohÃ©rents et rÃ©duire les silos de donnÃ©es. En utilisant le cloud
+computing, les entreprises peuvent bÃ©nÃ©ficier d'une flexibilitÃ© accrue et d'une gestion des donnÃ©es
+optimisÃ©e, ce qui est essentiel pour l'innovation et la rÃ©silience des opÃ©rations.
+Dans cette dÃ©finition proposÃ©e par OracleÂ®, le mot cloud est immÃ©diatement suivi de computing.
+Force est de constater que le cloud est un concept polymorphe voireâ¦ brumeux.
+Ce qui peut paraÃ®tre normal :)
+MAIS, car il y a un mais critique pour les architectes en systÃ¨mes dâinformation,
+mais SUR QUOI reposent TOUS ces nuages ?
+
+DonnÃ©e â Information â Connaissance â Panorama
+Comme nous lâavons vu prÃ©cÃ©demment, les dÃ©finitionsâ¦ sont parfois importantes :)
+Toujours nous entendons parler de protection de donnÃ©es : mais pourquoi !?â¦
+Une donnÃ©e nâa, du moins en informatique et par dÃ©finition, AUCUN sens.
+Par exemple, 60 est une donnÃ©e, comme Victoria Cross, maÃ®trise de mathÃ©matiques pures, doctorat
+dâinformatique fondamentale, expert TOGAF 9, dÃ©lÃ©guÃ© HotDocs, officier dâÃ©tat-major, jeux
+olympiques dâAlbertville, comitÃ© dâentreprise, Pechiney, SEB, RVI, CEZUS, Cap Gemini,
+Arismore, Vaulnaveys-le-Haut, 14 juillet 2016, CHS, MALC, etc, tout ceci ce sont que des
+DONNÃES.
+Misent ensemble, elle commence Ã  former une informationâ¦ voire une connaissanceâ¦ voire un
+panorama si comme donnÃ©e supplÃ©mentaire on aâ¦ Wilfried PFISTER.
+Câest cette donnÃ©e clÃ© qui le permet, AUCUNE autre (demandez aux IA :)).
+Or ce qui stockÃ© dans les prÃ©tendus centres de donnÃ©esâ¦ sont des informations voire des
+connaissances, lesquelles permettent de construire un panoramaâ¦ puisque la PERSONNE
+concernÃ©e est connue, que cette personne soit physiqueâ¦ ou morale.
+
+Conclusion
+AUCUNE offre cloud nâest respectable si elle nâoffre pas une sÃ©curitÃ© ABSOLUE en matiÃ¨re de
+protection des donnÃ©es donc des informations, connaissances, panoramas.
+QUELLE QUE SOIT lâoffre de service cloud, les donnÃ©es SONT la clÃ© de sa sÃ©curitÃ©/fiabilitÃ©/â¦
+rÃ©silience.
+Et câest lÃ  que lâarchitecture SekNet avec ses modules Spievel et Chalot et ses protocoles SNDP
+et SNTP, câest lÃ  que lâarchitecture SekNet fait la diffÃ©rence avec toutes les autres.
+
+ACIEU Ã©noe & APBPI rosc                       v29/01/26                                          10/15
+SekNet â Architectures initiale, intermÃ©diaires, cible
+Eve, Mallory, Denys
+Sous ces trois noms sont connus les trois ennemis clÃ©s de lâe-World.
+Mais si Eve nâa que "ndslctiÃ©ebrc", que Mallory ne peut brouiller que " airi,neeal", et que Denys ne
+peut bloquer que "ti,ehu Aesi" les trois doivent unir leurs efforts pour que "ndslctiÃ©ebrc
+airi,neealti,ehu Aesiirictet mri" nâait aucun sens.
+
+DÃ©mocratie
+Nâen dÃ©plaise aux GENKISAV, la DÃ©mocratie est un concept e-antÃ©rieur selon lequel si 4% de la
+population peut Ãªtre jugÃ©e dangereuse, et a parfois tendance Ã  se regrouper pour nuire, si 16% de
+cette population peut Ãªtre jugÃ©e prÃ©fÃ©rer les plaisirs de la soumission au bonheur de la libertÃ© donc
+Ãªtre sensible aux offres allÃ©chantes des 4% de nuisibles, et si 64% de la population peut Ãªtre jugÃ©e
+comme dangereusement silencieuse quand elle subit les coups des sadiques prÃ©cÃ©demment citÃ©s,
+si tout cela est vrai il nâen reste pas moins que les 64% rÃ©ticents Ã  les suivre ont une tendance
+qualifiÃ©e de fÃ¢cheuse par les sadiques : prÃ©fÃ©rer suivre le chemin des 16% combattant les nuisibles.
+Tous les conflits nous lâont prouvÃ©, un des plus exemplaires de nos jours Ã©tant celui des Gilets
+Jaunes : qui nâa pas tu quâelle ou il connaissait un.e de ces outrageantes personnes, qui ?â¦
+MAIS, revenons au principal de notre dossier : Â« renforcement de lâoffre service cloud Â» :
+      quel MEILLEUR centre de stockage que le cloud Population [franÃ§aise] ?
+Câest sur la base de la rÃ©ponse Â« AUCUN Â» que lâarchitecture SekNet a Ã©tÃ© conÃ§ue (voir ses statuts).
+
+Architecture initiale SAN
+Storage Area Network et Data Center en sont les deux composants.
+MÃªme si nous pourrions voire devrions ajouter USB tant lâessentiel des informations y transite.
+Mais faisons comme siâ¦
+
+Architecture finale NASA
+Network Attached Storages Area.
+Ce nÃ©ologisme est liÃ© Ã  lâarchitecture SekNet : le manque de miettes ne change pas le goÃ»t du pain,
+mais il est essentiel est de savoir oÃ¹ sont ces miettes.
+Ce nâest donc pas le coffre qui compte maisâ¦ mais quoi !?â¦
+Cette architecture dâindÃ©pendance numÃ©rique a pour acteur clÃ© leâ¦ DANEMARK.
+DâoÃ¹ son ambassade en copie.
+Pourquoi ? Terres rares et Groenland.
+Car sâil faut se fournir en NAS autant fabriquer les 450.350.000 utiles, non ?
+Bon, dâaccord, cela risque de nous fÃ¢cher avec bien des fournisseursâ¦ mais de nous offrirâ¦
+Bref, peu importe.
+
+ACIEU Ã©noe & APBPI rosc                       v29/01/26                                            11/15
+     SekNet
+     OAM, SNDP, SNTP â Blocs Solutions Logiciels
+     Obscenlightment with Aleametry and Meshcasting
+     SekNet Datagram Protocol
+     SekNet Transfer Protocol
+     OAM est une mÃ©thode dâobscurcissement par transposition pouvant Ãªtre une mÃ©thode par
+     transposition ET transformation dÃ¨s que la taille de lâatome nâest pas un caractÃ¨re.
+     Comme la mÃ©thode est dâinspiration franÃ§aise,
+     nous y parlerons de pain, de tranche, de quignon, de miette (TQM).
+     La preuve de concept permet de comprendre, mais TQM est simplement :
+            1. le pain est Ã©miettÃ©, les miettes Ã©tant agrÃ©gÃ©es en fonction de leur position originelle,
+                    mÃ©thode strictement prÃ©dictible. Mais visant Ã  garantir continuitÃ© et recouvrement.
+            1. lâagrÃ©gat des miettes est dÃ©coupÃ© en quignons de taille alÃ©atoire rÃ©ordonnÃ©s alÃ©atoirement
+                    en fonction des SHA256 des rotations de la clÃ©, les clÃ©s dÃ©rivÃ©es Kd,
+            2. lâagrÃ©gat des quignons rÃ©ordonnÃ©es est alors dÃ©coupÃ© en tranches de mÃªme taille Ã  1 prÃ¨s
+                    et rÃ©ordonnÃ©es alÃ©atoirement de la mÃªme faÃ§on.
+for (int iam=0; iam<sm.length(); iam++) sbo.setCharAt(get_iatd(get_iaqd(get_iamd(iam))),sm.charAt(iam));
+
+     Les agrÃ©gats de miettes dâagrÃ©gats de quignons dâagrÃ©gats de tranches sont alors dispersÃ©s.
+     Et il faudra les grapiller pour reconstruire le message clair.
+     Si, globalement, la rÃ©sistance de la mÃ©thode semble rester en 2n, elle est de fait en n!
+     La carte des agrÃ©gats est plus importante que leur clÃ©.
+     Elle peut Ãªtre vue comme une clÃ© secondaire.
+     MÃªme si elle est primordiale.
+     SN{D,T}P sont des protocoles Ã  Ã©vasion de canal qui permettent une transmission ET sÃ©curisÃ©e ET
+     fiable, le manque dâune tranche nâÃ©tant pas un dÃ©sastre puisque nâayant que des nits1 Ã©pars dans
+     Message.
+     Leur avantage important est dâÃªtre des rÃ©ducteurs de puissance tant pour Eve que pour Mallory et
+     Denys : si le manque de miettes ne change pas le goÃ»t du pain, un agrÃ©gat de miettes nâaura jamais
+     le goÃ»t du pain.
+
+     1   n-ary digit : la mÃ©thode utilisant les reprÃ©sentations n-aires et pas forcÃ©ment binaires.
+         Ce qui donne des cryptÃ©s VRAIMENT constitutifs de donnÃ©es et JAMAIS dâinformations.
+         Sauf Ã  avoir pris le caractÃ¨re comme atome, Ã©videmment.
+
+     ACIEU Ã©noe & APBPI rosc                              v29/01/26                                  12/15
+SekNet â Blocs solutions et architecture cible
+Spievel, Chalot â Blocs Solutions MatÃ©riels
+Le Spievel, Â« miroir Â» en romanche, est celui qui permet de passer du clair Ã  lâobscur comme de
+lâobscur au clair : il sâagit dâune passerelle entre deux univers.
+Son nom, bien sur, est en hommage Ã  une certaine Alice elle aussi passÃ©e dâun monde clair Ã  un
+monde obscur, et star de la cryptographie, Ã©videmment.
+Comme Alice est une rÃ©fÃ©rence en cryptographie, la carte de lâobscur a, logiquement, Ã©tÃ© nommÃ©e
+CAT. pour Crumb Allocation Table, Ã©videmment !
+Le Chalot, quant Ã  lui, fait rÃ©fÃ©rence Ã  ce que nous pourrions appeler Â« sac-Ã -main masculin Â»,
+un chalot Ã©tant un espace dans lequel les hommes rangent tout ce qui nâest pas utile aujourdâhui
+mais pourra sÃ»rement servir plus tard.
+Il est, dans les faits, un NAS avec formatage de niveau 2. Ou pas.
+Et est constitutif de la NASA de SekNet, espace de stockage pouvant reprÃ©senterâ¦ 8 Internet en
+Europe. Donc raisonnablement durable. Surtout que ce volume est obtenu avec 1To par habitant
+sans compter les personnes morales, les premiÃ¨res intÃ©ressÃ©es et concernÃ©es.
+Comme sans compter quâun certain nombre de personnes ne vont pas se contenter dâun To.
+Ils sont conÃ§us pour Ãªtre implÃ©mentÃ©s facilement sur des SoC, Ã  base de RISC-V p.ex.
+
+SekNet â Architecture cible
+Certes, cette architecture ne permet pas de dÃ©velopper le point de vue SaaS. A priori.
+Mais dans les faits, quâest un logiciel si ce nâest un ensemble de bits Ã  ordonner ?
+
+ACIEU Ã©noe & APBPI rosc                      v29/01/26                                         13/15
+     ISPoC4SekNet â La preuve de concept
+     Open Sourceâ¦ GPLv2â¦ 99 lignesâ¦
+     O = "rdcPk o nSeâCeaLu eeeoNpIS pvct4t e"
+     C = "726463506b206f206e5365e280934365614c75206565656f4e704953207076637434742065"
+     G â "726463506b206f2"
+     W â "06e5365e2809343"
+     O â "65614c752065656"
+     A â "56f4e7049532070"
+     M â "76637434742065"
+     Ã = "ISPoC4SekNet â La preuve de concept"
+package seknet.cryptoam;
+
+import java.math.BigInteger;
+import java.nio.charset.StandardCharsets;
+import java.security.MessageDigest;
+import java.util.ArrayList;
+import java.util.Arrays;
+
+/**
+ * @author SekNet YlB
+ */
+public class CryptOAM {
+public static void main(String[] args) {
+  ArrayList<String> alsNASA = new ArrayList<String>(Arrays.asList(new String[]{"G", "W", "O", "A", "M"}));
+  new CryptOAM ("Tout ceci relÃ¨ve du dÃ©lire, inutile dâaller plus loinâ¦", 0, "SekNet", 0, 16, alsNASA);
+  new CryptOAM ("ISPoC4SekNet â La preuve de concept", 0, "SekNet", 0, 16, alsNASA);
+} // main
+CryptOAM(String psm, int pbam, String psk, int pbak, int pbac, ArrayList<String> palnasa) {
+  if (pbam==0) sm = psm; else sm = new BigInteger(psm.getBytes()).toString(pbam); nam = sm.length();
+  if (pbak==0) sk = psk; else sk = new BigInteger(psk.getBytes()).toString(pbak); nak = sk.length();
+  alnasa = palnasa; if (palnasa!=null) nach = alnasa.size(); else nach = 0;
+  StringBuilder sbo = new StringBuilder(); sbo.setLength(sm.length());
+  StringBuilder sbÃ© = new StringBuilder(); sbÃ©.setLength(sm.length());
+  for (int iam=0; iam<sm.length(); iam++) sbo.setCharAt(get_iatd(get_iaqd(get_iamd(iam))),sm.charAt(iam));
+  if (alnasa != null) {
+    StringBuilder sbeach = new StringBuilder();
+    for (int ich=0; ich<alnasa.size(); ich++) sbeach.append(sbo.substring(ich*((int)nam/nach)+
+(ich<(nam%nach)?ich:(nam%nach)), (ich+1)*((int)nam/nach)+((ich+1)<(nam%nach)?(ich+1):(nam%nach))));
+    for (int iam=0; iam<sm.length(); iam++)
+sbÃ©.setCharAt(iam,sbeach.charAt(get_iatd(get_iaqd(get_iamd(iam)))));
+  }
+  for (int iam=0; iam<sm.length(); iam++)
+sbÃ©.setCharAt(iam,sbo.charAt(get_iatd(get_iaqd(get_iamd(iam)))));
+  System.out.println("Ã = \""+sbo.toString()+"\"");
+  String sboc = (pbac==0?(pbam==0?(new BigInteger(sbo.toString().getBytes())).toString():(new
+BigInteger(sbo.toString(),pbam)).toString()):(pbam==0?(new
+BigInteger(sbo.toString().getBytes())).toString(pbac):(new
+BigInteger(sbo.toString(),pbam)).toString(pbac)));
+  System.out.println("Ã = \""+sboc.toString()+"\"");
+  int nao = sboc.length();
+  for (int ich=0; ich<alnasa.size(); ich++) System.out.println(alnasa.get(ich)+"<-
+\""+sboc.substring(ich*((int)nao/nach)+(ich<(nao%nach)?ich:(nao%nach)), (ich+1)*((int)nao/nach)+
+((ich+1)<(nao%nach)?(ich+1):(nao%nach)))+"\"");
+  System.out.println("Ã = \""+sbÃ©.toString()+"\"");
+} // ISPoC4SekNet20260122
+    static String sm, sk;
+    static ArrayList<String> alnasa;
+    static int nam, nak, nach;
+
+    static private BigInteger get_shark(int ir) {
+      try{
+        return new BigInteger(MessageDigest.getInstance("SHA-256").digest((ir==0?
+sk:sk.substring(ir).concat(sk.substring(0, ir))).getBytes(StandardCharsets.UTF_8))).abs();
+      } catch(Exception e){System.out.println("!!!"); return null;}
+    }
+    static private BigInteger get_sharks() {
+      BigInteger s = BigInteger.ZERO; for (int i=0; i<nak; i++) s=s.add(get_shark(i));
+      return (s);
+    }
+
+     ACIEU Ã©noe & APBPI rosc                       v29/01/26                                        14/15
+    static private int get_iod(int io) {
+      int iod=0;
+      for (int i=0; i<io; i++)     if (get_shark(i).compareTo(get_shark(io))<1) iod++;
+      for (int i=io+1; i<nak; i++) if (get_shark(i).compareTo(get_shark(io))<0) iod++;
+      return iod;
+    }
+    static private int get_it(int ia) {
+      return ((ia<(nam%nak)*(((int)nam/nak)+1)?((int)ia/(((int)nam/nak)+1)):((int)(ia-(nam%nak))/
+((int)nam/nak))));
+    }
+    static private int get_irat(int ia) { return (ia-get_it(ia)*((int)nam/nak)-(get_it(ia)<(nam%nak)?
+get_it(ia):(nam%nak))); }
+    static private int get_iatd(int ia) {
+      int iatd=0, iod=get_iod(get_it(ia));
+      for (int io=0; io<nak; io++) if (get_iod(io)<iod) iatd+=((int)nam/nak)+(io<(nam%nak)?1:0);
+      iatd+=get_irat(ia);
+      return (iatd);
+    }
+    static private int get_iq(int ia) {
+        int iq = 1;
+      while ((iq<nak)&&(get_ia0q(iq)<=ia)) iq++;
+      iq--;
+      return (iq);
+    }
+    static private int get_ia0q(int iq) {
+      BigInteger ia0q_iq = BigInteger.ZERO;
+      for (int i=0; i<iq; i++) ia0q_iq=ia0q_iq.add(get_shark(i));
+      ia0q_iq=ia0q_iq.multiply(BigInteger.valueOf((long) nam)); ia0q_iq=ia0q_iq.divide(get_sharks());
+      return (ia0q_iq.intValueExact());
+    }
+    static private int get_ia0qd(int iq) {
+      int ia0qd=0;
+      for (int io=0; io<nak; io++) if (get_iod(io)<get_iod(iq)) ia0qd+=(io==(nak-1)?nam:get_ia0q(io+1))-
+get_ia0q(io);
+      return (ia0qd);
+    }
+    static private int get_iaqd(int ia) {
+      return (ia-get_ia0q(get_iq(ia))+get_ia0qd(get_iq(ia)));
+    }
+    static private int get_iamd(int ia) {
+      return ((ia%nak)*((int)nam/nak)+((ia%nak)<(nam%nak)?(ia%nak):(nam%nak))+((int)ia/nak));
+    }
+}
+     G â 0x6574e28099206c7569766465
+     W â 0x73e280a672206f63c3a82072
+     O â 0x206c6965206c6c6c2c696170
+     A â 0x6f742065c3a9692054656c75
+     M â 0x7275646c756e636564696e20
+     Ã = "Tout ceci relÃ¨ve du dÃ©lire, inutile dâaller plus loinâ¦"
+
+     G â 0x83514dfeecc585bdb07e7d62
+     W â 0xb7132ccff49363d184aa7057
+     O â 0x21f9aae36622fe4805dc95da
+     A â 0xde0a4c8a2d54aaa6528efd08
+     M â 0xdd482327839a4de91c7ce6c0
+     Ã = ?2
+
+     2   new CryptOAM ("Tout ceci relÃ¨ve du dÃ©lire, inutile dâaller plus loinâ¦", 7, "SekNet", 0, 16, alsNASA);
+         Ã="Tout ceci relÃ¨ve du dÃ©lire, inutile dâaller plus loinâ¦"
+
+     ACIEU Ã©noe & APBPI rosc                             v29/01/26                                               15/15

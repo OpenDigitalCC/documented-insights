@@ -1,0 +1,305 @@
+Ref. Ares(2026)343440 - 14/01/2026
+
+                        Continuity Funding
+                For research that is not a competitive project
+
+                                        Executive Summary
+This brief proposal advocates for a new form of European and national research funding,
+called Continuity Funding. It departs from the problem statement that current research
+funding, which is organised around competitive research and innovation projects, is too
+dominant and is thereby causing detrimental impacts for the entire research ecosystem,
+including (1) the precarity of academic labour, (2) the unsustainability of research results,
+and (3) the large overhead and administrative burden for obtaining research funding.
+Continuity Funding is designed to address each of these problems, as it rests on three
+distinct principles. First, it aims at generating a continuous stream of funding for a research
+network and for the individuals in this network who can benefit until they reach a permanent
+position. Second, it aims at continuity of the research done in a network, giving as much of
+space and time necessary for research results to mature without the need to competitively
+apply for new rounds of research funding (although periodic reviews are still taking place).
+Third, it requires significantly less overhead as most of the renewal will happen naturally,
+through individuals joining research networks instead of each network constantly having to
+apply for funding with new research proposals and new rounds of proposal reviews.
+Continuity funding will also have to come with a set of individual and institutional incentives,
+which will ensure that it reaches its aims.
+
+   1.âProblem statement: the detrimental effects of
+      current research funding
+To start, let us define the problem, which is multifaceted. The focus will be on the European
+research funding ecosystem, organised under the umbrella of Horizon Europe, but since
+most national research funding systems in Europe mimic this structure, the problem
+statement largely applies to those national systems as well. Horizon Europe is organised
+according to three Pillars: Pillar I for fundamental research, Pillar II for consortium-based
+research and innovation projects, and Pillar III for innovation projects. As Pillar I and II
+include a focus on academic research, both of these will be included in the problem
+statement.
+
+What should be emphasised is that Pillar I and II have one important thing in common: they
+both focus on competitive research projects, which means that research funding is allocated
+on the basis of project-based proposals for research projects with a limited time span (2-5
+years). These projects are included in continuously renewed rounds of competition,
+organised around research funding calls. This setup creates three distinct problems that are
+shared between Pillar I and II projects:
+   (1)â Project-based research funded through competitions raises a significant amount of
+        overhead, which to a large extent is invisible and unaccounted for. This includes,
+        amongst others, (1) the time spent by researchers and innovators on proposal
+        writing, which would otherwise be spent on research, teaching, and innovating (2) the
+        time and resources spent on reviewing proposals, and (3) the significant public and
+        commercial ecosystem surrounding research funding, with agencies helping with
+        proposal preparation, training, etc. This is not all bad, but at present the time and
+        resources spent on this is disproportional in relation to the gains made by facilitating
+        competitive research. It is not controversial to claim that multiple research-intensive
+        universities could be founded in Europe if the resources currently spent on overhead
+        for research grant competitions would be allocated to those.
+   (2)â Competitive research funding generates considerable institutional and regional
+        inequalities. Generally, rich and well-performing institutions and countries have a
+        considerable advantage when it comes to having successful research funding grants
+        compared to their less well-performing peers in poorer countries. Although there is an
+        additional focus on widening countries in Horizon Europe, this does not offset this
+        inequality and additionally incentivises âcountry shoppingâ (e.g., onboarding an
+        institution from a widening country purely to have a more competitive proposal).
+   (3)â Project-based research might incentivise novelty, but it also puts the organisation
+        of research increasingly in a straight jacket. The contention is that a significant
+        portion of research does not benefit from a project-structure. Projects with a clear
+        ending invariably make sustainability problematic (see comment below on Pillar II
+        research), as funding on a particular theme dries up and follow-up funding relies on
+        continued granting of funds. Moreover, projects assume that research and its
+        dynamics can always be more or less anticipated. This may also be problematic, as
+        some research may shift dramatically (e.g., away from the âpromisesâ in work
+        packages) and novelty may not always be anticipated but, alternatively, âencounteredâ
+        in the course of a continuous research stream.
+
+Apart these commonalities, Pillar I and II also suffer from distinct problems for the research
+ecosystem as a whole:
+
+Pillar I projects are very good for individual researchers who win them, oftentimes
+guaranteeing future career success, but this does not automatically translate into an overall
+benefit for the research ecosystem as a whole. These are the distinct problems:
+    (1)â Pillar I research funding is a âwinner takes allâ system, in which very few
+         researchers are rewarded with relatively large grants (and recognition), giving them a
+         headstart vis-Ã -vis their peers. This is certainly good for the stimulation of exceptional
+         excellence in research, but also makes Pillar I research funding inaccessible to the
+         majority of people working in the research ecosystem, thereby contributing little to the
+         majority of research careers. Yet, next to obtaining a scarce faculty position,
+         obtaining a high-end research grant is seen as the only viable way for researchers to
+         secure non-precarious employment.
+    (2)â Pillar I research funding generally rewards research mobility. Marie Curie funding
+         calls have made mobility a requirement, while ERC research projects generate
+         oftentimes precarious positions (e.g., 2 or 3 year postdocs) that incentivise people to
+         move towns or countries. This is not a problem for a part of the population with
+         research careers, especially those without a spouse or children. However, for those
+         with a committed home base because of spouse and/or children, these mobility
+         possibilities or requirements are much less attractive. This makes that Pillar I
+         research over-stimulates mobile, precarious research careers while
+       under-stimulating careers that make a long-term contribution to the local research
+       ecosystem. Certainly, this is less the case for national funding schemes, but as these
+       are increasingly accessible to researchers from around the globe, a similar
+       mobility-first effect occurs.
+
+Nevertheless, Pillar I research provides a real benefit to the research ecosystem as it
+incentivises and rewards excellent research and mobility, forging a high performing
+international research community. The point is that these effects are, at current, too
+dominant and are thereby causing negative externalities for the large swaths of the
+population of researchers and innovators who do not benefit from these aspects.
+
+Pillar II projects have significant beneficial impacts insofar as they incentivise international
+and transdisciplinary collaboration on projects that connect research with societal impacts.
+Yet, a significant share of these benefits is offset by negative externalities, the most
+important of which are:
+    (1)â Due to the discontinuous nature of projects, research and innovation under Pillar II
+         often fails to be sustainable. The burst of funding on a project generates great
+         activity, focusing on a particular theme or topic, but once the funding dries up the
+         project as a whole also dries up - unless a new source or new round of funding is
+         secured. Project results often end up on non-maintained project websites, where
+         lengthy deliverables (i.e., reports) can be accessed that very few people consult after
+         the project ends, as funding for dissemination also dries up. Moreover, many
+         outcomes in the form of initiatives for standardization, moving from prototype to
+         market, etc., are abandoned after a project concludes. This is, frankly, a wasteful use
+         of money spent on research and innovation.
+    (2)â Due to the short-lived nature of Pillar II projects, these projects tend to generate a
+         significant amount of precarious labour, based on short-term contracts with no
+         tangible prospects for future career development. Pillar II projects often employ
+         research assistants with part-time contracts, and 2- or 3-year postdocs that have no
+         chance of being renewed or being turned into fixed positions. This generates a dual
+         negative impact: for the researcher, whose career depends on a precarious position
+         that restricts significant life choices (e.g., settling down, having children); and for the
+         institution, which invests in a potentially great employee without being able to
+         cultivate a lasting connection with this employee.
+
+Taken together, the organisation of funding in Pillars I and II generates significant negative
+externalities to the research and innovation ecosystem as a whole, including (1) a
+proliferation of precarious and casual labour, which is an internationally acknowledged
+problem,1 (2) the lacking sustainability of research and innovation results, which generates
+barriers for progress in science and an inadequate, frantic impulse to the innovation
+ecosystem, and (3) the large and unaccounted for overhead costs that go into acquiring
+project-based competitive funding, leading to a misallocation of resources. Furthermore,
+despite the positive impacts of the current organisation of research funding, in that it rewards
+excellent, mobile, and internationally organised science and innovation, these positive
+
+1
+ See e.g.,
+https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/02/the-state-of-academic-career
+s-in-oecd-countries_dc11b29d/ea9d3108-en.pdf
+effects cause a lopsided system. This lopsidedness creates regional and institutional
+inequalities, makes research funding inaccessible to big parts of the research and innovation
+communities, and puts research in a project-based straight jacket that oftentimes may not be
+the most suitable format for research organisation.
+
+   2.âThe solution: Continuity Funding
+As a solution to the abovementioned problems, this document proposes a completely new
+research and innovation funding format: Continuity Funding. This new form of funding is
+targeting a specific cohort in the research and innovation ecosystem: young career scholars
+and innovators (the German âMittelbauâ), which in many member states comprises the
+largest portion of the research and innovation community that is also mostly experiencing the
+negative externalities. Roughly speaking, this group may be defined as having finished their
+highest degree (e.g., PhD) but not yet having acquired employment with an unlimited
+contract (e.g., a professorship). This cohort is most reliant on third-party research funding,
+which may be crucial for ensuring future career potential, and also finds itself in a life phase
+of important decisions (e.g., having a spouse, getting children, settling down).
+
+In a nutshell, continuity funding is based on a one-time proposal for a research (and
+innovation) network of a definite group of scholars and innovators, from different countries
+and different institutions, much like a consortium in Pillar II research. This proposal combines
+aspects of Pillar I and Pillar II requirements: it contains a common section, much like the
+âExcellenceâ section in Pillar II proposals, that provides for a common umbrella and rationale
+for establishing a thematic research and innovation network, which also outlines the impacts
+of the work beyond academia. Apart from this, the proposal contains individual entries of
+each of the participating scholars, which resemble short-form versions of the B1 proposal of
+ERC applications. The idea is that the proposal simultaneously communicates the thematic
+coherence and viability of the research network as a whole, and the capability and solid
+career perspectives of each of the applicants, as well as the innovative nature of their
+individual research agendas. Furthermore, the participating institutions will, for each
+individual applicant, have to supply a career development plan, outlining a credible pathway
+towards an unlimited contract at the institution. Criteria for individual participation can be
+broader than just being about research excellence, as e.g., excellence in teaching may also
+be a great benefit for a network.
+
+As these are one-time proposals, they have to be subjected to rigorous peer-review,
+assessing the network as a whole and the quality of each applicant. Once a network is
+granted funding, the funding amount is established based on a yearly grant contribution that
+will be inflation adjusted (e.g., 1 million euro per year). From this money, individual salaries
+and purchasing costs will be funded, apart from an incentive based contribution (see below).
+Additional costs, like one-time expensive equipment, will need to be applied for separately
+and will not be subjected to yearly renewal.
+
+Once a proposal is granted, funding for the network as a whole in principle never expires.
+However, funding for individual participants does expire, namely, once they enter into
+unlimited employment contracts. This ensures a constant renewal and novelty in the
+network, as new positions in the network become available once a member passes on to
+unlimited employment (e.g., becoming a professor). Furthermore, networks may ânaturallyâ
+decline over time, as freed-up positions are no longer actively filled, most members enter
+into unlimited employment contracts, or a thematic research area loses its innovative nature
+and relevance. The decline of networks generates new space for additional networks to be
+created over time. This process of decline and renewal can and probably should be steered
+by means of policy. If, for instance, there is a greater need for new, innovative networks,
+policies might be directed at speeding up decline of the under-performing networks without
+affecting the careers of the individual members who are part of those networks.
+
+There is overhead involved in the granting and maintenance of these research networks.
+Most of the overhead is placed at the start, when the research and innovation network enters
+into a (probably high stakes) competition. It should be noted, however, that the competitive
+element can (and should) be lessened by making calls less âopen,â e.g., granting each
+research institution the possibility to only apply for one or two networks at a time. Once,
+however, a network is established overhead is reduced considerably. There are periodic
+(e.g., 2-year) reviews, but these are only âcheck upâ reviews, which should only raise
+concerns and follow-up in case of clear underperformance of a network as a whole.
+Moreover, once a new member applies to be included in the network a review should be
+undertaken, which, however, should not take much more additional resources than a regular
+job interview for a faculty position.
+
+Benefits of Continuity Funding
+Continuity funding maintains a lot of the benefits of Pillar I and II research and innovation
+funding. From Pillar I, it retains the focus on individual excellence, though being much more
+accessible than current Pillar I funding (as many more positions can be funded, with lower
+funding amounts for individual researchers). From Pillar II, it retains the incentive to generate
+international and interdisciplinary networks of researchers and innovators. It does, however,
+pose some drawbacks, which should be acknowledged. It does not fund the high-end
+excellent science currently funded under Pillar I and it does not fund research and innovation
+that is best captured in project form. For these reasons, Continuity funding should be
+considered as an important addition (and corrective), rather than replacement, of current
+Pillar I and II funding. In fact, as an addition it will likely have positive impacts on the other
+funding streams, as e.g., the huge pressure due to a surge in proposals under Pillar I will be
+lessened as many scholars will apply to Continuity funding instead.
+
+Furthermore, Continuity funding has a number of specific benefits that directly address the
+three negative externalities of current research and innovation funding as listed above.
+
+First, it reduces precarious labour in the research and innovation ecosystem significantly.
+As funding is continuous, participants enjoy guaranteed employment, which is extended until
+they attain an unlimited employment contract. Underperformance can still be a reason for
+firing a person, but this is not different from any other employment situation and should be
+initiated by the employing institution, not the funding agency. A big question is, of course,
+why institutions would be interested in granting an unlimited employment contract, but this is
+outlined below (see âIncentive Structureâ). As the researcher is embedded for a potentially
+unlimited time in an institution, Continuity funding incentivises the cultivation of a long-term
+employer-employee relation. Furthermore, this type of funding provides individual members
+of a network with the financial security that they need in their respective phase of life, giving
+them a basis to settle, start a family, etc.
+
+Second, Continuity funding generates sustainable research results, because funding
+never dries up. For instance, as there is no limit to funding of a network, a research line can
+be extended as long as necessary for it to come to fruition, be-it 4, 6, or 8 years. Moreover,
+innovative outcomes of a project, for instance an open source software infrastructure, can be
+maintained as long as needed as there is no pre-given âendâ to the innovation activities.
+Finally, results can be more actively disseminated, updated, and made accessible to the
+larger community, as e.g., the website of a network will be constantly updated, results
+constantly communicated with relevant stakeholders, and so on. An added benefit, in terms
+of sustainability, is that a research network can become a main and widely known
+representative for a particular research theme, so that the wider community doesnât need to
+keep track of thematic projects that constantly come into being and die out but can refer to a
+continuing network instead.
+
+Third, Continuity funding significantly reduces the overhead that currently goes into the
+acquisition of competitive, project-based research funding. Although overhead is high at the
+start, perhaps even higher than for current research funding, this is offset by the significantly
+reduced overhead as a network gains in age. It can continue its activities without having to
+reapply for funding, without having to write lengthy and potentially unsuccessful proposals,
+and without having to spend precious research, teaching, and innovation time on the
+acquisition of research and innovation funding. Most of the additional overhead goes to the
+individual applications of people who want to join a network, but this is largely the equivalent
+of common job applications for faculty positions. At the funding agency, the pressure to find
+suitable reviewers is significantly reduced as much less reviews need to be performed. Once
+a âmaximumâ number of networks is active, reviews are only needed for the limited number of
+new networks that are to be created because of the decline of existing networks.
+
+As for the lopsidedness of research funding, Continuity funding doesnât solve all the effects
+but has a mitigating effect. It should be noted that there is not necessarily a reduction in
+regional and institutional inequality, as rich institutions will have a higher chance of securing
+a research network. This will need to be actively addressed by means of policy, e.g., by
+limiting the amount of networks an institution can apply for at once and requiring a regional
+spread. The other lopsidedness effects, however, are somewhat mitigated, as Continuity
+funding offers a pathway for researchers and innovators who seek successful careers at
+their local institution rather than high-end excellence and highly mobile careers.
+Furthermore, Continuity funding offers new room for the type of research that does not fit the
+straight jacket of a proposal, e.g., research that can only be described in terms of a
+longer-term âagendaâ and not so much in terms of anticipated findings and impacts.
+
+Incentive Structure
+A significant challenge for making Continuity funding a success is the incentive structure.
+The current research and innovation ecosystem, it should be noted, is not friendly to the
+career paths incentivised by Continuity funding. That is, most institutions prefer to offer
+short-term, limited contracts and continuously employ new people on a limited contract
+basis. Similarly, many researchers and innovators feel compelled to constantly seek out new
+options for employment, not forging and cultivating a sustainable bond with their local
+institution. Hence, the incentive structure offered by Continuity funding should be such that
+institutions are incentivised to offer long-term career perspectives and employees should be
+incentivised to cultivate a long-term relation with their institutions.
+
+The biggest challenge is to guarantee the institutional incentive; i.e., to make it attractive for
+an institution to join a network that in principle obliges it to guarantee an unlimited
+employment contract in the future. To solve for this, funding allocated to the individuals in a
+network should have a dual structure. The first part should be the direct funding covering the
+salary of an individual member of a network. The second part should be a reservation kept
+by the funding agency and invested in a fund, on which the institution employing a member
+of the network has a claim. The money in this fund, e.g., 30% of a memberâs salary, grows
+on a yearly basis and will be accessible to the institution once a member gains an unlimited
+employment contract. In this way, a professorship may be partially funded by the reservation
+coming out of a network. To incentivise the transition to an unlimited contract, the reservation
+is tied to the participating institution for a limited amount of time (e.g., 8 years), after which a
+member is able to move it to a new institution, making him or her highly competitive for
+gaining a permanent position elsewhere.
+
+The more limited challenge is the cultivation of a longer-term relationship of a member of a
+network with an institution. To incentivise this, membership in a network is tied to an
+institution, which means that a member cannot change institutions without losing
+membership in the network (with the exception of âforce majeureâ circumstances, e.g.,
+institutional harassment).

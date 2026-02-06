@@ -1,0 +1,149 @@
+Ref. Ares(2026)1217586 - 03/02/2026
+
+EU Call for Evidence:
+European open Digital Ecosystems
+
+Feedback Federal Agency for Cartography and
+Geodesy (BKG)
+BKG Feedback to EU Call for Evidence: European open Digital Ecosystems
+
+1        What are the strengths and weaknesses of the EU open-
+         source sector? What are the main barriers that hamper (1.1)
+         adoption and maintenance of high-quality and secure open
+         source; and (1.2) sustainable contributions to open-source
+         communities?
+
+1.1      Barriers to the adoption and maintenance of high-quality and secure open
+         source
+From the perspective of the BKG at the federal level, a recurring pattern can be seen in the federal
+system: from the federal and state governments to small municipalities, very similar geospatial
+tasks arise â preparing geodata, keeping it up to date, and making it available as standard -based
+data products or web services for the population, partners, and other administrations. At the same
+time, implementation and procurement are often the responsibility of the respective levels; the
+BKG cannot enforce recommendations centrally here, but is dependent on cooperation, reuse, and
+common standards. In practice, however, these tasks are often solved in isolation â each
+organization builds comparable services, interfaces, map applications, and data processes in
+parallel instead of reusing them consistently.
+This leads to avoidable duplication of development work, higher costs, and a fragmented
+landscape, even though the solutions could in principle be developed, refined, and scaled jointly.
+This weakens long-term maintainability and reliable security provision because maintenance and
+updates are not bundled. In addition, lock-in structures, which tie customers closely to a provider
+or technology, make migration and changing providers difficult â in the geo sector, not only in
+terms of file formats, but also in terms of data models, geodatabases, styli ng/cartography assets,
+integration patterns, workflows, and algorithmic analysis methods that have been anchored in
+specialist processes and automation over many years. This reinforces isolated solutions and
+inhibits scalable reuse. Another bottleneck is procurement: even if there is a willingness to use
+open source, procurement processes are often difficult to manage. Operation, support, and
+security updates cannot always be mapped and evaluated in such a way that open solutions can
+be procured fairly and comparably.
+
+1.2      Barriers to sustainable contributions to open-source communities
+A further structural issue affects sustainable contributions: open source is widely used, but many
+users contribute little in terms of funding or ongoing development. As a re sult, development,
+maintenance, and security fixes are often underfunded and not secured on a long -term basis.
+
+2        What is the added value of open source for the public and
+         private sectors? Please provide concrete examples,
+         including the factors (such as cost, risk, lock-in, security,
+         innovation, among others) that are most important to assess
+         the added value.
+Public institutions benefit from open source products in many ways: federal, state, and local
+governments can more easily share developments, jointly further develop them, and thus avoid
+duplication of workâwhile also reducing life cycle costs. This added value is particularly evident
+
+                                                                                                  2
+BKG Feedback to EU Call for Evidence: European open Digital Ecosystems
+
+when administrations work together in implementation communities (such as in the development
+of the open source project âMasterportalâ): Components are developed jointly, experiences are
+shared, and operation and maintenance are bundled more efficiently.
+The added value is particularly high in the area of geodata and geoservices because
+interoperability, long-term data sovereignty, and reusability are crucial. Geoservices are often not
+only used internally but also provided as digital services for the public, businesses, and partner
+authorities. Open, standards-based interfaces and formats (e.g., OGC-compliant
+interfaces/services) make these offerings interoperable, scalable, and operable in the long term â
+independent of individual manufacturers or platforms.
+Open source reduces strategic risks: it creates a real exit option (it remains possible to switch
+service providers and operating models) and, through transparency, strengthens verifiable security
+and the traceability of dependencies in the software supply chain. In the geo -context in particular,
+it is important to note that lock-in arises not only through file formats, but also through data models,
+integrations, workflows, and established analysis methodsâopen solutions facilitate migration and
+further development in the long term.
+Civil society and the economy also benefit when publicly funded software is made available as
+open source: reuse enables further development and value creation across organizational
+boundaries, so that solutions can be used and further developed beyond individual institutions.
+
+3        What concrete measures and actions may be taken at EU
+         level to support the development and growth of the EU open-
+         source sector and contribute to the EUâs technological
+         sovereignty and cybersecurity agenda?
+
+3.1      Strengthen and scale implementation communities
+Implementation communities pool domain and technical know-how, share resources, and reduce
+duplicate work. This is crucial in the public sector: scarce budgetary resources can be used more
+efficiently, skills shortages are mitigated through joint further development and knowledge sharing,
+and quality, maintainability, and security improve through aligned standards and reusable modules
+(e.g. the open source project Masterportal).
+
+3.2      Practical tendering and procurement frameworks for open source
+Open source solutions often do not fail because of technical suitability, but b ecause of
+cumbersome procurement processes. Model clauses and evaluation criteria that can be used
+throughout the EU should be formulated in functional and standards -based terms and clearly cover
+operations, support, and security updates as procurable services, so that open solutions can be
+assessed and procured on a fair, like-for-like basis.
+
+3.3      Binding requirements and measurable indicators
+To ensure that interoperability, reuse, and migration capability do not remain mere statements of
+intent, clear minimum requirements and verifiable evidence are needed. This creates planning
+certainty for vendors and public administrations and strengthens enforceability against lock -in
+structures.
+
+                                                                                                      3
+BKG Feedback to EU Call for Evidence: European open Digital Ecosystems
+
+3.4      Exit plans as a standard requirement for critical systems
+For core digital infrastructures, possibilities for data portability, open interfaces, and the ability to
+switch providers should be embedded as requirements. In the geospatial domain, this explicitly
+concerns not only formats, but also data models, integrations, workflows, and cartography/styling
+assetsâso that an exit remains practically feasible.
+
+3.5      Stable, multi-year funding for maintenance and security
+Beyond project-based funding, mechanisms are needed to secure the long-term upkeep of critical
+components: security fixes, testing, documentation, and hardening must be sustainably fundable
+and institutionally anchored. This ensures open source is not only developed, but also reliably
+operated and made resilient over its lifecycle.
+
+4        What technology areas should be prioritised and why?
+
+4.1      Operational interoperability (standards, profiles, conformity in practice)
+Priority should be given to technical foundations that ensure solutions genuinely work together
+across organisations and bordersâand therefore not merely that they are formally âstandards-
+compliantâ. This is a prerequisite for public digital services to scale, to be reusable, and not to fail
+due to small but critical differences in implementations.
+
+4.2      Portability and migration capability (switching options without rebuilding
+         from scratch)
+Competitiveness and digital sovereignty increase when systems are structured so that ongoing
+evolution and switching platforms or service providers remain realistic. This is particularly visible
+in the geospatial domain, because dependencies arise not only through data formats, but can
+become embedded over years in data models, integrations, workflows, cartography/styling, and
+domain-specific analytical functions.
+
+5        In what sectors could an increased use of open source lead
+         to increased competitiveness and cyber resilience?
+An increased use of open source can strengthen competitiveness and cyber resilience, especially
+where digital infrastructures are operated on a permanent basis and dependencies are particularly
+significant â particularly in public administration, critical infrastructures, research, and other
+security-related areas. In the geo context, the leverage is particularly great because geodata and
+geoservices are involved in a wide range of tasks (includi ng planning, transport, the environment,
+and crisis situations) and are often provided as digital services for the public and partners.
+At the same time, the geo-industry is characterized by market concentration and changes in
+licensing/pricing models, which leads to rising costs amid tight public budgets and reinforces lock -
+in effects. More open source strengthens competition here (via open interfaces and
+interchangeable operating and support models), reduces dependencies, and improves resilience
+because transparency, maintainability, and the provision of security updates can be managed
+more effectively across the lifecycle. The consistent continuation of the EU open source strategy
+as a contribution to the digital sovereignty of public administration and c ivil society is supported
+and warmly welcomed.
+
+                                                                                                       4

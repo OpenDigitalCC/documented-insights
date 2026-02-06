@@ -1,0 +1,204 @@
+Ref. Ares(2026)1217173 - 03/02/2026
+
+     Towards European open digital
+     ecosystems
+     February 2026 | Feedback by 1io Brandguardian GmbH, Germany
+
+     1) What are the strengths and weaknesses of the EU open-source sector? What are
+     the main barriers that hamper (i) adoption and maintenance of high-quality and
+     secure open source; and (ii) sustainable contributions to openâsource communities?
+
+     The EU open-source sector is characterized by a high volume of talent and foundational
+     contributions to global software, but it struggles with strategic maturity and economic value
+     leakage. While the EU produces a signi cant share of global research, much of the resulting
+     economic bene t is captured by non-EU entities.
+
+     Strengths/Weaknesses: The primary strength of the EU open-source sector lies in its thriving
+     developer communities and strong alignment with digital rights and ethical principles. It serves as
+     a vehicle for innovation and vendor independence, essential for digital sovereignty. However, the
+     sector is weakened by a chronic dependency on non-EU digital technologies and a lack of
+     cohesive top-down strategy within organizations. Only a small fraction of European organizations
+     maintain formal open-source strategies, leading to uneven maturity across the ecosystem.
+
+     Sustainable contributions are hampered by legal uncertainty and compliance overhead. New
+     regulatory requirements (e.g., cybersecurity and AI compliance duties) can be di cult to
+     operationalize for small teams and community projects without shared tooling, templates, and
+     proportional compliance pathways. In addition, many investors still misunderstand open source
+     as âeasy to copyâ and therefore less defensible, which can stop funding discussions before
+     technical realities and business models are properly assessed.
+
+     i)
+     Limited access to growth capital and essential infrastructure. Procurement policies often remain
+     outdated and incompatible with open-source models. Established proprietary vendors are often
+     favored, especially by SMEs. Their pricing is hard to compete with.
+
+     A signi cant skills gap exists in public and non-tech sectors, where organizational inertia and a
+     lack of understanding of open-source value prevent integration. Maintenance is often
+     underfunded, with critical projects relying on a very small number of unpaid individuals, creating
+     systemic security risks.
+
+     ii)
+     Sustainable contributions are discouraged by regulatory complexity and legal uncertainty. New
+     frameworks like the Cyber Resilience Act and the AI Act, while providing necessary safeguards,
+     can impose excessive administrative burdens on small, volunteer-driven communities that
+     struggle with formal documentation and attestation requirements. There is often uncertainty
+     regarding the ROI for commercial entities to contribute back to projects.
+
+     From personal experience, our company also was heavily challenged with overcoming the
+     knowledge gap with conventional investors (especially private equity/family o ces, but also with
+     VCs). For a lot of them, open-source means no protection against e.g. giants like Microsoft
+     copying your product. All these considerations take place before an investor consults his experts
+     on the given regulatory challenges in the open-source sector, meaning "the door is closed" before
+     an opportunity has even presented itself to sustainably contribute to the space.
+
+     The EU should support the e orts of the community to educate on open-source, so that the rst
+     thought is not "risk management".
+fi
+        fi
+                      ff
+                                 fi
+                                                                       ffi
+                                                                             ffi
+                                                                                       fi
+     2) What is the added value of open source for the public and private sectors? Please
+     provide concrete examples, including the factors (such as cost, risk, lock-in,
+     security, innovation, among others) that are most important to assess the added
+     value.
+
+     For the public sector, open source is a technical cornerstone of digital sovereignty, enabling
+     governments to maintain independent control over digital infrastructure and reducing dependency
+     on non-EU tech giants like Amazon, Microsoft, Alibaba, etc.
+
+     Open-source allows public administrations to (freely) use, adapt, and host technology on their
+     "own terms" using infrastructure of their choosing, but most importantly in a transparent fashion.
+     If you can check the source code, you can see for yourself that there's nothing malicious in there
+     â Security is enhanced through transparency; open code also allows for public scrutiny and
+     community-driven identi cation and patching of vulnerabilities, which is often superior to closed-
+     source alternatives.
+
+     In the private sector, open-source can drastically accelerate development processes (and thus
+     innovation, if done right) by providing reusable building blocks.
+     As a small company (40+ employees), we shortened development time signi cantly by using
+     open-source libraries and components within our own product.
+
+     Key factors for assessing this added value include cost, risk, lock-in, and security considerations.
+     Open-source can upfront costs by (in most cases) eliminating licensing fees, though a transition
+     to Open-source products can be costly, especially for bigger companies, since teams need to be
+     trained etc. Transitioning to OS thus becomes a board topic.
+
+     Speaking of risk management: Open-source mitigates the risk of vendor lock-in, as users are not
+     tied to a single vendor's development roadmap or pricing, ensuring long-term exibility and
+     freedom of choice.
+
+     Example from practice: COkit is an openâsource SDK designed to enable localâ rst collaborative
+     applications. Data can remain on end devices or within clearly de ned sovereign domains, while
+     collaboration is enabled via peerâtoâpeer synchronization and cryptographic veri cation. This
+     illustrates how openâsource components can support sovereignty and resilience goals without
+     requiring mandatory dependence on a centralized cloud platform.
+
+     3) What concrete measures and actions may be taken at EU level to support the
+     development and growth of the EU open-source sector and contribute to the EUâs
+     technological sovereignty and cybersecurity agenda?
+
+     First: Quickly establish a 28th regime for a harmonized European company legal form speci cally
+     for open-source foundations to simplify all business operations and talent attraction accross the
+     EU
+
+     Second: Integrate mandatory digital sovereignty and open-source contribution modules into all
+     EU-funded engineering and computer science university curricula.
+
+     Third: Create a European Open Source Trust Label to provide automated cybersecurity
+     certi cation pathways for homegrown software, easing compliance burdens for SMEs.
+
+     â¢ Modernize public procurement for open source: move from licenseâcentric criteria to outcomeâ
+     and riskâbased criteria (security, auditability, interoperability, portability), and explicitly fund
+     maintenance and security work (not only initial build).
+
+     â¢ Create stable, multiâyear funding instruments for maintenance of widely used openâsource
+     components (including security audits, coordinated vulnerability handling, and professional
+fi
+                  fi
+                                                            fi
+                                                                        fi
+                                                                             fl
+                                                                                  fi
+                                                                                       fi
+                                                                                            fi
+     stewardship).
+
+     â¢ Provide shared compliance support for small teams and communities: reference processes,
+     model documentation, and lightweight tooling for meeting cybersecurity and AI requirements
+     proportionately.
+
+     â¢ Strengthen open standards and interoperability requirements in EU programs and public sector
+     systems to reduce lockâin and enable competitive implementation ecosystems.
+
+     4) What technology areas should be prioritized and why?
+
+     Priority should be given to baseâlayer capabilities that are broadly reusable across sectors:
+
+     i)
+     Localâ rst and edgeâcapable collaboration primitives.
+     Architectures that keep systems functional under degraded connectivity, reduce central points of
+     failure, and allow sovereign deployments.
+
+     ii)
+     Interoperable dataâsharing mechanisms (âdata roomsâ) and open standards.
+     Common interoperability speci cations to enable switching between providers, crossâborder
+     collaboration, and reusable European data spaces.
+
+     iii)
+     Provenance, traceability, and veri able data handling for AI systems, especially in highârisk
+     domains, to support oversight and accountability.
+
+     iv)
+     Selfâsovereign identity and granular permissions.
+     Decentralized identity, veri able credentials, and neâgrained access control to prevent
+     exploitation, enable user choice, and support secure crossâorganization collaboration.
+
+     5) In what sectors could an increased use of open source lead to increased
+     competitiveness and cyber resilience?
+
+     "In recent years, data-driven technologies have had transformative e ects on all sectors of the
+     economy. The proliferation of products connected to the internet in particular has increased the
+     volume and potential value of data for consumers, businesses and society. High-quality and
+     interoperable data from di erent domains increase competitiveness and innovation and ensure
+     sustainable economic growth" (EU Data Act)
+
+     Increased use of open-source architectures can speci cally bene t sectors characterized by the
+     presence of SMEs that often lack the digital capacities and skills to collect or analyze data, thus
+     tend to use to providers with attractive pricing like AWS or Azure. It's a trade-o really: Control for
+     convenience.
+
+     It is not a must to trade in your data ownership for a service when using open-source. Especially
+     in manufacturing, agriculture, and construction, where access to performance data from industrial
+     equipment opens opportunities for optimizing operational cycles and supply chain management,
+     high-quality data is vital, and a data-ownership is one of the most important factors to this. In
+     these environments, open-source-systems can enhance resilience by mitigating the high level of
+     fragmentation currently found in data silos and addressing the absence of standards for technical
+     interoperability.
+fi
+                     ff
+                          fi
+                               fi
+                                    fi
+                                           fi
+                                                 fi
+                                                            fi
+                                                                 ff
+                                                                           ff
+Openâsource adoption can deliver the highest impact in the following sectors:
+
+â¢ Manufacturing and industrial supply chains (machine/equipment data, multiâparty coordination,
+auditability)
+
+â¢ Agriculture and food systems (distributed operations, intermittent connectivity, equipment and
+sensor data)
+
+â¢ Construction and built environment (multiâstakeholder projects, portability across contractors/
+tools)
+
+â¢ Energy and mobility (critical operations, long lifecycles, resilience and interoperability)
+
+â¢ Public administration, healthcare, and education (accountability, auditability, continuity, and
+longâterm sustainability)

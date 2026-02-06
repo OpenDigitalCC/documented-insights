@@ -1,0 +1,218 @@
+Ref. Ares(2026)1204106 - 03/02/2026
+
+Towards European open digital ecosystems
+This document is Inriaâs answer to the call for evidence published by the European Commission.
+
+Executive Summary
+The current limits of European Union open source policy are less due to a lack of openness than to a
+lack of explicit, assumed, and governed strategic choices.
+Europe needs a strategic framework to better understand when open source should be used to
+increase EU technological sovereignty, competitiveness and cybersecurity and what needs to be
+done to maximize benefits when it is used .
+
+Open source constitutes a lever for Europe, but it should not be considered as a neutral or automatic
+policy. In a context of strong industrial, legal, and geopolitical asymmetries, non-targeted openness
+can also produce counterproductive effects. The objective of any software policy in Europe must be
+to strengthen the European software ecosystem, regardless of the publishing model.
+
+Open source should be used to reduce these asymmetries as it reduces dependencies to non-
+European and / or monopolistic Software providers and it levels the field by giving smaller actors a
+solid technological base they can build on to challenge dominant actors. However, great care must
+be given to ensure all organizations benefiting from this technological base have strategic
+understanding, incentives and practical means to contribute to it maintenance and further
+development. Some operational recommendations towards this are summarized at the end of the
+document.
+
+Main Recommendations
+   â¢   European stakeholders must be made aware of the variety of forms of openness, know how
+       to recognize contexts where open source, due to a lack of transparent and shared
+       governance, conceals a form of capture, and know how to make use of the range of forms of
+       openness (attribution clauses, sharing clauses, etc.).
+   â¢   Funded R&I projects should be required to elaborate on the balance between the benefits of
+       publishing their results as free Software and the risks that global actors capture most of their
+       value and become the main beneficiaries and distributors, especially when no credible plans
+       to maintain or further develop the software as an open source project are made. Promoting
+       open science should not mean that all software developed in academia must be open source.
+   â¢   Greater harmonisation across the EU, adoption of converging policies and approaches at the
+       scale of UE members. By emphasising more harmonisation and providing consistent
+       structured backing, more cohesive ecosystem that nurtures sustainable development and
+       encourages collaboration will be created for high-quality projects. Standardising practices,
+       formats and licences, and enhancing structured support for opensource initiatives, will foster
+        the development of trustworthy software, will ensure their maintenance and boost their
+        adoption.
+    â¢   Plans should be made to support projects providing key software infrastructures that a wide
+        array of applications or economic actors use as building blocks over integrated solutions.
+    â¢   Sovereignty in the open source should encompass the digital infrastructure required to host
+        the development of open source projects. Europe should identify ways of building and
+        operating credible alternatives to github.com, gitlab.com. Data portability between such
+        infrastructures should be promoted
+    â¢   For sovereignty and cyber resilience, Europe should treat major software registries as critical
+        infrastructure and plan EU-based resilient mirrors, backed by archives such as Software
+        Heritage.
+    â¢   For cybersecurity, Europe should promote SoftWare Hash IDentifiers (SWHID)1 as best
+        practice for the description of open source components included in a Software Bill of
+        Materials (SBOM2) under the CRA
+
+1. What are the strengths and weaknesses of the EU open source sector?
+What are the main obstacles that hamper (i) adoption and maintenance of
+high-quality and secure open source; and (ii) sustainable contributions to
+open source communities?
+
+Strengths
+The European open source sector has undeniable strengths:
+    â¢ a solid technical and scientific foundation, feeding many critical building blocks;
+    â¢ a culture of cooperation, interoperability, and standardization;
+    â¢ significant contribution to widely used global software infrastructures.
+These strengths primarily revolve around the ability to produce and share code.
+
+Weaknesses and obstacles
+The obstacles are less about the intrinsic quality of the software than its strategic positioning:
+   â¢ structural asymmetry between a multitude of small European actors who produce open-
+       source software, and global actors capable of industrializing, securing, and quickly capturing
+       value;
+   â¢ chronic insufficiency of dedicated means for maintenance, security, and governance, which
+       are determinant for real software quality;
+   â¢ a tendency to consider openness as an end in itself, leading to poorly informed decisions and
+       difficult reversibility;
+   â¢ persistent difficulty in taking responsibility for differentiated choices about openness
+       depending on sectors or nature of a Software.
+
+1
+  A SoftWare Hash IDentifier (SWHID) is an ISO-standardized, intrinsic, and persistent identifier that uniquely
+references software source code artifacts by computing a cryptographic hash directly from their content.
+2
+  A Software Bill of Materials (SBOM) is a formal, machine-readable inventory that lists all components, libraries,and
+dependencies within a software application to ensure supply chain transparency and security.
+   â¢   Lack of open source culture among customers (public sector and businesses), who fail to
+       understand that taking part in the collective effort is the cost-efficient strategy, and do not
+       contribute enough to the health of the software eco-systems they come to rely on.
+
+The absence of direct costs allows the use of free-licensed components without strategic thinking by
+management, and therefore without institutional support for protecting the investment through
+contribution to the health of the component used. This is a failure in manager training. Inria has seen
+this play out for a number of software built by its research teams, used by some industrial actors, but
+for which is is difficult to build and finance consortiums to maintain and develop the software
+further than its research origins
+
+There is great diversity in mechanisms supporting open source software: code contribution, other
+contributions to the project around the software, purchase of services (support contract, specific
+development), donation to non-profit organizations, membership in user associations or consortia,
+tip to developers. Most are incompatible with public procurement regulations or the organization of
+work within an administration. In the absence of acceptable procurement scoring criteria on the
+respondents' contribution to the software they propose to use, public procurement regulations lead
+to prioritizing contractualization with actors who use open source solutions while contributing
+minimally to the health of the exploited commons, thus impoverishing communities. As a
+generalization of this principle, any rules governing EUâs open source sector should favor actors who
+contribute to digital commons increasing their overall value over those who only take advantage of
+them and therefore build no further value.
+
+2. What is the added value of open source for the public and private
+sectors?
+To understand the benefits of open source, one should make a distinction between open source
+code and the open source communities around open source code. Using open source code gives
+access to the code, independently from a vendor, provided a copy is hosted in a public archive.
+When the code is maintained by an open community, this increases the sustainability of a codebase,
+independently from a single vendor.
+
+For the public sector, open source code can:
+    â¢ reduce certain technical dependencies (formats, interoperability);
+    â¢ ease the diffusion and sharing of the development costs non-differentiating building blocks;
+    â¢ improve transparency, provided there is real ability to understand and master, and thereby
+       enable improvements in cybersecurity in particular;
+    â¢ enable the reduction of costs and delays associated with certain developments and the
+       introduction of new approaches to public service development (agile methods, rapid
+       iteration, data-driven strategies) for the benefit of users;
+    â¢ enable sharing of research results with the public (as per open science principles).
+
+However, openness without open communities with clear stewardship and governance frequently
+leads to increased dependency on service providers or dominant actors, nullifying expected benefits.
+
+For the private sector, open source code is mainly:
+   â¢   an accelerator of innovation;
+   â¢   a means of reducing costs and technical risks.
+
+In an asymmetric context, this value is primarily captured by actors with industrialization capabilities,
+for example to make the Software accessible in a Software as a Service mode or as part of a larger
+software suite, regardless of their contribution to commons.
+
+3. What concrete measures and actions may be taken at the EU level to
+support the development and growth of the EU open source sector and
+contribute to the EUâs technological sovereignty and cybersecurity agenda?
+
+The most structured measure would be to recognize that open source requires explicit strategic
+choices. This implies notably:
+   â¢ going beyond uniform support logic or sprinkling, to target actors, projects, or organizations
+       capable of ensuring sustainable support; Priority should be given to projects providing key
+       software infrastructures that a wide array of applications use as building blocks over
+       integrated solutions
+   â¢ systematically integrating maintenance, security, and governance challenges into funding
+       mechanisms; each time a funding mechanism allows for software license purchase, it must
+       provide means for financing any open source software used.
+   â¢ forge new strategies for cooperation between Member States, respecting the diversity of
+       their respective choices but nevertheless enabling them to share their analyses and codes,
+       and ensuring that their solutions are interoperable
+   â¢ accepting that some trajectories involve delayed, partial, or conditional openness;
+   â¢ clarifying applicable rules to avoid supported solutions being subject to incompatible
+       extraterritorial legislation with European sovereignty objectives. Solutions are for example
+       subject to extraterritorial legislation when they are developed or distributed from non-
+       European servers, where user accounts are subject to the law applicable to the provider.
+
+Without this capacity to target and choose, EU action risks remaining dispersed, ineffective, and
+possibly contrary to European technological sovereignty objectives.
+
+One of the key actions for sovereignty would be to support the emergence of a forge operating
+under European law. Collaboration around strategic digital commons for Europe cannot depend
+exclusively on accounts and code hosting on github or gitlab.com. This should come as an additional
+effort over support for Software Heritage, an infrastructure to ensure availability of code across time
+that should be identified and supported as a key infrastructure for sovereignty.
+
+4. What technology areas should be prioritized and why?
+Technological domains should be viewed dynamically as they evolve regularly. It appears more
+pertinent to reason in terms of the "roles" of software building blocks. Prioritized software building
+blocks are those that:
+    â¢ guarantee sovereignty and democracy (such as digital public infrastructures, open data)
+    â¢ structure ecosystems (standards, interfaces, formats) -> cloud, networks, OS, ...
+   â¢   condition the ability to master, audit, and evolve systems -> cyber, AI, quantum, ...
+
+Some strongly differentiating or strategic building blocks in the same domains can legitimately follow
+proprietary trajectories to preserve secrecy/IP -> quantum, cyber, ...
+
+5. In what sectors could an increased use of open source lead to increased
+competitiveness and cyber resilience?
+Increased open source usage leads to greater competitiveness and resilience if it is integrated into a
+strategy to master all aspects:
+    â¢ understanding the building blocks used, identification of the most commonly used;
+    â¢ maintain and secure them over time;
+    â¢ not depend on extra-European legal or industrial frameworks.
+
+This topic should be instructed sector by sector by considering Europe's advance or delay, the
+existence or non-existence of European industrial actors, the transparency versus secrecy issue for
+security questions (algorithms on public actions, explainability, bias identification, ...)
+
+For cyber resilience, it is critical the Europe treats major software registries as critical infrastructure
+and plan EU-based resilient mirrors, backed by Software Heritage archiving.
+
+To understand the most commonly used by public institutions, usage of software bill of materials
+(SBOM) should be generalized, at least for all services provided by public institutions.
+
+Operational Recommendations
+   â¢   Funding rules for R&I projects that allow software licenses as eligible costs should also allow
+       support for open source developers and communities. This support should be encouraged
+       when open source software is a key component of deliverables for the project, especially for
+       specialized software such as scientific software
+   â¢   Due to the diversity of funding mechanisms for open source projects, a standardized way for
+       a community around an open source software to announce acceptable ways to send financial
+       support should be admitted as a sufficient base for financial justifications. Some projects
+       might prefer a donation based approach, others a consortium based approach, others a
+       ranking mechanism to identify companies that work with the community, but all should be
+       supported.
+   â¢   Managers should be trained so as to identify open source software their companies have
+       invested in, even as simple users, as an asset they need to identify and contribute to for
+       continued availability
+   â¢   Public institutions using open source software should be encouraged to publish a list of the
+       software used, with an indication of its criticality, so as to help agencies tasked with
+       identifying and supporting critical digital infrastructure fulfill their goals. This in turn will help
+       identify de facto standards and the main stakeholders to work with to favor interoperability.
+   â¢   Procurement for services built on open source software should favor structures who
+       contribute to building the communities around that software, and not integrators who
+       optimize costs by staying clear of contributions to the Software

@@ -1,0 +1,188 @@
+Ref. Ares(2026)728383 - 22/01/2026
+
+Executive Summary
+Open-source software offers Europe a realistic, mature, and sovereign alternative to proprietary digital
+platforms. The primary obstacle to its broad adoption is not technical capability, but fragmentation:
+too many distributions, interfaces, installation methods, and support models prevent open source
+from achieving the shared baseline from which proprietary platforms benefit.
+This document argues that the European Union can play a decisive enabling role by endorsing and
+supporting reference platforms across desktop, education, mobile, and consumer marketsâwithout
+eliminating choice or innovation. By establishing common standards for user experience, software
+support, education, and installation methods, the EU can significantly lower adoption barriers, reduce
+long-term dependency on non-European vendors, and strengthen digital sovereignty.
+Early exposure through education, credible open-source mobile platforms, and market-level
+availability are essential to ensure that Europeâs future workforce develops transferable digital skills
+rather than product-specific dependencies.
+
+Introduction
+My name is Steve Caster, and I have been an active Linux user since 1997, when I first worked with
+Red Hat Linux 4.0. Between 2002 and 2004, I was professionally employed by a Linux and Open Source
+consultancy agency, Digibel, where I supported, deployed, and advised on Linux-based solutions in
+professional environments.
+Over the years, I have been involved in several Linux User Groups and have accumulated hands-on
+experience with a wide range of distributions, including Red Hat, Debian, Slackware, Ubuntu, and their
+derivatives. This long-term exposure gives me both a technical and a user-centric perspective on the
+strengths and weaknesses of the open-source ecosystem.
+
+The Main Challenge of Open Source Adoption
+Contrary to common assumption, the primary obstacle to large-scale adoption of open-source systems
+is not a lack of quality software. Open source provides an abundance of mature, secure, and capable
+tools that can rival proprietary alternatives.
+The core challenge lies in fragmentation and diversity. While diversity is a major strength from an
+innovation standpoint, it becomes a liability when the objective is broad public adoption. The large
+number of distributions, package formats, desktop environments, configuration methods, and
+software management tools creates a steep learning curve for non-technical users and significantly
+complicates support.
+In practice:
+    â¢ Two Linux systems may behave very differently despite sharing core components
+    â¢ Documentation and support advice often fail to translate across distributions
+    â¢ Troubleshooting depends on system-specific knowledge rather than shared experience
+
+Comparison with Proprietary Platforms
+On proprietary platforms such as Microsoft Windows, the underlying system is largely uniform. This
+uniformity enables a powerful social support mechanism: users can easily ask a neighbour, colleague,
+or friend for help because the environment is familiar and predictable.
+This shared baseline dramatically lowers the barrier to entry and reduces reliance on professional
+support channels. It is not a technical advantage, but a standardisation advantage.
+At present, open source lacks such a shared baseline for the general public.
+
+A Possible Role for the European Union
+The European Union is uniquely positioned to address this structural issue.
+Rather than replacing or controlling the open-source ecosystem, the EU could support and endorse a
+reference distribution or platform designed for public administrations, education, and citizens. Such a
+platform would not remove freedom of choice, but would establish:
+    â¢ A common base system
+    â¢ A standardised package management approach
+    â¢ Consistent system configuration tools
+    â¢ A unified, user-friendly software management interface
+This would allow documentation, training, and support to scale efficiently across borders and
+institutions.
+
+User Experience and Interface Consistency
+Although system management has improved significantlyâparticularly through graphical interfacesâ
+the lack of consistent user experience remains a major barrier for non-technical users.
+Different distributions expose different tools, workflows, layouts, and terminology for identical tasks.
+For the general public, this inconsistency creates confusion and reduces confidence, even when
+systems are stable and reliable.
+A standardised approach to user-facing system management would substantially improve usability,
+trust, and adoption.
+
+Desktop Environment Standardisation
+For broad public adoption, a reference platform should define a single, generally supported desktop
+environment as its default. This environment should be mature, stable, well-documented, accessible,
+and suitable for long-term institutional use.
+Selecting a familiar and user-friendly optionâsuch as Cinnamon, as an exampleâwould provide a
+consistent experience across administrations, education, and citizens. Alternative environments
+should remain available, but one reference desktop would create a shared baseline that simplifies
+training, documentation, accessibility support, and peer-to-peer assistance.
+
+Clear Support for a Chosen Software Package (Example-Based)
+A coherent platform also requires clarity regarding which end-user applications are formally supported
+as reference implementations. This does not restrict choice, but ensures that users, educators, and
+support organisations know which tools are covered by official documentation and training.
+For example, an office productivity suite such as LibreOffice could be designated as a reference
+application, accompanied by structured learning materials and formal lessons. This enables
+institutions to build shared expertise while continuing to allow alternative solutions where
+appropriate.
+
+A Single Installation Methodology and Software Store
+Consistency in software installation and updates is essential for usability and supportability. A
+reference platform should therefore define one primary installation methodology and one official
+software store with predictable behaviour and a stable interface.
+Multiple parallel installation systems fragment documentation, increase user confusion, and raise
+support costs. Standardising how software is discovered, installed, updated, and removed makes the
+platform easier to understand, more secure to maintain, and significantly more accessible to non-
+technical users.
+
+Formal Integration of Open Source in Education
+Education plays a decisive role in shaping long-term digital skills. Today, much of European primary,
+secondary, and higher education relies predominantly on non-European proprietary platforms, most
+notably Microsoft Windows and Microsoft Office.
+As a result, students are implicitly trained to associate digital literacy with specific commercial
+products rather than with transferable concepts and open standards. This engrains vendor-specific
+ecosystems into the future workforce, creating long-term dependency and limiting technological
+sovereignty.
+Formally integrating open-source software into educational curricula would shift the focus from
+products to principles: operating systems, file formats, interoperability, scripting, and problem-solving.
+This does not require excluding proprietary tools, but it does require deliberate balance.
+Effective integration should include:
+    â¢ Official recognition of open-source platforms in curricula
+    â¢ Structured teaching materials aligned with open standards
+    â¢ Teacher training and long-term support
+    â¢ Alignment with reference platforms used in public administration
+
+Promoting Open Source Mobile Platforms
+Mobile platforms have become the primary computing environment for many citizens. Today, Europe
+is almost entirely dependent on two non-European ecosystems: Googleâs Android and Appleâs iOS.
+This duopoly controls operating systems, application distribution, security models, and data flows.
+The objective is not to eliminate these platforms, but to support credible open-source alternatives
+that can coexist and mature. Existing open-source mobile operating systemsâsuch as LineageOS,
+Sailfish OS, or Ubuntu Touchâcurrently lack coordinated institutional backing and integration into
+public use cases.
+The EU could play a key enabling role by:
+    â¢ Supporting one or more open-source mobile platforms as reference systems
+    â¢ Encouraging hardware vendors to provide compatible devices and drivers
+    â¢ Ensuring access to essential services through open standards and web-based solutions
+    â¢ Deploying open-source mobile systems in public-sector pilot programs
+Public digital services should prioritise platform-neutral access, avoiding dependency on proprietary
+app stores or vendor-specific APIs.
+Bringing Open Source into the Consumer Market
+For open source to achieve meaningful adoption beyond technical communities, it must move out of
+its perception as a specialist domain and become visible, accessible, and normalised for everyday
+consumers.
+Retail environments play a decisive role in shaping user choice. Today, consumer hardware is
+overwhelmingly sold with preinstalled proprietary software, effectively excluding open-source options
+at the point of sale.
+The EU could address this gap by supporting hardware vendors and retailers that offer devices
+preinstalled with a reference open-source operating system. Measures could include:
+    â¢ Tax incentives or reduced VAT for certified open-source devices
+    â¢ Incentives for manufacturers offering preinstalled open-source systems
+    â¢ Retail staff training and basic customer guidance
+    â¢ Clear labelling and certification schemes
+Preinstallation is critical: for non-technical users, the system must work out of the box without manual
+installation.
+
+Leveraging Public Procurement
+Public procurement is one of the most effective tools available to the European Union to influence
+market behaviour. By recognising and rewarding compliance with open standards, open-source
+reference platforms, and vendor-neutral architectures in public tenders, the EU can create sustained
+demand for open-source solutions.
+This does not require excluding proprietary vendors, but ensuring that procurement criteria do not
+implicitly favour closed ecosystems through format lock-in or licensing dependencies.
+
+Strengthening Open Standards
+Open-source adoption must be accompanied by a strong commitment to open standards for file
+formats, communication protocols, and data exchange. Without this, platform neutrality cannot be
+sustained.
+Ensuring that public services and educational materials rely on open standards guarantees long-term
+accessibility, interoperability, and vendor independence.
+Professional Support and Certification
+For open-source platforms to be trusted at scale, a professional support ecosystem must be
+encouraged. Certification programs for system integrators, support providers, and trainers aligned
+with the reference platform would strengthen trust and accountability.
+Such an ecosystem would also support SMEs, create local employment opportunities, and ensure
+reliable long-term support.
+
+Changing the Default Narrative
+Open source should no longer be framed as an alternative for specialised users, but as a credible
+default option for everyday digital needs. Achieving this shift requires coordinated action across policy,
+education, procurement, retail, and public services.
+
+Conclusion
+Open-source software already provides Europe with the technical foundations required for secure,
+modern, and competitive digital systems. The barriers to its broader adoption are not rooted in
+capability, but in structure: fragmentation, lack of standardisation, and insufficient institutional
+support prevent open source from reaching its full potential as a mainstream option for citizens,
+education, and public administration.
+This document outlines how the European Union can act as an enabler rather than a controller of the
+open-source ecosystem. By endorsing reference platforms, promoting consistency in user experience
+and software management, integrating open source into education, supporting open-source mobile
+alternatives, leveraging public procurement, and enabling consumer-market availability, the EU can
+create the conditions in which open-source solutions can scale sustainably.
+Crucially, this approach does not eliminate choice or innovation. Instead, it establishes a shared
+baseline that reduces complexity, lowers adoption barriers, and enables transferable skills and
+knowledge across borders and sectors. It also strengthens digital sovereignty by reducing long-term
+dependency on non-European platforms while preserving interoperability through open standards.
+A coordinated, pragmatic, and incremental strategy will allow open-source platforms to evolve from
+niche alternatives into credible defaults for everyday digital needs. In doing so, the European Union
+can ensure that its digital future remains open, resilient, and aligned with the public interest.

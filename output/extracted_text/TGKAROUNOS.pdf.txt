@@ -1,0 +1,130 @@
+Ref. Ares(2026)1223539 - 03/02/2026
+
+Open Digital Ecosystems as a Foundation for Technological Sovereignty,
+Security of Supply and Competitiveness
+The European Unionâs open digital ecosystem faces a set of interrelated structural challenges that
+directly affect its capacity to achieve technological sovereignty, strategic autonomy and long-term
+competitiveness.
+A first challenge is the structural mismatch between the EUâs extensive reliance on open source
+software and the lack of systematic investment in its long-term maintenance, security and
+governance. Open source underpins a large share of Europeâs digital infrastructure, yet its
+sustainability often depends on fragmented and under-resourced communities, creating latent
+systemic risk.
+A second challenge concerns security of supply. Public administrations, critical infrastructure and
+industrial systems increasingly depend on software and hardware stacks that they cannot
+independently audit, maintain or evolve. This exposes the Union to geopolitical, legal and supply-
+chain risks arising from dependencies on non-EU jurisdictions and proprietary technologies.
+A third, less addressed challenge is the disconnect between open digital assets and Europeâs
+industrial and manufacturing base. Open source software, open hardware designs and open
+standards are rarely integrated into regional innovation, industrial design and production
+ecosystems. As a result, Europe remains dependent not only for software, but also for critical
+devices, embedded systems and manufacturing know-how.
+Finally, the absence of coordinated institutional capacity at regional and local level limits systematic
+contribution, reuse and interoperability, reinforcing Europeâs role as a user rather than a co-producer
+of the digital and industrial infrastructure it depends on.
+
+Open Source as an Enabler of Technological Sovereignty and Strategic
+Autonomy
+Open source is a foundational enabler of technological sovereignty and strategic autonomy,
+understood as the EUâs capacity to control, adapt and sustain its critical digital and industrial
+infrastructures without unilateral external constraints.
+By enabling transparency, auditability and the right to modify and redistribute, open source reduces
+dependency on proprietary vendors and mitigates the risk of service discontinuity or unilateral âkill
+switchesâ. This applies equally to software, firmware and open industrial designs.
+Crucially, open source enables sovereignty without digital or industrial isolation. It supports
+global collaboration, interoperability and shared innovation, while allowing Europe to retain control
+over critical layers of its technology stack in line with its values and regulatory framework.
+
+The Role of the European Commission: From Digital Commons to Industrial
+Capacity
+The European Commission should act as a strategic coordinator and long-term steward of
+Europeâs open digital and industrial commons, ensuring coherence across digital, industrial,
+regional and research policies.
+Beyond sustained support for critical open source software, the Strategy should explicitly promote
+the establishment of Open Industrial Design and Manufacturing Labs in every EU region,
+building on and complementing existing Digital Innovation Hubs, makerspaces and research
+infrastructures.
+These labs should function as shared infrastructures where:
+    â¢ open source software,
+    â¢ open hardware and industrial designs,
+    â¢ open data and open standards
+      converge in real industrial contexts.
+They would enable SMEs, startups, researchers, public administrations and citizens to co-design,
+prototype, test and locally manufacture interoperable, auditable and reusable products. In doing so,
+they would act as regional anchors for technological sovereignty, translating open digital assets
+into tangible industrial capacity and reducing dependencies in critical supply chains.
+
+Public Procurement as a Strategic Lever
+Public procurement should be reoriented to recognise open source and open industrial design as
+strategic public assets, rather than marginal technical options.
+This includes:
+    â¢ requiring that software, hardware designs and digital specifications developed with public
+      funding are released under recognised open licences,
+    â¢ mandating systematic reuse of publicly funded code and designs across administrations and
+      regions,
+    â¢ introducing âopen source and open design firstâ assessments, particularly for mission-
+      critical systems, devices and infrastructure.
+Public procurement can also act as a demand-side driver for Open Industrial Design and
+Manufacturing Labs, ensuring that public-sector needs are met through open, locally adaptable and
+reusable solutions.
+
+Ensuring Long-Term Sustainability and Security
+Long-term sustainability requires moving beyond project-based funding towards structural
+investment in maintenance, security auditing and governance of widely used open source
+components, including their integration with hardware and industrial systems.
+The establishment of a European Sovereign Tech and Open Source Fund should be
+complemented by sustained support for regional Open Industrial Design and Manufacturing Labs.
+Together, these instruments would ensure that open digital assets can be securely deployed, tested,
+adapted and maintained in real-world industrial environments, directly strengthening EU digital and
+industrial resilience and security of supply.
+Competitiveness, Innovation and the Single Market
+Open source, open standards and open industrial design are key drivers of competitiveness,
+particularly for SMEs and startups. They lower barriers to entry, enable interoperability and prevent
+vendor lock-in.
+By linking open digital ecosystems with distributed regional manufacturing capacity, Open
+Industrial Design and Manufacturing Labs would:
+    â¢ accelerate prototyping and time-to-market,
+    â¢ support circular economy, repairability and sustainability objectives,
+    â¢ enable European companies to scale innovation while keeping value creation within the EU.
+Open digital ecosystems should therefore be treated as horizontal enablers of the Single Market
+and Europeâs industrial strategy, not solely as ICT policy instruments.
+
+Citizens and Individual Digital Autonomy
+The Strategy should explicitly recognise individual digital autonomy as a complementary
+dimension of technological sovereignty.
+Citizens should be empowered not only as users, but as participants in distributed digital and
+manufacturing ecosystems. Concrete actions could include:
+    â¢ supporting open-source home servers and routers integrated with regional and European
+      federated cloud infrastructures,
+    â¢ enabling citizens and communities to contribute compute, storage and connectivity resources
+      securely,
+    â¢ linking these infrastructures with local Open Industrial Design and Manufacturing Labs,
+      allowing citizens to co-create, repair and adapt devices and digital tools.
+This approach strengthens democratic resilience, digital skills, local innovation and trust in
+European digital infrastructure.
+
+Funding Open Industrial Design and Manufacturing Labs through EU
+Programmes
+The establishment of Open Industrial Design and Manufacturing Labs in every EU region can be
+effectively supported through a coordinated use of existing EU funding instruments:
+    â¢ European Regional Development Fund (ERDF)
+      To finance physical infrastructure, equipment, and long-term regional anchoring of the labs,
+      integrate them into Smart Specialisation Strategies, and support SME competitiveness and
+      industrial transition.
+    â¢ Horizon Europe
+      To support the labs as experimentation and innovation platforms through collaborative R&I
+      projects, living labs and pilot lines that develop and validate open industrial designs and
+      manufacturing systems.
+    â¢ Digital Europe Programme
+      To fund digital capacity building, integration with federated cloud, data spaces and AI
+      platforms, deployment of open source digital tools, and advanced digital skills training.
+The Strategy should explicitly encourage synergies between ERDF, Horizon Europe and Digital
+Europe, enabling labs to evolve across their full lifecycle: infrastructure, research and
+experimentation, deployment and skills.
+The European Open Digital Ecosystem Strategy represents a critical opportunity to align
+technological sovereignty, strategic autonomy, security of supply and competitiveness within a
+single coherent framework.
+By combining open source policy with industrial capacity building, regional cohesion and citizen
+participation, and by leveraging existing EU funding instruments, the EU can move from digital
+dependency to shared control, shared innovation and shared resilience, without digital or
+industrial isolation.

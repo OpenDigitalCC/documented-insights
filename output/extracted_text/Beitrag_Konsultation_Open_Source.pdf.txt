@@ -1,0 +1,114 @@
+Ref. Ares(2026)1085518 - 30/01/2026
+
+Ministerium fÃ¼r ErnÃ¤hrung, LÃ¤ndlichen Raum und Verbraucherschutz                  Name:               Jontofsohn
+Postfach 10 34 44 | 70029 Stuttgart
+
+EuropÃ¤ische Kommission                                                            Telefon:            +49 711 126-2173 und-2059
+                                                                                  E-Mail:             poststelle@mlr.bwl.de
+Rue de la Loi / Wetstraat 200
+B-1049 BrÃ¼ssel
+                                                                                  GeschÃ¤ftszeichen:   MLR37-0224-205/1/1
+BELGIEN                                                                                               (bei Antwort bitte angeben)
+
+                                                                                  Datum:              3. Februar 2026
+
+Stellungnahme zur Ã¶ffentlichen EU-Konsultation: âAuf dem Weg zu
+europÃ¤ischen offenen digitalen Ãkosystemenâ
+
+Sehr geehrte Damen und Herren,
+
+anbei erhalten Sie die Stellungnahme des Ministeriums fÃ¼r ErnÃ¤hrung, LÃ¤ndlichen Raum und
+Verbraucherschutz Baden-WÃ¼rttemberg (MLR) zur oben genannten Ã¶ffentlichen Konsultation.
+Durch die Beteiligung an der Konsultation mÃ¶chte das MLR einen Beitrag zur weiteren
+StÃ¤rkung der Verbraucherrechte im digitalen Umfeld leisten. Das Anliegen des MLR ist es
+hierbei, unsere Bewertungen in ein neues strategisches Konzept zu quelloffener Software in
+der EU zugunsten einer technologischen SouverÃ¤nitÃ¤t und mehr Sicherheit im Netz einflieÃen
+zu lassen, insbesondere in folgendem verbraucherrelevanten Bereich:
+
+Der Mehrwert quelloffener LÃ¶sungen fÃ¼r Verbraucherinnen und Verbraucher
+
+Quelloffene Software bezeichnet eine Art von Software, die fÃ¼r Unternehmen und
+Verbraucherinnen und Verbraucher im Rahmen einer freien und quelloffenen Lizenz angeboten
+wird. Sie ist somit ein Ã¶ffentliches Gut, das neben der Nutzung und Offenlegung auf die
+Weiterentwicklung und Verbesserung des Quellcodes durch eine Zusammenarbeit zwischen
+Entwicklern und Nutzerinnen und Nutzer abzielt.
+
+Im Gegensatz dazu steht eine herstellergebundene (proprietÃ¤re) Software, bei der der
+Quellcode von einem Unternehmen verwaltet und geheim gehalten wird. Nutzerinnen und
+Nutzer erhalten Zugriff auf diese Software nur gegen Bezahlung einer Lizenz. Ãnderungen am
+Quellcode sind nicht erlaubt oder nur eingeschrÃ¤nkt mÃ¶glich.
+
+                                                                                                                         Seite 1 von 3
+
+Kernerplatz 10                               Homepage: mlr-bw.de
+70182 Stuttgart                              Serviceportal: service-bw.de
+E-Mail: poststelle@mlr.bwl.de                Datenschutz: mlr-bw.de/datenschutz
+Telefon: +49 711 126-0
+   â¢   Kosten:
+
+Quelloffene Software ist oft unentgeltlich, da keine Lizenzkosten anfallen. Dies stellt einen
+entscheidenden Vorteil fÃ¼r Verbraucherinnen und Verbraucher dar. Im Falle von proprietÃ¤rer
+Software kann der Anbieter den Support einstellen oder den Preis erhÃ¶hen. Verbraucherinnen
+und Verbraucher sind regelmÃ¤Ãig davon betroffen. Die Kosten fÃ¼r Verbraucherinnen und
+Verbraucher werden auch dadurch gesenkt, dass quelloffene Software mit verschiedenen
+Betriebssystemen und Plattformen kompatibel ist und es keiner stÃ¤ndigen Neuanschaffungen
+bedarf.
+
+   â¢   Transparenz:
+
+Offene Quellen machen Software weniger anfÃ¤llig fÃ¼r Manipulationen: Die Transparenz
+minimiert das Risiko, dass jemand einen Schadcode in die Software einfÃ¼gt. Denn die
+Schwarmintelligenz ist professionellen Entwickler-Teams in der Regel Ã¼berlegen und ist in der
+Lage, Schwachstellen schneller und zuverlÃ¤ssiger aufzudecken. Der offene Code ermÃ¶glicht
+eine breite ÃberprÃ¼fung auf SicherheitslÃ¼cken und Fehler, die meist schnell behoben werden
+kÃ¶nnen. Dies ist ein enormer Vorteil fÃ¼r die Sicherheit privater Nutzerinnen und Nutzer.
+
+   â¢   Datensicherheit und digitale Resilienz:
+
+Software, die von einem Hersteller entwickelt wird (proprietÃ¤re Software) hat neben der
+AbhÃ¤ngigkeit von diesem noch einen entscheidenden Nachteil: Was wÃ¤hrend des Betriebs im
+Hintergrund lÃ¤uft, erfahren Nutzerinnen und Nutzer nicht, auch wenn es sicherheitsrelevante
+Aspekte wie die Datensicherheit betrifft. Zudem stehen die Server meist im nicht europÃ¤ischen
+Ausland, so dass Verbraucherinnen und Verbraucher nicht durch europÃ¤ische
+Datenschutzgesetze geschÃ¼tzt sind. Quelloffene Anwendungen verzichten demgegenÃ¼ber
+hÃ¤ufig auf das Sammeln und Weiterverkaufen von Nutzerdaten. Verbraucherinnen und
+Verbraucher kÃ¶nnen so mehr Kontrolle Ã¼ber ihre Daten behalten.
+
+   â¢   FlexibilitÃ¤t und Anpassbarkeit:
+
+Individuelle Anpassungen von SoftwarelÃ¶sungen, auch fÃ¼r private Nutzerinnen und Nutzer,
+sind bei quelloffener Software mÃ¶glich, so dass Verbraucherinnen und Verbraucher eine hÃ¶here
+FlexibilitÃ¤t in der Nutzung ihrer Software erhalten.
+
+   â¢   Technologische SouverÃ¤nitÃ¤t:
+
+Quelloffene europÃ¤ische Software bedeutet weniger AbhÃ¤ngigkeit der Verbraucherinnen und
+Verbraucher von einzelnen groÃen Anbietern in Nicht-EU-LÃ¤ndern. Die Nutzerinnen und Nutzer
+haben darÃ¼ber hinaus eine grÃ¶Ãere Auswahl quelloffener europÃ¤ischer Software, deren
+Nutzung sie selbst bestimmen kÃ¶nnen.
+
+                                                                                       Seite 2 von 3
+   â¢     Nachhaltigkeit:
+
+Quelloffene Software ist bestÃ¤ndig, da sie nicht an den Erfolg eines einzigen Anbieters
+gebunden ist. Somit ist die Lebensdauer der Software in der Regel lÃ¤nger. DarÃ¼ber hinaus kann
+quelloffene Software oft auch auf Ã¤lterer Hardware betrieben werden, was die Nutzungsdauer
+von GerÃ¤ten verlÃ¤ngert und Elektroschrott reduziert.
+
+FAZIT:
+
+Die Verringerung struktureller AbhÃ¤ngigkeiten von auÃereuropÃ¤ischen Technologieanbietern
+ist von entscheidender Bedeutung fÃ¼r Verbraucherinnen und Verbraucher. Mit einem offenen
+digitalen Ãkosystem in Europa haben Nutzerinnen und Nutzer die MÃ¶glichkeit ihre
+technologische SouverÃ¤nitÃ¤t weitgehend zu behalten und ihre digitale Resilienz zu stÃ¤rken.
+
+Das MLR hofft, mit diesem Beitrag zur Entwicklung der kÃ¼nftigen Open-Source-Software-
+Strategie der EU beizutragen.
+
+Mit freundlichen GrÃ¼Ãen
+
+Dr. Edwin Ernst
+
+Stellvertretender Leiter der Abteilung Verbraucherschutz, Tierschutz, Tiergesundheit
+
+                                                                                       Seite 3 von 3

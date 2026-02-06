@@ -1,0 +1,124 @@
+Ref. Ares(2026)1154445 - 02/02/2026
+
+                                                                       Fediversuomi ry 2.2.2026
+
+Kannanotto: Kohti eurooppalaisia avoimia
+digitaalisia ekosysteemejÃ¤
+Sosiaalisen median alustat ovat keskeinen osa nykyistÃ¤ viestintÃ¤infrastruktuuriamme. LÃ¤hes
+joka toiselle alle 30-vuotiaalle eurooppalaiselle sosiaalinen media on jo ensisijainen uutislÃ¤hde
+(Batista Cabanas, 2025). Sosiaalisessa mediassa jaetulla informaatiolla voi olla merkittÃ¤vÃ¤Ã¤
+vaikutusta Euroopan yhteiskuntien koheesiolle ja ihmisten luottamukselle eurooppalaiseen
+demokraattiseen jÃ¤rjestelmÃ¤Ã¤n.
+
+Vallitsevassa markkinatilanteessa Eurooppa on tÃ¤ysin riippuvainen amerikkalaisista
+sosiaalisen median alustoista, kuten viestipalvelut Facebook ja X (ent. Twitter),
+kuvanjakopalvelu Instagram ja videonjakopalvelu YouTube. NÃ¤iden sosiaalisen median
+alustojen omistajat ajavat avoimesti Yhdysvaltain nykyisen hallituksen agendaa. (Curzi de
+MendonÃ§a ja Grenier, 2025) TÃ¤hÃ¤n agendaan kuuluu demokratiaa vastustavien ja vÃ¤kivaltaa
+ihannoivien poliittisten toimijoiden tukeminen Euroopassa, kuten esimerkiksi X:n omistaja ja
+Yhdysvaltain hallinnossa toimiva Elon Musk on tehnyt (Deutsche Welle, 2025; Euronews ja AP,
+2025; Picheta, 2025). Euroopan tulee oman turvallisuutensa vuoksi ja demokraattisen
+jÃ¤rjestelmÃ¤nsÃ¤ sÃ¤ilyttÃ¤miseksi ryhtyÃ¤ vÃ¤littÃ¶mÃ¤sti irtautumaan nÃ¤istÃ¤ sekÃ¤ muista pÃ¤Ã¤asiassa
+voittoa tavoittelevista ja keskitettyÃ¤ valtaa kÃ¤yttÃ¤vistÃ¤ alustoista.
+
+Euroopassa on olemassa laaja joukko ohjelmistokehittÃ¤jiÃ¤, jotka tyÃ¶skentelevÃ¤t avoimen
+lÃ¤hdekoodin sosiaalisen median alustojen parissa. TÃ¤llaisia alustoja ovat esimerkiksi
+viestipalvelu Mastodon (Mastodon gGmbH, 2025a), kuvanjakopalvelu Pixelfed (Pixelfed, 2026)
+ja videonjakopalvelu PeerTube (Framasoft, n.d.). Kaikki edellÃ¤mainitut palvelut ovat yhteydessÃ¤
+toisiinsa avoimen ActivityPub-protokollan kautta, ja tÃ¤hÃ¤n perustuvaa hajautettua
+kokonaisuutta kutsutaan Fediversumiksi (Fediverse.info, 2025; Wikipedia, 2026). NÃ¤illÃ¤
+alustoilla on jo nyt useita miljoonia kÃ¤yttÃ¤jiÃ¤ Euroopassa (FediDB.com, 2026). TÃ¤tÃ¤
+viestintÃ¤infrastruktuuria yllÃ¤pitÃ¤vÃ¤t etenkin yksityiset EU-kansalaiset hajautetusti eri puolilla
+Eurooppaa ja ensisijaisesti vapaaehtoispohjalta.
+
+Koska ActivityPub-pohjaisen sosiaalisen median infrastruktuuri on hajautettu, ei sitÃ¤ pysty
+kontrolloimaan mikÃ¤Ã¤n yksittÃ¤inen yritys. NÃ¤mÃ¤ sosiaalisen median alustat myÃ¶s eroavat
+amerikkalaisista, yhden yrityksen omistamista sosiaalisen median alustoista siinÃ¤, miten ne
+tarjoavat eri kÃ¤yttÃ¤jille sisÃ¤ltÃ¶Ã¤ automaattisesti. TÃ¤tÃ¤ automaatiotoimintoa kutsutaan
+suosittelujÃ¤rjestelmÃ¤ksi tai epÃ¤virallisemmin âsosiaalisen median algoritmeiksiâ. Yhden
+yrityksen yksinomistamalla sosiaalisen median alustoilla suosittelujÃ¤rjestelmÃ¤n toiminta on
+liikesalaisuus, mikÃ¤ mahdollistaa palvelun kÃ¤yttÃ¤jien mielipiteeseen vaikuttamisen sÃ¤Ã¤tÃ¤mÃ¤llÃ¤
+jÃ¤rjestelmÃ¤ nÃ¤yttÃ¤mÃ¤Ã¤n palvelun omistajien etuja ajavaa sisÃ¤ltÃ¶Ã¤. NiinikÃ¤Ã¤n yhden yrityksen
+omistama sosiaalisen median palvelu voidaan suunnitella riippuvuutta aiheuttavaksi, jotta
+palvelun kÃ¤yttÃ¶ maksimoi yrityksen voitot (Lawrence ja Sholkoff, 2024). ActivityPub-pohjaisen
+sosiaalisen median suosittelujÃ¤rjestelmÃ¤t taas ovat luonteeltaan lÃ¤pinÃ¤kyviÃ¤ ja demokraattisia:
+esimerkiksi Mastodonissa kÃ¤yttÃ¤jÃ¤ joutuu lisÃ¤Ã¤mÃ¤Ã¤n toisia kÃ¤yttÃ¤jiÃ¤ seurattavaksi nÃ¤hdÃ¤kseen
+uutta sisÃ¤ltÃ¶Ã¤ automaattisesti (Mastodon gGmbH, 2025b).
+
+1
+                                                                     Fediversuomi ry 2.2.2026
+
+Ehdottamamme toimet Euroopan unionille
+    Â· EU:n on tuettava eurooppalaisia avoimeen lÃ¤hdekoodiin ja avoimiin standardeihin
+       perustuvien sosiaalisen median teknologioiden kehittÃ¤jiÃ¤ ja kehityshankkeita. TÃ¤mÃ¤
+       tarkoittaa paitsi rahoitusta, myÃ¶s EU-instituutioiden siirtymistÃ¤ kÃ¤yttÃ¤mÃ¤Ã¤n nÃ¤itÃ¤
+       teknologioita omassa viestinnÃ¤ssÃ¤Ã¤n suljettujen teknologioiden sijaan.
+
+    Â· EU:n on kannustettava myÃ¶s jÃ¤senmaiden ja aluehallintojen instituutioiden siirtymistÃ¤
+       kÃ¤yttÃ¤mÃ¤Ã¤n nÃ¤itÃ¤ avoimia viestintÃ¤teknologioita rahoittamalla esimerkiksi
+       kÃ¤yttÃ¶Ã¶notto- ja koulutushankkeita sekÃ¤ tukemalla parhaiden kÃ¤ytÃ¤ntÃ¶jen jakamista
+       koko EU:n alueella.
+
+    Â· EU:n on tuettava yksityisten EU-kansalaisten, yhdistysten ja osuuskuntien yllÃ¤pitÃ¤miÃ¤
+       avoimiin teknologioihin perustuvia sosiaalisen median palveluita. TÃ¤mÃ¤ lisÃ¤Ã¤
+       viestintÃ¤jÃ¤rjestelmÃ¤n resilienssiÃ¤ estÃ¤mÃ¤llÃ¤ EU-kansalaisten kÃ¤yttÃ¤miÃ¤ palveluita
+       pÃ¤Ã¤tymÃ¤stÃ¤ ulkovaltojen agenttien kÃ¤siin esimerkiksi yrityskauppojen myÃ¶tÃ¤. TÃ¤mÃ¤
+       vahvistaa myÃ¶s eurooppalaista kansalaisyhteiskuntaa osallistamalla EU-kansalaisia
+       oman viestintÃ¤infrastruktuurinsa yllÃ¤pitoon ja kehittÃ¤miseen.
+
+    Â· EU:n on tuettava eurooppalaisia, eurooppalaisen lainsÃ¤Ã¤dÃ¤nnÃ¶n alaisena toimivia
+       hostaus- ja pilvipalveluita, jotka eivÃ¤t ole riippuvaisia amerikkalaisessa omistuksessa
+       olevista datakeskuspalveluista.
+
+2
+                                                                          Fediversuomi ry 2.2.2026
+
+LÃ¤hteet
+Batista Cabanas, Leticia. (2025) Young Europeans face rising threat from misinformation as
+social media becomes main news source. Euronews, 19.2.2025. https://www.euronews.com/my-
+europe/2025/02/19/young-europeans-face-rising-threat-from-misinformation-as-social-media-
+becomes-main-news-s Haettu 1.2.2026.
+
+Curzi de MendonÃ§a, Yasmin ja Grenier, Camille. (2025) Digital imperialism: How US social media
+firms are using American law to challenge global tech regulation. The Conversation, 21.3.2025.
+https://theconversation.com/digital-imperialism-how-us-social-media-firms-are-using-
+american-law-to-challenge-global-tech-regulation-252116 Haettu 1.2.2026.
+
+Deutsche Welle. (2025) Scholz says Musk support for far-right 'threatens democracy'. 17.1.2025.
+https://www.dw.com/en/scholz-says-musk-support-for-far-right-threatens-democracy/
+a-71324939 Haettu 1.2.2026
+
+Euronews ja AP. (2025) How Elon Musk, a social media powerhouse, boosted hard-right figures
+in Europe. Euronews, 1.8.2025. https://www.euronews.com/next/2025/08/01/how-elon-musk-a-
+social-media-powerhouse-boosted-hard-right-figures-in-europe Haettu 1.2.2026.
+
+FediDB.com. (2026) Fediverse Statistics. https://fedidb.com/stats Haettu 1.2.2026.
+
+Fediverse.info. (2025) fediverse.info. https://fediverse.info/ Haettu 1.2.2026.
+
+Framasoft. (n.d.) What is PeerTube? | JoinPeerTube. https://joinpeertube.org/ Haettu 1.2.2026.
+
+Lawrence, Matthew B. ja Sholkoff, Avraham R. (2024) Addictive Design and Social Media: Legal
+Opinions and Research Roundup. Petrie-Flom Center, Harvard Law School.
+https://petrieflom.law.harvard.edu/2024/10/14/addictive-design-and-social-media-legal-
+opinions-and-research-roundup/ Haettu 1.2.2026
+
+Mastodon gGmbH. (2025a) Mastodon - Decentralized social media. https://joinmastodon.org/
+Haettu 1.2.2026.
+
+Mastodon         gGmbH.      (2025b)      Using       the                 network        features.
+https://docs.joinmastodon.org/user/network/ Haettu 1.2.2026.
+
+Picheta, Rob. (2025) Elon Musk is causing trouble in Europe. Whatâs in it for him? CNN World,
+23.1.2025.              https://edition.cnn.com/2025/01/23/europe/elon-musk-europe-politics-x-
+disinformation-gbr-cmd-intl/ Haettu 1.2.2026.
+
+Pixelfed. (2026) Pixelfed - Decentralized social media. https://pixelfed.org/ Haettu 1.2.2026.
+
+Web Task Force of the Social Community Group in the W3C. (2025) ActivityPub Rocks!
+https://activitypub.rocks/ Haettu 1.2.2026.
+
+Wikipedia. (2026) ActivityPub â Wikipedia. https://en.wikipedia.org/wiki/ActivityPub Haettu
+1.2.2026.
+
+3

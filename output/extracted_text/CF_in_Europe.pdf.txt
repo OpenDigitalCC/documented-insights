@@ -1,0 +1,66 @@
+Cloud Foundry
+                           Ref. Ares(2026)1166260 - 02/02/2026
+
+in Europe
+The Rabobank Perspective
+             Cloud Foundry in Europe
+             The Rabobank Perspective
+
+             Cloud Foundry in Europe: A Strategic OpenâSource Asset
+
+             Contents
+               Rabobankâs LargeâScale Use of Cloud Foundry                                        3
+               Strengths and Weaknesses of the European OpenâSource Landscape                     3
+               Value of Open Source for Europe                                                    3
+               How the EU Can Strengthen OpenâSource Sovereignty                                  3
+               Broader Sectoral Impact                                                            3
+
+Pagina 2/3   Versie 22-01-2026 | CoÃ¶peratieve Rabobank UA gevestigd te Amsterdam | KVK 30046259
+             Cloud Foundry in Europe â The Rabobank perspective
+
+             Rabobankâs LargeâScale Use of Cloud Foundry
+             Rabobank relies on Cloud Foundry as a core component of its digital platform. The bank runs about 1,650
+             production applications on it across many engineering groups. Cloud Foundry provides a secure, compliant,
+             and predictable platform that allows large development teams to focus on business value rather than
+             infrastructure. Its portability, consistency, and strong securityâbyâdefault model have made it suitable for
+             longâterm use in a highly regulated environment. Rabobankâs multiâyear experience demonstrates that
+             openâsource platforms can handle missionâcritical workloads at enterprise scale in Europe.
+
+             Strengths and Weaknesses of the European OpenâSource Landscape
+             The Cloud Foundry community shows that Europe has deep engineering expertise. The projectâs Technical
+             Oversight Committee has a European majority, including representatives from Rabobank and SAP,
+             underscoring the regionâs leadership in technical decisionâmaking. Openâsource ecosystems in Europe are also
+             closely aligned with EU values such as transparency, interoperability, and digital autonomy.
+
+             However, strategic and financial governance often remain fragile. In Cloud Foundryâs case, the Foundation
+             depends on only two Platinum Members: SAP in Europe and Broadcom in the United States. Platinum
+             membership includes a board seat and costs 500,000 USD per year. This narrow base results in
+             disproportionate strategic influence for a single nonâEU corporation. The challenge is not engineering capacity,
+             which Europe already has, but the concentration of strategic power at the foundation level.
+
+             Another practical weakness is that the Foundationâs budget is consumed largely by CI pipelines, release
+             infrastructure, and integration testing. These systems ensure that every Cloud Foundry user receives hardened,
+             vendorâneutral release artifacts. But because the Foundation cannot fund maintainers, its longâterm stability
+             depends heavily on sponsors, making governance diversity critical.
+
+             Value of Open Source for Europe
+             Rabobankâs experience illustrates the broader benefits of open source. Cloud Foundry reduces operational
+             costs, avoids vendor lockâin, accelerates development cycles, and simplifies compliance. These same qualities
+             benefit public administrations, telecom operators, manufacturers, and other regulated industries. Open
+             platforms give organisations control over where and how they run workloads, strengthening sovereignty and
+             resilience.
+
+             How the EU Can Strengthen OpenâSource Sovereignty
+             The most impactful action the EU could take is to participate directly in the strategic governance of key
+             openâsource foundations. For Cloud Foundry specifically, the European Commission becoming a Platinum
+             Sponsor would immediately rebalance governance, reduce dependence on a single US sponsor, and secure
+             funding for essential shared infrastructure. Because Europe already provides excellent engineering talent,
+             strategic sponsorship would complement existing strengths without replacing community contributions.
+
+             Broader Sectoral Impact
+             Sectors such as finance, government, telecommunications, healthcare, and manufacturing would all benefit
+             from openâsource systems that remain neutral, wellâfunded, and strategically aligned with European interests.
+             Strengthening governance in foundational projects like Cloud Foundry is essential to improving
+             competitiveness, ensuring cyber resilience, and safeguarding Europeâs digital autonomy.
+
+Pagina 3/3   Versie 22-01-2026 | CoÃ¶peratieve Rabobank UA gevestigd te Amsterdam | KVK 30046259

@@ -1,0 +1,128 @@
+Ref. Ares(2026)1118469 - 31/01/2026
+
+                           For "open-source"
+(translation from Polish by Bielik https://huggingface.co/LibraxisAI/Bielik-11B-v3.0-mlx-q8)
+
+I am a software developer and IT consultant from Poland. I have been trying to use open-
+source solutions and software in my private life and at work for over 20 years.
+
+Below are some observations regarding various areas in which the EU could strengthen its
+actions for open-source.
+
+Mobile devices
+
+A smartphone is currently the most common "personal computer". Meanwhile, there are
+practically no alternative open operating systems for this type of device. Users are forced
+to choose between devices running Android controlled by Google or iOS from Apple.
+
+Google is constantly trying to tighten its control over the supposedly open Android
+ecosystem. It systematically limits independent developers' access to the source code of
+the system: https://www.androidauthority.com/aosp-source-code-schedule-3630018/.
+Independent developers of very niche, alternative versions of Android have an increasingly
+difficult task in providing up-to-date versions of their systems or adapting them to new
+mobile devices entering the market.
+
+Google is making another attempt to limit independent developers from distributing
+applications. Fortunately, the corporation withdrew from its latest idea after massive
+criticism from the community: https://www.androidauthority.com/android-developer-
+verification-requirements-3590911/. Currently, it is being announced that users will simply
+have a more difficult time installing applications distributed outside the "Google Play" store:
+https://www.androidauthority.com/google-sideloading-android-high-friction-
+process-3633468/. Of course, all of this is for security reasons.
+
+On iOS, independent distribution is just beginning to take off. The legal battle fought by the
+European Union with Apple shows how difficult it is to force a global corporation to open up
+to competition and allow citizens to choose their app provider after the fact.
+
+Personally, I use an alternative version of Android developed in the EU called "/e/OS"
+(https://e.foundation/e-os/). After installing such a version of the system, it turns out that
+the mobile apps of some European banks (ING, N26, Revolut) refuse to work on a version
+of Android that is not certified by Google (i.e., all alternative versions).
+
+In this way, as a citizen of the EU, I found myself in a situation where European banks or
+fin-tech companies require European users to install an operating system (i.e., create an
+account and share their data) controlled by a US corporation in order to use their services.
+The American corporation Google becomes an unavoidable intermediary between
+European banks and their European customers. At the same time, this is not a necessary
+condition for such apps to work, as apps of other banks (Millennium, mBank) work without
+problems on alternative versions of Android.
+
+Supporting alternative versions of Android not controlled by Google (particularly those
+developed in Europe and by European developers) is in the interest of the EU and its
+citizens.
+
+Open-source hardware
+
+No chips (CPU, GPU) from the consumer segment are designed on a larger scale in the
+EU that would allow users to become independent of non-EU companies (Intel, AMD,
+Nvidia, Apple, Qualcomm, Broadcom, etc.).
+
+When buying a new smartphone, laptop, or server, I have no choice: I must buy a device
+with chips designed in the US and manufactured in Taiwan or China.
+
+The eProcessor project based on the open RISC-V architecture seems to be a step in the
+right direction: https://riscv.org/blog/europe-achieves-a-key-milestone-with-the-europes-
+first-out-of-order-risc-v-processor-chip-with-the-eprocessor-project/. However, from the
+scarce information it only appears that it will be useful for car production and "embedded
+systems". I was unable to find any information on when, in what form, at what price, and
+whether it will be available to private users at all.
+
+Meanwhile, Chinese companies also see the potential of the RISC-V architecture and
+computers with such processors, allowing work in the Linux system, are already available
+for purchase. The strategy of Chinese companies shows the potential of open hardware
+solutions and the path that the EU could follow. Perhaps thanks to such projects as
+eProcessor, companies such as Fairphone or Raspberry Pi (European but not in the EU)
+could become independent of components designed and manufactured outside the EU.
+Education
+
+Children in European schools learn to use computers using closed, profit-oriented
+Microsoft products: Windows, Word, Excel, PowerPoint, Outlook. Knowledge of these
+products is required from them at every stage of their career - regardless of whether it is in
+public administration or the private sector. On the other hand, it forces public institutions
+and private companies to buy licenses for this software because employees work most
+efficiently in a familiar environment. The circle of dependence on closed solutions is
+completed.
+
+European users of closed systems, through built-in mechanisms, are increasingly sharing
+more and more private data with companies that provide these systems, without any real
+possibility of controlling this process: https://www.bbc.com/news/articles/cj3xjrj7v78o
+
+Using the data obtained in this way, these companies can further hook users on their
+additional services, sell the data to marketing companies, train AI models. In short, they
+can increase their competitive advantage over European companies.
+
+It would be much better to educate using open-source systems, services, and tools that
+are more transparent, predictable, and give much greater control over the user's
+processed data. Linux, LibreOffice, alternative web browsers - these are just the most
+important examples.
+
+Software in administration
+
+The coziness of large American tech companies with the US government administration
+poses an additional threat to the EU.
+
+European administration is currently a hostage of American software and digital service
+providers. Many EU public institutions base their IT infrastructure on cloud solutions
+provided by American companies: Amazon, Microsoft, Google. Such dependence is an
+excellent tool for exerting pressure on European governments and institutions.
+
+A way out of this situation for EU administration seems to be the strategy of implementing
+open-source software (e.g., Linux, LibreOffice) and data processing within the
+infrastructure provided by European companies (OVH, Hetzner).
+For example: After the International Criminal Court (ICC) was cut off from Microsoft's
+services https://www.politico.eu/article/microsoft-did-not-cut-services-international-criminal-
+court-president-american-sanctions-trump-tech-icc-amazon-google/, the ICC decided to
+abandon the company's solutions in favor of open-source software:
+https://www.euractiv.com/news/international-criminal-court-to-ditch-microsoft-office-for-
+european-open-source-alternative/.
+
+Social media
+
+Public administration in EU countries is increasingly using centralized, mostly American
+social media (Facebook, X) as a channel for distributing official information and as a
+popular form of contact with citizens, forcing their own citizens to create accounts and
+share their data with entities outside the EU. This is clearly a move that makes EU
+administration and its citizens dependent on Big Tech companies.
+
+Open-source software and communication standards-based alternatives are ready for use
+right now (e.g., Mastodon).

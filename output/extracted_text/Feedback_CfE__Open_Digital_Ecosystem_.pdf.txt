@@ -1,0 +1,142 @@
+Ref. Ares(2026)1080306 - 30/01/2026
+
+Mercedes-Benz Feedback
+
+1.   What are the strengths and weaknesses of the EU open              -source sector? What
+     are the main barriers that hamper
+         (i) adoption and maintenance of high        -quality and secure open source;
+         Open Source comes under a strict legal framework under the regime of copyright law.
+         Potential adopters might not be fully aware of legal implications. Consulting and
+         tooling support often comes at costs that are prohibitive for smaller industry players.
+         An increasing amount of maintainers are overwhelmed by pressure from adopters and
+         regulations. E.g. the Cyber Resilience Act puts new bureaucratic and costly burdens
+         on open source participants, particularly commercial entities. Compared with non-EU
+         companies, this could become a huge competitive disadvantage.
+         (ii) sustainable contributions to open      -source communities?
+         Contributions are often hindered by a culture that doesnât see the value in giving away
+         their own changes for free. We have examples where single vendors have accepted
+         contributions from the community and later turned them into proprietary products
+         without rewarding the contributors. Open source that is maintained by foundations
+         like the Eclipse Foundation get a much higher trust level so they should be fostered.
+
+     Strengths
+
+     â¢   European auto makers are collaborating already in traditional organizations like VDA or
+         ASAM and in new formats like the Eclipse Software Defined Vehicle (SDV) work group,
+         Interoperable Europe Act, Gaia-X, Catena-X.
+     â¢   A big strength lies in the fact that most Open Source contributors are European (at
+         least likely, reliable numbers are difficult to get). China is probably #2, USA #3. India
+         and Africa are catching up.
+
+     Weaknesses
+
+     â¢   The European automotive sector faces unprecedented challenges: fragmented
+         standards, dependency on proprietary systems, and the rapid rise of global
+         competitors. Consider software-defined vehicles (SDVs), where functionalities from
+         infotainment to autonomous driving rely on complex software stacks. Proprietary
+         solutions often lock manufacturers into siloed ecosystems, stifling interoperability
+         and inflating costs. While it is positive that there are increasing numbers of
+         commercial consumers of open source software, far too few of these consumers are
+         participating and contributing to the upstream projects, meaning that the vast bulk of
+         the burden of keeping these projects viable and secure falls on unpaid volunteer
+         developers and maintainers.
+     â¢   Those projects are often not funded adequately and lack brain drain when developers
+         stop contributing in their free time. As if this was not enough, new regulations like the
+         Cyber Resilience Act create new burdens on open source projects, further exhausting
+         the developers.
+     â¢   Europe is still in the beginnings of creating a culture where collaboration on common
+         functionalities as open source software is the new normal. To a large extent, open
+         source stewards like the Eclipse Foundation rely on funding by member companies
+         while no one questions that public funding of streets or airports is in the public
+         interest.
+     â¢   Despite promising open source projects like Sovereign Cloud Stack, EU sovereign
+         cloud offerings are rarely used compared to global big tech players offerings. Even the
+         ecosystem is relying to a large degree on non-sovereign infrastructure (e.g. developer
+         collaboration platforms). Migration to sovereign technologies is often badly supported.
+         Big foreign players can afford the effort to certify their products according to EU
+         standards. Small European vendors cannot afford these efforts. Also, public
+         administration is often choosing foreign vendors over European vendors for office
+         applications.
+     â¢   European industry like auto makers are in urgent need for sovereign yet scalable cloud
+         offerings for the implementation of their business processes. Public spendings do not
+         yet primarily go into sovereign technologies.
+     â¢   Another big weakness lies in the perceived paradox that even though Open Source
+         software is freely available to everyone world-wide, the very place where the majority
+         of open source development happens are platforms owned by US companies. This in
+         turn creates an unwanted dependence. The very ecosystem we're relying upon for
+         open source software and digital independence is predominantly under American
+         stewardship â from core governance bodies (FSF, OSI, Creative Commons) to
+         development platforms (GitHub, GitLab, â¦) and cloud infrastructure.
+     â¢   Public procurement often builds up barriers that are too high for offerings based on
+         open source software and hence such budgets usually flow to big tech companies
+         from abroad. This money would urgently be needed to foster sovereign open source
+         projects. Save a few positive examples, it seems that the public sector in the EU is
+         lagging behind significantly in the adoption of Free and Open Source Software and
+         related tools.
+
+2.   What is the added value of open source for the public and private sectors?
+     Please provide concrete examples, including the factors (such as cost, risk,
+     lock -in, security, innovation, among others) that are most important to assess
+     the added value.
+     Software development is nearly impossible without open source these days. Almost 100%
+     of all software projects rely on FOSS. Much of the code in a software project is in fact
+     made up of open source, sometimes up to 80%. All the advantages of FOSS apply to
+     public and private sectors alike, e.g. substantial cost savings, transparency, innovation
+     and faster development, higher quality and so forth. Digital sovereignty is only achievable
+     with open source software because building up all this infrastructure requires so much
+     collaboration to be cost efficient. This is true for the public sector that increasingly
+     understand the negative consequences for untrustable dependencies. But digital
+     sovereignty is also essential for the automotive industry since they rely more and more on
+     a digital infrastructure outside of vehicles. Most striking example is the cloud
+     infrastructure that is dominated by the hyperscalers.
+     Several publications discuss the value of open source use and contributions like from
+     Frank Nagle and Henry Chesbrough.
+3.   What concrete measures and actions may be taken at EU level to support the
+     development and growth of the EU open -source sector and contribute to the
+     EUâs technological sovereignty and cybersecurity agenda?
+     a. Strengthen the technical communities who maintain foundational software (e.g. foster
+        open source stewards like the Eclipse Foundation since they provide the infrastructure
+        for collaboration.)
+     b. Sustainably fund the ecosystem for hosting open source projects. E.g. many projects
+        ask for sponsoring for build infrastructure or rely on âfreeâ offerings from abroad.
+     c. Strategically support those open source technologies that are aligned with our
+        industrial, regulatory, and societal goals.
+     d. In the automotive sector, this could mean co-investing in software stacks that power
+        electric vehicles and autonomous driving systems, or in tools that improve functional
+        safety and software lifecycle compliance.
+     e. Direct public spendings primarily to digital sovereign offerings. Public organizations
+        should be mandated to have an Open Source Program Office to align IT spendings with
+        open source priorities.
+     f. Have a clear view of the existing open source ecosystem to understand why so much
+        of it is concentrated outside of Europe. Examples: Access to investors and funds,
+        relaxed bureaucratic burdens, business-friendly policies
+     g. Support European OS organizations as well as the countless local SMEs and
+        independent companies that center their business model on open source software
+     h. Facilitate influx of experts in building open source software and sovereign
+        infrastructure.
+     i. Strengthen the software supply chain security not just by establishing the Cyber
+        Resilience Act with associated standards but build and support and infrastructure and
+        services for open source projects to live up to the CRA requirements.
+
+4.   What technology areas should be prioritised and why?
+     a. Tools that improve automotive functional safety and security, software lifecycle
+        compliance so that we can rely on the components that we increasingly depend on.
+     b. Tools for license compliance and software security since they are needed by everyone
+        in the open source community - from enterprises to SMEs and individuals - and that
+        often come at prohibitive costs.
+     c. Cloud base components to build a sovereign could infrastructure
+     d. In general technologies around the Software Defined Vehicle (SDV) stack and
+        simulation / validation.
+     e. Data infrastructures like Gaia-X to support an open ecosystem for data based on open
+        source technology.
+
+5.   In what sectors could an increased use of open source lead to increased
+     competitiveness and cyber resilience?
+     a. Automotive components that offer common functionalities so that we can free
+        resources for differentiating functionalities and innovations like software stacks that
+        power electric vehicles, autonomous driving systems, secure communication layers,
+        over-the-air update frameworks, or modular autonomous driving tools.
+b. Sovereign could infrastructure to stay independent also for the backends of
+   increasingly connected vehicles.
+c. All existing European key technology sectors as well as trending and emerging fields
+   such as AI, robotics, Telecom/5G/6G, Smart Grids, Public Sector und Healthcare.
