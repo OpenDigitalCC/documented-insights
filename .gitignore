@@ -20,8 +20,6 @@ ollama-models/
 # ============================================================================
 
 # Generated reports
-output/*.md
-output/*.html
 output/*.pdf
 
 # Except keep example/template files
@@ -200,36 +198,6 @@ scripts/01_load_csv.pl
 # One-time setup scripts
 create_project_structure.sh
 init_git.sh
-
-# ============================================================================
-# WHAT GETS COMMITTED
-# ============================================================================
-
-# Core configuration:
-# ✓ compose.yml, Dockerfile.perl, .env.example, Makefile
-# ✓ data/european-open-digital-ecosystems-all-responses.csv (source data)
-
-# SQL schema:
-# ✓ sql/*.sql
-
-# Code:
-# ✓ lib/*.pm (DomainConfig, DomainQuery, LLMPositionReport)
-# ✓ scripts/01_load_json.pl, 02*.pl, 03*.pl, 04*.py
-# ✓ scripts/06-12*.pl, 10_llm_extract_positions.py
-# ✓ scripts/requirements-llm.txt
-
-# Domain configurations:
-# ✓ domains/*.conf, domains/README.md
-
-# Documentation:
-# ✓ README.md, PROJECT_SUMMARY.md, *.md in root
-
-# EXCLUDED (regeneratable or sensitive):
-# ✗ Attachments, database volumes, model files
-# ✗ Generated reports, logs
-# ✗ .env (credentials)
-# ✗ Development phase directories
-# ✗ Build artifacts
 
 # Source CSV (using JSON instead)
 data/european-open-digital-ecosystems-all-responses.csv
