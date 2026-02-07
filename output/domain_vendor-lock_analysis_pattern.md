@@ -3,7 +3,7 @@
 ## Vendor Lock-in
 
 Analysis date
-: 06 February 2026
+: 07 February 2026
 
 Domain scope
 : Switching costs, technological dependencies, and competitive barriers
@@ -264,5 +264,5 @@ Search parameters
 : 33 terms (7 keywords, 26 keyphrases)
 
 Analysis date
-: 06 February 2026
+: 07 February 2026
 

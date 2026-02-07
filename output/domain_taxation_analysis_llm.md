@@ -1,12 +1,12 @@
 # LLM Position Analysis - Taxation
 
-Generated: Sat Feb  7 09:47:34 2026
+Generated: Sat Feb  7 09:57:15 2026
 
 ## Stakeholder Positions
 
-**LLM Processing Status**: 635 responses analysed across all domains (38.3% complete, 989 remaining). **This domain**: 635 responses. Results are partial and will update as processing continues.
+**LLM Processing Status**: 639 responses analysed across all domains (38.5% complete, 985 remaining). **This domain**: 639 responses. Results are partial and will update as processing continues.
 
-Analysis of positions extracted through LLM analysis of consultation responses. Extracted 1775 positions across 31 categories.
+Analysis of positions extracted through LLM analysis of consultation responses. Extracted 1783 positions across 31 categories.
 
 ### Position Overview
 
@@ -24,37 +24,37 @@ Position Category & Support & Oppose & Neutral/Mixed & Total \\
 \bottomrule
 \endlastfoot
 
-Public Funding & 594 & 33 & 7 & 634 \\
-Tax Incentive & 216 & 110 & 24 & 350 \\
-Digital Services Tax & 250 & 80 & 6 & 336 \\
+Public Funding & 598 & 33 & 7 & 638 \\
+Tax Incentive & 217 & 110 & 24 & 351 \\
+Digital Services Tax & 250 & 82 & 6 & 338 \\
 Procurement Preference & 234 & 11 & 2 & 247 \\
 Vat Exemption & 93 & 17 & 8 & 118 \\
-State Aid & 55 & 10 & 0 & 65 \\
-Transparency Ndas & 1 & 0 & 0 & 1 \\
-Open Core & 0 & 1 & 0 & 1 \\
-Extraterritorial Restrictions & 0 & 1 & 0 & 1 \\
-Regulatory Support & 1 & 0 & 0 & 1 \\
-Taxation Framework & 0 & 0 & 1 & 1 \\
-Education & 1 & 0 & 0 & 1 \\
-Single Vendor Owned Oss & 0 & 1 & 0 & 1 \\
-Eu Code Hosting & 1 & 0 & 0 & 1 \\
-Vendor Lock In Reduction & 1 & 0 & 0 & 1 \\
-Taxation Vat Exemption & 1 & 0 & 0 & 1 \\
-Cloud Computing Model & 0 & 1 & 0 & 1 \\
-Regulatory Uncertainty & 0 & 1 & 0 & 1 \\
-Taxation Policy & 0 & 1 & 0 & 1 \\
-Adversarial Interoperability & 1 & 0 & 0 & 1 \\
-Taxation Public Funding & 0 & 1 & 0 & 1 \\
-Short Termism & 0 & 1 & 0 & 1 \\
-Education Policy & 1 & 0 & 0 & 1 \\
-Anti Circumvention Laws & 0 & 1 & 0 & 1 \\
-Digital Sovereignty & 1 & 0 & 0 & 1 \\
-Tax Havens & 0 & 1 & 0 & 1 \\
-Regulatory Clarity & 1 & 0 & 0 & 1 \\
-Interoperability Hardware & 1 & 0 & 0 & 1 \\
-Taxation Digital Services Tax & 0 & 1 & 0 & 1 \\
+State Aid & 56 & 10 & 0 & 66 \\
 Public Goods & 1 & 0 & 0 & 1 \\
 Standards Leadership & 1 & 0 & 0 & 1 \\
+Short Termism & 0 & 1 & 0 & 1 \\
+Taxation Public Funding & 0 & 1 & 0 & 1 \\
+Regulatory Support & 1 & 0 & 0 & 1 \\
+Extraterritorial Restrictions & 0 & 1 & 0 & 1 \\
+Open Core & 0 & 1 & 0 & 1 \\
+Interoperability Hardware & 1 & 0 & 0 & 1 \\
+Transparency Ndas & 1 & 0 & 0 & 1 \\
+Education Policy & 1 & 0 & 0 & 1 \\
+Adversarial Interoperability & 1 & 0 & 0 & 1 \\
+Taxation Policy & 0 & 1 & 0 & 1 \\
+Cloud Computing Model & 0 & 1 & 0 & 1 \\
+Tax Havens & 0 & 1 & 0 & 1 \\
+Digital Sovereignty & 1 & 0 & 0 & 1 \\
+Single Vendor Owned Oss & 0 & 1 & 0 & 1 \\
+Regulatory Uncertainty & 0 & 1 & 0 & 1 \\
+Anti Circumvention Laws & 0 & 1 & 0 & 1 \\
+Vendor Lock In Reduction & 1 & 0 & 0 & 1 \\
+Taxation Framework & 0 & 0 & 1 & 1 \\
+Regulatory Clarity & 1 & 0 & 0 & 1 \\
+Taxation Vat Exemption & 1 & 0 & 0 & 1 \\
+Education & 1 & 0 & 0 & 1 \\
+Eu Code Hosting & 1 & 0 & 0 & 1 \\
+Taxation Digital Services Tax & 0 & 1 & 0 & 1 \\
 \end{longtable}
 
 ### Detailed Position Analysis
@@ -62,13 +62,13 @@ Standards Leadership & 1 & 0 & 0 & 1 \\
 #### Public Funding
 
 Total responses
-: 634 positions extracted across 3 distinct responses
+: 638 positions extracted across 3 distinct responses
 
 Support position
-: 594 responses (93.7%), 48.5% express strong advocacy
+: 598 responses (93.7%), 48.5% express strong advocacy
 
 Primary stakeholders (support)
-: EU Citizens (371), Companies (114), NGOs (46)
+: EU Citizens (375), Companies (114), NGOs (46)
 
 Core arguments (support)
 : Higher education institutions and research organisations have long formed the backbone of Europes open-source landscape, combining development, operation, and knowledge transfer with deep experience in open standards and federated models.; The EU should support open, independent browser engine alternatives through sustained and serious public funding to reduce systemic dependencies and ensure core internet infrastructure aligns with European values.
@@ -88,19 +88,19 @@ Evidence cited
 #### Tax Incentive
 
 Total responses
-: 350 positions extracted across 4 distinct responses
+: 351 positions extracted across 4 distinct responses
 
 Support position
-: 216 responses (61.7%), 3.2% express strong advocacy
+: 217 responses (61.8%), 3.2% express strong advocacy
 
 Primary stakeholders (support)
-: EU Citizens (119), Companies (52), NGOs (12)
+: EU Citizens (120), Companies (52), NGOs (12)
 
 Core arguments (support)
 : Open-source infrastructure eliminates hidden licensing fees, reducing TCO and allowing for reinvestment in innovation.; Open-source infrastructure reduces total cost of ownership, eliminating licence fees and lowering CAPEX and OPEX.
 
 Opposition position
-: 110 responses (31.4%), 10.9% express strong opposition
+: 110 responses (31.3%), 10.9% express strong opposition
 
 Core arguments (oppose)
 : It's effectively very difficult to make money or even build a business around open-source development, especially for a solo-developer.; The Bundeskammer warns against a progressing economization of digital dependencies through abonnement-based license models.
@@ -114,10 +114,10 @@ Evidence cited
 #### Digital Services Tax
 
 Total responses
-: 336 positions extracted across 4 distinct responses
+: 338 positions extracted across 4 distinct responses
 
 Support position
-: 250 responses (74.4%), 19.2% express strong advocacy
+: 250 responses (74.0%), 19.2% express strong advocacy
 
 Primary stakeholders (support)
 : EU Citizens (171), Companies (36), NGOs (18)
@@ -126,7 +126,7 @@ Core arguments (support)
 : The current dominance of proprietary vendors in digital infrastructure is a threat to democracy, and an open digital ecosystem based on well-documented standards and open-source software is necessary.; The European Open Digital Ecosystem Strategy aims to strengthen digital sovereignty, interoperability, security, and transparency across Europe's digital landscape.
 
 Opposition position
-: 80 responses (23.8%), 17.5% express strong opposition
+: 82 responses (24.3%), 17.1% express strong opposition
 
 Core arguments (oppose)
 : The Kammer criticizes the increasing shift of central functions to proprietary cloud infrastructures, which would lead to a loss of control over availability, confidentiality and functionality.; Ouvertarism treats openness not as ideology, but as a disciplined method to restore sovereignty, resilience, and innovation capacity through shared foundations.
@@ -192,19 +192,19 @@ Evidence cited
 #### State Aid
 
 Total responses
-: 65 positions extracted across 2 distinct responses
+: 66 positions extracted across 2 distinct responses
 
 Support position
-: 55 responses (84.6%), 3.6% express strong advocacy
+: 56 responses (84.8%), 3.6% express strong advocacy
 
 Primary stakeholders (support)
-: EU Citizens (39), Companies (7), NGOs (5)
+: EU Citizens (40), Companies (7), NGOs (5)
 
 Core arguments (support)
 : The opportunity must be given to entities to carry the torch and prevent products from turning into waste.; Direct funding for maintainers and innovators in projects like KDE is critical.
 
 Opposition position
-: 10 responses (15.4%), 10.0% express strong opposition
+: 10 responses (15.2%), 10.0% express strong opposition
 
 Core arguments (oppose)
 : The absence of pathways for citizen-generated digital public goods contradicts EU commitments to participatory democracy and digital sovereignty.; We do not need more subsidies for the sake of development alone; we need to facilitate large-scale companies.

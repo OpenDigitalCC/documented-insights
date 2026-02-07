@@ -3,7 +3,7 @@
 ## Digital Sovereignty
 
 Analysis date
-: 06 February 2026
+: 07 February 2026
 
 Domain scope
 : Technological independence, strategic autonomy, European digital capacity
@@ -264,7 +264,7 @@ Search parameters
 : 33 terms (8 keywords, 25 keyphrases)
 
 Analysis date
-: 06 February 2026
+: 07 February 2026
 
 
 ---
