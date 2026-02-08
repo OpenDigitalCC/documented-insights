@@ -3,7 +3,7 @@
 ## Taxation and Fiscal Measures
 
 Analysis date
-: 07 February 2026
+: 08 February 2026
 
 Domain scope
 : Tax policy, levies, and fiscal incentives for open digital ecosystems
@@ -263,5 +263,5 @@ Search parameters
 : 31 terms (11 keywords, 20 keyphrases)
 
 Analysis date
-: 07 February 2026
+: 08 February 2026
 

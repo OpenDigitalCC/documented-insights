@@ -3,7 +3,7 @@
 ## Public Procurement
 
 Analysis date
-: 07 February 2026
+: 08 February 2026
 
 Domain scope
 : Public sector procurement practices, barriers, and reform proposals
@@ -263,18 +263,18 @@ Search parameters
 : 31 terms (8 keywords, 23 keyphrases)
 
 Analysis date
-: 07 February 2026
+: 08 February 2026
 
 
 ---
 
 # LLM Position Analysis - Procurement
 
-Generated: Sat Feb  7 21:22:39 2026
+Generated: Sun Feb  8 20:18:42 2026
 
 ## Stakeholder Positions
 
-**LLM Processing Status**: 1129 responses analysed across all domains (68.1% complete, 481 remaining). **This domain**: 151 responses. Results are partial and will update as processing continues.
+**LLM Processing Status**: 1133 responses analysed across all domains (68.3% complete, 477 remaining). **This domain**: 151 responses. Results are partial and will update as processing continues.
 
 Analysis of positions extracted through LLM analysis of consultation responses. Extracted 396 positions across 18 categories.
 
@@ -300,18 +300,18 @@ Digital Services Tax & 34 & 7 & 0 & 41 \\
 State Aid & 6 & 2 & 0 & 8 \\
 Tax Incentive & 0 & 3 & 1 & 4 \\
 Vat Exemption & 3 & 1 & 0 & 4 \\
-Corporate Influence & 0 & 1 & 0 & 1 \\
+Copyleft License & 1 & 0 & 0 & 1 \\
+Market Structures & 0 & 0 & 1 & 1 \\
+Vendor Lockin & 0 & 1 & 0 & 1 \\
+Extended Right To Repair & 1 & 0 & 0 & 1 \\
+Maintenance & 1 & 0 & 0 & 1 \\
+Responsible Disclosure & 1 & 0 & 0 & 1 \\
 Market Integration & 1 & 0 & 0 & 1 \\
 Non Eu Monopoly & 0 & 1 & 0 & 1 \\
-Abuse Of Power & 0 & 1 & 0 & 1 \\
-Vendor Lockin & 0 & 1 & 0 & 1 \\
-Maintenance & 1 & 0 & 0 & 1 \\
 Help With Certification & 1 & 0 & 0 & 1 \\
-Responsible Disclosure & 1 & 0 & 0 & 1 \\
-Extended Right To Repair & 1 & 0 & 0 & 1 \\
-Market Structures & 0 & 0 & 1 & 1 \\
+Abuse Of Power & 0 & 1 & 0 & 1 \\
 Funding & 1 & 0 & 0 & 1 \\
-Copyleft License & 1 & 0 & 0 & 1 \\
+Corporate Influence & 0 & 1 & 0 & 1 \\
 \end{longtable}
 
 ### Detailed Position Analysis

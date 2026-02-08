@@ -3,7 +3,7 @@
 ## Public Procurement
 
 Analysis date
-: 07 February 2026
+: 08 February 2026
 
 Domain scope
 : Public sector procurement practices, barriers, and reform proposals
@@ -263,5 +263,5 @@ Search parameters
 : 31 terms (8 keywords, 23 keyphrases)
 
 Analysis date
-: 07 February 2026
+: 08 February 2026
 

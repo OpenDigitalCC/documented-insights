@@ -1,10 +1,10 @@
 # LLM Position Analysis - Security
 
-Generated: Sat Feb  7 21:23:19 2026
+Generated: Sun Feb  8 20:19:21 2026
 
 ## Stakeholder Positions
 
-**LLM Processing Status**: 1129 responses analysed across all domains (68.1% complete, 481 remaining). **This domain**: 35 responses. Results are partial and will update as processing continues.
+**LLM Processing Status**: 1133 responses analysed across all domains (68.3% complete, 477 remaining). **This domain**: 35 responses. Results are partial and will update as processing continues.
 
 Analysis of positions extracted through LLM analysis of consultation responses. Extracted 102 positions across 23 categories.
 
@@ -30,23 +30,23 @@ Digital Services Tax & 10 & 4 & 1 & 15 \\
 Tax Incentive & 1 & 5 & 0 & 6 \\
 State Aid & 4 & 1 & 0 & 5 \\
 Cybersecurity Measures & 2 & 0 & 0 & 2 \\
-Machine Readable Policy Manifests & 1 & 0 & 0 & 1 \\
-Cyber Security Standards & 1 & 0 & 0 & 1 \\
-Security Hashing & 1 & 0 & 0 & 1 \\
-Security Trust & 1 & 0 & 0 & 1 \\
-Security Viability & 1 & 0 & 0 & 1 \\
-Non Bureaucratic Funding & 1 & 0 & 0 & 1 \\
-Economic Incentives & 0 & 1 & 0 & 1 \\
-Copy Left Licensing & 1 & 0 & 0 & 1 \\
-Security Overall & 1 & 0 & 0 & 1 \\
 Cyber Security Support & 1 & 0 & 0 & 1 \\
-Residential Utility Improvements & 1 & 0 & 0 & 1 \\
-Cybersecurity & 1 & 0 & 0 & 1 \\
-Standardized Law Enforcement Api & 1 & 0 & 0 & 1 \\
-Public Key Infrastructure & 1 & 0 & 0 & 1 \\
 Vat Exemption & 1 & 0 & 0 & 1 \\
-Cyber Security Improvement & 1 & 0 & 0 & 1 \\
+Security Overall & 1 & 0 & 0 & 1 \\
+Cyber Security Standards & 1 & 0 & 0 & 1 \\
 Signed Warrants & 1 & 0 & 0 & 1 \\
+Non Bureaucratic Funding & 1 & 0 & 0 & 1 \\
+Standardized Law Enforcement Api & 1 & 0 & 0 & 1 \\
+Copy Left Licensing & 1 & 0 & 0 & 1 \\
+Cybersecurity & 1 & 0 & 0 & 1 \\
+Machine Readable Policy Manifests & 1 & 0 & 0 & 1 \\
+Residential Utility Improvements & 1 & 0 & 0 & 1 \\
+Security Hashing & 1 & 0 & 0 & 1 \\
+Security Viability & 1 & 0 & 0 & 1 \\
+Public Key Infrastructure & 1 & 0 & 0 & 1 \\
+Security Trust & 1 & 0 & 0 & 1 \\
+Economic Incentives & 0 & 1 & 0 & 1 \\
+Cyber Security Improvement & 1 & 0 & 0 & 1 \\
 \end{longtable}
 
 ### Detailed Position Analysis

@@ -3,7 +3,7 @@
 ## Digital Sovereignty
 
 Analysis date
-: 07 February 2026
+: 08 February 2026
 
 Domain scope
 : Technological independence, strategic autonomy, European digital capacity
@@ -264,18 +264,18 @@ Search parameters
 : 33 terms (8 keywords, 25 keyphrases)
 
 Analysis date
-: 07 February 2026
+: 08 February 2026
 
 
 ---
 
 # LLM Position Analysis - Sovereignty
 
-Generated: Sat Feb  7 21:22:51 2026
+Generated: Sun Feb  8 20:18:54 2026
 
 ## Stakeholder Positions
 
-**LLM Processing Status**: 1129 responses analysed across all domains (68.1% complete, 481 remaining). **This domain**: 188 responses. Results are partial and will update as processing continues.
+**LLM Processing Status**: 1133 responses analysed across all domains (68.3% complete, 477 remaining). **This domain**: 188 responses. Results are partial and will update as processing continues.
 
 Analysis of positions extracted through LLM analysis of consultation responses. Extracted 486 positions across 26 categories.
 
@@ -303,24 +303,24 @@ Tax Incentive & 3 & 7 & 0 & 10 \\
 Digital Sovereignty & 4 & 0 & 0 & 4 \\
 Digital Sovereignty Failure & 0 & 3 & 0 & 3 \\
 Vat Exemption & 2 & 0 & 0 & 2 \\
-Anti Circumvention Laws & 0 & 1 & 0 & 1 \\
-Regulatory Action & 1 & 0 & 0 & 1 \\
-Bureaucratic Simplification & 1 & 0 & 0 & 1 \\
-Ai Path & 0 & 1 & 0 & 1 \\
-Alternative Sovereign Infrastructure & 1 & 0 & 0 & 1 \\
-Closed Drivers & 0 & 1 & 0 & 1 \\
-Barriers To Adoption & 0 & 1 & 0 & 1 \\
-Civil Cybersecurity & 1 & 0 & 0 & 1 \\
-Data Harvesting & 0 & 1 & 0 & 1 \\
-Sovereignty Loss & 0 & 1 & 0 & 1 \\
-Surveillance Capitalism & 0 & 1 & 0 & 1 \\
-Infrastructure Maintenance & 1 & 0 & 0 & 1 \\
 Us Centricity & 0 & 1 & 0 & 1 \\
-Foreign Control & 0 & 1 & 0 & 1 \\
-Sovereignty Preservation & 1 & 0 & 0 & 1 \\
-Community Engagement & 1 & 0 & 0 & 1 \\
-Intellectual Property Reform & 1 & 0 & 0 & 1 \\
 Interoperability Requirements & 1 & 0 & 0 & 1 \\
+Civil Cybersecurity & 1 & 0 & 0 & 1 \\
+Sovereignty Preservation & 1 & 0 & 0 & 1 \\
+Surveillance Capitalism & 0 & 1 & 0 & 1 \\
+Foreign Control & 0 & 1 & 0 & 1 \\
+Bureaucratic Simplification & 1 & 0 & 0 & 1 \\
+Infrastructure Maintenance & 1 & 0 & 0 & 1 \\
+Barriers To Adoption & 0 & 1 & 0 & 1 \\
+Closed Drivers & 0 & 1 & 0 & 1 \\
+Sovereignty Loss & 0 & 1 & 0 & 1 \\
+Anti Circumvention Laws & 0 & 1 & 0 & 1 \\
+Alternative Sovereign Infrastructure & 1 & 0 & 0 & 1 \\
+Regulatory Action & 1 & 0 & 0 & 1 \\
+Community Engagement & 1 & 0 & 0 & 1 \\
+Data Harvesting & 0 & 1 & 0 & 1 \\
+Intellectual Property Reform & 1 & 0 & 0 & 1 \\
+Ai Path & 0 & 1 & 0 & 1 \\
 \end{longtable}
 
 ### Detailed Position Analysis

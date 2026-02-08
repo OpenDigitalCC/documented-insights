@@ -1,10 +1,10 @@
 # LLM Position Analysis - Vendor-lock
 
-Generated: Sat Feb  7 21:23:03 2026
+Generated: Sun Feb  8 20:19:06 2026
 
 ## Stakeholder Positions
 
-**LLM Processing Status**: 1129 responses analysed across all domains (68.1% complete, 481 remaining). **This domain**: 95 responses. Results are partial and will update as processing continues.
+**LLM Processing Status**: 1133 responses analysed across all domains (68.3% complete, 477 remaining). **This domain**: 95 responses. Results are partial and will update as processing continues.
 
 Analysis of positions extracted through LLM analysis of consultation responses. Extracted 230 positions across 43 categories.
 
@@ -31,42 +31,42 @@ Digital Services Tax & 19 & 4 & 0 & 23 \\
 Vendor Lock Avoidance & 8 & 1 & 0 & 9 \\
 State Aid & 6 & 0 & 0 & 6 \\
 Vendor Lock In & 0 & 3 & 0 & 3 \\
+Tax Incentive & 1 & 1 & 0 & 2 \\
+Vendor Lock In Commercial Products & 1 & 1 & 0 & 2 \\
 Open Source Software & 2 & 0 & 0 & 2 \\
+Open Standards & 1 & 0 & 1 & 2 \\
+Open Source Preference & 2 & 0 & 0 & 2 \\
 Vendor Lock Monopoly & 0 & 2 & 0 & 2 \\
 Vendor Lock Prohibition & 0 & 2 & 0 & 2 \\
-Open Source Preference & 2 & 0 & 0 & 2 \\
-Vendor Lock In Commercial Products & 1 & 1 & 0 & 2 \\
-Open Standards & 1 & 0 & 1 & 2 \\
-Tax Incentive & 1 & 1 & 0 & 2 \\
-Open Source Advocacy & 1 & 0 & 0 & 1 \\
-Healthy Competition & 1 & 0 & 0 & 1 \\
-Vendor Lock Removal & 0 & 1 & 0 & 1 \\
-Vendor Lock Infrastructure Diversity & 1 & 0 & 0 & 1 \\
-Open Source Business Model & 1 & 0 & 0 & 1 \\
-Vendor Lock Mitigation & 0 & 0 & 1 & 1 \\
-Vendor Lock Us Based & 0 & 1 & 0 & 1 \\
-Vendor Lock Neutral & 0 & 0 & 1 & 1 \\
-Vendor Lock In Commercial Products Eu Alternatives & 1 & 0 & 0 & 1 \\
-Hardware Support & 1 & 0 & 0 & 1 \\
-Vendor Lock Industrialization & 0 & 1 & 0 & 1 \\
-Vendor Lock Regulations & 0 & 1 & 0 & 1 \\
-Open Core Model & 0 & 1 & 0 & 1 \\
-Vendor Lock Business Model & 0 & 0 & 1 & 1 \\
-Vendor Lock Regulatory Framework & 0 & 1 & 0 & 1 \\
 Vendor Lock Eu Based & 1 & 0 & 0 & 1 \\
-Vendor Lock Reduction & 1 & 0 & 0 & 1 \\
-Open Source Alternative & 1 & 0 & 0 & 1 \\
-Reinventing Wheel & 0 & 1 & 0 & 1 \\
-Interoperability Requirement & 1 & 0 & 0 & 1 \\
-Vendor Lock Investment & 0 & 1 & 0 & 1 \\
-Vendor Lock Innovation & 0 & 1 & 0 & 1 \\
-Open Source Preferred & 1 & 0 & 0 & 1 \\
+Vendor Lock Infrastructure Diversity & 1 & 0 & 0 & 1 \\
+Vendor Lock Industrialization & 0 & 1 & 0 & 1 \\
 Public Funding Eu Open Source & 1 & 0 & 0 & 1 \\
-Vendor Lock Restrictions & 0 & 1 & 0 & 1 \\
-Vendor Lock Global Open Source & 1 & 0 & 0 & 1 \\
-Patent Reform & 0 & 1 & 0 & 1 \\
-Proprietary Software Allowed & 0 & 1 & 0 & 1 \\
 Reduced Electronic Waste & 1 & 0 & 0 & 1 \\
+Open Source Business Model & 1 & 0 & 0 & 1 \\
+Vendor Lock Regulatory Framework & 0 & 1 & 0 & 1 \\
+Proprietary Software Allowed & 0 & 1 & 0 & 1 \\
+Vendor Lock Innovation & 0 & 1 & 0 & 1 \\
+Vendor Lock Investment & 0 & 1 & 0 & 1 \\
+Interoperability Requirement & 1 & 0 & 0 & 1 \\
+Open Source Advocacy & 1 & 0 & 0 & 1 \\
+Open Core Model & 0 & 1 & 0 & 1 \\
+Open Source Preferred & 1 & 0 & 0 & 1 \\
+Vendor Lock Mitigation & 0 & 0 & 1 & 1 \\
+Vendor Lock Neutral & 0 & 0 & 1 & 1 \\
+Reinventing Wheel & 0 & 1 & 0 & 1 \\
+Vendor Lock Business Model & 0 & 0 & 1 & 1 \\
+Vendor Lock Us Based & 0 & 1 & 0 & 1 \\
+Healthy Competition & 1 & 0 & 0 & 1 \\
+Vendor Lock In Commercial Products Eu Alternatives & 1 & 0 & 0 & 1 \\
+Vendor Lock Regulations & 0 & 1 & 0 & 1 \\
+Vendor Lock Removal & 0 & 1 & 0 & 1 \\
+Open Source Alternative & 1 & 0 & 0 & 1 \\
+Vendor Lock Reduction & 1 & 0 & 0 & 1 \\
+Vendor Lock Global Open Source & 1 & 0 & 0 & 1 \\
+Hardware Support & 1 & 0 & 0 & 1 \\
+Vendor Lock Restrictions & 0 & 1 & 0 & 1 \\
+Patent Reform & 0 & 1 & 0 & 1 \\
 \end{longtable}
 
 ### Detailed Position Analysis
